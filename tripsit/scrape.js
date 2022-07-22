@@ -16,23 +16,11 @@ async function scrapeSubstances(url) {
 }
 
 async function getSubstancesFromPage(page) {
-    const substancesOnPage = []
-    for (i = 1; i < 31; i++) {
-        try {
-            let substance = {};
-            const nameElement = await page.waitForSelector("#DataTables_Table_0 > tbody > tr:nth-child(" + i + ") > td.ttext.all.sorting_1 > a", {timeout: 5000})
-            const name = await page.evaluate(element => element.textContent, nameElement)
-            substance['name'] = name.trim()
-            const summaryElement = await page.waitForSelector("#DataTables_Table_0 > tbody > tr:nth-child(" + i + ") > td.ttext.desktop", {timeout: 5000})
-            const summary = await page.evaluate(element => element.textContent, summaryElement)
-            substance['summary'] = summary
-            substancesOnPage[i - 1] = substance
-        } catch (e) {
-            break
-        }
-
-    }
-    return substancesOnPage
+    return await page.evaluate(() => {
+        let rows = Array.from(document.querySelectorAll("#DataTables_Table_0 > tbody > tr"));
+        const substances = rows.map(row => row.querySelector("td.ttext.all.sorting_1 > a").textContent.trim())
+        return substances;
+    });
 }
 
 function saveInFile(substances) {
