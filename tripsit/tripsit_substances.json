@@ -1,1652 +1,2202 @@
 [
   {
-    "name": "1,4-Butanediol"
+    "name": "1,4-Butanediol",
+    "summary": "1,4-BD is a clear liquid with intoxicating effects. It is a pro-drug for GHB, and has similar though reportedly inferior effects. It also carries the potential for more health risks than GHB, such as liver toxicity."
   },
   {
-    "name": "1B-LSD"
+    "name": "1B-LSD",
+    "summary": "1B-LSD (1-butanoyl-lysergic acid diethylamide) is an LSD analogue which appears to be about as potent as 1P-LSD (slightly more potent than LSD) and has a slightly shorter duration than that of LSD, again thought to be about the same as 1P-LSD. Released in late 2018, and marketed agressively as a replacement for 1P-LSD. 1B-LSD does not yet have a clearly established safety profile,"
   },
   {
-    "name": "1CP-LSD"
+    "name": "1CP-LSD",
+    "summary": "1cP-LSD (1-cyclopropionyl-lysergic acid diethylamide) is a novel lysergamide with little to no history of use. It is said to be a less pushy and shorter lasting version of LSD. Described as having a more gradual onset than 1P-LSD, with a less visual more meditative headspace when compared with LSD.*NOTE: This is a very new research chemical - take all info with a grain of salt.*"
   },
   {
-    "name": "1P-ETH-LAD"
+    "name": "1P-ETH-LAD",
+    "summary": "A new psychedelic lysergamide which is suspected to be a prodrug of ETH-LAD, which could explain why the doses are very similar. Or it could be active on its own. Scientific studies would need to be written to understand, yet there are none."
   },
   {
-    "name": "1P-LSD"
+    "name": "1P-LSD",
+    "summary": "An LSD analogue which appears to be slightly more potent with a shorter duration. Its effects are reported to be extremely similar to LSD, and thus far seems to be similarly safe. Released in late 2014, It has quickly become a highly popular research chemical due to its implicit legality, similarity to LSD and wide availability on the Internet."
   },
   {
-    "name": "2-AI"
+    "name": "2-AI",
+    "summary": "Short acting stimulant that is sometimes compared to the likes of Methamphetamine. It is a rigid analogue of Amphetamine, and also partially substitutes for the prior in rat discrimination studies. "
   },
   {
-    "name": "2-Chloroephenidine"
+    "name": "2-Chloroephenidine",
+    "summary": "Analogue of Ephenidine. Very little is known about this quite obscure compound. Very likely to exhibit dissociative effects, and is slightly less potent than the parent drug Ephenidine."
   },
   {
-    "name": "2-DPMP"
+    "name": "2-DPMP",
+    "summary": "A very potent stimulant that is a NDRI. Developed by Novartis in the 1950s, to treat narcolepsy and ADHD, however dropped when Methylphenidate was produced a few years later, which was seen as superior due to its shorter T½. 2-DPMP Half life 16-20 hours. Warning: subjective reports suggest this drug is caustic to the nasal mucosa and may cause damage to the nasal cavity."
   },
   {
-    "name": "2-FA"
+    "name": "2-FA",
+    "summary": "Stimulant drug of the amphetamine family. Reported as having effects similar to those of Dextroamphetamine, but with a milder euphoria and a comparatively smoother comedown. Has a shorter duration and less empathogenic effect-profile as compared with 4-FA. Thought to produce less neurotoxic metabolites compared to amphetamine."
   },
   {
-    "name": "2-FDCK"
+    "name": "2-FDCK",
+    "summary": "Dissociative anesthetic of the arylcyclohexylamine class. Seemingly on par with ketamine in dosage. Longer onset than the prior."
   },
   {
-    "name": "2-FEA"
+    "name": "2-FEA",
+    "summary": "Stimulant closely related to 2-FMA. Presumably slightly less potent than the prior. Toxicology and the likes are pretty much completely unknown. Tread with caution."
   },
   {
-    "name": "2-FMA"
+    "name": "2-FMA",
+    "summary": "A long-acting stimulant often compared to lisdexamphetamine. Thought to lack some of amphetamine's neurotoxic metabolites. Very functional, and for this reason it is commonly used for studying."
   },
   {
-    "name": "2-MA"
+    "name": "2-MA",
+    "summary": "Also known as Ortetamine, this rarely seen amphetamine is approximately 1/10th as potent as dextroamphetamine. Little information exists regarding its safety or effects."
   },
   {
-    "name": "2-Me-DMT"
+    "name": "2-Me-DMT",
+    "summary": "Also known as 2,N,N-TMT, this drug was first synthesised by Alexander Shulgin. Described as a very mild psychedelic of similar subjective effects to other tryptamines. Reported as having an unusual and unpredictable dose curve, it is recommended to start low with this drug."
   },
   {
-    "name": "2-MEC"
+    "name": "2-MEC",
+    "summary": "Cathinone which some users report to feel like a weaker MDMA with a shorter onset."
   },
   {
-    "name": "2-methyl-2-butanol"
+    "name": "2-methyl-2-butanol",
+    "summary": "A tertiary alcohol that has sedative, hypnotic, and anxiolytic effects. It is also roughly 20x more potent than Ethanol by weight."
   },
   {
-    "name": "2-MMC"
+    "name": "2-MMC",
+    "summary": "A cathinone, yet the effects are noted more of the likes of 2-FA or amphetamine. Which apparently left people dissapointed."
   },
   {
-    "name": "2-MPPP"
+    "name": "2-MPPP",
+    "summary": "A novel stimulant that is similar to methcathinone."
   },
   {
-    "name": "2-NMC"
+    "name": "2-NMC",
+    "summary": "Inactive."
   },
   {
-    "name": "2-PA"
+    "name": "2-PA",
+    "summary": "Amphetamine with the alpha-methyl replaced by ketone. Very few reports. Also no information on the safety of this compound. As always treat with caution."
   },
   {
-    "name": "2-PTA"
+    "name": "2-PTA",
+    "summary": "4-Methylamphetamine with the alpha-methyl replaced by ketone. Very few reports. Also no information of the safety of this compound. As always treat with caution."
   },
   {
-    "name": "25B-NBOH"
+    "name": "25B-NBOH",
+    "summary": "A phenethylamine psychedelic  and stimulant derivative of 2C-B, this compound is related to and has similar effects to 25b-NBOMe. It is significantly more potent than 2C-B  but less potent than 25B-NBOMe. Overdoses of NBOH compounds may cause  dangerous vasoconstriction. May induce uncomfortable body load."
   },
   {
-    "name": "25B-NBOMe"
+    "name": "25B-NBOMe",
+    "summary": "Psychedelic Phenethylamine, active in the lower microgram range, that is not active orally."
   },
   {
-    "name": "25C-NBOH"
+    "name": "25C-NBOH",
+    "summary": "A phenethylamine psychedelic and stimulant derivative of 2C-C, this compound is related and has  similar effects to 25c-NBOMe. It is significantly more potent than 2C-C but less potent than 25c-NBOMe. Overdoses of NBOH compounds may cause dangerous vasoconstriction. May induce uncomfortable body load."
   },
   {
-    "name": "25C-NBOMe"
+    "name": "25C-NBOMe",
+    "summary": "A relatively new and popular research chemical. A short acting psychedelic related to 2C-C with similar effects to LSD, though more visual with less of a 'head-trip.' Frequently mis-sold as LSD. Causes an uncomfortable body load and has caused several deaths even within regular dose ranges."
   },
   {
-    "name": "25D-NBOMe"
+    "name": "25D-NBOMe",
+    "summary": "Uncommon analogue of 2C-D. Extremely potent psychedelic with stimulating qualities. Could cause dangerous vasoconstriction at high doses. May induce uncomfortable body load."
   },
   {
-    "name": "25E-NBOMe"
+    "name": "25E-NBOMe",
+    "summary": "A potent psychedelic phenethylamine and derivative of 2C-E, usually sold on blotters. May be mis-sold as LSD. Effects include vivid hallucinations, stimulation, heavy body load and vasoconstriction. At high doses vasoconstriction can endanger life, exercise caution."
   },
   {
-    "name": "25G-NBOMe"
+    "name": "25G-NBOMe",
+    "summary": "A rare psychedelic stimulant and bomamine. A derivative of 2C-G, but far more potent. Likely to have hallucinogenic, stimulant and vasoconstrictive  properties which may be dangerous at high doses. A heavy body load is to  be expected."
   },
   {
-    "name": "25H-NBOMe"
+    "name": "25H-NBOMe",
+    "summary": "A rare psychedelic stimulant and bomamine. A derivative of 2C-H, but many times more potent. Likely to have hallucinogenic, stimulant and vasoconstrictive properties which may be dangerous at high doses. A heavy body load is to be expected."
   },
   {
-    "name": "25I-NBF"
+    "name": "25I-NBF",
+    "summary": "Is a derivate of the psychedelic 2C-I. Was sold breifly in a few countries before being banned. Based purely on the pharmacological evidence it'll be between 6-8x less potent than it's parent compound 25I-NBOMe."
   },
   {
-    "name": "25I-NBMD"
+    "name": "25I-NBMD",
+    "summary": "A psychedelic phenethylamine that is related to the 25X-NBOMe series which in turn makes it related to the 2C-X series. Quite potent substance."
   },
   {
-    "name": "25I-NBOH"
+    "name": "25I-NBOH",
+    "summary": "A phenethylamine psychedelic and stimulant derivative of 2C-I, this compound is related and has similar effects to 25i-NBOMe. It is significantly more potent than 2C-I but less potent than 25i-NBOMe. Overdoses of NBOH compounds may cause dangerous vasoconstriction. May induce uncomfortable body load."
   },
   {
-    "name": "25I-NBOMe"
+    "name": "25I-NBOMe",
+    "summary": "A relatively new and popular research chemical with psychedelic properties. Users report an uncomfortable body load with very strong visuals, though with less of a mental aspect than most psychedelics. Commonly mis-sold as LSD, since it is much cheaper to produce. Is considered quite unsafe, and has caused several deaths at 'regular' doses."
   },
   {
-    "name": "25iP-NBOMe"
+    "name": "25iP-NBOMe",
+    "summary": "Almost unheard-of bomamine analogue of 2C-iP. Extremely potent psychedelic with stimulating qualities. May cause potentially dangerous vasoconstriction at high doses. May induce uncomfortable body load."
   },
   {
-    "name": "25N-NBOMe"
+    "name": "25N-NBOMe",
+    "summary": "A rare, highly potent and yellow psychedelic phenethylamine and derivative of 2C-N. Effects are similar to other NBOMe compounds, with hallucinations, intense body load, stimulation and vasoconstriction. At high doses vasoconstriction can be dangerous, exercise caution."
   },
   {
-    "name": "25P-NBOMe"
+    "name": "25P-NBOMe",
+    "summary": "A rare potent psychedelic drug with similar effects and risks to others in the NBOMe class. Yet no trip reports... when the substance was first sold in mid-late 2012, and resurfaced in early 2015."
   },
   {
-    "name": "25T-2-NBOMe"
+    "name": "25T-2-NBOMe",
+    "summary": "A potent serotonin receptor agonist at the 5-HT2a receptor that is of the NBOMe drug class. It is a hallucinogenic and psychedelic with limited recorded human use."
   },
   {
-    "name": "25T-4-NBOMe"
+    "name": "25T-4-NBOMe",
+    "summary": "A psychedelic RC of the NBOMe class of drugs that is expected to cause hallucinations. Limited human use has been recorded on this drug and caution should be used with dosing."
   },
   {
-    "name": "2C-B"
+    "name": "2C-B",
+    "summary": "A popular psychedelic in the phenethylamine family. Provides empathic experiences at lower doses and strong visual and psychedelic experiences at higher doses. Commonly used as a party drug as it is more clear-headed than most psychedelics. 2C-B has been in use since the early 1990s"
   },
   {
-    "name": "2C-B-AN"
+    "name": "2C-B-AN",
+    "summary": "2C-B-AN is a novel prodrug for 2C-B."
   },
   {
-    "name": "2C-B-FLY"
+    "name": "2C-B-FLY",
+    "summary": "Psychedelic phenethylamine that is the dihydrodifuran analog of 2C-B."
   },
   {
-    "name": "2C-B-FLY-NBOMe"
+    "name": "2C-B-FLY-NBOMe",
+    "summary": ""
   },
   {
-    "name": "2C-C"
+    "name": "2C-C",
+    "summary": "A short-acting psychedelic research chemical of the 2c-x family. Often described as being less stimulating than the other 2c-x, and is a relatively unique psychedelic in this respect."
   },
   {
-    "name": "2C-D"
+    "name": "2C-D",
+    "summary": "A fairly generic psychedelic famed for being usable as \"psychedelic tofu\". Little character of its own but pleasant in combinations."
   },
   {
-    "name": "2C-E"
+    "name": "2C-E",
+    "summary": "An intense psychedelic drug with very strong visuals, sometimes criticised for its relatively uncomfortable body load. Otherwise, effects are comparable to other 2c-x drugs."
   },
   {
-    "name": "2C-G"
+    "name": "2C-G",
+    "summary": "Extremely rare drug of the 2C-X family. An extremely long lasting substance. Is nearly as potent as its amphetamine counter-part, Ganesha. Yet is said to have very little visual activity."
   },
   {
-    "name": "2C-I"
+    "name": "2C-I",
+    "summary": "A psychedelic similar to the more well-known 2C-B. Users frequently report very vivid and bright open-eye visuals and more mild closed-eye visuals compared to 2C-B and other drugs in the 2C family. Can also be more stimulating than 2C-B along with having a slight body load for some users. Less safe at high doses compared to 2C-B"
   },
   {
-    "name": "2C-IP"
+    "name": "2C-IP",
+    "summary": "Isopropyl analog (branched analog) of 2C-P with a slightly shorter duration and lower potency."
   },
   {
-    "name": "2C-N"
+    "name": "2C-N",
+    "summary": "A relatively uncommon and short-acting psychedelic phenethylamine of the 2C-x family. It behaves much like other 2C-x drugs, but is unique in that it is a yellowish golden-coloured salt. Described by some, namely Shulgin, as being quite underwhelming."
   },
   {
-    "name": "2C-P"
+    "name": "2C-P",
+    "summary": "A synthetic phenylethlyamine that is sometimes compared in effects to 2C-E, yet with a much longer duration. With a much more pronouced bodyload. Is one of the most potent of the 2C-X series."
   },
   {
-    "name": "2C-T"
+    "name": "2C-T",
+    "summary": "A very rare psychedelic phenylethylamine, that is quite lovely."
   },
   {
-    "name": "2C-T-2"
+    "name": "2C-T-2",
+    "summary": "An unusual psychedelic with similar effects to 2C-B and a slightly longer duration, but maligned because of some deaths in the 2000s. Also similar to 2c-t-7, but with a shorter duration. Potentially unsafe with stimulants and empathogens."
   },
   {
-    "name": "2C-T-21"
+    "name": "2C-T-21",
+    "summary": "A rare psychedelic phenethylamine."
   },
   {
-    "name": "2C-T-4"
+    "name": "2C-T-4",
+    "summary": "A psychedelic phenethylamine that has a longer onset and duration compared to the more common 2C-T-x (2 and 7)."
   },
   {
-    "name": "2C-T-7"
+    "name": "2C-T-7",
+    "summary": "A relatively uncommon psychedelic phenethylamine and possible MAOI. Long lasting, an possesses an unpredictable dosage curve. Questionable safety in combination with most things."
   },
   {
-    "name": "3,4-CTMP"
+    "name": "3,4-CTMP",
+    "summary": "A strong stimulant, NDRI and analogue of methylphenidate. Has increased in popularity in recent years. Said to be seven times more potent than methylphenidate but with a slower onset, however discrimination studies have found it to be more addictive than cocaine."
   },
   {
-    "name": "3,6-DMPM"
+    "name": "3,6-DMPM",
+    "summary": "Stimulant that is related to Phenmetrazine. Nearly no information on dose or effects."
   },
   {
-    "name": "3-CMC"
+    "name": "3-CMC",
+    "summary": "A rarely seen halogenated cathinone drug. Likely to be a stimulant, possibly an entactogen. (Note: The amphetamine analogue of this drug, 4-CA, is a highly dangerous neurotoxin, no data about the safety of this one, but should likely be avoided)"
   },
   {
-    "name": "3-FA"
+    "name": "3-FA",
+    "summary": "A stimulant that is close to equipotent with methamphetamine and acts as a monoamine releasing agent , but has more selectivity for dopamine/noradrenaline over serotonin."
   },
   {
-    "name": "3-FEA"
+    "name": "3-FEA",
+    "summary": "A novel fluorinated amphetamine with serotonergic properties. Effects are similar to 4-FA, in that it provides slight dopamine and norepinephrine release or reuptake inhibition, as well as serotonin release and reuptake inhibition. Effects on the serotonin side are more pronounced than dopamine and norepinephrine, the latter two being almost negligibly."
   },
   {
-    "name": "3-FMA"
+    "name": "3-FMA",
+    "summary": "Stimulant drug in the amphetamine family"
   },
   {
-    "name": "3-FMC"
+    "name": "3-FMC",
+    "summary": "A stimulant drug related to mephedrone. A member of the cathinone class, it is also an amphetamine. Effects similar to other drugs of its class, may possess high addiction potential. May be a monoamine releaser, reuptake inhibitor or both."
   },
   {
-    "name": "3-FPM"
+    "name": "3-FPM",
+    "summary": "A functional stimulant related to phenmetrazine. Effects similar to amphetamine, but longer and more focused. Observed as being relatively benign in low doses, but seems to cause worrying health effects for heavy users. Pain from insufflation is eye-wateringly intense, but short."
   },
   {
-    "name": "3-HO-PCE"
+    "name": "3-HO-PCE",
+    "summary": "A rare and very potent PCP analogue, eight times more potent than PCP as NMDA receptor antagonist and also a μ-opioid receptor agonist. Similar in structure to methoxetamine."
   },
   {
-    "name": "3-HO-PCP"
+    "name": "3-HO-PCP",
+    "summary": "An arylcyclohexamine dissociative analogue of PCP, this drug is relatively uncommon, and little information is available. It is reported to not only have dissociative activity but also be an opioid. Some trip reports suggest very negative side-effects including intense muscle tension."
   },
   {
-    "name": "3-MEC"
+    "name": "3-MEC",
+    "summary": "Another cathinone based stimulant, that is weaker than 4-MEC. Very few reports since it is quite unpopular."
   },
   {
-    "name": "3-MeO-PCE"
+    "name": "3-MeO-PCE",
+    "summary": "3-MeO-PCP with a change of a ring replacement. Slightly more potent than 3-MeO-PCP."
   },
   {
-    "name": "3-MeO-PCMO"
+    "name": "3-MeO-PCMO",
+    "summary": "A less common dissociative anaesthetic compound related to PCP. An analogue of 3-meo-pcp, but far less potent. Possibly an antitussive and antidepressant. Very little history of human use or pharmacological information."
   },
   {
-    "name": "3-MeO-PCP"
+    "name": "3-MeO-PCP",
+    "summary": "A potent dissociative often compared to MXE but with a longer duration, much less sedating effects and causing an overall different experience. Users have reported effects as being similar to PCP. Roughtly ten times more potent than 4-MeO-PCP."
   },
   {
-    "name": "3-MeO-PCPR"
+    "name": "3-MeO-PCPR",
+    "summary": "This is the N-Propyl homologue of 3-MeO-PCE. It is slightly less potent than PCP. Yet seems slightly less manic inducing."
   },
   {
-    "name": "3-MeO-PCPY"
+    "name": "3-MeO-PCPY",
+    "summary": "3-Methoxy analogue of Rolicyclidine (PCPy) less opioid effects than Phenylcyclidine (PCP) Yet still prominent."
   },
   {
-    "name": "3-MeOMC"
+    "name": "3-MeOMC",
+    "summary": "A cathinone that has a short history of human use."
   },
   {
-    "name": "3-MMC"
+    "name": "3-MMC",
+    "summary": "A euphoric stimulant similar to mephedrone but said to lack much of the \"magic.\" Never gained the same popularity. Slightly less potent."
   },
   {
-    "name": "3-OH-PHENAZEPAM"
+    "name": "3-OH-PHENAZEPAM",
+    "summary": "The 3-OH analogue of Phenazepam, which cuts the half life down quite a bit. Psychoactive effects are mostly lead by its metabolites, rather than the drug itself."
   },
   {
-    "name": "3C-E"
+    "name": "3C-E",
+    "summary": "Three-Carbon Analog of Escaline. Substituted Amphetamine."
   },
   {
-    "name": "3C-P"
+    "name": "3C-P",
+    "summary": "Rather new and uncommon stimulant, psychedelic and amphetamine with properties similar to the 2Cx class of drugs. 3-carbon homologue of proscaline."
   },
   {
-    "name": "4,4-DMAR"
+    "name": "4,4-DMAR",
+    "summary": "Very closely related stimulant to Aminorex and Pemoline. Was sold as a designer drug for quite awhile under the brand name \"Serotoni\" has been linked to at least 31 deaths. It is a potent SNDRA."
   },
   {
-    "name": "4-AcO-DALT"
+    "name": "4-AcO-DALT",
+    "summary": "An uncommon tryptamine derivative first reported in the mid 2000s, likely a psychedelic. Little is known about the pharmacology or effects of this compound."
   },
   {
-    "name": "4-AcO-DET"
+    "name": "4-AcO-DET",
+    "summary": "Rare drug that is of the tryptamine family, can be comparable to Psilocybin. Expected to quickly hydrolyzed into the free phenolic 4-HO-DET."
   },
   {
-    "name": "4-AcO-DiPT"
+    "name": "4-AcO-DiPT",
+    "summary": "An uncommon psychedelic tryptamine with a short history of human use, also known as Ipracetin. Possibly first synthesised by Alexander Shulgin. Some reports of heavy nausea, with effects comparable to 2c-b and mushrooms."
   },
   {
-    "name": "4-AcO-DMT"
+    "name": "4-AcO-DMT",
+    "summary": "A prodrug for Psilocin with extremely similar effects as Mushrooms."
   },
   {
-    "name": "4-AcO-DPT"
+    "name": "4-AcO-DPT",
+    "summary": "Research chemical of the Tryptamine class. First noted being sold in 2012, yet never recieved much attention. Conflicting reports. Doesn't dissolve well at all in nearly all solutions it was tested in."
   },
   {
-    "name": "4-AcO-MET"
+    "name": "4-AcO-MET",
+    "summary": "A rare psychedelic tryptamine which is thought to be metabolised into 4-HO-MET. Onset and duration, intensity will vary but effect profile is largely the same."
   },
   {
-    "name": "4-AcO-MiPT"
+    "name": "4-AcO-MiPT",
+    "summary": "A quite potent tryptamine that has be related to having \"shroom-like\" visuals. Yet without much bodyload. Very hydroscopic. Seems to be quite safe in dosing. Similar to the likes of 2C-B."
   },
   {
-    "name": "4-Benzylpiperidine"
+    "name": "4-Benzylpiperidine",
+    "summary": "A dopamine releasing agent with weak serotonin releasing properties. Little evidence of human use. Potentially dangerous in overdose given MAOI + monoamine releasing properties."
   },
   {
-    "name": "4-CBC"
+    "name": "4-CBC",
+    "summary": "Is a potentially very neurotoxic Cathinone. Obviously no scientic reports have been noted on the neurotoxicity or cardiotoxicity, so please move on with extreme caution."
   },
   {
-    "name": "4-CHLORODIAZEPAM"
+    "name": "4-CHLORODIAZEPAM",
+    "summary": "A benzodiazepine derivative of Diazepam, yet lacks affinity for GABA(a) receptors, yet is still a sedative, that has pro-convulsant effects. Yet at lower doses it has been proven to be neuroprotective."
   },
   {
-    "name": "4-CIC"
+    "name": "4-CIC",
+    "summary": "Inactive."
   },
   {
-    "name": "4-CMA"
+    "name": "4-CMA",
+    "summary": "The stimulant that is the N-Methyl Derivative and prodrug of the neurotoxic para-Chloroamphetamine."
   },
   {
-    "name": "4-CMC"
+    "name": "4-CMC",
+    "summary": "(Note this work is going off just a few users inputs, so take all of this with a grain of salt) The cathinone analogue of 4-CMA which is highly neurotoxic. It is not known if the cathinone family holds the same neurotoxicity problem as with the parent compound."
   },
   {
-    "name": "4-EMC"
+    "name": "4-EMC",
+    "summary": "A stimulant that is a structural isomer of 4-MEC."
   },
   {
-    "name": "4-EPD"
+    "name": "4-EPD",
+    "summary": "An obscure analogue of Pentedrone, which means very little information on this chemical. It is likely is shares the same general effects of the other Pentedrone family."
   },
   {
-    "name": "4-FA"
+    "name": "4-FA",
+    "summary": "An empathogen commonly used in place of MDMA, having a similar duration of empathogenic effects. This drug, however, has a longer stimulant \"tail,\" during which effects are more like those of amphetamines. Not to be confused with 4-FMA, which has a similar potency, but is not particularly empathogenic."
   },
   {
-    "name": "4-FEA"
+    "name": "4-FEA",
+    "summary": "Stimulant that is the ethyl analogue of 4-FMA."
   },
   {
-    "name": "4-Fluorobutyrfentanyl"
+    "name": "4-Fluorobutyrfentanyl",
+    "summary": "Rare, little known and extremely potent RC analogue of Fentanyl. This powerful opioid is generally only dispensed as a nasal spray. Handle with extreme caution and never mix with other depressants."
   },
   {
-    "name": "4-Fluoroethylphenidate"
+    "name": "4-Fluoroethylphenidate",
+    "summary": "A more potent and longer lasting analogue of Ethylphenidate."
   },
   {
-    "name": "4-Fluoromethylphenidate"
+    "name": "4-Fluoromethylphenidate",
+    "summary": "A relatively uncommon, more serotonergic RC derivative of methylphenidate. A dopamine reuptake inhibitor possessing similar effects to associated stimulant compounds."
   },
   {
-    "name": "4-Fluoropentedrone"
+    "name": "4-Fluoropentedrone",
+    "summary": "An obscure analogue of pentedrone, little information exists about this cathinone. It is likely that it has the same general effects as pentedrone, mephedrone and other related stimulants."
   },
   {
-    "name": "4-FMA"
+    "name": "4-FMA",
+    "summary": "A stimulant with some empathogenic properties, and analogue of Methamphetamine with similar effects. Reported to be less effective than 2-FMA and related compounds. Little is known about the pharmacological effects of this compound. Not to be confused with 4-FA, which has a different effect profile, despite similar potency."
   },
   {
-    "name": "4-FMC"
+    "name": "4-FMC",
+    "summary": "A cathinone stimulant also known as flephedrone, appeared in 2008 marketed as a mephedrone replacement. With some mild empathogenic effects, it failed to achieve widespread popularity."
   },
   {
-    "name": "4-FPM"
+    "name": "4-FPM",
+    "summary": "Seems to be a substance, that was just made to get money. High doses needed to feel any effects. Would avoid."
   },
   {
-    "name": "4-FPP"
+    "name": "4-FPP",
+    "summary": "A piperazine derivative that has been reported to have mild pyschedelic effects, and also empathogen qualities. It has been sold in many branded legal highs."
   },
   {
-    "name": "4-HO-DET"
+    "name": "4-HO-DET",
+    "summary": "A rare compound first produced by Albert Hoffman, also known as ethocin. Structurally related to 4-HO-MET (metocin) and psilocin (4-HO-DMT), this drug has similar psychedelic effects but little recorded human usage. Probably similar to mushrooms. Potentially stimulating."
   },
   {
-    "name": "4-HO-DiPT"
+    "name": "4-HO-DiPT",
+    "summary": "A psychedelic tryptamine also known as iprocin. A homologue of psilocin, this drug likely has similar effects to psychedelic mushrooms. Said to have a rapid onset and relatively short duration for a drug of its class."
   },
   {
-    "name": "4-HO-DPT"
+    "name": "4-HO-DPT",
+    "summary": "A psychedelic hallucinogenic first synthesized by alexander shulgin. At light doses it causes enhanced cognition and appreciation for things like art and music while high doses cause visuals. The drug is known to cause a bodyload."
   },
   {
-    "name": "4-HO-EPT"
+    "name": "4-HO-EPT",
+    "summary": "The 4-Hydroxy version of EPT. Slightly more potent than the prior."
   },
   {
-    "name": "4-HO-MCPT"
+    "name": "4-HO-MCPT",
+    "summary": "Novel synthetic tryptamine that is the cyclopropyl homologue of Psilocin. Not much is known about anything."
   },
   {
-    "name": "4-HO-MET"
+    "name": "4-HO-MET",
+    "summary": "A lesser known psychedelic tryptamine. Functional analogue of Psilocin. Very poorly soluble in water and alcohol."
   },
   {
-    "name": "4-HO-MiPT"
+    "name": "4-HO-MiPT",
+    "summary": "A reasonably popular tryptamine deriviative and Psilocin analogue, first synthesised by Alexander Shulgin. It has been reported as having comparable effects to psychedelic mushrooms, though with a shorter duration."
   },
   {
-    "name": "4-HO-MPMI"
+    "name": "4-HO-MPMI",
+    "summary": "A rare tryptamine derivative first synthesised by David Nichols. This drug, also known as lucigenol, has rarely been documented outside the lab. It is known to be a psychedelic similar to other psychoactive tryptamines, with a potency similar to DOI, but little else is known."
   },
   {
-    "name": "4-HO-MPT"
+    "name": "4-HO-MPT",
+    "summary": "Psychedelic drug of the tryptamine class. Higher homologue of Psilocin, and is the 4-hydroxy analogue of N-Methyl-N-Propyltryptamine."
   },
   {
-    "name": "4-MEC"
+    "name": "4-MEC",
+    "summary": "A substituted cathinone stimulant; little is known about its safety or subjective effects. It is believed to have similar effects to mephedrone, but with a lower potency and a stronger stimulating character."
   },
   {
-    "name": "4-MeO-Butyrfentanyl"
+    "name": "4-MeO-Butyrfentanyl",
+    "summary": "Rare and basically unknown opioid and fentanyl analogue (not to be confused with Butyrfentanyl). Virtually no reliable information exists, safe dosages are unknown. Exercise extreme caution. Overdose may result in respiratory depression. Do not mix with stimulants or depressants."
   },
   {
-    "name": "4-MeO-MiPT"
+    "name": "4-MeO-MiPT",
+    "summary": "A rare psychedelic tryptamine first synthesised by Alexander Shulgin, said to the be \"little brother\" of 5-MeO-MiPT. Said to be relatively mild with lighter visual effects than most tryptamines."
   },
   {
-    "name": "4-MeO-PCP"
+    "name": "4-MeO-PCP",
+    "summary": "An arylcyclohexamine dissociative anaesthetic related to PCP. First discovered in the 1960s by Parke-Davis, it was introduced to the RC market in 2008. Reported to be less potent than PCP. It is not commonly seen, but has seen some increase in popularity with the inavailability of other dissociatives."
   },
   {
-    "name": "4-METHYLAMINOREX"
+    "name": "4-METHYLAMINOREX",
+    "summary": "A very potent stimulant that has quite a long duration of action at around 16 hours."
   },
   {
-    "name": "4-Methylmethylphenidate"
+    "name": "4-Methylmethylphenidate",
+    "summary": "A stimulant drug related to methylphenidate and also known as 4-Me-TMP, it has demonstrated lower dopamine reuptake inhibition properties and is potentially less potent. Has been subjectively described as very similar in feel to MPH."
   },
   {
-    "name": "4-MPD"
+    "name": "4-MPD",
+    "summary": "Stimulant of the cathinone class. Higher homologue of Mephedrone, and the p-Methyl analogue of Pentedrone."
   },
   {
-    "name": "4-MPM"
+    "name": "4-MPM",
+    "summary": "4-Methylphenmetrazine is an empathogen of the phenylmorpholine class that seems to have a very rapid tolerance build up."
   },
   {
-    "name": "4-MTA"
+    "name": "4-MTA",
+    "summary": "Empathogen with very low chronic toxicity but high risk of acute harm due to mixed serotonin release and MAOI action. Reported to lack euphoria and rarely sold since being scheduled."
   },
   {
-    "name": "4F-NEB"
+    "name": "4F-NEB",
+    "summary": "The 4-Fluoro analogue of N-Ethylbuphedrone (NEB) is a part of the cathinone class."
   },
   {
-    "name": "4F-PHP"
+    "name": "4F-PHP",
+    "summary": "4-Fluoro analogue of a-PHP, yet seems to have less mania attachted to it. Dose is near on par."
   },
   {
-    "name": "4F-PVP"
+    "name": "4F-PVP",
+    "summary": "Fluornated analogue of a-PVP. Seems to be slightly less weaker than it's parent compound."
   },
   {
-    "name": "5-APB"
+    "name": "5-APB",
+    "summary": "A triple monoamine reuptake inhibitor. This agonism for 5-HT2B makes it likely that 5-APB would be cardiotoxic with long term use, as seen in other 5-HT2B agonists such as fenfluramine and MDMA."
   },
   {
-    "name": "5-APDB"
+    "name": "5-APDB",
+    "summary": "An entactogenic amphetamine stimulant with similar structure and effects to MDMA. An analogue of MDA, it is a highly selective serotonin releaser but inhibits reuptake of serotonin (weakly), dopamine and norepinephrine."
   },
   {
-    "name": "5-APDI"
+    "name": "5-APDI",
+    "summary": "Also commonly known as IAP.  A selective serotonin releasing agent with psychedelic and empathogenic properties. Users have often reported issues with the drug causing overheating and unwelcome bowel movements."
   },
   {
-    "name": "5-BPDI"
+    "name": "5-BPDI",
+    "summary": "An analogue of a-PHP, which has been described as having an extremely similar effect profile, with some users noting that it may be slightly lighter and with less of an urge to redose. However, little record of the safety of human use exists."
   },
   {
-    "name": "5-Bromo-DMT"
+    "name": "5-Bromo-DMT",
+    "summary": "Psychedelic drug of the Trypyamine class, and is also found in two marine invertebrates. Animal studies have shown that this could be useful for sedative and/or antidepressant use."
   },
   {
-    "name": "5-DBFPV"
+    "name": "5-DBFPV",
+    "summary": "Stimulant of the cathinone class. Analogue of MDPV where the methylenedioxyphenyl group was replaced with a dihydrobenzofuran."
   },
   {
-    "name": "5-EAPB"
+    "name": "5-EAPB",
+    "summary": "A empathogen sold as a replacement to 5-MAPB after it was banned in the UK, but said to be less enjoyable and never gained much popularity."
   },
   {
-    "name": "5-HTP"
+    "name": "5-HTP",
+    "summary": "The precursor to serotonin. In some countries it is sold OTC as a supplement for mood stabilisation and insomnia. It is frequently used as a recovery supplement following the use of MDMA or any other drug that depletes serotonin. Do not mix this drug with anything serotonergic, as this can cause serotonin syndrome."
   },
   {
-    "name": "5-IAI"
+    "name": "5-IAI",
+    "summary": "A monoamine triple releaser first synthesised by David Nichols, possesses similar properties to MDMA. Probably neurotoxic in humans, however the extent of this is unclear."
   },
   {
-    "name": "5-IT"
+    "name": "5-IT",
+    "summary": "An empathogenic stimulant with a very long duration, prone to cause overheating and potentially quite dangerous. Related to αMT, though described as being less psychedelic and with much stronger stimulating effects."
   },
   {
-    "name": "5-MAPB"
+    "name": "5-MAPB",
+    "summary": "An empathogen structurally similar to MDMA. Typically more visual than MDMA. Often reported to be much less stimulating and more relaxing than most other stimulating empathogens. Less psychedelic than 6-APB. Much longer lasting than MDMA."
   },
   {
-    "name": "5-MAPDB"
+    "name": "5-MAPDB",
+    "summary": "An entactogenic drug with similar effects to MDMA, it is related to 5-MAPB. Likely to release serotonin and show neurotoxicity in the same way as MDMA"
   },
   {
-    "name": "5-MeO-DALT"
+    "name": "5-MeO-DALT",
+    "summary": "A strange drug with an unknown mechanism of action. Some psychedelic effects alongside some effects non-characteristic of psychedelics like appetite enhancement. Reported as having rapid, intense and short acting entheogenic effects."
   },
   {
-    "name": "5-MeO-DIBF"
+    "name": "5-MeO-DIBF",
+    "summary": "An uncommon and new psychedelic drug related to tryptamine; the Benzofuran analogue of 5-MeO-DiPT. Probably a serotonin receptor partial agonist. Little history of human use."
   },
   {
-    "name": "5-MeO-DiPT"
+    "name": "5-MeO-DiPT",
+    "summary": "5-methoxy-di isopropyl tryptamine, also known as 'foxy', a psychedelic tryptamine related to DMT, which distorts visual and audio perception. Reported to have a heavy body load at high doses, it behaves similarly to other drugs of its class."
   },
   {
-    "name": "5-MeO-DMT"
+    "name": "5-MeO-DMT",
+    "summary": "A powerful psychedelic tryptamine found in many species of plants and some toad venom, with a history of use by native South Americans spanning thousands of years. Has similar qualities to DMT and related tryptamines. Very potent. Orally active in combination with an MAOI."
   },
   {
-    "name": "5-MeO-DPT"
+    "name": "5-MeO-DPT",
+    "summary": "A rare tryptamine psychedelic and analogue of DPT. Little is known about this compound but it is likely to have effects similar to DPT, DMT and others related compounds."
   },
   {
-    "name": "5-MeO-EiPT"
+    "name": "5-MeO-EiPT",
+    "summary": "A little known and little studied tryptamine and analogue of EiPT, also related to DiPT and DET. Probably a psychedelic. Few reports of effects."
   },
   {
-    "name": "5-MeO-MALT"
+    "name": "5-MeO-MALT",
+    "summary": "A new and uncommon psychedelic tryptamine related to 5-MeO-DALT. Little is known about it, but its effects are probably similar to other psychedelic tryptamines."
   },
   {
-    "name": "5-MeO-MET"
+    "name": "5-MeO-MET",
+    "summary": "An obscure psychedelic drug similar in structure to 5-MeO-DMT. Possibly first synthesised by Alexander Shulgin. Likely to have similar effects to other tryptamine psychedelics."
   },
   {
-    "name": "5-MeO-MiPT"
+    "name": "5-MeO-MiPT",
+    "summary": "A potent, stimulating psychedelic tryptamine, sometimes compared to 5-MeO-DiPT.  Has an unusually strong body component and weak visual effects. Often said to be very empathogenic."
   },
   {
-    "name": "5-MeO-NIPT"
+    "name": "5-MeO-NIPT",
+    "summary": "A little known and little studied tryptamine and analogue of NiPT, also related to DiPT and DET. Psychedelic, that is generally regarded as not worth the time."
   },
   {
-    "name": "5-MeO-PYR-T"
+    "name": "5-MeO-PYR-T",
+    "summary": "A very odd acting tryptamine, that is very potent. With doses as low as 3mg vapourised causing complete blocks of memory loss."
   },
   {
-    "name": "5-MeO-αMT"
+    "name": "5-MeO-αMT",
+    "summary": "A long-acting psychedelic and entactogenic tryptamine, related to aMT. Very potent and may be sold on blotters. Possibly has been missold as LSD in the past, however this is uncommon. Possibly an MAOI."
   },
   {
-    "name": "5-Methylethylone"
+    "name": "5-Methylethylone",
+    "summary": "Also known as 5-methyl ethylone or 5-ME, this is a cathinone drug and analogue of ethylone. Little is known about this obscure compound but it is reasonable to assume it has an effect profile similar to other stimulants of the cathionone class, with a slightly higher potency than ethylone. Potentially entactogenic and a monoamine releasing agent."
   },
   {
-    "name": "5-PPDI"
+    "name": "5-PPDI",
+    "summary": "An obscure analogue of α-PBP, which is itself an analogue of α-PVP. This rare compound has little history of human usage. Some trip reports suggest it is inactive. If it is active it likely has a similar effect profile to other pyrovalerone stimulants."
   },
   {
-    "name": "5F-AKB48"
+    "name": "5F-AKB48",
+    "summary": "A synthetic cannabanoid that is a Indazole. Produces subjective effects somehwat similar to that of Cannabis, yet with a very short duration. Analogue of STS-135, in which the core indole structure is subbed with an indazole base."
   },
   {
-    "name": "5F-PB-22"
+    "name": "5F-PB-22",
+    "summary": "Synthetic cannabinoid, agonist of the cannabinoid receptors which has a strong sedating aspect. Being a synthetic cannabinoid it has a very fast onset."
   },
   {
-    "name": "6-APB"
+    "name": "6-APB",
+    "summary": "A stimulant, empathogen and analog of MDA. Typically more visual than MDMA or MDA, as well as having a much longer onset and duration. Users often report a slightly more psychedelic headspace as well. Commonly sold as an alternative to MDMA and MDA."
   },
   {
-    "name": "6-APDB"
+    "name": "6-APDB",
+    "summary": "A stimulant and entactogen related to MDMA and an analogue of MDA. Reported as being fairly psychedlic at higher doses. It is a triple monoamine reuptake inhibitor. Potent full agonist of serotonin 2B receptors."
   },
   {
-    "name": "6-EAPB"
+    "name": "6-EAPB",
+    "summary": "A rare entactogen benzofuran structurally related to MDMA and 6-APB, though weaker in effects. the pharmacology of this compound is unclear. Likely to be a monoamine releaser, monoamine reuptake inhibitor or both."
   },
   {
-    "name": "6-MAPB"
+    "name": "6-MAPB",
+    "summary": "Empathogen drug that is structurally related to 6-APB and MDMA."
   },
   {
-    "name": "6-MDDM"
+    "name": "6-MDDM",
+    "summary": "Semisynthetic opioid that is a derivative of Hydromorphone with little history of human use. Roughly around ~80x the potency of Morphine. Structurally related to Desomorphine."
   },
   {
-    "name": "A-PIHP"
+    "name": "A-PIHP",
+    "summary": "Quite new Pyrrolidine based stimulant of the cathinone class. Not very many reports. Probably has a very fast tolerance raise, and lack of effects over time."
   },
   {
-    "name": "AB-CHMINACA"
+    "name": "AB-CHMINACA",
+    "summary": "A synthetic cannabinoid related to AB-FUBINACA which has had some mild popularity. There have been reports of death in overdose, similar to AB-FUBINACA and it has a low threshold dose. Exercise caution."
   },
   {
-    "name": "AB-FUBINACA"
+    "name": "AB-FUBINACA",
+    "summary": "Arguably the most common synthetic cannabinoid, AB-FUBINACA was originally developed by Pfizer as an analgesic, but has since abandoned for medical use. It has since found a following in the RC community, however it's extremely high potency and inclusion in synthetic blends makes it dangerous, and it has killed in overdose. Exercise caution."
   },
   {
-    "name": "Acetildenafil"
+    "name": "Acetildenafil",
+    "summary": "An RC analogue of sildenafil (viagra) often missold as a hidden ingredient in many 'natural' sexual potency blends and supplements."
   },
   {
-    "name": "Acetylfentanyl"
+    "name": "Acetylfentanyl",
+    "summary": "Acetyl-Fentanyl is an opioid analgesic substance that is an analogue of Fentanyl. It's potency is roughly ~6.67 times that of Morphine. Making it ~15 times less potent than its parent compound Fentanyl."
   },
   {
-    "name": "Acrylfentanyl"
+    "name": "Acrylfentanyl",
+    "summary": "A rare opioid and fentanyl analogue (not to be confused with acetyl-fentanyl), this drug is a powerful and potent analgesic. Little reliable information exists, even for basic usage such as dosage. Exercise extreme caution. Overdose may result in respiratory depression. Do not mix with depressants or stimulants. Potentially neurotoxic and carcinogenic."
   },
   {
-    "name": "Adderall"
+    "name": "Adderall",
+    "summary": "A mixture of 75% dextroamphetamine and 25% levoamphetamine. Commonly used to treat obesity, narcolepsy and ADHD. It is also used widely either as a recreational stimulant or study-aid, particularly in the USA where it is frequently prescribed."
   },
   {
-    "name": "Adinazolam"
+    "name": "Adinazolam",
+    "summary": "Benzodiazepine derivative that has some antidepressant properties. Never FDA approved, yet however has been sold as a research chemical."
   },
   {
-    "name": "Adrafinil"
+    "name": "Adrafinil",
+    "summary": "A prodrug to modafinil, this compound is often used to increase wakefulness and alertness. Due to hepatic metabolism it has a slower onset than modafinil and may cause liver damage in excess. Some users have reported acne as an adverse effect. Unregulated in the US."
   },
   {
-    "name": "Afloqualone"
+    "name": "Afloqualone",
+    "summary": "A rare analogue of methaqualone, a sedative, intoxicating drug. Similar effects to benzodiazepines, barbiturates and alcohol. Never widely used due to photosensitivity and skin irritation issues, though it has seem some popularity in Japan."
   },
   {
-    "name": "AH-7921"
+    "name": "AH-7921",
+    "summary": "Opioid analgesic that is selective for the μ-opioid receptor. It has around 80% the potency of Morphine when taken orally."
   },
   {
-    "name": "AL-LAD"
+    "name": "AL-LAD",
+    "summary": "AL-LAD is a hallucinogenic drug, lysergamide and an analogue of LSD. It is reported as having some subtle experiential differences to LSD (such as increased visuals), and also appears to be slightly shorter lasting. AL-LAD doses are similar to those of LSD, depending on purity. Its availability on the Internet since 2013 has lead to strong popularity among the drug community."
   },
   {
-    "name": "Alcohol"
+    "name": "Alcohol",
+    "summary": "Alcohol is a CNS depressant that acts through the GABAₐ receptor, and is one of the most common strong psychoactives used by humans. It has a long history of use and its intoxicating effects are well-studied and documented. It remains legal in most parts of the world."
   },
   {
-    "name": "ALD-52"
+    "name": "ALD-52",
+    "summary": "ALD-52, or N-acetyl-LSD is a less common chemical analogue of LSD, first synthesised by Albert Hoffman. It was famously implicated in the 'Orange Sunshine' trial. A psychedelic lysergamide, this compound exhibits similar properties to LSD, and is thought to be a pro-drug for LSD."
   },
   {
-    "name": "Aleph"
+    "name": "Aleph",
+    "summary": "The first sulphur-containing Phenethylamine to have been evaluated for CNS activity for Stimulant or Psychedelic purposes."
   },
   {
-    "name": "ALEPH-2"
+    "name": "ALEPH-2",
+    "summary": "A very rare Phenethylamine, also known as DOT-2, it is the DOx analogue of 2C-T-2. Very little human use recorded. Described as being quite long and highly visual. Likely to be potent, with a reported threshold dose of 3mg."
   },
   {
-    "name": "Allobarbital"
+    "name": "Allobarbital",
+    "summary": "Is a barbiturate that was first made in 1912. It was primilary used as an anticonvulsant. Yet it has pretty much been outclassed by a newer generation of safer ones. Still in use in Poland."
   },
   {
-    "name": "Allylescaline"
+    "name": "Allylescaline",
+    "summary": "Mescaline analogue with a much lower dose, that seems to rely heavily on colours."
   },
   {
-    "name": "Alprazolam"
+    "name": "Alprazolam",
+    "summary": "An extremely common benzodiazepine better known as Xanax, frequently prescribed for the treatment of anxiety and panic disorders. Alprazolam is short-lasting and primarily anxiolytic, though also possesses hypnotic properties. At high doses amnesia and loss of inhibition are common. Do not mix with other depressants."
   },
   {
-    "name": "AM-2201"
+    "name": "AM-2201",
+    "summary": "A synthetic cannabanoid that is very potent. Active doses start at around 250ug's. Please be cautious with this substance. It has also been noted that it can cause convulsions."
   },
   {
-    "name": "Amfecloral"
+    "name": "Amfecloral",
+    "summary": "Is a stimulant drug of the Phenethylamine and Amphetamine class. It was used as an appetite suppressant, yet is no longer marketed. It's also interesting that it acts as a prodrug to both Amphetamine and Chloral Hydrate."
   },
   {
-    "name": "Amfonelic acid"
+    "name": "Amfonelic acid",
+    "summary": "A dopaminergic stimulant discovered by Sterling-Winthrop accidentally while developing antibiotics. Discontinued due to undesirable stimulant effects, it has had some popularity as a recreational drug."
   },
   {
-    "name": "Aminorex"
+    "name": "Aminorex",
+    "summary": "Is an anorectic stimulant drug that was taken of the market after it was found to cause pulmonary hypertension. Potency wise it has been found to be roughly 2.5 times more potent than dextroamphetamine."
   },
   {
-    "name": "Aminotadalafil"
+    "name": "Aminotadalafil",
+    "summary": "An analogue of tadafinil, better known as Cialis (Viagra). Infamous for being missold in the 'Alpha Male' sexual enhancement supplement."
   },
   {
-    "name": "Amobarbital"
+    "name": "Amobarbital",
+    "summary": "A sedative and hypnotic barbiturate first discovered in 1923. Formerly widely used recreationally and medically, barbiturates have declined in popularity with the appearance of benzodiazepines and other drugs with less serious consequences in overdose."
   },
   {
-    "name": "Amphetamine"
+    "name": "Amphetamine",
+    "summary": "A very popular CNS stimulant available on prescription and black markets. Recreational in high doses, producing mild euphoria and an abundance of energy. Popular in eastern europe and the US."
   },
   {
-    "name": "Aniracetam"
+    "name": "Aniracetam",
+    "summary": "An anxiolytic nootropic which modulates the AMPA receptor. Significantly more potent than racetam. May have positive effects on memory and cognition. Little recreational value. Sold in Europe as a prescription drug, but not approved by the FDA in the US."
   },
   {
-    "name": "Armodafinil"
+    "name": "Armodafinil",
+    "summary": "The more potent of the two modafinil isomers, said to have a longer duration and lesser side effects. Sometimes prescribed for ADHD and daytime sleepiness."
   },
   {
-    "name": "Ashwagandha"
+    "name": "Ashwagandha",
+    "summary": "Is an Adaptogen. It is commonly used for its ability to prevent anxiety. It also is helpful in relieving insomnia. It's name means \"Smell of Horse\" due to its smell and the traditional belief that ingesting the this herb will give you the strength and virility of a horse."
   },
   {
-    "name": "Aspirin"
+    "name": "Aspirin",
+    "summary": "A widely used anti-inflammatory and blood-thinner produced by acetylation of the naturally occurring salicyclic acid. Part of the nonsteroidal antiinflammatory class of drugs, a cyclooxygenase inhibitor. Very common over-the-counter pain reliever and fever reducer. Also used in smaller doses to lower risk of heart attack."
   },
   {
-    "name": "Atomoxetine"
+    "name": "Atomoxetine",
+    "summary": "A NRI that is used for ADHD. With a quite odd pharmacological background."
   },
   {
-    "name": "Ayahuasca"
+    "name": "Ayahuasca",
+    "summary": "A concoction made of two or more plants that contain at least an MAOI and DMT, the combination of which allows the DMT to work orally. Typically associated to south american cultures. Also, sometimes approximated synthetically by taking an external MAOI with extracted DMT. Causes intense, spiritually orientated hallucinogenic experiences."
   },
   {
-    "name": "Baclofen"
+    "name": "Baclofen",
+    "summary": "Also known as Lioresal, Baclofen is a GABAb receptor agonist and central nervous system depressant used to treat spasticity, and holds promise as a treatment for alcoholism. It exhibits mild intoxicating effects similar to phenibut or pregabalin."
   },
   {
-    "name": "Barbital"
+    "name": "Barbital",
+    "summary": "The first commercially available barbiturate. Was used commonly as a sleeping aid until the 1950s."
   },
   {
-    "name": "Bentazepam"
+    "name": "Bentazepam",
+    "summary": "Thienodiazepine that is an effective anxiolyric. Liver damage among other nasty things have been reported."
   },
   {
-    "name": "BENZODIOXOLE-FENTANYL"
+    "name": "BENZODIOXOLE-FENTANYL",
+    "summary": "An analogue of Fentanyl that is not found in literature."
   },
   {
-    "name": "Benzydamine"
+    "name": "Benzydamine",
+    "summary": "NSAID with local anesthetic and analgesic properties, similar to ibuprofen or naproxen. Sometimes abused in overdose with reported delirant and stimulant effects."
   },
   {
-    "name": "BOD"
+    "name": "BOD",
+    "summary": "Beta-methoxy analogue of 2C-D, seems to be more \"mild\" than the likes of 2C-X and DOX compounds. Is 50/50 whether the body load is barely there, or overpowering the experience."
   },
   {
-    "name": "Bromadol"
+    "name": "Bromadol",
+    "summary": "A very potent opioid that has an arylcyclohexylamine structure. Intial studies estimated that it was ~10,000x Morphine in animal studies. However that value has since decreased to ~504 times the potency of morphine for the trans-isomer."
   },
   {
-    "name": "Bromantane"
+    "name": "Bromantane",
+    "summary": "An unusual stimulant and anxiolytic drug with dopamine and serotonin reuptake inhibition properties. Infamously used as a doping agent in the 1996 Olympics. There are some concerns it may exacerbate the underlying causes of Alzheimer's disease."
   },
   {
-    "name": "Bromazepam"
+    "name": "Bromazepam",
+    "summary": "A benzodiazepine drug with a medium-long duration, developed by Roche in the 1960s. Has primarily anxiolytic properties. May cause lowered inhibitions and amnesia in high doses."
   },
   {
-    "name": "Bromazolam"
+    "name": "Bromazolam",
+    "summary": "A rather novel Benzodiazepine that is structurally quite close to Alprazolam."
   },
   {
-    "name": "Bromo-DragonFLY"
+    "name": "Bromo-DragonFLY",
+    "summary": "A psychedelic phenethylamine and benzofuran that is very potent and has a long duration. Was briefly sold as \"2C-B-FLY\" in 2005/6 and has lead to multiple deaths."
   },
   {
-    "name": "Brotizolam"
+    "name": "Brotizolam",
+    "summary": "Benzodiazepine analogue which is sedating, hypnotic and anxiolytic. It is available as prescription medicine in much of Europe, and is an extremely potent drug active at only 80ug. May cause amnesia and lowered inhibitions in overdose. Danger of respiratory depression when combined with other depressants. Short half life."
   },
   {
-    "name": "Buphedrone"
+    "name": "Buphedrone",
+    "summary": "A cathinone stimulant first discovered in 1928, has gained some modest popularity as a mephedrone replacement. Said to be to be around 2-3x more potent than methcathinone."
   },
   {
-    "name": "Buprenorphine"
+    "name": "Buprenorphine",
+    "summary": "A semi-synthetic opioid analgesic also known as subutex. Often administered as Butrans patches, or in combination with Naloxone as Suboxone, a heroin replacement therapy drug. Will cause withdrawals if you have an opioid tolerance and don't wait long enough (typically around 48 hours) before taking this."
   },
   {
-    "name": "Bupropion"
+    "name": "Bupropion",
+    "summary": "A frequently prescribed atypical antidepressant. Occasionally prescribed as an aid to smoking cessation. May lower seizure threshold in predisposed individuals. Poorly understood mechanism of action, probably an NDRI. Avoid combination with other drugs."
   },
   {
-    "name": "Butylone"
+    "name": "Butylone",
+    "summary": "Empathogen and stimulant of the cathinone class."
   },
   {
-    "name": "Butyrfentanyl"
+    "name": "Butyrfentanyl",
+    "summary": "Potent short-acting opioid and fentanyl analogue. Often dispensed in a nasal spray. This is an highly potent drug - exercise extreme caution. May cause respiratory depression and death in overdose."
   },
   {
-    "name": "BZP"
+    "name": "BZP",
+    "summary": "A stimulant that was sold as \"legal ecstasy\" in the late 2000s, and was one of the first drugs widely marketed as a \"research chemical.\" It has a much less favourable effect profile and has fallen out of popularity greatly since it was banned in many countries."
   },
   {
-    "name": "C30-NBOMe"
+    "name": "C30-NBOMe",
+    "summary": "Inactive, if you do feel effects from \"C30-NBOMe\" you're either having the placebo effect of the world, or are being sold something else, and I recommend you send it in for testing somewhere."
   },
   {
-    "name": "Caffeine"
+    "name": "Caffeine",
+    "summary": "Caffeine is a a CNS stimulant, and also the most widely used psychoactive substance in the world. It is legal and unregulated in most parts of the world, and is found in many commonly sold products. It has a good safety profile, though regular heavy use can cause physical dependence and contribute to certain medical conditions."
   },
   {
-    "name": "Camazepam"
+    "name": "Camazepam",
+    "summary": "A benzodiazepine drug that is stronger in terms of anxiety relief than it is in terms of how hypnotic it is. It is a metabolite of diazepam and has limited anticonvulsant properties."
   },
   {
-    "name": "Cannabis"
+    "name": "Cannabis",
+    "summary": "A common and widely used psychoactive plant, which is beginning to enjoy legal status for medical and even recreational use in some parts of the world. Usually smoked or eaten, primary effects are relaxation and an affinity towards food - a state described as being 'stoned.'"
   },
   {
-    "name": "Carisoprodol"
+    "name": "Carisoprodol",
+    "summary": "A skeletal muscle relaxant drug also known as Soma, carisoprodol has limited recreational value, however its main metabolite meprobamate has some moderate tranquilising properties. Sometimes found in concoctions with codeine or caffeine."
   },
   {
-    "name": "Centrophenoxine"
+    "name": "Centrophenoxine",
+    "summary": "Cholinergic compound with a DMAE compotent. Is thought to help in reversing some signs of aging. Naturally found substance, most notably in fish."
   },
   {
-    "name": "Changa"
+    "name": "Changa",
+    "summary": "Changa is the name given to a smoking blend of caapi or other MAOI containing plants with an infusion of extracted DMT. Changa often contains other milder psychoactive herbs as well. The maoi action results in a longer and more intense trip (see Ayahuasca) NOTE: There is no standardized recipe or concentration of infused DMT, therefor dosage and potency will vary per batch."
   },
   {
-    "name": "Chloral betaine"
+    "name": "Chloral betaine",
+    "summary": "Sedative-hypnotic drug that was introduced into the United States in the 60's. Betaine complex with Chloral hydrate, thus makes it act as an extended version of Chloral hydrate then to Trichloroethanol, which is responsible for most of its effects."
   },
   {
-    "name": "Chloral hydrate"
+    "name": "Chloral hydrate",
+    "summary": "Chloral Hydrate, a sedative drug discovered in 1832 with a history of recreational use going back to the 19th century. Sometimes prescribed for extreme insomnia. For such an old drug, relatively little is known about its long-term term effects on the body. Produces intoxication comparable to alcohol or benzodiazepines."
   },
   {
-    "name": "Chloroform"
+    "name": "Chloroform",
+    "summary": "A naturally occurring organic compound once used as an anaesthetic. Has practically disappeared in this usage due to numerous harmful effects including danger of sudden death through cardiac arrhythmia. Has been implicated in numerous murders. Highly unsafe."
   },
   {
-    "name": "Cinolazepam"
+    "name": "Cinolazepam",
+    "summary": "A benzodiazepine derivative drug with anxiolytic effects but mainly hypnotic effects. It is extremely effective for sleep aid but has mild euphoria compared to other benzos"
   },
   {
-    "name": "Citalopram"
+    "name": "Citalopram",
+    "summary": "Citalopram is an SSRI that is used to treat depression. It does not lead to a high and causes a wide range of negative psychological and physical effects when people attempt to abuse it and can lead to serotonin syndrome and cause suicidal ideation. Those with bipolar disorder tend to go into a mixed state or manic states when trying SSRI's."
   },
   {
-    "name": "Clobazam"
+    "name": "Clobazam",
+    "summary": "A long acting benzodiazepine which focuses primarily on anxiolytic and anticonvulsant properties. It is used medically to treat epilepsy, and this along with its relatively many negative side-effects and contraindications in comparison with other benzodiazepines means it isn't frequently used recreationally."
   },
   {
-    "name": "Clomethiazole"
+    "name": "Clomethiazole",
+    "summary": "Structurally related to Thiamine (vitamin B1), but with binding potential at the GABAa site, which causes it to produce effects most like those of a barbiturate: an effective sedative and hypnotic. Originally developed by Hoffman-LaRoche in the 1930s, it has seen use as a treatment for acute alcohol withdrawal."
   },
   {
-    "name": "Clonazepam"
+    "name": "Clonazepam",
+    "summary": "A medium-length common prescription benzodiazepine, often used to treat panic attacks because of its relatively fast sublingual onset. Primarily anxiolytic, but also possessing of other benzo traits."
   },
   {
-    "name": "Clonazolam"
+    "name": "Clonazolam",
+    "summary": "A long lasting benzodiazepine with heavily hypnotic effects. The safety profile is not well established, and there have been reports that people taking it three days in a row have had a seizure. Most comparable to Triazolam, but with a much longer half-life."
   },
   {
-    "name": "Clonidine"
+    "name": "Clonidine",
+    "summary": "Is a medication that is used to treat high blood pressure, anxiety, withdrawal (Typically from Alcohol, Opioids, Smoking) and many other uses."
   },
   {
-    "name": "Cloniprazepam"
+    "name": "Cloniprazepam",
+    "summary": "Prodrug for Clonazepam."
   },
   {
-    "name": "Clonitazene"
+    "name": "Clonitazene",
+    "summary": "An opioid that is roughly three times as potent as Morphine. Is related to Etonitazene, which is about 1000-1500x the potency of Morphine."
   },
   {
-    "name": "Clorazepate"
+    "name": "Clorazepate",
+    "summary": "Is a prodrug for Desmethyldiazepam which is responsible for most of the therapeutic effects. Has a long half life, with the addition of Desmethyldiazepam as the main metabolite, which makes it much longer."
   },
   {
-    "name": "Clotiazepam"
+    "name": "Clotiazepam",
+    "summary": "Is a thienodiazepine substance. It differs from most other benzodiazepines in which the benzene ring has been replaced by a thiophene ring."
   },
   {
-    "name": "Cloxazolam"
+    "name": "Cloxazolam",
+    "summary": "Benzodiazepine derivate that is metabolised into Delorazepam. Which is where most of its effects come from."
   },
   {
-    "name": "Cocaine"
+    "name": "Cocaine",
+    "summary": "A highly popular, short acting CNS stimulant that works by blocking the reuptake of dopamine, serotonin, and norepinephrine. It is known to increase euphoria, confidence, sex-drive, focus, body temperature, and heart rate. Cocaine can cause severe vasoconstriction and is known to be cardiotoxic and have a high potential for compulsive redosing and addiction."
   },
   {
-    "name": "Codeine"
+    "name": "Codeine",
+    "summary": "Codeine is a weaker opioid used to treat mild to moderate pain and to relieve cough. In many countries it is available over the counter in combination with paracetamol, which can easily be extracted to retrieve near-pure codeine. For this reason, it is used widely as a recreational opioid. It is metabolised into morphine in the body at a rate of 5% mg for mg."
   },
   {
-    "name": "Coluracetam"
+    "name": "Coluracetam",
+    "summary": "A nootropic drug of the racetam class, originally developed to treat Alzheimer's disease, it is currently being investigated as a treatment for major depressive disorder and generalised anxiety disorder. May be a modulator of the AMPA receptor. Limited recreational value."
   },
   {
-    "name": "Coronaridine"
+    "name": "Coronaridine",
+    "summary": "Alkaloid found in Tabernanthe iboga and related species. Persistently reduces the self-administration of Cocaine and Morphine in rats."
   },
   {
-    "name": "CRL-40-940"
+    "name": "CRL-40-940",
+    "summary": "Bisfluoro analogue Modafinil. Has been sold online as a research chemical. Was patented in 2013. Is slightly more potent than Armodafinil."
   },
   {
-    "name": "CRL-40-941"
+    "name": "CRL-40-941",
+    "summary": "A substance closely related to Adrafinil and Modafinil. It is the bis(p-fluoro) ring derivative of Adrafinil."
   },
   {
-    "name": "Cyclizine"
+    "name": "Cyclizine",
+    "summary": "First generation antihistamine and anticholinergic drug used to combat nausea and vomiting. Causes drowsiness. Like most antihistamines in high doses it induces delirium and vivid realistic hallucinations. Probably uncomfortable and not enjoyable."
   },
   {
-    "name": "Cyclo-Methiodrone"
+    "name": "Cyclo-Methiodrone",
+    "summary": "Empathogen with strong stimulant effects, very loosely related to benzylpiperidine."
   },
   {
-    "name": "Cyclobenzaprine"
+    "name": "Cyclobenzaprine",
+    "summary": "Muscle relaxant and CNS depressant used to relieve skeletal muscle spasms and associated pain in acute musculoskeletal conditions. Sometimes prescribed off-label for treatment of fibromyalgia or as a sleep aid. Has little recreational value alone, but may potentiate some opioids. May cause drowsiness, dry mouth and dizziness."
   },
   {
-    "name": "CYCLOPENTYL-FENTANYL"
+    "name": "CYCLOPENTYL-FENTANYL",
+    "summary": "An analogue of fentanyl that is unknown in literature, seems to be less potent than its former being Acetyl-Fentanyl. Yet reports have yet to surface. Be careful."
   },
   {
-    "name": "Cyclopropylmescaline"
+    "name": "Cyclopropylmescaline",
+    "summary": "Cyclopropylmescaline, AKA CPM, is a psychedelic/hallucinogenic that was produced by Alexander Shulgin. It causes visual and auditory hallucinations and lasts quite a long time. Little is known about it so caution must be used when trying out this substance."
   },
   {
-    "name": "D2PM"
+    "name": "D2PM",
+    "summary": "An NDRI, which is reported as being rather lackluster."
   },
   {
-    "name": "DALT"
+    "name": "DALT",
+    "summary": "Psychedelic drug of the tryptamine class."
   },
   {
-    "name": "Datura"
+    "name": "Datura",
+    "summary": "A family of plants containing various Tropane alkaloids. Produces long-lasting deliriant effects including very realistic and often unpleasant hallucinations along with short-term amnesia. Datura plants are toxic to humans, and potency varies greatly from plant-to-plant, making the drug extremely difficult to dose safely. Not typically regarded as recreational."
   },
   {
-    "name": "DB-MDBP"
+    "name": "DB-MDBP",
+    "summary": "Inactive."
   },
   {
-    "name": "Dehydroxyfluorafinil"
+    "name": "Dehydroxyfluorafinil",
+    "summary": "Nootropic of the benzhydryl class. Closely related to Adrafinil and Modafinil. Was branded as \"Modafiendz\" through some research chemical vendors."
   },
   {
-    "name": "Delorazepam"
+    "name": "Delorazepam",
+    "summary": "Also known as chlordesmethyldiazepam, this uncommon benzodiazepine compound is primarily used for treatment of anxiety and alcohol withdrawal, due to its long half-life (60-140 hours). It is also the active metabolite of diclazepam and cloxazolam."
   },
   {
-    "name": "Deschloroetizolam"
+    "name": "Deschloroetizolam",
+    "summary": "A Thienodiazepine which is close to its parent compound, Etizolam, whilst being significantly weaker and longer lasting."
   },
   {
-    "name": "Deschloroketamine"
+    "name": "Deschloroketamine",
+    "summary": "A novel analogue of Ketamine which is much more potent and has a longer duration."
   },
   {
-    "name": "Desmethylflunitrazepam"
+    "name": "Desmethylflunitrazepam",
+    "summary": "Benzodiazepine that is a metabolite of Flunitrazepam, and has been sold as a research chemical."
   },
   {
-    "name": "DET"
+    "name": "DET",
+    "summary": "A surprisingly uncommon analogue of DMT with similar effects and reported oral activity without the aid of an MAOI."
   },
   {
-    "name": "Dexedrine"
+    "name": "Dexedrine",
+    "summary": "A highly abusable stimulant. It is rarely prescribed in the US to treat ADHD, and is very similar in effects to Adderall, as its main ingredient is 75% of what adderall is."
   },
   {
-    "name": "Dexmethylphenidate"
+    "name": "Dexmethylphenidate",
+    "summary": "The psychoactive isomer of methylphenidate, mostly used to treat ADHD. Twice as potent as methylphenidate, and is said to have cleaner psychostimulant effects with fewer side effects."
   },
   {
-    "name": "Dextromoramide"
+    "name": "Dextromoramide",
+    "summary": "Dextromoramide, a rare and powerful opioid analgesic approximately three times as potent as morphine with a shorter duration. Generally only seen in the Netherlands. Reported as having strange and rapid tolerance behaviour."
   },
   {
-    "name": "Dextropropoxyphene"
+    "name": "Dextropropoxyphene",
+    "summary": "An opioid analgesic that is an optical isomer of levopropoxyphene. Used to treat mild pain and often used for its antitussive properties. It has been taken off the market in Europe and US due to concerns of health issues relating to the Kidney, Liver, Heart and Respiratory Disorders. Just a bit stronger than Tramadol."
   },
   {
-    "name": "Diazepam"
+    "name": "Diazepam",
+    "summary": "A very common and widely prescribed benzodiazepine with hypnotic and sedative qualities. The metre by which other benzodiazepines are compared. May cause amnesia and lowered inhibitions in excess. Has a relatively long half-life in comparison with other benzodiazepines."
   },
   {
-    "name": "Dibutylone"
+    "name": "Dibutylone",
+    "summary": "Inactive."
   },
   {
-    "name": "Diclazepam"
+    "name": "Diclazepam",
+    "summary": "A benzodiazepine drug and analogue of diazepam first synthesised by Leo Sternbach at Hoffman-LaRoche in 1960, it has become prominent as an RC benzodiazepine on the grey market in recent years, particularly with the decline in etizolam availability. A sedative and hypnotic it is of intermediate to long half life with similar effects to diazepam, though 10x more potent."
   },
   {
-    "name": "Diclofensine"
+    "name": "Diclofensine",
+    "summary": "A triple monoamine reuptake inhibitor developed by Hoffman-LaRoche in the 1970s as an antidepressant but discontinued, probably due to high abuse potential. Has not become popular as a recreational drug at this time. Acts as an SNDRI, mostly inhibits dopamine and noradrenaline."
   },
   {
-    "name": "Diethyl ether"
+    "name": "Diethyl ether",
+    "summary": "An industrial solvent which is sometimes used recreationally as a dissociative anaesthetic, with a short length of action. Effects are similar to alcohol. Leaves one's breath tasting and smelling strongly of ether for much longer than the experience lasts."
   },
   {
-    "name": "Dihydrocodeine"
+    "name": "Dihydrocodeine",
+    "summary": "A weak semi-synthetic opioid analgesic and antitussive (anti-cough) drug. Often sold as a syrup in combination with aspirin or paracetamol. Not to be confused with the slightly less potent codeine."
   },
   {
-    "name": "Dimemebfe"
+    "name": "Dimemebfe",
+    "summary": "Related in structure to 5-MeO-DMT, yet much less potent. Described as feeling somewhat similar to mushrooms, with some empathogenic effects."
   },
   {
-    "name": "Dimenhydrinate"
+    "name": "Dimenhydrinate",
+    "summary": "A combination of diphenhydramine and a mild stimulant to counteract the drowsiness accompanied by typical medical use of diphenhydramine. Roughly half the potency of DPH. Small doses can relieve motion sickness, reduce body load from opioids or DXM. Becomes a deliriant in high doses, keeping the user awake and often causing dysphoric, realistic hallucinations."
   },
   {
-    "name": "Dimethylone"
+    "name": "Dimethylone",
+    "summary": "Inactive."
   },
   {
-    "name": "Diphenidine"
+    "name": "Diphenidine",
+    "summary": "A dissociative anaesthetic related to ephenidine with similar qualities to PCP and ketamine. Has seen some popularity as a recreational RC. Dosage curve has been reported as particularly steep, so care should be taken."
   },
   {
-    "name": "Dipipanone"
+    "name": "Dipipanone",
+    "summary": "A powerful opioid of equivalent strength to morphine, rarely seen outside of medical environments. Often used to treat severe pain where morphine is contraindicated. Usually found in combination with the antihistamine Cyclizine, which potentiates it."
   },
   {
-    "name": "DiPT"
+    "name": "DiPT",
+    "summary": "A rare tryptamine psychedelic closely related to DMT, with the interesting property of having little visual hallucinations, but strong auditory effects."
   },
   {
-    "name": "DMAA"
+    "name": "DMAA",
+    "summary": "Also known as methylhexanamine, this sympathetomimetic drug was developed as a nasal decongestant by Eli Lilly in the 1940s. It has been used as a weight loss aid and missold as a dietary supplement and component of some energy drinks. Carries a risk of heart attack, stroke and other life-threatening cardiovascular issues."
   },
   {
-    "name": "DMT"
+    "name": "DMT",
+    "summary": "A popular and powerful psychedelic, typically used in two ways; either it is vapourised for a short 'breakthrough' experience, or it is taken in combination with an enzyme inhibitor for a long, intense trip (this is also known as ayahuasca or pharmahuasca)."
   },
   {
-    "name": "DOB"
+    "name": "DOB",
+    "summary": "DOB is a relatively uncommon synthetic psychedelic. It is best known for its very low doses and long duration. Historically it has rarely been taken deliberately, but in place of LSD, however it has recently found its own place in the research chemical scene."
   },
   {
-    "name": "DOC"
+    "name": "DOC",
+    "summary": "A potent stimulating psychedelic with a long action, a phenethylamine and substituted amphetamine. Sometimes sold as LSD but also enjoyed on its own merits by many. Usually sold on blotters slightly larger than those LSD is found on, but can also be bought in powder form."
   },
   {
-    "name": "DOET"
+    "name": "DOET",
+    "summary": "A potent and long acting psychedelic stimulant and substituted amphetamine, similar in effects to other DOx compounds. First synthesised by Alexander Shulgin."
   },
   {
-    "name": "DOI"
+    "name": "DOI",
+    "summary": "A potent, long-acting psychedelic stimulant. Historically, it has rarely been consumed deliberately, but occasionally sold as LSD. However, it has recently found its own little nest in the research chemical community."
   },
   {
-    "name": "DOIP"
+    "name": "DOIP",
+    "summary": "A rare psychedelic ampthetamine of the same class as the likes of DOM. Is a quite powerful and potent psychedelic that has very strong amphetamine effects. Not for the faint of heart."
   },
   {
-    "name": "DOM"
+    "name": "DOM",
+    "summary": "The most popular psychedelic amphetamine due to its pleasant effects, lower potency and shorter duration. Effects have been described as 'sillier' than LSD and related DOX chemicals"
   },
   {
-    "name": "DON"
+    "name": "DON",
+    "summary": "A very rare psychedelic Amphetamine. That is more rough on the body then other DOx compounds. Making it physically painful in some cases."
   },
   {
-    "name": "DOPR"
+    "name": "DOPR",
+    "summary": "A rare psychedelic amphetamine of the same class as DOM. This is a powerful and potent psychedelic with all the effects you would expect from an amphetamine. Described by Shulgin as a 'heavy duty psychedelic'. Analogue of 2C-P."
   },
   {
-    "name": "Doxylamine"
+    "name": "Doxylamine",
+    "summary": "A first generation antihistamine and anticholinergic, originally used to treat nausea and itching, and later as a sleep aid. Causes drowsiness, and delirium in overdose. Sometimes used with opioids to combat nausea and potentiate effects."
   },
   {
-    "name": "DPH"
+    "name": "DPH",
+    "summary": "An antihistamine which, when taken in smaller doses relieves allergies and insomnia. In larger doses works as a deliriant and can actually keep the user awake. Generally the 'high' of this drug is reported as dysphoric, potentially causing hallucinations indistinguishable from reality."
   },
   {
-    "name": "DPT"
+    "name": "DPT",
+    "summary": "N,N-Dipropyltryptamine, a psychedelic tryptamine compound and lesser-known analogue of DMT, with similar psychedelic effects. Like DMT it is a partial serotonin receptor agonist."
   },
   {
-    "name": "DXM"
+    "name": "DXM",
+    "summary": "Commonly found in certain over the counter cough medicines. Has dissociative effects similar to ketamine or MXE, though also shares properties with opioids and alcohol. Make sure DXM is the only active ingredient in the preparation."
   },
   {
-    "name": "EFLEA"
+    "name": "EFLEA",
+    "summary": "Prodrug for EDMA. May be inactive."
   },
   {
-    "name": "Ephedrine"
+    "name": "Ephedrine",
+    "summary": "Ephedrine is a sympathomimetic amine commonly used as a stimulant, concentration aid, decongestant, appetite suppressant, and to treat hypotension associated with anaesthesia. A methamphetamine analogue and commonly used in the production of methamphetamine."
   },
   {
-    "name": "Ephenidine"
+    "name": "Ephenidine",
+    "summary": "A dissociative drug which is less potent and less confusing than MXE but with otherwise similar properties. Reported as causing light stimulant effects at lower doses."
   },
   {
-    "name": "EPT"
+    "name": "EPT",
+    "summary": "Ethylpropyltryptamine a novel tryptamine, that is the structural homologue of DMT."
   },
   {
-    "name": "Escaline"
+    "name": "Escaline",
+    "summary": "First synthesised in the 50s, this uncommon drug was reexamined by David Nichols in the 1990s. It is an analogue of mescaline which is roughly six times more potent, and is thus a powerful psychedelic phenethylamine. Subjective effects may include stimulation and hallucinations."
   },
   {
-    "name": "Escitalopram"
+    "name": "Escitalopram",
+    "summary": ""
   },
   {
-    "name": "Estazolam"
+    "name": "Estazolam",
+    "summary": "A rarely prescribed medium-duration prescription benzodiazepine. Mainly used as a hypnotic, it can cause amnesia and lowered inhibitions in excess."
   },
   {
-    "name": "Eszopiclone"
+    "name": "Eszopiclone",
+    "summary": "The d-isomer of Zopiclone, this drug is a potent hypnotic 'Z' drug often used to treat insomnia. High doses may cause amnesia, delirium and lowered inhibitions. Should not be combined with any depressants. Limited recreational value."
   },
   {
-    "name": "ETH-LAD"
+    "name": "ETH-LAD",
+    "summary": "A psychedelic drug and slightly more potent analogue of LSD, first synthesised by Alexander Shulgin - sometimes described as being less 'abrasive' than LSD. Less common than the associated AL-LAD, though has seen some popularity since its release on the Internet research chemical scene in 2015."
   },
   {
-    "name": "Ethaqualone"
+    "name": "Ethaqualone",
+    "summary": "Analogue of Methaqualone that was mostly marketed in France. Slightly weaker and shorter acting than the prior."
   },
   {
-    "name": "Ethchlorvynol"
+    "name": "Ethchlorvynol",
+    "summary": "Sedative Hypnotic medication made in the 50's. It was used for short term help for insomnia (No longer than two weeks)"
   },
   {
-    "name": "Ethketamine"
+    "name": "Ethketamine",
+    "summary": "Ethketamine is a research chemical with properties similar to ketamine. While ketamine is a dissociative anesthetic producing hallucinogenic and sedative effects, recreational users have reported euphoria and dissociation when using NENK."
   },
   {
-    "name": "ETHYL-PENTEDRONE"
+    "name": "ETHYL-PENTEDRONE",
+    "summary": "A stimulant that came out around the same time as Ethyl-Hexedrone, not much information on it. Is in the cathinone family of substances. Related to Pentedrone."
   },
   {
-    "name": "Ethylcathinone"
+    "name": "Ethylcathinone",
+    "summary": "Ethylcathinone is a synthetic stimulant. It is similar to ecstasy in the sense that it provides euphoria, feelings of empathy and openness, and a desire to talk with others. It also carries over to some of the negative effects of ecstasy, such as insomnia, tightened jaw muscles, and grinding of the teeth."
   },
   {
-    "name": "Ethylmorphine"
+    "name": "Ethylmorphine",
+    "summary": "A medium-strength opioid analgesic and analogue of morphine. Considered less potent than morphine but more potent than codeine, and has been used in Germany for this reason. Said to have a 'ceiling' effect where no more euphoria occurs with increased dosage. Under investigation as a maintainance drug in opioid dependence therapy."
   },
   {
-    "name": "Ethylone"
+    "name": "Ethylone",
+    "summary": "A euphoric stimulant often sold in place of MDMA since methylone was banned. Slightly less potent and empathogenic than methylone, it is often described as more of a 'straight stimulant.'"
   },
   {
-    "name": "Ethylphenidate"
+    "name": "Ethylphenidate",
+    "summary": "Potent psychostimulant, similar to Methylphenidate. \u0002Note: Ethylphenidate should \u0016NOT\u0016 be insufflated as it is known to be highly caustic and will cause serious harm to your nasal septum, even with light usage."
   },
   {
-    "name": "Etizolam"
+    "name": "Etizolam",
+    "summary": "A thienodiazepine anxiolytic. Similar in action to benzodiazepine drugs. Relieves anxiety, causes sedation and mild euphoria. High doses can lead to losing memory of what happened while on the drug. Users often compulsively re-dose frequently leading to accidental blackouts. Can be found in pressed pharmaceutical pills from various countries, clandestine pill presses, or as a powder"
   },
   {
-    "name": "Etodesnitazene"
+    "name": "Etodesnitazene",
+    "summary": ""
   },
   {
-    "name": "Fasoracetam"
+    "name": "Fasoracetam",
+    "summary": "A substance in the racetam family. Appears to be a GABA(B) agonist, and has shown to block memory disruptions caused by Baclofen, another GABA(B) Agonist. Similar to another compound in the racetam family Coluracetam, it enhances High affinity choline reuptake (HACU). Also research is conducted if it helps with ADHD and Congitive impairment."
   },
   {
-    "name": "Fentanyl"
+    "name": "Fentanyl",
+    "summary": "Fentanyl is a synthetic opiate analgesic with a rapid onset and short duration of action. It is a strong agonist at the μ-opioid receptors and is historically used to treat breakthrough pain. Fentanyl is approximately 100 times more potent than Morphine, and is commonly used as a patch. Sometimes used as an adulterant for heroin, which has led to many overdose deaths."
   },
   {
-    "name": "Flualprazolam"
+    "name": "Flualprazolam",
+    "summary": "Fluorinated alprazolam, that likely has a longer half-life and higher potency than its parent compound."
   },
   {
-    "name": "Flubromazepam"
+    "name": "Flubromazepam",
+    "summary": "A somewhat common benzodiazepine drug known for its extreme duration, with effects for larger doses reaching up to three days. Sedative, hypnotic and anxiolytic, this compound is an analogue of Phenazepam. First discovered in the 1960s, it was never marketed as a licit drug, but has recently become available as an RC. Not to be confused with Flubromazolam."
   },
   {
-    "name": "Flubromazolam"
+    "name": "Flubromazolam",
+    "summary": "A very potent benzodiazepine derivative that is related to Triazolam and Pyrazolam. Popular in the research chemical scene, it is a potent sedative, hypnotic and anxiolytic. Potential for amnesia and reduced inhibitions in higher dose. Not to be confused with Flubromazepam, which is much less potent and has a much longer half-life."
   },
   {
-    "name": "Fluclotizolam"
+    "name": "Fluclotizolam",
+    "summary": "A derivative of Etizolam. There are conflicting reports on its dosage, though claims have been made that it is approximately 3x the potency of Etizolam, with a shorter half-life."
   },
   {
-    "name": "Flunitrazepam"
+    "name": "Flunitrazepam",
+    "summary": "Known as Rohypnol or 'roofies,' this infamous drug has similar qualities to most other benzodiazepines; sedating with strong hypnotic effects. Despite being known as a 'date rape drug' has only been implicated in a small number of such crimes. Danger of respiratory depression in combination with other depressants. May cause amnesia and lowered inhibitions in overdose."
   },
   {
-    "name": "Flunitrazolam"
+    "name": "Flunitrazolam",
+    "summary": "A very potent hypnotic Benzodiazepine. Triazolo version of Flunitrazepam."
   },
   {
-    "name": "Fluorolintane"
+    "name": "Fluorolintane",
+    "summary": "A dissociative anaesthetic also known as 2-FPPP, very little is known about this obscure and rare drug. Reported by some to be stimulating, having effects similar to other dissociative drugs such as PCP and ketamine."
   },
   {
-    "name": "Fluorophenibut"
+    "name": "Fluorophenibut",
+    "summary": "An anxiolytic analogue of GABA and Phenibut, with similar activity to the latter. Expected to be 5-10 times as potent as phenibut, some preliminary reports suggest tolerance builds more slowly."
   },
   {
-    "name": "Fluoxetine"
+    "name": "Fluoxetine",
+    "summary": ""
   },
   {
-    "name": "Flurazepam"
+    "name": "Flurazepam",
+    "summary": "Benzodiazepine with an extremely long half life, between 40 and 250 hours. Mainly used for general anxiety disorder. Sedating, hypnotic, anxiolytic. Potential for amnesia and reduced inhibitions in overdose."
   },
   {
-    "name": "Flutazolam"
+    "name": "Flutazolam",
+    "summary": "A benzodiazepine derivative. It was invented in Japan, and has mainly stayed in that area. Similar potency to Diazepam, yet produces a more marked sedation and impaired coordination. Usually used as a treatment for Insomnia. A hypnotic and sedative which may cause amnesia and lowered inhibitions in high doses."
   },
   {
-    "name": "Flutoprazepam"
+    "name": "Flutoprazepam",
+    "summary": "A potent benzodiazepine that is roughly 4-5x the potency of Diazepam and has a longer duration, rarely seen outside of Japan. Sedative, hypnotic and anxiolytic. May cause amnesia and loss of inhibitions in excess. Do not mix with other depressants."
   },
   {
-    "name": "Fluvoxamine"
+    "name": "Fluvoxamine",
+    "summary": ""
   },
   {
-    "name": "Furanylfentanyl"
+    "name": "Furanylfentanyl",
+    "summary": "An extremely potent opioid analgesic and analogue of fentanyl. Concrete information is difficult to obtain about even basic properties like active dose, though it is believed to be slightly less potent and shorter in duration than butyrfentanyl. Exercise extreme caution. Will cause respiratory depression in overdose."
   },
   {
-    "name": "G-130"
+    "name": "G-130",
+    "summary": "Stimulant that is related to Phenmetrazine. Nearly no information on dose or effects."
   },
   {
-    "name": "GABA"
+    "name": "GABA",
+    "summary": "Gamma-Aminobutyric Acid. Supplement used in calming some down. Does not pass the brain blood barrier."
   },
   {
-    "name": "Gabapentin"
+    "name": "Gabapentin",
+    "summary": "An analogue of GABA also known as Neurontin, originally developed to treat epilepsy. Commonly prescribed for neuropathic pain, it also has pronounced anxiolytic effects leading to its use in treating anxiety disorders."
   },
   {
-    "name": "GBL"
+    "name": "GBL",
+    "summary": "A pro-drug to GHB whose rapid absorption leads it to have a faster onset and shorter duration. Used in a similar manner to GHB, as a less-toxic alternative to alcohol. Consume slowly instead of as a \"shot\" to hugely improve safety and reduce overdose risk."
   },
   {
-    "name": "GHB"
+    "name": "GHB",
+    "summary": "A euphoric depressant which is prescribed as a sleep aid and sometimes to help with Alcohol detox. Also used as a recreational depressant, as a non-toxic alternative to Alcohol. Despite not having Alcohol's toxicity it is risky due to among other things inconsistent concentration in commonly sold solution form, and can be very dangerous if taken with other depressants."
   },
   {
-    "name": "Glaucine"
+    "name": "Glaucine",
+    "summary": "An alkaloid that is found in several different scpecies in the Papaveraceae family. It has antiinflammatory and antitussive effects. Can also be referred to as Yellow Horned Poppy."
   },
   {
-    "name": "Glutethimide"
+    "name": "Glutethimide",
+    "summary": "Is a hypnotic sedative that was introduced in 1954, as a \"safe\" alternative to barbiturates to treat insomnia. Anecdotally long term use has had effects similar to withdrawal, while still on a stable dose of the drug."
   },
   {
-    "name": "Halazepam"
+    "name": "Halazepam",
+    "summary": "A less common prescription benzodiazepine and derivative of Nordazepam. Also known as Paxipam, it is no longer prescribed in the USA. Sedating, hypnotic and anxiolytic. High doses may induce amnesia and lowered inhibitions."
   },
   {
-    "name": "Halothane"
+    "name": "Halothane",
+    "summary": "A powerful inhalant anaesthetic generally used in a medical setting to induce unconsciousness, as a supplement with ketamine or fentanyl."
   },
   {
-    "name": "HDEP-28"
+    "name": "HDEP-28",
+    "summary": "Most likely a TRI, such as HDMP-28, short history of human use."
   },
   {
-    "name": "HDMP-28"
+    "name": "HDMP-28",
+    "summary": "Also commonly known as methylnapthidate. A functional stimulant similar to methylphenidate but with a longer duration. Not especially recreational."
   },
   {
-    "name": "Heroin"
+    "name": "Heroin",
+    "summary": "A powerful opioid derived from Morphine, with 2-4x its potency. Infamous for a high addiction potential and fatal respiratory depression in overdose, C. R. Alder Wright first synthesised this compound in 1874 trying to find a less addictive alternative to Morphine. In recent years, it has often been sold cut with the extremely potent fentanyl, causing a spike in overdose deaths."
   },
   {
-    "name": "Hexedrone"
+    "name": "Hexedrone",
+    "summary": "A rare mephedrone analogue also known as MACP, a cathinone stimulant with similar effects to pentedrone."
   },
   {
-    "name": "Hexen"
+    "name": "Hexen",
+    "summary": "A cathinone based stimulant. Hexen (aka Ethyl-Hexedrone) acts as an NDRI to produce it's effects, and as with most cathinones has a fast onset and short duration. This drug has very little history of human consumption and next to no research/data, and therefor should be treated with caution as a research chemical."
   },
   {
-    "name": "Hexobarbital"
+    "name": "Hexobarbital",
+    "summary": "Is a barbiturate that was once used for inducing anesthesia for surgery. It has a very rapid onset, and a short duration of effects."
   },
   {
-    "name": "Homomazindol"
+    "name": "Homomazindol",
+    "summary": "A potent analogue of mazindol, a rare, atypical stimulant drug and appetite suppressant occasionally prescribed in cases of severe obesity."
   },
   {
-    "name": "Homosildenafil"
+    "name": "Homosildenafil",
+    "summary": "An analogue of sildenafil (viagra) with similar effects. Has been missold in certain 'herbal' blends and dietary supplements for sexual potency. Little is known about the pharmacology or safety profile of this drug in humans, potentially less potent than sildenafil."
   },
   {
-    "name": "HOT-2"
+    "name": "HOT-2",
+    "summary": "A rather rare psychedelic phenylethylamine that is the hydroxylated version and prodrug for 2C-T-2."
   },
   {
-    "name": "HOT-7"
+    "name": "HOT-7",
+    "summary": "A rather rare psychedelic phenylethylamine that is the hydroxylated version and prodrug for 2C-T-7."
   },
   {
-    "name": "HUPERZINE-A"
+    "name": "HUPERZINE-A",
+    "summary": "A compound that is extracted from the herbs of Huperziceae family. Is known as an acetylcholinesterase inhibitor, which stops an enzyme from breaking down acetylcholine which results in increases in acetylcholine. Is currently in preliminary trials for Alzheimer's."
   },
   {
-    "name": "Hydrocodone"
+    "name": "Hydrocodone",
+    "summary": "A codeine-derived opioid generally unheard of outside the United States. Generally mild in effects, used as an analgesic and cough-supressant. Sometimes used recreationally."
   },
   {
-    "name": "Hydromorphone"
+    "name": "Hydromorphone",
+    "summary": "An opioid that is roughly 5x the potency of IV Morphine. Only comes in IR tablets in the US, and is given mostly as XR in other countries. It is frequently used in hospitals for short, but immediate pain relief during procedures requiring the patient to be awake. Also frequently used as a recreational opiate."
   },
   {
-    "name": "Hydroxyzine"
+    "name": "Hydroxyzine",
+    "summary": "An antihistamine drug commonly prescribed for anxiety, itchiness, nausea, and insomnia. Hydroxyzine has also been used to potentiate the analgesia of opioids as well as diminishing the negative effects of opioids, such as itchiness."
   },
   {
-    "name": "Ibogaine"
+    "name": "Ibogaine",
+    "summary": "An alkaloid found in many African plants most famously Iboga, with psychedelic and hallucinogenic properties. May be unpleasant. Traditionally used in tribal environments for coming-of-age rituals, it has recently been used as an alternative treatment for drug addiction although this usage has not been backed by conclusive data in humans. Has killed in overdose."
   },
   {
-    "name": "Ibuprofen"
+    "name": "Ibuprofen",
+    "summary": "A ubiquitously available pain reliever/fever reducer. Ibuprofen is a nonsteroidal anti-inflammatory drug, available in many forms. It is sometimes used to reduce the body-load caused by certain drugs, such as stimulants."
   },
   {
-    "name": "Indapex"
+    "name": "Indapex",
+    "summary": "5-MEO-TMT, one of Shulgin's lesser known creations. A psychedelic tryptamine little heard of outside of TiHKaL with very little known information about its effects on humans. May be particularly given to causing nausea."
   },
   {
-    "name": "Indapyrophenidone"
+    "name": "Indapyrophenidone",
+    "summary": "Indane analogue of Pyrophenidone, a NDRI stimulant with a short duration."
   },
   {
-    "name": "Isomethadone"
+    "name": "Isomethadone",
+    "summary": "Once a pharmaceutical drug also known as isoamidone, this opioid analgesic and methadone analogue was withdrawn from the market and is seldom seen today. Rarely abused, though reports state it is around twice as potent as methadone, and more euphoric."
   },
   {
-    "name": "Isophenmetrazine"
+    "name": "Isophenmetrazine",
+    "summary": "Rare and little known analogue of phenmetrazine, which is slightly more potent than other analogues. Probably a stimulating, appetite supressing drug with high addiction potential. Potentially a dopamine and/or norepinephrine releasing agent."
   },
   {
-    "name": "Isopropylphenidate"
+    "name": "Isopropylphenidate",
+    "summary": "IPPH (or incorrectly IPH) is a novel piperidine based methylphenidate analogue and NDRI stimulant, but comes with much less physical side effects."
   },
   {
-    "name": "Isoproscaline"
+    "name": "Isoproscaline",
+    "summary": "A analogue of mescaline, and more closely related to proscaline."
   },
   {
-    "name": "Jenkem"
+    "name": "Jenkem",
+    "summary": "A hoax which began in online communities of a non-existent drug which was claimed to result from a process involving human waste. http://www.snopes.com/crime/warnings/jenkem.asp"
   },
   {
-    "name": "Kanna"
+    "name": "Kanna",
+    "summary": "A South African plant containing numerous psychoactive alkaloids, including mesembrine and mesembrenone. The first written account of the substance was in 1662. The pharmacology of these compounds is poorly understood, but they are suspected to be serotonin uptake inhibitors and potentially monoamine releasers. Said to suppress appetite, produce mild euphoria and reduce anxiety."
   },
   {
-    "name": "Kava"
+    "name": "Kava",
+    "summary": "Tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to alcohol. It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'"
   },
   {
-    "name": "Ketamine"
+    "name": "Ketamine",
+    "summary": "A short acting dissociative anaesthetic and hallucinogen commonly used in emergency medicine. It is the prototypical dissociative, and is widely used at sub-anesthetic doses recreationally. Small doses are comparable with alcohol, while larger doses are immobilising and lead to psychedelic experiences: the \"K-Hole.\""
   },
   {
-    "name": "Ketazolam"
+    "name": "Ketazolam",
+    "summary": "Benzodiazepine derivative that has most of the common benzodiazepine effects. Has been seen to have similar effectiveness when compared to Diazepam, with milder side-effects. Is marketed in few countries."
   },
   {
-    "name": "Ketobemidone"
+    "name": "Ketobemidone",
+    "summary": "An opioid analgesic drug that also acts as an NDMA antagonist. Found to be as potent as morphine in physical side effects, and has high potential for addiction like all opioids do. Overdose may lead to respiratory depression/death. Do not mix with CNS depressants or stimulants. Caution should be used for asthmatic users."
   },
   {
-    "name": "Khat"
+    "name": "Khat",
+    "summary": "A shrub whose leaves contain Cathinone and Cathine, they are mostly chewed for the stimulant effect they provide. Very long history of human use."
   },
   {
-    "name": "Kratom"
+    "name": "Kratom",
+    "summary": "A drug made out of the leaves of Mitragyna Speciosa, which is related to coffee. Stimulating at lower doses, with opioid effects at higher doses. Frequent heavy use can cause physical addiction and withdrawals."
   },
   {
-    "name": "L-THEANINE"
+    "name": "L-THEANINE",
+    "summary": "An Amino acid that is structural similar to Glutamine. Most report it as a relaxing agent without much sedation. Most commonly found tea. Usually mixed with Caffeine."
   },
   {
-    "name": "Librium"
+    "name": "Librium",
+    "summary": "Chlordiazepoxide, a medium-acting benzodiazepine drug prescribed mostly for sleep purposes. Sedative and hypnotic, it may cause lowered inhibitions and amnesia in high doses."
   },
   {
-    "name": "Loprazolam"
+    "name": "Loprazolam",
+    "summary": "Is an Imidazolobenzidazepine derivative that has all the classic benzodiazepine effects. Is usually only prescribed for a short amount of time for insomnia."
   },
   {
-    "name": "Lorazepam"
+    "name": "Lorazepam",
+    "summary": "An intermediate acting benzodiazepine commonly known as Ativan, commonly prescribed as an alternative to Xanax. Sedating, hypnotic and anxiolytic. Potential to induce amnesia and lowered inhibitions in overdose. Do not combine with other depressants."
   },
   {
-    "name": "Lormetazepam"
+    "name": "Lormetazepam",
+    "summary": "Relatively rare prescription benzodiazepine. Short acting with a short half life. Generally only seen in the Netherlands. Sedative, hypnotic and anxiolytic."
   },
   {
-    "name": "LSA"
+    "name": "LSA",
+    "summary": "A chemical found in Morning Glory and Hawaiian Baby Woodrose seeds, which are often legally available. Has mental effects similar to LSD, although with almost no visual effects. It is famous for being very nauseating, and for causing excessive time dilation at higher doses."
   },
   {
-    "name": "LSD"
+    "name": "LSD",
+    "summary": "LSD is a popular psychedelic with a relatively long history of use and research, and as such is known to be relatively safe despite its extremely high potency. It is the archetypical psychedelic to which all others are compared, and remains in popular usage."
   },
   {
-    "name": "LSM-775"
+    "name": "LSM-775",
+    "summary": "Psychedelic of the lysergamide class, less potent by weight and produces a rather mild, dreamy and even sedating trip compared to its bigger brother LSD."
   },
   {
-    "name": "LSZ"
+    "name": "LSZ",
+    "summary": "A lysergamide very similar to LSD usually distinguishable only by its shorter duration, though some subjective reports have noted it may be slightly more introspective and slightly less confusing."
   },
   {
-    "name": "Marinol"
+    "name": "Marinol",
+    "summary": "Synthetically created Δ9-THC, the main psychoactive ingredient in cannabis."
   },
   {
-    "name": "MBDB"
+    "name": "MBDB",
+    "summary": "A rare entactogenic drug and analogue of MDMA possibly first synthesised by David Nichols. Potentially less potent than related drugs of its type. Sometimes referred to as a 'watered down MDMA.'"
   },
   {
-    "name": "MBZP"
+    "name": "MBZP",
+    "summary": "A stimulant drug which is a derivative of BZP."
   },
   {
-    "name": "MCPP"
+    "name": "MCPP",
+    "summary": "A phenylpiperazine stimulant first developed in the 1970s before being sold in the RC market, often mislabelled as MDMA. Said to have very unpleasant effects such as anxiogenesis and headaches."
   },
   {
-    "name": "MDA"
+    "name": "MDA",
+    "summary": "A stimulant and empathogen. Similar to MDMA but typically produces more visuals than MDMA. Known to be more neurotoxic than MDMA, and is a minor metabolite of MDMA. Duration and onset similar to MDMA. The common Marquis reagent test cannot differentiate MDA and MDMA."
   },
   {
-    "name": "MDAI"
+    "name": "MDAI",
+    "summary": "A selective serotonin releasing agent which is rarely used without a stimulant to obtain desirable effects. Previously believed not to be neuruotoxic, however MDAI has been implicated in several lethal and non-lethal intoxications, and as such may pose more of a risk to health than previously believed."
   },
   {
-    "name": "MDEA"
+    "name": "MDEA",
+    "summary": "A quite rare empathogen closely related to MDMA. Yet is less potent than the prior."
   },
   {
-    "name": "MDMA"
+    "name": "MDMA",
+    "summary": "The world's most popular empathogen with powerful pro-social effects. Has been strongly linked to cognitive decline in excess. Popular at parties, it is often sold in powder or in pills, and may be adulterated with other similar chemicals."
   },
   {
-    "name": "MDOH"
+    "name": "MDOH",
+    "summary": "An entactogen, stimulant and psychedelic first synthesised by Alexander Shulgin, MDOH is an analogue of MDA. Described as highly psychedelic, it is likely a serotonin releasing agent. It has not seen widespread use, perhaps due to a number of reported negative side effects such as urinary retention and a heavy comedown."
   },
   {
-    "name": "MDPA"
+    "name": "MDPA",
+    "summary": "An obscure substituted methylenedioxyphenethylamine with practically no history of human use. Its pharmacological profile is largely unknown, but potentially exhibits similar properties to other MDxx compounds. May be a monoamine releaser, reuptake inhibitor or both."
   },
   {
-    "name": "Mdphp"
+    "name": "Mdphp",
+    "summary": "MDPHP aka 'Monkey-Dust' is a substituted cathinone and pyrovalerone which has been sold as an alternative to a-PHP and MDPV. Said to be less intense than MDPV with similar effects. MDPHP potency is said to vary widely, and there are reports of mixed composition batches containing other drugs. Very little is known about MDPHP in terms of toxicity, pharmacology and metabolism."
   },
   {
-    "name": "MDPV"
+    "name": "MDPV",
+    "summary": "MDPV is a potent, and extremely compulsive synthetic euphoric stimulant, which shares some empathogenic effects with MDMA. Has a reputation for causing psychosis. MDPV has been found in products sold as \"bath salts\", \"plant food/fertilizer\", and in some \"ecstasy.\""
   },
   {
-    "name": "Mebroqualone"
+    "name": "Mebroqualone",
+    "summary": "A short acting analogue of Methaqualone, that is much more potent."
   },
   {
-    "name": "Meclonazepam"
+    "name": "Meclonazepam",
+    "summary": "A benzodiazepine related to clonazepam discovered by Hoffman-LaRoche in the 1960s. Potentially useful in treating schistosomiasis. Has been sold on the grey market as a recreational drug but has not seen widespread popularity."
   },
   {
-    "name": "Medazepam"
+    "name": "Medazepam",
+    "summary": "Benzodiazepine derivative that has all of the classic benzodiazepine effects. Is a long-acting benzodiazepine drug (Half life of 36-200 hours) Is rarely prescribed in most countries. Is also a prodrug for Diazepam. Think of it as Desoxy-Diazepam if you'd like to."
   },
   {
-    "name": "Melatonin"
+    "name": "Melatonin",
+    "summary": "A naturally occurring hormone produced in the body, which promotes sleep at certain times in the day based on the circadian rhythm. It is also commonly available as a drug to treat insomnia and promote a proper sleep cycle. It can be used to promote sleepfulness at the tail-end of drug experiences, though it is not particularly hypnotic."
   },
   {
-    "name": "MEM"
+    "name": "MEM",
+    "summary": "A rare stimulant, psychedelic and amphetamine discovered by Alexander Shulgin. Related to the DOx class of drugs, little is known about this obscure compound's pharmacology, however it is likely to be potent and have a long duration."
   },
   {
-    "name": "Memantine"
+    "name": "Memantine",
+    "summary": "An NMDA-antagonist that if used recreationally can cause to a very prolonged \"hole\" lasting up to 16+ hours."
   },
   {
-    "name": "Mephedrone"
+    "name": "Mephedrone",
+    "summary": "A shortlived euphoric stimulant, developed as an analogue of MDMA, which was extremely popular in the research chemical scene before being banned. Commonly seen on street markets but rarer online. Very strong urge to redose compulsively."
   },
   {
-    "name": "Mephtetramine"
+    "name": "Mephtetramine",
+    "summary": "Has a Phenpropylamine backbone like Methylphenidate. Seems barely active past negative physical effects. Only reports that include activity past the prior were mixing it with another substance."
   },
   {
-    "name": "Mescaline"
+    "name": "Mescaline",
+    "summary": "A psychedelic of the phenethylamine family. Found in psychedelic cacti that have long been used by peoples native to the Southwestern US and Mexico, including Peyote and San Pedro cacti, among others. Can be found as cactus pulp, as an extract from cacti, or as a synthetic substance created in a lab."
   },
   {
-    "name": "MET"
+    "name": "MET",
+    "summary": "A rare psychedelic tryptamine, related to DMT and DET. Little information exists about the effects or pharmacology of this drug."
   },
   {
-    "name": "Metaclazepam"
+    "name": "Metaclazepam",
+    "summary": "A benzodiazepine derivative. Which is mostly an anxiolytic substance, without strong hypnotic properties that most benzodiazepines have. Its active metabolite is N-desmethylmetaclazepam, which is the main metabolite. Slightly more effective as an anxiolytic than Bromazepam."
   },
   {
-    "name": "Metaxalone"
+    "name": "Metaxalone",
+    "summary": "Muscle relaxant, that is used to relieve pain from general pain, and other musculoskeletal conditions."
   },
   {
-    "name": "Methadone"
+    "name": "Methadone",
+    "summary": "A synthetic opioid drug used as an analgesic and is often used in detoxification off of other opioids. As it has a much longer half-life."
   },
   {
-    "name": "Methallylescaline"
+    "name": "Methallylescaline",
+    "summary": "Mescaline analogue first synthesised by Alexander Shulgin, derived from and less potent than allylescaline. A psychedelic phenethylamine which causes stimulation, euphoria and hallucinatory experiences."
   },
   {
-    "name": "Methamnetamine"
+    "name": "Methamnetamine",
+    "summary": "A selective serotonin releaser, which also shows some light psychedelic activity. Almost always taken with a stimulant, to cause euphoric effects."
   },
   {
-    "name": "Methamphetamine"
+    "name": "Methamphetamine",
+    "summary": "A fairly common and very strong CNS stimulant. It is sometimes prescribed in the form of desoxyn for ADHD and severe obesity. In low doses, methamphetamine can elevate mood, increase alertness, concentration, energy and reduces appetite. At higher doses, it can induce mania, psychosis and muscle degeneration among other issues. Tolerant users may report much higher doses than new users."
   },
   {
-    "name": "Methaqualone"
+    "name": "Methaqualone",
+    "summary": "A pharmaceutical depressant and sedative phased out due to the better safety profile of benzodiazepines, part of the Qualone group of substances. Now very rare, except in South Africa."
   },
   {
-    "name": "Methedrone"
+    "name": "Methedrone",
+    "summary": "BK-PMMA Closely related to PMMA and others. Stimulant."
   },
   {
-    "name": "Methoxphenidine"
+    "name": "Methoxphenidine",
+    "summary": "A dissociative from the diarylethylamine class, a more potent analogue of diphenidine. Known to be unpredictable, and can cause blackouts."
   },
   {
-    "name": "METHOXYACETYL-FENTANYL"
+    "name": "METHOXYACETYL-FENTANYL",
+    "summary": "A quite potent fentanyl analogue."
   },
   {
-    "name": "Methoxyketamine"
+    "name": "Methoxyketamine",
+    "summary": "An arylcyclohexylamine drug and analogue of ketamine, though slightly less potent. Produces similar dissociative and anaesthetic effects. Very rare."
   },
   {
-    "name": "Methoxypiperamide"
+    "name": "Methoxypiperamide",
+    "summary": "Drug of the Piperazine class. The 4-Methoxy-α-keto analogue of Methylbenzylpiperazine. Seemingly inactive on its own. Was sold in tandem with Mephtetramine."
   },
   {
-    "name": "Methylmethaqualone"
+    "name": "Methylmethaqualone",
+    "summary": "A more potent analogue of methaqualone with a short duration. Thought to be potentially neurotoxic. Has pro-convulsive effects."
   },
   {
-    "name": "Methylmorphenate"
+    "name": "Methylmorphenate",
+    "summary": "Stimulant of the phenylmorpholine class, an analogue of Methylphenidate where the piperidine ring has been replaced by a morpholine one, with ~1/10 potency."
   },
   {
-    "name": "Methylone"
+    "name": "Methylone",
+    "summary": "βk-MDMA is a cathinone stimulant and empathogen, similar in structure to MDMA, though more stimulating and less empathogenic in comparison. Was very commonly mis-sold as MDMA on the street until it was banned in 2013. The Marquis reagent can differentiate βk-MDMA from MDMA. Less potent than MDMA with a slightly shorter duration."
   },
   {
-    "name": "Methylphenidate"
+    "name": "Methylphenidate",
+    "summary": "A psychostimulant commonly used in the treatment of ADHD, narcolepsy and obesity, particularly in the EU instead of Adderall. Methylphenidate is also a 5HT1A receptor agonist. Sometimes prescribed off-label to help the withdrawals from cocaine and other stimulants."
   },
   {
-    "name": "Methyprylon"
+    "name": "Methyprylon",
+    "summary": "Sedative of the pipeidinedone family. Was used for treating insomnia, yet is rarely used today due to substances with fewer side effects, such as benzodiazepines."
   },
   {
-    "name": "Metizolam"
+    "name": "Metizolam",
+    "summary": "Also known as desmethyletizolam, a thienodiazepine similar in effects and structure to etizolam, but around half as potent and with around a 60% longer half-life. A sedative, and hypnotic, it may cause amnesia and lowered inhibitions in excess."
   },
   {
-    "name": "Mexamine"
+    "name": "Mexamine",
+    "summary": "5-Methoxytryptamine, a tryptamine derivative that naturally occurs in the body at low levels. No evidence of recreational use. Apparently enhances dreams."
   },
   {
-    "name": "Mexazolam"
+    "name": "Mexazolam",
+    "summary": "Benzodiazepine derivative that has been trialed for anxiety and was found to be effective for anxiety at one week week follow-ups yet after three weeks it had lost its therapeutic anxiolytic properties and becoming no more effective than placebo."
   },
   {
-    "name": "Mexedrone"
+    "name": "Mexedrone",
+    "summary": "Mexedrone is a stimulant drug of the cathinone class. It alters the reuptake of serotonin, dopamine, and norepinephrine to cause euphoria,  and is similar in effects to mephedrone. It is considered a designer drug and is in a legally grey area globally."
   },
   {
-    "name": "Midazolam"
+    "name": "Midazolam",
+    "summary": "A common hypnotic, sedative and anxiolytic benzodiazepine. High doses may cause amnesia and loss of inhibitions. Unusually, it is water soluble, and commonly used as a premedication for sedation as the solubility makes it better for IV use than other benzodiazepines."
   },
   {
-    "name": "MiPT"
+    "name": "MiPT",
+    "summary": "N-Methyl-N-isopropyltryptamine, a tryptamine analogue of DMT, a very uncommon drug with very few reports of human use. Described as 'more psychedelic than hallucinogenic' users report only mild visuals with some stimulation and cognitive effects. One of the more stable tryptamines."
   },
   {
-    "name": "MK-801"
+    "name": "MK-801",
+    "summary": "Dissociative research chemical similar to PCP, and Ketamine. Dizocilpine, also known as MK-801, is a non-competitive antagonist of the NMDA receptor."
   },
   {
-    "name": "Moclobemide"
+    "name": "Moclobemide",
+    "summary": "A reversible MAOI which is prescribed to treat depression and anxiety. Its reversibility and short-acting length of effects often means it is used in \"pharmahuasca\" preparations."
   },
   {
-    "name": "Modafinil"
+    "name": "Modafinil",
+    "summary": "A wakefulness promoting, long acting stimulant which is typically only used functionally, because there is no real euphoric component to its effects. Also prescribed for daytime sleeping disorders."
   },
   {
-    "name": "Morpheridine"
+    "name": "Morpheridine",
+    "summary": "Is a 4-Phenylpiperidine derivative that is related to Pehidine. It is roughly 4x as potent as the parent compound, does not cause convulsions such as Pethidine."
   },
   {
-    "name": "Morphine"
+    "name": "Morphine",
+    "summary": "The prototypical opioid drug, a powerful analgesic with euphoric qualities, found in the seeds and wax of the plant papaver somniferum (opium poppy).  First isolated by Friedrich Sertürner in 1805, named for its sleep-inducing qualities. Do not combine with other depressants, may cause dangerous respiratory depression in overdose."
   },
   {
-    "name": "MPA"
+    "name": "MPA",
+    "summary": "An analogue of methamphetamine with effects close to amphetamine. Some users report negative side effects including stomach discomfort and sweating. Acts as a selective NDRI."
   },
   {
-    "name": "MT-45"
+    "name": "MT-45",
+    "summary": "A synthetic opioid drug that was rumoured to be roughly 80% the potency of Morphine orally. Was created by Dainippon Pharmaceutical in the 1970's. It has been used as a lead compound for the design of related substances. It has been associated with hearing loss and hair loss. Structurally unrelated to most other opioid drugs. Treat with caution, especially long term use."
   },
   {
-    "name": "Mushrooms"
+    "name": "Mushrooms",
+    "summary": "Fungi containing psilocybin, a prototypical psychedelic with similar effects to LSD, but with a shorter duration; also considered as being more confusing, introspective and entheogenic. Usually refers to psilocybe mushrooms rather than Amanitas, which have different effects. Are considered physically safe if properly identified, which should always be done by an expert."
   },
   {
-    "name": "MXE"
+    "name": "MXE",
+    "summary": "A popular dissociative drug which is an analogue of ketamine, though less sedating and more potent by weight, with a subjectively more 'complicated' set of effects."
   },
   {
-    "name": "MXM"
+    "name": "MXM",
+    "summary": "An arylcyclohexamine, dissociative and anaesthetic closely related to methoxetamine, ketamine and PCP. It has seen some popularity among RC users, being advertised as an MXE replacement after its illegalisation in many parts of the world - however, users report a more stimulating experience closer to those caused by PCP and its analogues."
   },
   {
-    "name": "N2O"
+    "name": "N2O",
+    "summary": "Nitrous oxide, also known as laughing gas, often inhaled through balloons filled with canisters of the gas.. A short-acting dissociative inhalant with strong visual, mental and auditory effects. Extremely popular especially in combination with other drugs."
   },
   {
-    "name": "Naphyrone"
+    "name": "Naphyrone",
+    "summary": "A drug derived from pyrovalerone which acts as a TRI, producing stimulating effects. Had been sold in a blend called \"NRG-1\" Little information exists about the safety profile of this drug."
   },
   {
-    "name": "Naproxen"
+    "name": "Naproxen",
+    "summary": "A very common pain reliever/fever reducer also known as Aleve. Naproxen is in the same category as Ibuprofen, which is also a nonsteroidal anti-inflammatory. This drug is available in most places over the counter. Is sometimes used to reduce the body-load of certain drugs."
   },
   {
-    "name": "NEB"
+    "name": "NEB",
+    "summary": "N-Ethylbuphedrone, an uncommon substituted cathinone. First appeared around 2011 but has not become popular. Effects should somewhat resemble other cathinones generally. Short-acting stimulating with more dopamine action than serotonin."
   },
   {
-    "name": "Nefiracetam"
+    "name": "Nefiracetam",
+    "summary": "Nootropic compound of the racetam family. Seems to enhance both GABAergic and cholinergic signalling. Long term use appears to be neuroprotective. Fat soluble."
   },
   {
-    "name": "Nicomorphine"
+    "name": "Nicomorphine",
+    "summary": "Opioid agonist that is 2-3x the potency of Morphine. Is used in few countries. Rapid onset of effects, due to the increased lipid solubility."
   },
   {
-    "name": "Nicotine"
+    "name": "Nicotine",
+    "summary": "A chemical found in tobacco, aubergines and tomatoes which is considered one of the most addictive drugs in existence. It is a mild stimulant, with stress relieving effects. It is widely used in the form of cigarettes, the use of which carries a high risk of causing cancer or heart issues over time. Increasingly, it is 'vaped' as a purportedly safer alternative to smoking."
   },
   {
-    "name": "Nifoxipam"
+    "name": "Nifoxipam",
+    "summary": "An uncommon and relatively new RC benzodiazepine, and metabolite of the hypnotic benzodiazepine flunitrazepam. Little information about the pharmacological properties of this drug exists. Likely to be a strong sedative and hypnotic."
   },
   {
-    "name": "Nimetazepam"
+    "name": "Nimetazepam",
+    "summary": "A pharmaceutical benzodiazepine with hypnotic and sedative effects. Rarely seen in the West but reportedly very frequently abused in Malaysia."
   },
   {
-    "name": "Nitemazepam"
+    "name": "Nitemazepam",
+    "summary": "A new RC benzodiazepine based off the chemical structure of Nimetazepam. It is relatively new and not many experience reports exist on it. It is expected to feel similar to temazepam."
   },
   {
-    "name": "Nitracaine"
+    "name": "Nitracaine",
+    "summary": "An analogue of dimethocaine with local anaesthetic and stimulant properties, marketed in the RC scene as a Cocaine replacement. Has not seen widespread popularity."
   },
   {
-    "name": "Nitrazepam"
+    "name": "Nitrazepam",
+    "summary": "Hypnotic Benzodiazepine, that is used for short term relief of anxiety and insomnia. It has a pronouced affect on respritory action."
   },
   {
-    "name": "Nitrazolam"
+    "name": "Nitrazolam",
+    "summary": "Hypnotic benzodiazepine that is the triazolo analogue of Nitrazepam and about 4x more potent compared to the parent compound. Also the dechlorinated derivative of Clonazolam with roughly 1/10 potency."
   },
   {
-    "name": "NM-2-AI"
+    "name": "NM-2-AI",
+    "summary": "Stimulant that is in the aminoindane class. Is it quite close to it's bigger brother 2-AI. Yet this has a lower potency, has a longer duration though."
   },
   {
-    "name": "Noopept"
+    "name": "Noopept",
+    "summary": "A common nootropic often attributed with temporarily increasing intelligence, concentration, focus and memory recall. Daily use can lead to dependency with withdrawals which make the user feel 'stupid.' Often taken daily in a 'stack' with other nootropics."
   },
   {
-    "name": "Nordazepam"
+    "name": "Nordazepam",
+    "summary": "Has all the normal benzodiazepine effects. Such as being an anti-convulsant, muscle relaxant, sedative effects, and anxiolytic. Active metabolite of Diazepam, Chlordiazepoxide, Clorazepate, among many others, which is where most of its effects come from. Has one of the longest lasting half-lifes in the class."
   },
   {
-    "name": "Norflurazepam"
+    "name": "Norflurazepam",
+    "summary": "Benzodiazepine analogue that is an active metabolite to many other benzodiazepines, such as Flurazepam, Flutoprazepam, and Midazolam."
   },
   {
-    "name": "O-Desmethyltramadol"
+    "name": "O-Desmethyltramadol",
+    "summary": "A opioid analgesic which is the main active metabolite of Tramadol. Alone, it is a few times more potent than Tramadol and has additional affinity for δ and κ-opioid receptors. Has proven popular when sold, but these occasions have been rare due to patent rights."
   },
   {
-    "name": "O-PCE"
+    "name": "O-PCE",
+    "summary": "Dissociative of the Arylcyclohexylamine class. Structurally related to Deschloroketamine."
   },
   {
-    "name": "Opium"
+    "name": "Opium",
+    "summary": "Opium is a naturally occurring analgesic harvested as a latex from ripe Papaver somniferum (opium poppy) pods. The sap of the poppy plant primarily contains codeine and morphine with the amounts varying by plant, which can be made into a tea and consumed raw, or further processed."
   },
   {
-    "name": "Oxazepam"
+    "name": "Oxazepam",
+    "summary": "A prescription benzodiazepine with intermediate duration and half life. A sedative and hypnotic which may cause lowered inhibitions and amnesia in higher doses."
   },
   {
-    "name": "Oxazolam"
+    "name": "Oxazolam",
+    "summary": "A benzodiazepine derivative that is a prodrug for desmethyldiazepam."
   },
   {
-    "name": "Oxiracetam"
+    "name": "Oxiracetam",
+    "summary": "Oxiracetam is a racetam nootropic, having a hydroxyl group being the only difference between this and Piracetam. It used as a nootropic, namely for increased cognitive function. It is usually used two to three times a day. This substance is normally taken with Choline, can cause headaches without the addition of Choline."
   },
   {
-    "name": "Oxycodone"
+    "name": "Oxycodone",
+    "summary": "A semisynthetic opioid analgesic developed in 1917, prescribed primarily for pain management. It has become extremely popular as a recreational drug in some areas, and carries a high potential for addiction. Reported as being a little more 'stimulating' than other opioids."
   },
   {
-    "name": "Oxymorphone"
+    "name": "Oxymorphone",
+    "summary": "A powerful semisynthetic opioid analgesic also known as opana. A derivative of morphine it is approximately ten times as potent. Has a low oral bioavailability, and as such it is usually insufflated or taken rectally."
   },
   {
-    "name": "Pagoclone"
+    "name": "Pagoclone",
+    "summary": "An anxiolytic drug related to zopiclone with no sedative or hypnotic qualities. Has been investigated as a possible alcohol replacement. Related in structure and effect to Zopiclone and Zolpidem."
   },
   {
-    "name": "Paracetamol"
+    "name": "Paracetamol",
+    "summary": "A common, over the counter, fever reducer and painkiller. It is mixed with many common opiates. Can cause liver damage and failure in higher doses. No recreational value."
   },
   {
-    "name": "Parafluorofentanyl"
+    "name": "Parafluorofentanyl",
+    "summary": "Rare, little known and extremely potent analogue of Fentanyl developed by Janssen Pharmaceutica in the 1960s. Use with extreme caution and never mix with other depressants."
   },
   {
-    "name": "Paroxetine"
+    "name": "Paroxetine",
+    "summary": ""
   },
   {
-    "name": "PCE"
+    "name": "PCE",
+    "summary": "Eticyclidine (PCE) is a Dissociative anesthetic that has hallucinogenic effects. Slightly more potent than Phencyclidine."
   },
   {
-    "name": "PCP"
+    "name": "PCP",
+    "summary": "A strong dissociative drug.  PCP works primarily as an NMDA receptor antagonist. Also referred to as \"wet\" or \"angel dust\". Best known for stories of the strange and sometimes violent behaviour of those under its influence, though it is likely these are only in overdose cases."
   },
   {
-    "name": "Pemoline"
+    "name": "Pemoline",
+    "summary": "A stimulant of the 4-oxazolidinone class. Was used as a medication for ADHD and Narcolepsy, yet was pulled from most markets due to liver failures among children."
   },
   {
-    "name": "Pentazocine"
+    "name": "Pentazocine",
+    "summary": "A synthetic opioid used as an analgesic. It is only used IM and IV in the medical field and has respiratory depressant effects. It is pregnancy category C and schedule IV in the US."
   },
   {
-    "name": "Pentedrone"
+    "name": "Pentedrone",
+    "summary": "A potent NDRI cathinone-type stimulant with more-ish effects but not thought to be especially enjoyable."
   },
   {
-    "name": "Pentobarbital"
+    "name": "Pentobarbital",
+    "summary": "A CNS depressant drug that is of the barbituate class. Typically not used often as it is easier to OD on than benzodiazepines, the new alternative to barbituates. Used often for insomnia, to cause sedation."
   },
   {
-    "name": "Pentylone"
+    "name": "Pentylone",
+    "summary": "A stimulant, empathogen and substituted cathinone. It was first synthesised in the 1960s, and re-appeared on the research chemical scene in 2010. Still, very little is known about the pharmacology or effects of this compound."
   },
   {
-    "name": "Pethidine"
+    "name": "Pethidine",
+    "summary": "A phenylpiperidine opioid first synthesised by Otto Eisleb in 1939, better known by the names meperidine and pethidine. An analgesic, once widely prescribed it has since declined in usage due to the discovery of a toxic metabolite - norpethidine. Also reacts dangerously with many drugs."
   },
   {
-    "name": "Peyote"
+    "name": "Peyote",
+    "summary": "Peyote is a small, spineless cactus that contains mescaline as its primary active chemical. It has a long history of use among the natives of northern Mexico and SW United States."
   },
   {
-    "name": "PFBT"
+    "name": "PFBT",
+    "summary": "Tropane derivative substance that supposedly has around ~30% the potency of Cocaine as a stimulant. While also having properties of a local anasthetic."
   },
   {
-    "name": "Phenazepam"
+    "name": "Phenazepam",
+    "summary": "A very long acting, potent and subtle benzodiazepine. Infamous for the calamitous experiences it tends to produce in people dosing unknown amounts. Prescribed in certain countries for epilepsy and alcohol withdrawal."
   },
   {
-    "name": "Phenethylamine"
+    "name": "Phenethylamine",
+    "summary": "Organic compound, which is a name of a class of chemicals that are quite well known for psychoactive and/or stimulant effects. Normally not used as a supplement as it is rapidly broken down into inactive compounds. Is found in many foods."
   },
   {
-    "name": "Phenetrazine"
+    "name": "Phenetrazine",
+    "summary": "A rare phenethylamine stimulant related to 3-FPM. Virtually nothing is known about the pharmacology or effects of this compound but it is likely to have similar properties to other stimulants of its type. Not to be confused with phenmetrazine."
   },
   {
-    "name": "Phenibut"
+    "name": "Phenibut",
+    "summary": "A derivative of GABA with the addition of a phenyl ring which allows it to cross the Blood Brain Barrier. Is mostly used as an anti-anxiety and anti-insomnia medication. Tolerance and physical dependency builds very quickly."
   },
   {
-    "name": "Phenmetrazine"
+    "name": "Phenmetrazine",
+    "summary": "Stimulant drug that was previously used as an appetite suppresant, has been withdrawn from the market, due to concerns of abuse and addiction. Usually produces less nervousness, euphoria, and insomnia than drugs of the amphetamine family. Also as a study concluded, it is slightly more effective than dextroamphetamine as a weight loss agent."
   },
   {
-    "name": "Phenobarbital"
+    "name": "Phenobarbital",
+    "summary": "CNS depressant that is used mostly for insomnia (In older patients) and epliepsy (in younger patients) And it a very strong narcotic, that can be taken most ways. It's used less as \"safer\" alternatives have been made (Benzodiazepines)."
   },
   {
-    "name": "Phentermine"
+    "name": "Phentermine",
+    "summary": "Psychostimulant of the substituted amphetamine class. Used in medicine as an appetite suppressant."
   },
   {
-    "name": "Phenylpiracetam"
+    "name": "Phenylpiracetam",
+    "summary": "A nootropic and piracetam analogue also known as fonturacetam, this drug has been shown to have potential memory enhancing, anxiolytic, anti-amnesia and anti-depressive effects, however has little recreational value. Around 45x more potent than Piracetam."
   },
   {
-    "name": "Picamilon"
+    "name": "Picamilon",
+    "summary": "An analogue of GABA that does pass the brain blood barrier, which is then hydrolyzed into GABA and Niacin. In which the GABA could produce an anxiolytic effect. The Niacin as a vasodilator. And is usually used as part of a nootropic stack."
   },
   {
-    "name": "Pinazepam"
+    "name": "Pinazepam",
+    "summary": "Benzodiazepine that is solely an anxiolytic drug that lacks the hypnotic and motor impairment that most benzodiazepines do. The main metabolite of this is Nordazepam and to a lesser effect Oxazepam, which is where it gets most of its effects"
   },
   {
-    "name": "PiPT"
+    "name": "PiPT",
+    "summary": "A rare psychedelic tryptamine related to DPT. Little is known about the effects or safety profile of this compound."
   },
   {
-    "name": "Piracetam"
+    "name": "Piracetam",
+    "summary": "A racetam nootropic claimed by many to have cognitive benefits however this has never been strongly supported in healthy individuals. Prescribed in the UK as a treatment for myoclonus. Potentially an ampakine. One of the first popular 'nootropics.'"
   },
   {
-    "name": "PMA"
+    "name": "PMA",
+    "summary": "An empathogen with a slow onset and very strong serotonin release. This, combined with its lack of dopamine release, often leads users to dose more for the pleasurable effects which never come, leading to hospitalisations and deaths. Sometimes mis-sold as MDMA."
   },
   {
-    "name": "Pramiracetam"
+    "name": "Pramiracetam",
+    "summary": "A CNS stimulant that is a nootropic, that belongs to the racetam family of compounds. Much more potent than Piracetam while appearing to work on similar mechanisms."
   },
   {
-    "name": "Prazepam"
+    "name": "Prazepam",
+    "summary": "Benzodiazepine dervative. Has all the normal benzodiazepine-like quality (Anxiolytic/anticonvulsant/sedative/Skeletal muscle relaxant) It is also a prodrug for Desmethyldiazepam which is responsible for most if not all of the effects of Prazepam."
   },
   {
-    "name": "PRE-084"
+    "name": "PRE-084",
+    "summary": "A sigma-1 receptor agonist derived structurally from PCP. It has cognitive enhancing effects as well as antidepressant effects, and shows promise in treating many nervous system diseases such as ALS and parkinsons."
   },
   {
-    "name": "Pregabalin"
+    "name": "Pregabalin",
+    "summary": "Pregabalin (Lyrica) is a GABA derivative that is used to treat neuropathic pain and seizures, as well as anxiety."
   },
   {
-    "name": "PRL-8-53"
+    "name": "PRL-8-53",
+    "summary": "A nootropic research chemical first synthesized in the 70s. One study shows a drastic improvement in mid-term memory among users, but otherwise it is severely lacking in information surrounding it. It has no recreational potential."
   },
   {
-    "name": "PRO-LAD"
+    "name": "PRO-LAD",
+    "summary": "A very rare lysergamide that is slightly less potent than LSD, yet with a shorter duration of action."
   },
   {
-    "name": "Prolintane"
+    "name": "Prolintane",
+    "summary": "A stimulant drug which is a dopamine reuptake inhibitor, related to MDPV and Pyrovalerone. It was first developed in the 1950s, and has seen some light usage in rave culture, though it remains relatively uncommon. Believed to have a relatively forgiving safety profile."
   },
   {
-    "name": "Promethazine"
+    "name": "Promethazine",
+    "summary": "A first generation antihistamine,  which also possesses anticholinergic, strong sedative and antipsychotic properties. Once commonly used as a treatment for psychosis, it is now more commonly seen as a component of codeine cough syrups as an anti-nausea agent."
   },
   {
-    "name": "Propofol"
+    "name": "Propofol",
+    "summary": "A very short acting sedative that is usually given at the start of general anesthesia, and for maintenance of the prior. It should never be used outside of a medical setting. With that in mind, if you do plan to use this drug recreational, please have a very experienced friend with you that has the skills to insert a cannula, and monitor you very closely."
   },
   {
-    "name": "Propoxyphene"
+    "name": "Propoxyphene",
+    "summary": "Is an analgesic in the opioid family. It is intended for mild pain and for its antitussive effects. Has been taken off the market in Europe and the US due to concerns of fatal overdoses and heart arrhythmias."
   },
   {
-    "name": "Propranolol"
+    "name": "Propranolol",
+    "summary": "Is a nonselective beta blocker. It is used in medication for high blood pressure, anxiety, and tremors. Also fun fact, it was the first successful beta-blocker developed."
   },
   {
-    "name": "Propylhexedrine"
+    "name": "Propylhexedrine",
+    "summary": "A relatively common CNS stimulant sold over the counter in benzedrex inhalers."
   },
   {
-    "name": "Propylphenidate"
+    "name": "Propylphenidate",
+    "summary": "Propylphenidate is a short acting stimulant."
   },
   {
-    "name": "Proscaline"
+    "name": "Proscaline",
+    "summary": "A very uncommon psychedelic stimulant and phenethylamine and analogue on mescaline with similar effects. Roughly 5-7 times more potent than mescaline by weight."
   },
   {
-    "name": "Pseudoephrine"
+    "name": "Pseudoephrine",
+    "summary": "Widely sold as a decongestant, and one isomer of Ephedrine. It is not generally considered to have any recreational value. Is also used in the synthesis of Methcathinone and Methamphetamine."
   },
   {
-    "name": "Psilocin"
+    "name": "Psilocin",
+    "summary": "Psilocin is a substutued tryptamine alkaloid, that is present in most psychedelic mushrooms. It is relatively unstable in solution due to the -OH group."
   },
   {
-    "name": "PST"
+    "name": "PST",
+    "summary": "Poppy Tea can be made from poppy pods, stalks and seeds, and contains various opium alkaloids including primarily Morphine, as well as Codeine and others. There is great variation in Poppy Tea potency and therefor doses are indicated for opioid naive users."
   },
   {
-    "name": "PV-10"
+    "name": "PV-10",
+    "summary": "Inactive."
   },
   {
-    "name": "PV-8"
+    "name": "PV-8",
+    "summary": "Stimulant of the pyrrolidinophenone class that is a higher homologue of α-PHP and generally less potent and less effective."
   },
   {
-    "name": "PV-9"
+    "name": "PV-9",
+    "summary": "Inactive."
   },
   {
-    "name": "Pyrazolam"
+    "name": "Pyrazolam",
+    "summary": "RC benzodiazepine discovered by Hoffman-LaRoche in the 1970s. Came to the RC market in the early 2010s. At lower doses it is mainly an anxiolytic compound, yet at higher doses can be quite sedating, hypnotic, amnesic, and can cause loss of inhibitions. Structurally similar to Alprazolam, Bromazepam, and Triazolam. Is 12x as potent as Diazepam."
   },
   {
-    "name": "Pyrophenidone"
+    "name": "Pyrophenidone",
+    "summary": "An NDRI pyrovalerone derivative reported to have very similar subjective effects. Virtually no information exists about this drug's effects in humans."
   },
   {
-    "name": "Quazepam"
+    "name": "Quazepam",
+    "summary": "Benzodiazepine derivate drug, noral is prescribed for short term treatment of insomnia, and sleep maintenance. its MOA is very similar to Ambien and Sonata and substitutes for those in animal studies."
   },
   {
-    "name": "Quetiapine"
+    "name": "Quetiapine",
+    "summary": "An atypical antipsychotic medication under the brand name Seroquel. Also used to treat insomnia and mood swings. This drug is very sedating and can stop/slow down psychedelic drug trips. Infrequently abused."
   },
   {
-    "name": "Rilmazafone"
+    "name": "Rilmazafone",
+    "summary": "Unique to Japan, this drug, also known as Rhythmy, is a benzodiazepine pro-drug which while inactive itself, is metabolised into the active compound in-vivo. Soluble in water."
   },
   {
-    "name": "Rolicyclidine"
+    "name": "Rolicyclidine",
+    "summary": "Rolicyclidine, also known as PCPy, is a dissociative with effects similar to PCP. While this dissociative anesthetic has hallucinogenic and sedative effects, it is said to be much less stimulating than PCP. In this sense it is more similar to opioids, or other central nervous system depressants."
   },
   {
-    "name": "Ronlax"
+    "name": "Ronlax",
+    "summary": "A benzodiazepine derivative that posses the standard benzodiazepine effects. It has a very long half life (51-103 hours) it metabolizes into an active compound. (Descarboxyloflazepate) Is sold in Mexico."
   },
   {
-    "name": "RTI-111"
+    "name": "RTI-111",
+    "summary": "Stimulant of the Phenyltropane class that acts as a SNDRI. Presumably it will have a slightly slower onset and bit longer duration than its parent compound Cocaine. Yet being the Tropane analogue of 3,4-CTMP."
   },
   {
-    "name": "Salvia"
+    "name": "Salvia",
+    "summary": "A plant which, when smoked, causes short but very intense psychedelic experiences. It is considered physically safe, though users of high dosages often experience bizarre other-worldly scenarios which may be confusing or terrifying."
   },
   {
-    "name": "Scopolamine"
+    "name": "Scopolamine",
+    "summary": "The main active compound in datura, medium and high doses have serious side effects and cause extremely unpleasant deleriant hallucinations. Avoid it."
   },
   {
-    "name": "Secobarbital"
+    "name": "Secobarbital",
+    "summary": "A Barbiturate derivative that possesses all the classic effects of todays Benzodiazepines, and the old Barbiturates. It's used in the treatment of Epilepsy, short term treatment for insomnia, and a preoperative medication for anaesthesia and anxiolysis for short surgical/diagnostic/therapeutic procedures."
   },
   {
-    "name": "Sertraline"
+    "name": "Sertraline",
+    "summary": ""
   },
   {
-    "name": "Sildenafil"
+    "name": "Sildenafil",
+    "summary": "A medication originally developed to lower blood pressure, and now widely used to treat erectile dysfunction in men. Do not mix with anything that lowers blood pressure. Contact EMS if erection lasts longer than 4 hours."
   },
   {
-    "name": "Sinicuichi"
+    "name": "Sinicuichi",
+    "summary": "A perennial shrub with small narrow leaves and yellow flowers growing up to ~1.5 meters. Known under many different names. Has been used for Shamanic purposes by natives in Central America and Mexico. Mostly auditory based."
   },
   {
-    "name": "Sonata"
+    "name": "Sonata",
+    "summary": "Sedative-Hypnotic of the nonbenzodiazepine from the Pyrazolopyramide class. It is used mostly for short term insomnia."
   },
   {
-    "name": "Sufentanil"
+    "name": "Sufentanil",
+    "summary": "An synthetic analgesic drug that is roughly between 5-10x the potency of it's parent drug, (Fentanyl); It's use is very contained to surgery and post-operative pain."
   },
   {
-    "name": "Sulbutiamine"
+    "name": "Sulbutiamine",
+    "summary": "A thiamine derivative nootropic and stimulant drug. Caution should be used as sulbutiamine reduces dopamine output over time with consistant usage."
   },
   {
-    "name": "Tadalafil"
+    "name": "Tadalafil",
+    "summary": "Tadalafil, a PDE5 inhibitor used to combat erectile disfunction. Dangerous in combination with other drugs which lower blood pressure."
   },
   {
-    "name": "Tapentadol"
+    "name": "Tapentadol",
+    "summary": "An opioid analgesic drug with potency somewhere between tramadol and morphine, and with a similar action to Tramadol. Also an adrenergic reuptake inhibitor. High addiction potential. Potential for respiratory depression in overdose. Should not be combined with depressants or stimulants."
   },
   {
-    "name": "Temazepam"
+    "name": "Temazepam",
+    "summary": "Temazepam's brand name is Restoril. It is a hypnotic benzodiazepine with effects similar to clonazepam, frequently prescribed as a sleep aid. Some users report mild euphoria alongside the hypnotic effects."
   },
   {
-    "name": "TETRAHYDROFURAN-FENTANYL"
+    "name": "TETRAHYDROFURAN-FENTANYL",
+    "summary": "An analogue of fentanyl that is unknown in literature. Is most likely less potent than most other analogues. Yet very few reports are around. Be careful."
   },
   {
-    "name": "Tetrazepam"
+    "name": "Tetrazepam",
+    "summary": "A benzodiazepine that has most of the properties of more common benzodiazepines. Yet was taken off the market in 2013. Has been noted to be more euphoric than most others."
   },
   {
-    "name": "TH-PVP"
+    "name": "TH-PVP",
+    "summary": "A pyrovalerone stimulant related to a-PVP and naphyrone. Very little information about effects or safety profile, virtually no evidence of human use."
   },
   {
-    "name": "Theacrine"
+    "name": "Theacrine",
+    "summary": "Small alkaloid which can be seen as a structurally modified version of caffeine, with similar stimulating effects. It also shares anti-inflammatory and analgesic effects with caffeine."
   },
   {
-    "name": "Theobromine"
+    "name": "Theobromine",
+    "summary": "Theobromine is the principal bitter alkaloid of the cacao bean. It has been used in various pharmaceutical products as vasodilator, diuretic and as heart stimulant. Theobromine is consumed in cocoa, chocolate and in various forms of chocolate-based foods. It is also present in small amounts in green coffee beans, tea, mate and the kola nut."
   },
   {
-    "name": "Thiopental"
+    "name": "Thiopental",
+    "summary": "Barbiturate that kicks in very quickly, that is used to Anesthesia, Medical induced comas among other things."
   },
   {
-    "name": "Thiopropamine"
+    "name": "Thiopropamine",
+    "summary": "A substance that is closely related to Methiopopramine (MPA). Is roughly about 1/3rd the potency of amphetamine, differs from amphetmine from the phenyl ring is switched with a thiophene ring."
   },
   {
-    "name": "Tianeptine"
+    "name": "Tianeptine",
+    "summary": "A Tricyclic antidepressant, that has quite unique pharmacological properties than others in its class. Such as the possible indirect action on NMDA/AMPA and a full agonist at the μ-opioid receptor. While abuse of this substance is uncommon, it has been shown in a few countries."
   },
   {
-    "name": "Tiletamine"
+    "name": "Tiletamine",
+    "summary": "A relatively rare dissociative anesthetic, pharmacologically classified as an NMDA receptor antagonist. It is related to other anesthetics in this family such as Ketamine and phencyclidine. Has been used to cut Ketamine, in which case it may cause additional nausea. In Veterinary practice it is mixed with Zolazolam, a potent anaesthetic at a 1:1 ratio."
   },
   {
-    "name": "Tilidine"
+    "name": "Tilidine",
+    "summary": "Synthetic opioid, used mainly for treatment of moderate to severe pain. In some countries it's mixed with Naloxone to lower the abuse liability. Though in some only Tilidine. Roughly 0.2 - 1 on the potency scale to Morphine. (So 20mg's of Morphine to 100mg's Tilidine)"
   },
   {
-    "name": "TMA-2"
+    "name": "TMA-2",
+    "summary": "Trimethoxyamphetamine-2, a psychedelic amphetamine and stimulant first synthesised by Alexander Shulgin. An uncommon compound of similar activity to other psychedelic amphetamines. Short history of human use."
   },
   {
-    "name": "TMA-6"
+    "name": "TMA-6",
+    "summary": "A rarely seen Psychedelic Amphetamine and Mescaline analogue. First synthesised by Alexander Shulgin, who descrived it as  \"one of the most rewarding and pleasurable of the methoxylated amphetamines.\""
   },
   {
-    "name": "Tolibut"
+    "name": "Tolibut",
+    "summary": "Analogue of GABA, and the 4-methyl analogue of Phenibut. Has similar effects, acts on GABA(B)."
   },
   {
-    "name": "Tramadol"
+    "name": "Tramadol",
+    "summary": "A synthetic opioid analgesic, tramadol is used to treat moderate pain and can be considered a medium-strength opioid. Tramadol also has the unusual effect of being a serotonin releasing agent and a serotonin reuptake inhibitor, and as a consequence should not be taken in excess due to the risk of serotonin syndrome. Risk of seizures above 300mg doses."
   },
   {
-    "name": "Trazodone"
+    "name": "Trazodone",
+    "summary": "A novel antidepressant of the SARI class, a serotonin antagonist and reuptake inhibitor. Often used to treat depression and anxiety. It has anxiolytic and hypnotic effects."
   },
   {
-    "name": "Triazolam"
+    "name": "Triazolam",
+    "summary": "An uncommon and very short acting benzodiazepine. Sedating and hypnotic, and may induce amnesia and lowered inhibitions at high doses."
   },
   {
-    "name": "Troparil"
+    "name": "Troparil",
+    "summary": "A stimulant and dopamine reuptake inhibitor developed in the 1970s, it is frequently used in scientific research but has seen little usage outside of the lab. Similar effects to cocaine, though much longer and without any local anaesthetic action. Probably hard on the nose."
   },
   {
-    "name": "Truffles"
+    "name": "Truffles",
+    "summary": "Truffles (magic truffles, sclerotium) are the thickened root sections of magic mushrooms. Like magic mushrooms, Truffles contain the psycho-active chemicals psilocybin and psilocin. See mushrooms for more information."
   },
   {
-    "name": "Tuinal"
+    "name": "Tuinal",
+    "summary": "Brand name of a combination drug of two barbiturate salts (Secobarbital/Amobarbital) in equal amounts. It was introduced in the late 1940's."
   },
   {
-    "name": "U-47700"
+    "name": "U-47700",
+    "summary": "A µ-opioid receptor agonist that is related to AH-7921. Having a very short duration."
   },
   {
-    "name": "U-49900"
+    "name": "U-49900",
+    "summary": "A substance that is an analogue of U-47700, yet doesn't share much with it. If you are interested in trying it, I recommend reading this. https://www.reddit.com/r/researchchemicals/comments/5gbo3e/u49900_experiment_and_warning/"
   },
   {
-    "name": "U-51754"
+    "name": "U-51754",
+    "summary": "A very potent opioid, that seems to have a fair bit of κ-opioid action. So Dyshopria, Auditory hallucinations can be an effect. Is an analogue of U-47700."
   },
   {
-    "name": "Valerylfentanyl"
+    "name": "Valerylfentanyl",
+    "summary": "Opioid that is a higher homologue of Butyrfentanyl with greatly reduced potency."
   },
   {
-    "name": "Viloxazine"
+    "name": "Viloxazine",
+    "summary": "NRI that was used as an antidepressant in some European countries, and had a pronouced stimulant effect similar to amphetamines without any signs of dependence. Withdrawn in the early 2000s."
   },
   {
-    "name": "Vyvanse"
+    "name": "Vyvanse",
+    "summary": "Also known as lisdexamphetamine, this drug is a CNS stimulant often prescribed for ADHD, narcolepsy and obesity. It is also a pro-drug for dextroamphetamine, and functions as a method for providing extended-release stimulation. It is sometimes prescribed alongside an SSRI for depression."
   },
   {
-    "name": "W-15"
+    "name": "W-15",
+    "summary": "A potent opioid that is 5.4x more potent than Morphine. Has a distinct structure unrelated to nearly all other opioid compounds."
   },
   {
-    "name": "YERBA-MATE"
+    "name": "YERBA-MATE",
+    "summary": "Is marketed for its ability to suppress appetite and burn fat. Yet only with high doses. It has a quite high ratio of caffeine. It has anti-inflammatory properties."
   },
   {
-    "name": "YOPO"
+    "name": "YOPO",
+    "summary": "Anadenanthera peregrina, also known as yopo, is a perennial tree native to the Caribbean and South America. It is an entheogen containing 5-MeO-DMT and DMT, and is used in healing ceremonies and rituals. It is also a source of dietary calcium."
   },
   {
-    "name": "Zolazepam"
+    "name": "Zolazepam",
+    "summary": "A substance that is structurally related to benzodiazepines. Is only used in Veterinary medicine. It is usually used in tandem with either the potent NMDA antagonist Tiletamine (at a 1:1 ratio) or with the α2 adrenergic receptor agonist Xylazine. Is roughly around four times the potency of Diazepam. Yet is water soluable."
   },
   {
-    "name": "Zolpidem"
+    "name": "Zolpidem",
+    "summary": "Commonly prescribed for insomnia, Ambien (zolpidem) can cause realistic hallucinations similar to those of deliriants, and is very likely to cause amnesia at higher doses. Take care when using this drug, as it tends to lower inhibitions to a level which causes the user to do things they might not normally do when sober."
   },
   {
-    "name": "Zopiclone"
+    "name": "Zopiclone",
+    "summary": "A nonbenzodiazepine sedative sleep aid (Z-drug), which can have hallucinogenic effects if taken while awake. Often causes users to have a metallic taste in the mouth for ~12h. Has been reported in some cases to cause certain users to black out, redose excessively and undertake dangerous activities such as driving."
   },
   {
-    "name": "α-PBP"
+    "name": "α-PBP",
+    "summary": "Stimulant that is the homologue between α-PPP and α-PVP."
   },
   {
-    "name": "α-PHP"
+    "name": "α-PHP",
+    "summary": "A powerful stimulant cathinone, analogue of alpha-PVP and related to pyrovalerone. Said to have high addictive potential, compulsive redosing and relatively short duration. Often insufflated or vapourised."
   },
   {
-    "name": "α-PVP"
+    "name": "α-PVP",
+    "summary": "A potent, short-lasting pyrovalerone-type stimulant which became popular despite often being said to not be particularly euphoric, perhaps due to its propensity to cause compulsive redosing. Effects should be similar to MDPV."
   },
   {
-    "name": "α-PVT"
+    "name": "α-PVT",
+    "summary": "A rare stimulant drug related to a-PVP, very uncommon. Probably less potent than a-PVP, however little data exists on this compound or its effects on humans."
   },
   {
-    "name": "αET"
+    "name": "αET",
+    "summary": "A quite rare substance of the tryptamine class, was first made by Upjohn as an antidepressant. Please use extreme caution if you get the pleasure of trying this drug."
   },
   {
-    "name": "αMT"
+    "name": "αMT",
+    "summary": "A long-acting psychedelic-empathogen with a broad method of action in the brain. Not suitable for combination with many other substances. Used as an anti-depressant in the Soviet Union, but later found popularity in the RC scene, mainly in the UK."
   },
   {
-    "name": "βH-2C-B"
+    "name": "βH-2C-B",
+    "summary": "β-Hydroxy-2C-B is a novel analogue of 2C-B that is a bit less potent and has a longer duration. It's thought to be the active metabolite of βk-2C-B."
   },
   {
-    "name": "βk-2C-B"
+    "name": "βk-2C-B",
+    "summary": "A long-acting psychedelic and empathogen with unpredictable effectiveness. Roughly double the duration of 2c-b. Inactivated by high pH."
   },
   {
-    "name": "βk-2C-I"
+    "name": "βk-2C-I",
+    "summary": "Novel psychedelic that is the Beta-Ketone derivative of 2C-I."
   },
   {
-    "name": "βk-IVP"
+    "name": "βk-IVP",
+    "summary": "The beta-ketone analogue of IVP, this is a rare RC stimulant in the same family as MDPV. Little is known but effects are probably similar to MDPV or more generally amphetamine or high dose caffeine."
   }
 ]
