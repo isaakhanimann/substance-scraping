@@ -1,0 +1,4 @@
+.DS_Store
+/tripsit/.idea
+/tripsit/node_modules
+/tripsit/package-lock.json
