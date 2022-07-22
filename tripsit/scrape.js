@@ -18,7 +18,11 @@ async function scrapeSubstances(url) {
 async function getSubstancesFromPage(page) {
     return await page.evaluate(() => {
         let rows = Array.from(document.querySelectorAll("#DataTables_Table_0 > tbody > tr"));
-        const substances = rows.map(row => row.querySelector("td.ttext.all.sorting_1 > a").textContent.trim())
+        const substances = rows.map(row => {
+                const name = row.querySelector("td.ttext.all.sorting_1 > a").textContent.trim();
+                return {name: name};
+            }
+        )
         return substances;
     });
 }
