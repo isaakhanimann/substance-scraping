@@ -1,552 +1,1652 @@
 [
-  " 1,4-Butanediol",
-  " 1B-LSD",
-  " 1CP-LSD",
-  " 1P-ETH-LAD",
-  " 1P-LSD",
-  " 2-AI",
-  " 2-Chloroephenidine",
-  " 2-DPMP",
-  " 2-FA",
-  " 2-FDCK",
-  " 2-FEA",
-  " 2-FMA",
-  " 2-MA",
-  " 2-Me-DMT",
-  " 2-MEC",
-  " 2-methyl-2-butanol",
-  " 2-MMC",
-  " 2-MPPP",
-  " 2-NMC",
-  " 2-PA",
-  " 2-PTA",
-  " 25B-NBOH",
-  " 25B-NBOMe",
-  " 25C-NBOH",
-  " 25C-NBOMe",
-  " 25D-NBOMe",
-  " 25E-NBOMe",
-  " 25G-NBOMe",
-  " 25H-NBOMe",
-  " 25I-NBF",
-  " 25I-NBMD",
-  " 25I-NBOH",
-  " 25I-NBOMe",
-  " 25iP-NBOMe",
-  " 25N-NBOMe",
-  " 25P-NBOMe",
-  " 25T-2-NBOMe",
-  " 25T-4-NBOMe",
-  " 2C-B",
-  " 2C-B-AN",
-  " 2C-B-FLY",
-  " 2C-B-FLY-NBOMe",
-  " 2C-C",
-  " 2C-D",
-  " 2C-E",
-  " 2C-G",
-  " 2C-I",
-  " 2C-IP",
-  " 2C-N",
-  " 2C-P",
-  " 2C-T",
-  " 2C-T-2",
-  " 2C-T-21",
-  " 2C-T-4",
-  " 2C-T-7",
-  " 3,4-CTMP",
-  " 3,6-DMPM",
-  " 3-CMC",
-  " 3-FA",
-  " 3-FEA",
-  " 3-FMA",
-  " 3-FMC",
-  " 3-FPM",
-  " 3-HO-PCE",
-  " 3-HO-PCP",
-  " 3-MEC",
-  " 3-MeO-PCE",
-  " 3-MeO-PCMO",
-  " 3-MeO-PCP",
-  " 3-MeO-PCPR",
-  " 3-MeO-PCPY",
-  " 3-MeOMC",
-  " 3-MMC",
-  " 3-OH-PHENAZEPAM",
-  " 3C-E",
-  " 3C-P",
-  " 4,4-DMAR",
-  " 4-AcO-DALT",
-  " 4-AcO-DET",
-  " 4-AcO-DiPT",
-  " 4-AcO-DMT",
-  " 4-AcO-DPT",
-  " 4-AcO-MET",
-  " 4-AcO-MiPT",
-  " 4-Benzylpiperidine",
-  " 4-CBC",
-  " 4-CHLORODIAZEPAM",
-  " 4-CIC",
-  " 4-CMA",
-  " 4-CMC",
-  " 4-EMC",
-  " 4-EPD",
-  " 4-FA",
-  " 4-FEA",
-  " 4-Fluorobutyrfentanyl",
-  " 4-Fluoroethylphenidate",
-  " 4-Fluoromethylphenidate",
-  " 4-Fluoropentedrone",
-  " 4-FMA",
-  " 4-FMC",
-  " 4-FPM",
-  " 4-FPP",
-  " 4-HO-DET",
-  " 4-HO-DiPT",
-  " 4-HO-DPT",
-  " 4-HO-EPT",
-  " 4-HO-MCPT",
-  " 4-HO-MET",
-  " 4-HO-MiPT",
-  " 4-HO-MPMI",
-  " 4-HO-MPT",
-  " 4-MEC",
-  " 4-MeO-Butyrfentanyl",
-  " 4-MeO-MiPT",
-  " 4-MeO-PCP",
-  " 4-METHYLAMINOREX",
-  " 4-Methylmethylphenidate",
-  " 4-MPD",
-  " 4-MPM",
-  " 4-MTA",
-  " 4F-NEB",
-  " 4F-PHP",
-  " 4F-PVP",
-  " 5-APB",
-  " 5-APDB",
-  " 5-APDI",
-  " 5-BPDI",
-  " 5-Bromo-DMT",
-  " 5-DBFPV",
-  " 5-EAPB",
-  " 5-HTP",
-  " 5-IAI",
-  " 5-IT",
-  " 5-MAPB",
-  " 5-MAPDB",
-  " 5-MeO-DALT",
-  " 5-MeO-DIBF",
-  " 5-MeO-DiPT",
-  " 5-MeO-DMT",
-  " 5-MeO-DPT",
-  " 5-MeO-EiPT",
-  " 5-MeO-MALT",
-  " 5-MeO-MET",
-  " 5-MeO-MiPT",
-  " 5-MeO-NIPT",
-  " 5-MeO-PYR-T",
-  " 5-MeO-αMT",
-  " 5-Methylethylone",
-  " 5-PPDI",
-  " 5F-AKB48",
-  " 5F-PB-22",
-  " 6-APB",
-  " 6-APDB",
-  " 6-EAPB",
-  " 6-MAPB",
-  " 6-MDDM",
-  " A-PIHP",
-  " AB-CHMINACA",
-  " AB-FUBINACA",
-  " Acetildenafil",
-  " Acetylfentanyl",
-  " Acrylfentanyl",
-  " Adderall",
-  " Adinazolam",
-  " Adrafinil",
-  " Afloqualone",
-  " AH-7921",
-  " AL-LAD",
-  " Alcohol",
-  " ALD-52",
-  " Aleph",
-  " ALEPH-2",
-  " Allobarbital",
-  " Allylescaline",
-  " Alprazolam",
-  " AM-2201",
-  " Amfecloral",
-  " Amfonelic acid",
-  " Aminorex",
-  " Aminotadalafil",
-  " Amobarbital",
-  " Amphetamine",
-  " Aniracetam",
-  " Armodafinil",
-  " Ashwagandha",
-  " Aspirin",
-  " Atomoxetine",
-  " Ayahuasca",
-  " Baclofen",
-  " Barbital",
-  " Bentazepam",
-  " BENZODIOXOLE-FENTANYL",
-  " Benzydamine",
-  " BOD",
-  " Bromadol",
-  " Bromantane",
-  " Bromazepam",
-  " Bromazolam",
-  " Bromo-DragonFLY",
-  " Brotizolam",
-  " Buphedrone",
-  " Buprenorphine",
-  " Bupropion",
-  " Butylone",
-  " Butyrfentanyl",
-  " BZP",
-  " C30-NBOMe",
-  " Caffeine",
-  " Camazepam",
-  " Cannabis",
-  " Carisoprodol",
-  " Centrophenoxine",
-  " Changa",
-  " Chloral betaine",
-  " Chloral hydrate",
-  " Chloroform",
-  " Cinolazepam",
-  " Citalopram",
-  " Clobazam",
-  " Clomethiazole",
-  " Clonazepam",
-  " Clonazolam",
-  " Clonidine",
-  " Cloniprazepam",
-  " Clonitazene",
-  " Clorazepate",
-  " Clotiazepam",
-  " Cloxazolam",
-  " Cocaine",
-  " Codeine",
-  " Coluracetam",
-  " Coronaridine",
-  " CRL-40-940",
-  " CRL-40-941",
-  " Cyclizine",
-  " Cyclo-Methiodrone",
-  " Cyclobenzaprine",
-  " CYCLOPENTYL-FENTANYL",
-  " Cyclopropylmescaline",
-  " D2PM",
-  " DALT",
-  " Datura",
-  " DB-MDBP",
-  " Dehydroxyfluorafinil",
-  " Delorazepam",
-  " Deschloroetizolam",
-  " Deschloroketamine",
-  " Desmethylflunitrazepam",
-  " DET",
-  " Dexedrine",
-  " Dexmethylphenidate",
-  " Dextromoramide",
-  " Dextropropoxyphene",
-  " Diazepam",
-  " Dibutylone",
-  " Diclazepam",
-  " Diclofensine",
-  " Diethyl ether",
-  " Dihydrocodeine",
-  " Dimemebfe",
-  " Dimenhydrinate",
-  " Dimethylone",
-  " Diphenidine",
-  " Dipipanone",
-  " DiPT",
-  " DMAA",
-  " DMT",
-  " DOB",
-  " DOC",
-  " DOET",
-  " DOI",
-  " DOIP",
-  " DOM",
-  " DON",
-  " DOPR",
-  " Doxylamine",
-  " DPH",
-  " DPT",
-  " DXM",
-  " EFLEA",
-  " Ephedrine",
-  " Ephenidine",
-  " EPT",
-  " Escaline",
-  " Escitalopram",
-  " Estazolam",
-  " Eszopiclone",
-  " ETH-LAD",
-  " Ethaqualone",
-  " Ethchlorvynol",
-  " Ethketamine",
-  " ETHYL-PENTEDRONE",
-  " Ethylcathinone",
-  " Ethylmorphine",
-  " Ethylone",
-  " Ethylphenidate",
-  " Etizolam",
-  " Etodesnitazene",
-  " Fasoracetam",
-  " Fentanyl",
-  " Flualprazolam",
-  " Flubromazepam",
-  " Flubromazolam",
-  " Fluclotizolam",
-  " Flunitrazepam",
-  " Flunitrazolam",
-  " Fluorolintane",
-  " Fluorophenibut",
-  " Fluoxetine",
-  " Flurazepam",
-  " Flutazolam",
-  " Flutoprazepam",
-  " Fluvoxamine",
-  " Furanylfentanyl",
-  " G-130",
-  " GABA",
-  " Gabapentin",
-  " GBL",
-  " GHB",
-  " Glaucine",
-  " Glutethimide",
-  " Halazepam",
-  " Halothane",
-  " HDEP-28",
-  " HDMP-28",
-  " Heroin",
-  " Hexedrone",
-  " Hexen",
-  " Hexobarbital",
-  " Homomazindol",
-  " Homosildenafil",
-  " HOT-2",
-  " HOT-7",
-  " HUPERZINE-A",
-  " Hydrocodone",
-  " Hydromorphone",
-  " Hydroxyzine",
-  " Ibogaine",
-  " Ibuprofen",
-  " Indapex",
-  " Indapyrophenidone",
-  " Isomethadone",
-  " Isophenmetrazine",
-  " Isopropylphenidate",
-  " Isoproscaline",
-  " Jenkem",
-  " Kanna",
-  " Kava",
-  " Ketamine",
-  " Ketazolam",
-  " Ketobemidone",
-  " Khat",
-  " Kratom",
-  " L-THEANINE",
-  " Librium",
-  " Loprazolam",
-  " Lorazepam",
-  " Lormetazepam",
-  " LSA",
-  " LSD",
-  " LSM-775",
-  " LSZ",
-  " Marinol",
-  " MBDB",
-  " MBZP",
-  " MCPP",
-  " MDA",
-  " MDAI",
-  " MDEA",
-  " MDMA",
-  " MDOH",
-  " MDPA",
-  " Mdphp",
-  " MDPV",
-  " Mebroqualone",
-  " Meclonazepam",
-  " Medazepam",
-  " Melatonin",
-  " MEM",
-  " Memantine",
-  " Mephedrone",
-  " Mephtetramine",
-  " Mescaline",
-  " MET",
-  " Metaclazepam",
-  " Metaxalone",
-  " Methadone",
-  " Methallylescaline",
-  " Methamnetamine",
-  " Methamphetamine",
-  " Methaqualone",
-  " Methedrone",
-  " Methoxphenidine",
-  " METHOXYACETYL-FENTANYL",
-  " Methoxyketamine",
-  " Methoxypiperamide",
-  " Methylmethaqualone",
-  " Methylmorphenate",
-  " Methylone",
-  " Methylphenidate",
-  " Methyprylon",
-  " Metizolam",
-  " Mexamine",
-  " Mexazolam",
-  " Mexedrone",
-  " Midazolam",
-  " MiPT",
-  " MK-801",
-  " Moclobemide",
-  " Modafinil",
-  " Morpheridine",
-  " Morphine",
-  " MPA",
-  " MT-45",
-  " Mushrooms",
-  " MXE",
-  " MXM",
-  " N2O",
-  " Naphyrone",
-  " Naproxen",
-  " NEB",
-  " Nefiracetam",
-  " Nicomorphine",
-  " Nicotine",
-  " Nifoxipam",
-  " Nimetazepam",
-  " Nitemazepam",
-  " Nitracaine",
-  " Nitrazepam",
-  " Nitrazolam",
-  " NM-2-AI",
-  " Noopept",
-  " Nordazepam",
-  " Norflurazepam",
-  " O-Desmethyltramadol",
-  " O-PCE",
-  " Opium",
-  " Oxazepam",
-  " Oxazolam",
-  " Oxiracetam",
-  " Oxycodone",
-  " Oxymorphone",
-  " Pagoclone",
-  " Paracetamol",
-  " Parafluorofentanyl",
-  " Paroxetine",
-  " PCE",
-  " PCP",
-  " Pemoline",
-  " Pentazocine",
-  " Pentedrone",
-  " Pentobarbital",
-  " Pentylone",
-  " Pethidine",
-  " Peyote",
-  " PFBT",
-  " Phenazepam",
-  " Phenethylamine",
-  " Phenetrazine",
-  " Phenibut",
-  " Phenmetrazine",
-  " Phenobarbital",
-  " Phentermine",
-  " Phenylpiracetam",
-  " Picamilon",
-  " Pinazepam",
-  " PiPT",
-  " Piracetam",
-  " PMA",
-  " Pramiracetam",
-  " Prazepam",
-  " PRE-084",
-  " Pregabalin",
-  " PRL-8-53",
-  " PRO-LAD",
-  " Prolintane",
-  " Promethazine",
-  " Propofol",
-  " Propoxyphene",
-  " Propranolol",
-  " Propylhexedrine",
-  " Propylphenidate",
-  " Proscaline",
-  " Pseudoephrine",
-  " Psilocin",
-  " PST",
-  " PV-10",
-  " PV-8",
-  " PV-9",
-  " Pyrazolam",
-  " Pyrophenidone",
-  " Quazepam",
-  " Quetiapine",
-  " Rilmazafone",
-  " Rolicyclidine",
-  " Ronlax",
-  " RTI-111",
-  " Salvia",
-  " Scopolamine",
-  " Secobarbital",
-  " Sertraline",
-  " Sildenafil",
-  " Sinicuichi",
-  " Sonata",
-  " Sufentanil",
-  " Sulbutiamine",
-  " Tadalafil",
-  " Tapentadol",
-  " Temazepam",
-  " TETRAHYDROFURAN-FENTANYL",
-  " Tetrazepam",
-  " TH-PVP",
-  " Theacrine",
-  " Theobromine",
-  " Thiopental",
-  " Thiopropamine",
-  " Tianeptine",
-  " Tiletamine",
-  " Tilidine",
-  " TMA-2",
-  " TMA-6",
-  " Tolibut",
-  " Tramadol",
-  " Trazodone",
-  " Triazolam",
-  " Troparil",
-  " Truffles",
-  " Tuinal",
-  " U-47700",
-  " U-49900",
-  " U-51754",
-  " Valerylfentanyl",
-  " Viloxazine",
-  " Vyvanse",
-  " W-15",
-  " YERBA-MATE",
-  " YOPO",
-  " Zolazepam",
-  " Zolpidem",
-  " Zopiclone",
-  " α-PBP",
-  " α-PHP",
-  " α-PVP",
-  " α-PVT",
-  " αET",
-  " αMT",
-  " βH-2C-B",
-  " βk-2C-B",
-  " βk-2C-I",
-  " βk-IVP"
+  {
+    "name": "1,4-Butanediol"
+  },
+  {
+    "name": "1B-LSD"
+  },
+  {
+    "name": "1CP-LSD"
+  },
+  {
+    "name": "1P-ETH-LAD"
+  },
+  {
+    "name": "1P-LSD"
+  },
+  {
+    "name": "2-AI"
+  },
+  {
+    "name": "2-Chloroephenidine"
+  },
+  {
+    "name": "2-DPMP"
+  },
+  {
+    "name": "2-FA"
+  },
+  {
+    "name": "2-FDCK"
+  },
+  {
+    "name": "2-FEA"
+  },
+  {
+    "name": "2-FMA"
+  },
+  {
+    "name": "2-MA"
+  },
+  {
+    "name": "2-Me-DMT"
+  },
+  {
+    "name": "2-MEC"
+  },
+  {
+    "name": "2-methyl-2-butanol"
+  },
+  {
+    "name": "2-MMC"
+  },
+  {
+    "name": "2-MPPP"
+  },
+  {
+    "name": "2-NMC"
+  },
+  {
+    "name": "2-PA"
+  },
+  {
+    "name": "2-PTA"
+  },
+  {
+    "name": "25B-NBOH"
+  },
+  {
+    "name": "25B-NBOMe"
+  },
+  {
+    "name": "25C-NBOH"
+  },
+  {
+    "name": "25C-NBOMe"
+  },
+  {
+    "name": "25D-NBOMe"
+  },
+  {
+    "name": "25E-NBOMe"
+  },
+  {
+    "name": "25G-NBOMe"
+  },
+  {
+    "name": "25H-NBOMe"
+  },
+  {
+    "name": "25I-NBF"
+  },
+  {
+    "name": "25I-NBMD"
+  },
+  {
+    "name": "25I-NBOH"
+  },
+  {
+    "name": "25I-NBOMe"
+  },
+  {
+    "name": "25iP-NBOMe"
+  },
+  {
+    "name": "25N-NBOMe"
+  },
+  {
+    "name": "25P-NBOMe"
+  },
+  {
+    "name": "25T-2-NBOMe"
+  },
+  {
+    "name": "25T-4-NBOMe"
+  },
+  {
+    "name": "2C-B"
+  },
+  {
+    "name": "2C-B-AN"
+  },
+  {
+    "name": "2C-B-FLY"
+  },
+  {
+    "name": "2C-B-FLY-NBOMe"
+  },
+  {
+    "name": "2C-C"
+  },
+  {
+    "name": "2C-D"
+  },
+  {
+    "name": "2C-E"
+  },
+  {
+    "name": "2C-G"
+  },
+  {
+    "name": "2C-I"
+  },
+  {
+    "name": "2C-IP"
+  },
+  {
+    "name": "2C-N"
+  },
+  {
+    "name": "2C-P"
+  },
+  {
+    "name": "2C-T"
+  },
+  {
+    "name": "2C-T-2"
+  },
+  {
+    "name": "2C-T-21"
+  },
+  {
+    "name": "2C-T-4"
+  },
+  {
+    "name": "2C-T-7"
+  },
+  {
+    "name": "3,4-CTMP"
+  },
+  {
+    "name": "3,6-DMPM"
+  },
+  {
+    "name": "3-CMC"
+  },
+  {
+    "name": "3-FA"
+  },
+  {
+    "name": "3-FEA"
+  },
+  {
+    "name": "3-FMA"
+  },
+  {
+    "name": "3-FMC"
+  },
+  {
+    "name": "3-FPM"
+  },
+  {
+    "name": "3-HO-PCE"
+  },
+  {
+    "name": "3-HO-PCP"
+  },
+  {
+    "name": "3-MEC"
+  },
+  {
+    "name": "3-MeO-PCE"
+  },
+  {
+    "name": "3-MeO-PCMO"
+  },
+  {
+    "name": "3-MeO-PCP"
+  },
+  {
+    "name": "3-MeO-PCPR"
+  },
+  {
+    "name": "3-MeO-PCPY"
+  },
+  {
+    "name": "3-MeOMC"
+  },
+  {
+    "name": "3-MMC"
+  },
+  {
+    "name": "3-OH-PHENAZEPAM"
+  },
+  {
+    "name": "3C-E"
+  },
+  {
+    "name": "3C-P"
+  },
+  {
+    "name": "4,4-DMAR"
+  },
+  {
+    "name": "4-AcO-DALT"
+  },
+  {
+    "name": "4-AcO-DET"
+  },
+  {
+    "name": "4-AcO-DiPT"
+  },
+  {
+    "name": "4-AcO-DMT"
+  },
+  {
+    "name": "4-AcO-DPT"
+  },
+  {
+    "name": "4-AcO-MET"
+  },
+  {
+    "name": "4-AcO-MiPT"
+  },
+  {
+    "name": "4-Benzylpiperidine"
+  },
+  {
+    "name": "4-CBC"
+  },
+  {
+    "name": "4-CHLORODIAZEPAM"
+  },
+  {
+    "name": "4-CIC"
+  },
+  {
+    "name": "4-CMA"
+  },
+  {
+    "name": "4-CMC"
+  },
+  {
+    "name": "4-EMC"
+  },
+  {
+    "name": "4-EPD"
+  },
+  {
+    "name": "4-FA"
+  },
+  {
+    "name": "4-FEA"
+  },
+  {
+    "name": "4-Fluorobutyrfentanyl"
+  },
+  {
+    "name": "4-Fluoroethylphenidate"
+  },
+  {
+    "name": "4-Fluoromethylphenidate"
+  },
+  {
+    "name": "4-Fluoropentedrone"
+  },
+  {
+    "name": "4-FMA"
+  },
+  {
+    "name": "4-FMC"
+  },
+  {
+    "name": "4-FPM"
+  },
+  {
+    "name": "4-FPP"
+  },
+  {
+    "name": "4-HO-DET"
+  },
+  {
+    "name": "4-HO-DiPT"
+  },
+  {
+    "name": "4-HO-DPT"
+  },
+  {
+    "name": "4-HO-EPT"
+  },
+  {
+    "name": "4-HO-MCPT"
+  },
+  {
+    "name": "4-HO-MET"
+  },
+  {
+    "name": "4-HO-MiPT"
+  },
+  {
+    "name": "4-HO-MPMI"
+  },
+  {
+    "name": "4-HO-MPT"
+  },
+  {
+    "name": "4-MEC"
+  },
+  {
+    "name": "4-MeO-Butyrfentanyl"
+  },
+  {
+    "name": "4-MeO-MiPT"
+  },
+  {
+    "name": "4-MeO-PCP"
+  },
+  {
+    "name": "4-METHYLAMINOREX"
+  },
+  {
+    "name": "4-Methylmethylphenidate"
+  },
+  {
+    "name": "4-MPD"
+  },
+  {
+    "name": "4-MPM"
+  },
+  {
+    "name": "4-MTA"
+  },
+  {
+    "name": "4F-NEB"
+  },
+  {
+    "name": "4F-PHP"
+  },
+  {
+    "name": "4F-PVP"
+  },
+  {
+    "name": "5-APB"
+  },
+  {
+    "name": "5-APDB"
+  },
+  {
+    "name": "5-APDI"
+  },
+  {
+    "name": "5-BPDI"
+  },
+  {
+    "name": "5-Bromo-DMT"
+  },
+  {
+    "name": "5-DBFPV"
+  },
+  {
+    "name": "5-EAPB"
+  },
+  {
+    "name": "5-HTP"
+  },
+  {
+    "name": "5-IAI"
+  },
+  {
+    "name": "5-IT"
+  },
+  {
+    "name": "5-MAPB"
+  },
+  {
+    "name": "5-MAPDB"
+  },
+  {
+    "name": "5-MeO-DALT"
+  },
+  {
+    "name": "5-MeO-DIBF"
+  },
+  {
+    "name": "5-MeO-DiPT"
+  },
+  {
+    "name": "5-MeO-DMT"
+  },
+  {
+    "name": "5-MeO-DPT"
+  },
+  {
+    "name": "5-MeO-EiPT"
+  },
+  {
+    "name": "5-MeO-MALT"
+  },
+  {
+    "name": "5-MeO-MET"
+  },
+  {
+    "name": "5-MeO-MiPT"
+  },
+  {
+    "name": "5-MeO-NIPT"
+  },
+  {
+    "name": "5-MeO-PYR-T"
+  },
+  {
+    "name": "5-MeO-αMT"
+  },
+  {
+    "name": "5-Methylethylone"
+  },
+  {
+    "name": "5-PPDI"
+  },
+  {
+    "name": "5F-AKB48"
+  },
+  {
+    "name": "5F-PB-22"
+  },
+  {
+    "name": "6-APB"
+  },
+  {
+    "name": "6-APDB"
+  },
+  {
+    "name": "6-EAPB"
+  },
+  {
+    "name": "6-MAPB"
+  },
+  {
+    "name": "6-MDDM"
+  },
+  {
+    "name": "A-PIHP"
+  },
+  {
+    "name": "AB-CHMINACA"
+  },
+  {
+    "name": "AB-FUBINACA"
+  },
+  {
+    "name": "Acetildenafil"
+  },
+  {
+    "name": "Acetylfentanyl"
+  },
+  {
+    "name": "Acrylfentanyl"
+  },
+  {
+    "name": "Adderall"
+  },
+  {
+    "name": "Adinazolam"
+  },
+  {
+    "name": "Adrafinil"
+  },
+  {
+    "name": "Afloqualone"
+  },
+  {
+    "name": "AH-7921"
+  },
+  {
+    "name": "AL-LAD"
+  },
+  {
+    "name": "Alcohol"
+  },
+  {
+    "name": "ALD-52"
+  },
+  {
+    "name": "Aleph"
+  },
+  {
+    "name": "ALEPH-2"
+  },
+  {
+    "name": "Allobarbital"
+  },
+  {
+    "name": "Allylescaline"
+  },
+  {
+    "name": "Alprazolam"
+  },
+  {
+    "name": "AM-2201"
+  },
+  {
+    "name": "Amfecloral"
+  },
+  {
+    "name": "Amfonelic acid"
+  },
+  {
+    "name": "Aminorex"
+  },
+  {
+    "name": "Aminotadalafil"
+  },
+  {
+    "name": "Amobarbital"
+  },
+  {
+    "name": "Amphetamine"
+  },
+  {
+    "name": "Aniracetam"
+  },
+  {
+    "name": "Armodafinil"
+  },
+  {
+    "name": "Ashwagandha"
+  },
+  {
+    "name": "Aspirin"
+  },
+  {
+    "name": "Atomoxetine"
+  },
+  {
+    "name": "Ayahuasca"
+  },
+  {
+    "name": "Baclofen"
+  },
+  {
+    "name": "Barbital"
+  },
+  {
+    "name": "Bentazepam"
+  },
+  {
+    "name": "BENZODIOXOLE-FENTANYL"
+  },
+  {
+    "name": "Benzydamine"
+  },
+  {
+    "name": "BOD"
+  },
+  {
+    "name": "Bromadol"
+  },
+  {
+    "name": "Bromantane"
+  },
+  {
+    "name": "Bromazepam"
+  },
+  {
+    "name": "Bromazolam"
+  },
+  {
+    "name": "Bromo-DragonFLY"
+  },
+  {
+    "name": "Brotizolam"
+  },
+  {
+    "name": "Buphedrone"
+  },
+  {
+    "name": "Buprenorphine"
+  },
+  {
+    "name": "Bupropion"
+  },
+  {
+    "name": "Butylone"
+  },
+  {
+    "name": "Butyrfentanyl"
+  },
+  {
+    "name": "BZP"
+  },
+  {
+    "name": "C30-NBOMe"
+  },
+  {
+    "name": "Caffeine"
+  },
+  {
+    "name": "Camazepam"
+  },
+  {
+    "name": "Cannabis"
+  },
+  {
+    "name": "Carisoprodol"
+  },
+  {
+    "name": "Centrophenoxine"
+  },
+  {
+    "name": "Changa"
+  },
+  {
+    "name": "Chloral betaine"
+  },
+  {
+    "name": "Chloral hydrate"
+  },
+  {
+    "name": "Chloroform"
+  },
+  {
+    "name": "Cinolazepam"
+  },
+  {
+    "name": "Citalopram"
+  },
+  {
+    "name": "Clobazam"
+  },
+  {
+    "name": "Clomethiazole"
+  },
+  {
+    "name": "Clonazepam"
+  },
+  {
+    "name": "Clonazolam"
+  },
+  {
+    "name": "Clonidine"
+  },
+  {
+    "name": "Cloniprazepam"
+  },
+  {
+    "name": "Clonitazene"
+  },
+  {
+    "name": "Clorazepate"
+  },
+  {
+    "name": "Clotiazepam"
+  },
+  {
+    "name": "Cloxazolam"
+  },
+  {
+    "name": "Cocaine"
+  },
+  {
+    "name": "Codeine"
+  },
+  {
+    "name": "Coluracetam"
+  },
+  {
+    "name": "Coronaridine"
+  },
+  {
+    "name": "CRL-40-940"
+  },
+  {
+    "name": "CRL-40-941"
+  },
+  {
+    "name": "Cyclizine"
+  },
+  {
+    "name": "Cyclo-Methiodrone"
+  },
+  {
+    "name": "Cyclobenzaprine"
+  },
+  {
+    "name": "CYCLOPENTYL-FENTANYL"
+  },
+  {
+    "name": "Cyclopropylmescaline"
+  },
+  {
+    "name": "D2PM"
+  },
+  {
+    "name": "DALT"
+  },
+  {
+    "name": "Datura"
+  },
+  {
+    "name": "DB-MDBP"
+  },
+  {
+    "name": "Dehydroxyfluorafinil"
+  },
+  {
+    "name": "Delorazepam"
+  },
+  {
+    "name": "Deschloroetizolam"
+  },
+  {
+    "name": "Deschloroketamine"
+  },
+  {
+    "name": "Desmethylflunitrazepam"
+  },
+  {
+    "name": "DET"
+  },
+  {
+    "name": "Dexedrine"
+  },
+  {
+    "name": "Dexmethylphenidate"
+  },
+  {
+    "name": "Dextromoramide"
+  },
+  {
+    "name": "Dextropropoxyphene"
+  },
+  {
+    "name": "Diazepam"
+  },
+  {
+    "name": "Dibutylone"
+  },
+  {
+    "name": "Diclazepam"
+  },
+  {
+    "name": "Diclofensine"
+  },
+  {
+    "name": "Diethyl ether"
+  },
+  {
+    "name": "Dihydrocodeine"
+  },
+  {
+    "name": "Dimemebfe"
+  },
+  {
+    "name": "Dimenhydrinate"
+  },
+  {
+    "name": "Dimethylone"
+  },
+  {
+    "name": "Diphenidine"
+  },
+  {
+    "name": "Dipipanone"
+  },
+  {
+    "name": "DiPT"
+  },
+  {
+    "name": "DMAA"
+  },
+  {
+    "name": "DMT"
+  },
+  {
+    "name": "DOB"
+  },
+  {
+    "name": "DOC"
+  },
+  {
+    "name": "DOET"
+  },
+  {
+    "name": "DOI"
+  },
+  {
+    "name": "DOIP"
+  },
+  {
+    "name": "DOM"
+  },
+  {
+    "name": "DON"
+  },
+  {
+    "name": "DOPR"
+  },
+  {
+    "name": "Doxylamine"
+  },
+  {
+    "name": "DPH"
+  },
+  {
+    "name": "DPT"
+  },
+  {
+    "name": "DXM"
+  },
+  {
+    "name": "EFLEA"
+  },
+  {
+    "name": "Ephedrine"
+  },
+  {
+    "name": "Ephenidine"
+  },
+  {
+    "name": "EPT"
+  },
+  {
+    "name": "Escaline"
+  },
+  {
+    "name": "Escitalopram"
+  },
+  {
+    "name": "Estazolam"
+  },
+  {
+    "name": "Eszopiclone"
+  },
+  {
+    "name": "ETH-LAD"
+  },
+  {
+    "name": "Ethaqualone"
+  },
+  {
+    "name": "Ethchlorvynol"
+  },
+  {
+    "name": "Ethketamine"
+  },
+  {
+    "name": "ETHYL-PENTEDRONE"
+  },
+  {
+    "name": "Ethylcathinone"
+  },
+  {
+    "name": "Ethylmorphine"
+  },
+  {
+    "name": "Ethylone"
+  },
+  {
+    "name": "Ethylphenidate"
+  },
+  {
+    "name": "Etizolam"
+  },
+  {
+    "name": "Etodesnitazene"
+  },
+  {
+    "name": "Fasoracetam"
+  },
+  {
+    "name": "Fentanyl"
+  },
+  {
+    "name": "Flualprazolam"
+  },
+  {
+    "name": "Flubromazepam"
+  },
+  {
+    "name": "Flubromazolam"
+  },
+  {
+    "name": "Fluclotizolam"
+  },
+  {
+    "name": "Flunitrazepam"
+  },
+  {
+    "name": "Flunitrazolam"
+  },
+  {
+    "name": "Fluorolintane"
+  },
+  {
+    "name": "Fluorophenibut"
+  },
+  {
+    "name": "Fluoxetine"
+  },
+  {
+    "name": "Flurazepam"
+  },
+  {
+    "name": "Flutazolam"
+  },
+  {
+    "name": "Flutoprazepam"
+  },
+  {
+    "name": "Fluvoxamine"
+  },
+  {
+    "name": "Furanylfentanyl"
+  },
+  {
+    "name": "G-130"
+  },
+  {
+    "name": "GABA"
+  },
+  {
+    "name": "Gabapentin"
+  },
+  {
+    "name": "GBL"
+  },
+  {
+    "name": "GHB"
+  },
+  {
+    "name": "Glaucine"
+  },
+  {
+    "name": "Glutethimide"
+  },
+  {
+    "name": "Halazepam"
+  },
+  {
+    "name": "Halothane"
+  },
+  {
+    "name": "HDEP-28"
+  },
+  {
+    "name": "HDMP-28"
+  },
+  {
+    "name": "Heroin"
+  },
+  {
+    "name": "Hexedrone"
+  },
+  {
+    "name": "Hexen"
+  },
+  {
+    "name": "Hexobarbital"
+  },
+  {
+    "name": "Homomazindol"
+  },
+  {
+    "name": "Homosildenafil"
+  },
+  {
+    "name": "HOT-2"
+  },
+  {
+    "name": "HOT-7"
+  },
+  {
+    "name": "HUPERZINE-A"
+  },
+  {
+    "name": "Hydrocodone"
+  },
+  {
+    "name": "Hydromorphone"
+  },
+  {
+    "name": "Hydroxyzine"
+  },
+  {
+    "name": "Ibogaine"
+  },
+  {
+    "name": "Ibuprofen"
+  },
+  {
+    "name": "Indapex"
+  },
+  {
+    "name": "Indapyrophenidone"
+  },
+  {
+    "name": "Isomethadone"
+  },
+  {
+    "name": "Isophenmetrazine"
+  },
+  {
+    "name": "Isopropylphenidate"
+  },
+  {
+    "name": "Isoproscaline"
+  },
+  {
+    "name": "Jenkem"
+  },
+  {
+    "name": "Kanna"
+  },
+  {
+    "name": "Kava"
+  },
+  {
+    "name": "Ketamine"
+  },
+  {
+    "name": "Ketazolam"
+  },
+  {
+    "name": "Ketobemidone"
+  },
+  {
+    "name": "Khat"
+  },
+  {
+    "name": "Kratom"
+  },
+  {
+    "name": "L-THEANINE"
+  },
+  {
+    "name": "Librium"
+  },
+  {
+    "name": "Loprazolam"
+  },
+  {
+    "name": "Lorazepam"
+  },
+  {
+    "name": "Lormetazepam"
+  },
+  {
+    "name": "LSA"
+  },
+  {
+    "name": "LSD"
+  },
+  {
+    "name": "LSM-775"
+  },
+  {
+    "name": "LSZ"
+  },
+  {
+    "name": "Marinol"
+  },
+  {
+    "name": "MBDB"
+  },
+  {
+    "name": "MBZP"
+  },
+  {
+    "name": "MCPP"
+  },
+  {
+    "name": "MDA"
+  },
+  {
+    "name": "MDAI"
+  },
+  {
+    "name": "MDEA"
+  },
+  {
+    "name": "MDMA"
+  },
+  {
+    "name": "MDOH"
+  },
+  {
+    "name": "MDPA"
+  },
+  {
+    "name": "Mdphp"
+  },
+  {
+    "name": "MDPV"
+  },
+  {
+    "name": "Mebroqualone"
+  },
+  {
+    "name": "Meclonazepam"
+  },
+  {
+    "name": "Medazepam"
+  },
+  {
+    "name": "Melatonin"
+  },
+  {
+    "name": "MEM"
+  },
+  {
+    "name": "Memantine"
+  },
+  {
+    "name": "Mephedrone"
+  },
+  {
+    "name": "Mephtetramine"
+  },
+  {
+    "name": "Mescaline"
+  },
+  {
+    "name": "MET"
+  },
+  {
+    "name": "Metaclazepam"
+  },
+  {
+    "name": "Metaxalone"
+  },
+  {
+    "name": "Methadone"
+  },
+  {
+    "name": "Methallylescaline"
+  },
+  {
+    "name": "Methamnetamine"
+  },
+  {
+    "name": "Methamphetamine"
+  },
+  {
+    "name": "Methaqualone"
+  },
+  {
+    "name": "Methedrone"
+  },
+  {
+    "name": "Methoxphenidine"
+  },
+  {
+    "name": "METHOXYACETYL-FENTANYL"
+  },
+  {
+    "name": "Methoxyketamine"
+  },
+  {
+    "name": "Methoxypiperamide"
+  },
+  {
+    "name": "Methylmethaqualone"
+  },
+  {
+    "name": "Methylmorphenate"
+  },
+  {
+    "name": "Methylone"
+  },
+  {
+    "name": "Methylphenidate"
+  },
+  {
+    "name": "Methyprylon"
+  },
+  {
+    "name": "Metizolam"
+  },
+  {
+    "name": "Mexamine"
+  },
+  {
+    "name": "Mexazolam"
+  },
+  {
+    "name": "Mexedrone"
+  },
+  {
+    "name": "Midazolam"
+  },
+  {
+    "name": "MiPT"
+  },
+  {
+    "name": "MK-801"
+  },
+  {
+    "name": "Moclobemide"
+  },
+  {
+    "name": "Modafinil"
+  },
+  {
+    "name": "Morpheridine"
+  },
+  {
+    "name": "Morphine"
+  },
+  {
+    "name": "MPA"
+  },
+  {
+    "name": "MT-45"
+  },
+  {
+    "name": "Mushrooms"
+  },
+  {
+    "name": "MXE"
+  },
+  {
+    "name": "MXM"
+  },
+  {
+    "name": "N2O"
+  },
+  {
+    "name": "Naphyrone"
+  },
+  {
+    "name": "Naproxen"
+  },
+  {
+    "name": "NEB"
+  },
+  {
+    "name": "Nefiracetam"
+  },
+  {
+    "name": "Nicomorphine"
+  },
+  {
+    "name": "Nicotine"
+  },
+  {
+    "name": "Nifoxipam"
+  },
+  {
+    "name": "Nimetazepam"
+  },
+  {
+    "name": "Nitemazepam"
+  },
+  {
+    "name": "Nitracaine"
+  },
+  {
+    "name": "Nitrazepam"
+  },
+  {
+    "name": "Nitrazolam"
+  },
+  {
+    "name": "NM-2-AI"
+  },
+  {
+    "name": "Noopept"
+  },
+  {
+    "name": "Nordazepam"
+  },
+  {
+    "name": "Norflurazepam"
+  },
+  {
+    "name": "O-Desmethyltramadol"
+  },
+  {
+    "name": "O-PCE"
+  },
+  {
+    "name": "Opium"
+  },
+  {
+    "name": "Oxazepam"
+  },
+  {
+    "name": "Oxazolam"
+  },
+  {
+    "name": "Oxiracetam"
+  },
+  {
+    "name": "Oxycodone"
+  },
+  {
+    "name": "Oxymorphone"
+  },
+  {
+    "name": "Pagoclone"
+  },
+  {
+    "name": "Paracetamol"
+  },
+  {
+    "name": "Parafluorofentanyl"
+  },
+  {
+    "name": "Paroxetine"
+  },
+  {
+    "name": "PCE"
+  },
+  {
+    "name": "PCP"
+  },
+  {
+    "name": "Pemoline"
+  },
+  {
+    "name": "Pentazocine"
+  },
+  {
+    "name": "Pentedrone"
+  },
+  {
+    "name": "Pentobarbital"
+  },
+  {
+    "name": "Pentylone"
+  },
+  {
+    "name": "Pethidine"
+  },
+  {
+    "name": "Peyote"
+  },
+  {
+    "name": "PFBT"
+  },
+  {
+    "name": "Phenazepam"
+  },
+  {
+    "name": "Phenethylamine"
+  },
+  {
+    "name": "Phenetrazine"
+  },
+  {
+    "name": "Phenibut"
+  },
+  {
+    "name": "Phenmetrazine"
+  },
+  {
+    "name": "Phenobarbital"
+  },
+  {
+    "name": "Phentermine"
+  },
+  {
+    "name": "Phenylpiracetam"
+  },
+  {
+    "name": "Picamilon"
+  },
+  {
+    "name": "Pinazepam"
+  },
+  {
+    "name": "PiPT"
+  },
+  {
+    "name": "Piracetam"
+  },
+  {
+    "name": "PMA"
+  },
+  {
+    "name": "Pramiracetam"
+  },
+  {
+    "name": "Prazepam"
+  },
+  {
+    "name": "PRE-084"
+  },
+  {
+    "name": "Pregabalin"
+  },
+  {
+    "name": "PRL-8-53"
+  },
+  {
+    "name": "PRO-LAD"
+  },
+  {
+    "name": "Prolintane"
+  },
+  {
+    "name": "Promethazine"
+  },
+  {
+    "name": "Propofol"
+  },
+  {
+    "name": "Propoxyphene"
+  },
+  {
+    "name": "Propranolol"
+  },
+  {
+    "name": "Propylhexedrine"
+  },
+  {
+    "name": "Propylphenidate"
+  },
+  {
+    "name": "Proscaline"
+  },
+  {
+    "name": "Pseudoephrine"
+  },
+  {
+    "name": "Psilocin"
+  },
+  {
+    "name": "PST"
+  },
+  {
+    "name": "PV-10"
+  },
+  {
+    "name": "PV-8"
+  },
+  {
+    "name": "PV-9"
+  },
+  {
+    "name": "Pyrazolam"
+  },
+  {
+    "name": "Pyrophenidone"
+  },
+  {
+    "name": "Quazepam"
+  },
+  {
+    "name": "Quetiapine"
+  },
+  {
+    "name": "Rilmazafone"
+  },
+  {
+    "name": "Rolicyclidine"
+  },
+  {
+    "name": "Ronlax"
+  },
+  {
+    "name": "RTI-111"
+  },
+  {
+    "name": "Salvia"
+  },
+  {
+    "name": "Scopolamine"
+  },
+  {
+    "name": "Secobarbital"
+  },
+  {
+    "name": "Sertraline"
+  },
+  {
+    "name": "Sildenafil"
+  },
+  {
+    "name": "Sinicuichi"
+  },
+  {
+    "name": "Sonata"
+  },
+  {
+    "name": "Sufentanil"
+  },
+  {
+    "name": "Sulbutiamine"
+  },
+  {
+    "name": "Tadalafil"
+  },
+  {
+    "name": "Tapentadol"
+  },
+  {
+    "name": "Temazepam"
+  },
+  {
+    "name": "TETRAHYDROFURAN-FENTANYL"
+  },
+  {
+    "name": "Tetrazepam"
+  },
+  {
+    "name": "TH-PVP"
+  },
+  {
+    "name": "Theacrine"
+  },
+  {
+    "name": "Theobromine"
+  },
+  {
+    "name": "Thiopental"
+  },
+  {
+    "name": "Thiopropamine"
+  },
+  {
+    "name": "Tianeptine"
+  },
+  {
+    "name": "Tiletamine"
+  },
+  {
+    "name": "Tilidine"
+  },
+  {
+    "name": "TMA-2"
+  },
+  {
+    "name": "TMA-6"
+  },
+  {
+    "name": "Tolibut"
+  },
+  {
+    "name": "Tramadol"
+  },
+  {
+    "name": "Trazodone"
+  },
+  {
+    "name": "Triazolam"
+  },
+  {
+    "name": "Troparil"
+  },
+  {
+    "name": "Truffles"
+  },
+  {
+    "name": "Tuinal"
+  },
+  {
+    "name": "U-47700"
+  },
+  {
+    "name": "U-49900"
+  },
+  {
+    "name": "U-51754"
+  },
+  {
+    "name": "Valerylfentanyl"
+  },
+  {
+    "name": "Viloxazine"
+  },
+  {
+    "name": "Vyvanse"
+  },
+  {
+    "name": "W-15"
+  },
+  {
+    "name": "YERBA-MATE"
+  },
+  {
+    "name": "YOPO"
+  },
+  {
+    "name": "Zolazepam"
+  },
+  {
+    "name": "Zolpidem"
+  },
+  {
+    "name": "Zopiclone"
+  },
+  {
+    "name": "α-PBP"
+  },
+  {
+    "name": "α-PHP"
+  },
+  {
+    "name": "α-PVP"
+  },
+  {
+    "name": "α-PVT"
+  },
+  {
+    "name": "αET"
+  },
+  {
+    "name": "αMT"
+  },
+  {
+    "name": "βH-2C-B"
+  },
+  {
+    "name": "βk-2C-B"
+  },
+  {
+    "name": "βk-2C-I"
+  },
+  {
+    "name": "βk-IVP"
+  }
 ]

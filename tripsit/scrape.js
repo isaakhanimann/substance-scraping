@@ -19,9 +19,11 @@ async function getSubstancesFromPage(page) {
     const substancesOnPage = []
     for (i = 1; i < 31; i++) {
         try {
-            const element = await page.waitForSelector("#DataTables_Table_0 > tbody > tr:nth-child(" + i + ") > td.ttext.all.sorting_1 > a", {timeout: 5000})
-            const text = await page.evaluate(element => element.textContent, element)
-            substancesOnPage[i - 1] = text
+            let substance = {};
+            const nameElement = await page.waitForSelector("#DataTables_Table_0 > tbody > tr:nth-child(" + i + ") > td.ttext.all.sorting_1 > a", {timeout: 5000})
+            const name = await page.evaluate(element => element.textContent, nameElement)
+            substance['name'] = name.trim()
+            substancesOnPage[i - 1] = substance
         } catch (e) {
             break
         }
@@ -31,15 +33,16 @@ async function getSubstancesFromPage(page) {
 }
 
 function saveInFile(substances) {
+    const fileName = "tripsit_substances.json"
     fs.writeFile(
-        "tripsit_substances.json",
+        fileName,
         JSON.stringify(substances, null, 2),
         'utf8',
         function (err) {
             if (err) {
                 return console.log(err);
             }
-            console.log("The data has been scraped and saved successfully! View it at './data.json'");
+            console.log(`The data has been scraped and saved successfully! View it at './${fileName}'`);
         }
     );
 }
