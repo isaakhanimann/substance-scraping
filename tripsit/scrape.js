@@ -1,14 +1,23 @@
 const puppeteer = require('puppeteer')
 
-async function scrapeProduct(url) {
+async function scrapeSubstances(url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto(url);
-    const [el] = await page.$x('//*[@id="imgBlkFront"]');
-    const src = await el.getProperty('src')
-    const srcTxt = await src.jsonValue()
-    console.log({srcTxt})
-    await browser.close();
+    for (pageNum = 1; pageNum < 20; pageNum++) {
+        await scrapePage(page)
+        console.log("----------------------")
+        await page.$eval( '#DataTables_Table_0_next > a', form => form.click() );
+    }
+    await browser.close()
 }
 
-scrapeProduct('https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_2')
+async function scrapePage(page) {
+    for (i = 1; i < 31; i++) {
+        var element = await page.waitForSelector("#DataTables_Table_0 > tbody > tr:nth-child(" + i + ") > td.ttext.all.sorting_1 > a")
+        var text = await page.evaluate(element => element.textContent, element)
+        console.log(text)
+    }
+}
+
+scrapeSubstances('https://drugs.tripsit.me')
