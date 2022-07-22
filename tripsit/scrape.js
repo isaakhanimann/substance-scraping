@@ -39,7 +39,7 @@ function saveInFile(substances) {
             if (err) {
                 return console.log(err);
             }
-            console.log(`The data has been scraped and saved successfully! View it at './${fileName}'`);
+            console.log(`${substances.length} substances been scraped and saved successfully! View them at './${fileName}'`);
         }
     );
 }
