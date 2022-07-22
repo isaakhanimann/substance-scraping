@@ -20,7 +20,9 @@ async function getSubstancesFromPage(page) {
         let rows = Array.from(document.querySelectorAll("#DataTables_Table_0 > tbody > tr"));
         const substances = rows.map(row => {
                 const name = row.querySelector("td.ttext.all.sorting_1 > a").textContent.trim();
-                return {name: name};
+                const categories = Array.from(row.querySelectorAll("td.min-tablet > a")).map(e => e.textContent);
+                const summary = row.querySelector("td.ttext.desktop").textContent.trim();
+                return {name: name, categories: categories, summary: summary};
             }
         )
         return substances;
