@@ -6,11 +6,12 @@ async function scrapeSubstances(url) {
     const page = await browser.newPage();
     await page.goto(url);
     let substances = [];
-    for (pageNum = 1; pageNum < 20; pageNum++) {
+    for (let pageNum = 1; pageNum < 20; pageNum++) {
         const substancesOnPage = await getSubstancesFromPage(page)
         substances = substances.concat(substancesOnPage)
         await page.$eval('#DataTables_Table_0_next > a', form => form.click());
     }
+    substances = substances.sort(function(sub1, sub2){return sub1 < sub2});
     saveInFile(substances)
     await browser.close()
 }
@@ -18,14 +19,13 @@ async function scrapeSubstances(url) {
 async function getSubstancesFromPage(page) {
     return await page.evaluate(() => {
         let rows = Array.from(document.querySelectorAll("#DataTables_Table_0 > tbody > tr"));
-        const substances = rows.map(row => {
+        return rows.map(row => {
                 const name = row.querySelector("td.ttext.all.sorting_1 > a").textContent.trim();
                 const categories = Array.from(row.querySelectorAll("td.min-tablet > a")).map(e => e.textContent);
                 const summary = row.querySelector("td.ttext.desktop").textContent.trim();
                 return {name: name, categories: categories, summary: summary};
             }
         )
-        return substances;
     });
 }
 
