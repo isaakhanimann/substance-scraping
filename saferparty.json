@@ -1,326 +1,644 @@
 [
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "2C-B",
+        "effects": "Perceptions and feelings become more intense. From 10-15 mg (snorted already from 7 mg), the effect usually takes on a hallucinogenic character. The boundaries between inside and outside can dissolve. Often moving coloured patterns and luminous fields around objects and persons are perceived. However, the intoxication is felt to be less profound than with LSD.",
+        "dosageRemark": "2C-B is effective even in small doses; even 2 mg more or less can make a big difference in the effect experienced; a gradual approach to the individual dose is recommended. Doses above 35 mg can be experienced as unpleasantly strong even by experienced users.",
+        "generalrisks": "The pupils dilate, blood pressure rises and nausea, sweating and dizziness may occur. Some users report stomach and intestinal problems, and mild allergic reactions (such as coughing due to increased mucus production) may occur. Disorientation, confusion and feelings of anxiety, even fear of death, are risks on a psychological level.",
+        "longtermrisks": "There are no research results on long-term risks so far.",
+        "saferuse": [
+        	"2C-B seems very setting-dependent and are only suitable for parties to a limited extent.",
+        	"Be aware of set and setting: Use 2C-B only in places where you feel comfortable and safe. Do not use if you are afraid of the drug.",
+        	"Never consume 2C-B alone and only when you feel mentally and physically well and are well rested.",
+        	"Do not add more, dose carefully.",
+        	"Drink enough water during the trip.",
+        	"Follow the safer-sniffing rules when sniffing. Attention, 2C-B burns painfully in the nose!",
+        	"People with cardiovascular diseases and diabetics are at increased risk when consuming 2C-B."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "2C-I",
+        "effects": "Perceptions and feelings become more intense. From 10-15 mg (snorted already from 7 mg), the effect usually takes on a hallucinogenic character. The boundaries between inside and outside can dissolve. Often moving coloured patterns and luminous fields around objects and persons are perceived. However, the intoxication is felt to be less profound than with LSD.",
+        "dosageRemark": "2C-I is effective even in small doses; even 2 mg more or less can make a big difference in the effect experienced; a gradual approach to the individual dose is recommended. Doses above 35 mg can be experienced as unpleasantly strong even by experienced users.",
+        "generalrisks": "The pupils dilate, blood pressure rises and nausea, sweating and dizziness may occur. Some users report stomach and intestinal problems, and mild allergic reactions (such as coughing due to increased mucus production) may occur. Disorientation, confusion and feelings of anxiety, even fear of death, are risks on a psychological level.",
+        "longtermrisks": "There are no research results on long-term risks so far.",
+        "saferuse": [
+        	"2C-I seems very setting-dependent and are only suitable for parties to a limited extent.",
+        	"Be aware of set and setting: Use 2C-I only in places where you feel comfortable and safe. Do not use if you are afraid of the drug.",
+        	"Never consume 2C-I alone and only when you feel mentally and physically well and are well rested.",
+        	"Do not add more, dose carefully.",
+        	"Drink enough water during the trip.",
+        	"Follow the safer-sniffing rules when sniffing.",
+        	"People with cardiovascular diseases and diabetics are at increased risk when consuming 2C-I."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "Alcohol",
+        "effects": "Stimulation, relaxation, calming down, disinhibition, sociability, euphoria, reduction of the ability to react, overestimation of oneself and urge to talk, but also melancholy or irritability up to aggressiveness.\nAbsinthe (\"The Green Fairy\"), a high-proof spirit (usually 50 - 70 % by volume), contains the plant substance thujone. Together with the main active ingredient alcohol, thujone is said to have stimulating and mind-altering effects. In Europe, as in Switzerland, clear limits apply (max. 35 mg thujone per kg alcohol). Caution with chronic use! A thujone overdose manifests itself in seizures and epilepsy-like symptoms.",
+        "dosageRemark": "Standard drinks such as 3 dl beer, 1 dl wine or 2 cl spirits contain about 12 g alcohol. The effect of alcohol is influenced by the amount consumed, the type of alcohol (sugary and/or carbonated), the period of consumption and individual factors (age, sex, weight). The blood alcohol concentration is measured in parts per thousand (‰). The higher the alcohol concentration in the blood, the stronger the effect of alcohol.",
+        "generalrisks": "Small amounts of alcohol generally have a relaxing and exhilarating effect, a general feeling of well-being spreads, fears are reduced and sociability increases. The consumption of larger amounts can lead to balance and speech disorders, visual disturbances (double vision or tunnel vision), stomach pain, nausea to vomiting, headaches (hangover) due to dehydration, loss of control and blackouts. There is a risk of accidents due to overestimation of one's own abilities and reduced ability to react. High doses can lead to hypothermia or overheating, deep sleep and coma. Very high doses (blood alcohol concentration of 3-4‰) can be life-threatening.\nBinge drinking, i.e. the consumption of a large amount of alcohol in a very short time, causes the blood alcohol content to rise particularly quickly and strongly. This can quickly lead to alcohol poisoning. Consequences can be: comatose state, memory lapses (film tears), deactivation of important reflexes (danger of choking when vomiting, danger of freezing to death when cold) as well as epileptic seizures. There is also an increased risk of thrombosis, high or low blood pressure, respiratory depression and sudden cardiac death.",
+        "longtermrisks": "Since alcohol is a cytotoxin, regular heavy consumption can have consequences such as damage to all bodily organs, deficiency symptoms, disorders of the nervous system, coordination of movement and memory functions, and even alcohol-induced dementia. Alcohol is a co-carcinogen, i.e. it significantly increases the carcinogenic effect of other substances (e.g. nicotine).\nAlcohol can produce a dependence with psychological and physical symptoms. Typical withdrawal symptoms are trembling, sweating, nausea and vomiting up to epileptic seizures. On a psychological level, irritability, anxiety disorders, depressive moods and hallucinations may occur. Tolerance develops with regular consumption.",
+        "saferuse": [
+        	"Do not consume alcohol out of boredom or when you feel bad.",
+        	"Drink alcohol with pleasure and take your time.",
+        	"Do not drink alcohol on an empty stomach.",
+        	"Avoid mixed consumption of different alcoholic drinks, drink water with it (e.g. a glass of water after each alcoholic drink).",
+        	"Be careful with mixed drinks (e.g. alcopops) or self-mixed drinks! With these sweet drinks you can hardly taste the alcohol, even though a 3-litre bottle contains about two schnapps. The danger of an unintentional overdose is high.",
+        	"In general, refrain from consuming alcohol if you consume other psychoactive substances; their effect is altered by the alcohol, or sometimes life-threatening side effects occur (e.g. alcohol and GHB = danger of suffocation!).",
+        	"If you drink, you don't drive. Use public transport, take a taxi or walk.",
+        	"Alcohol consumption during pregnancy is a risk for the foetus. Severe damage to the child can be the result.",
+        	"Follow the safe sex rules even when under the influence of alcohol."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "Amphetamine",
+        "effects": "The release of the endogenous neurotransmitters noradrenalin and dopamine produced by the use of amphetamine can cause a feeling of increased performance, an increase in self-esteem, an increase in body temperature, the suppression of tiredness, hunger and thirst, an increased willingness to take risks and a suppressed feeling of pain, and can lead to euphoria as well as an increased urge to talk (babble flash).",
+        "dosageRemark": "Because of the varying purity (the amphetamine content varies from almost 0 % to almost 100 %!), dosing is difficult and the risk of overdose is high. Doses of more than 25 mg of pure amphetamine increase the negative effects. A dose of 50 mg/night should be the maximum, whether snorted or swallowed.",
+        "generalrisks": "Tremors, restlessness, nausea, palpitations and cardiac arrhythmias, sleep disturbances, headaches, nervousness, irritability, loss of appetite, aggressive behaviour and, in combination with alcohol, danger of alcohol poisoning. At high doses: hallucinations, circulatory failure, strokes as well as kidney, liver and heart failure and states of deep unconsciousness. An often underestimated danger is the rise in body temperature, which can lead to dehydration of the body. In high doses, acute amphetamine psychosis can occur. Signs of this are hallucinations in the form of colour spots and with features of schizophrenia. The risk of such an acute mental disorder increases with consumption over several days and/or if high doses are taken and food intake and sleep are neglected over a longer period of time. Such an experience usually normalises after sufficient sleep. During and after coming down: extreme need for sleep, exhaustion, strong feeling of hunger,depressive mood, irritability, etc.",
+        "longtermrisks": "There is a risk of addiction with psychological symptoms, especially if the use takes on a (performance-enhancing) function in everyday life (e.g. at work) or physical/psychological exhaustion is combated with amphetamine. Frequent use of amphetamine not infrequently leads to physical deficiency symptoms (e.g. calcium deficiency, which can lead to bone and tooth problems) and to psychological problems such as dejection or listlessness. Regular and high-dose use can lead to constant restlessness (but also persistent fatigue), sleep and circulatory disorders as well as anxiety disorders up to persistent amphetamine psychosis with paranoid delusions. In addition, high blood pressure, cardiac arrhythmias, weight loss, skin inflammations (\"speed pimples\"), stomach problems as well as liver and kidney damage and cramps are possible. Snorting damages the nasal mucous membranes and the nasal septum, swallowing damages the stomach mucous membranes. Chronic consumption also favours brain haemorrhages and strokes with sudden paralysis.",
+        "saferuse": [
+        	"Dose low. Think about how long you want to be awake before you take it! Do not suppress your need for sleep.",
+        	"The lowest-risk form of amphetamine use is to swallow it.",
+        	"Eat enough after consumption to prevent weight loss.",
+        	"Drink enough (non-alcoholic drinks).",
+        	"Take extra vitamin C and D and minerals (iron, calcium and magnesium) with frequent use.",
+        	"Follow the safer-sniffing rules when sniffing.",
+        	"Refrain from mixed consumption! Make sure to take breaks from consumption.",
+        	"Mentally ill persons, persons with high blood pressure, liver and kidney diseases, diabetics and pregnant women should refrain from using amphetamines.",
+        	"It is better not to wear headgear (danger of overheating!).",
+        	"Amphetamine pastes should always be well dried before consumption."
+        ],
+        "extenderText": "In both powders and pastes, the amphetamine is chemically present as sulphate. Pastes were not sufficiently dried after production or were subsequently brought into paste form with a liquid extender. These liquid extenders are solvents (e.g. isopropyl alcohol or phenylacetone) which are toxic. Therefore, amphetamine pastes should always be well dried before consumption!",
+        "extenders": [
+        	{
+        		"name": "Synthesis Byproducts",
+        		"description": "In addition to DPIA (bis-amphetamine or di(beta-phenylisopropyl)amines), these were 4-methyl-5-phenylpyrimidine and numerous other synthesis by-products."
+        	}, {
+        		"name": "Dimethylterephthalate",
+        		"description": "Dimethyl terephthalate is a basic material for the technical production of polyesters, for example polyethylene terephthalate (PET) or polybutylene terephthalate (PBT). It is also used in the production of polyester resins for films, lacquers and adhesives and of 1,4-dimethylolcyclohexane. The abbreviation for dimethyl terephthalate is DMT, it is possible that there is confusion here with Dimethyltryptamine whose abbreviation is also DMT."
+        	},
+        	{
+        		"name": "Amitriptyline",
+        		"description": "Amitriptyline is approved for the treatment of depression and is used for all forms of depressive disorders. Amitriptyline is also approved for the long-term treatment of pain."
+        	}, {
+        		"name": "Phenylacetone",
+        		"description": "Phenylacetone (1-phenyl-2-probanone) is a colourless to pale yellow liquid with a strong, characteristic odour. Phenylacetone is used in the chemical industry for synthesis purposes; it can be used to produce amphetamine by means of reductive amination. Phenylacetone is highly flammable and toxic. It is both a synthesis by-product and a potential extender; the powdered amphetamine sulphate can be reliquefied and the product sold as amphetamine paste."
+        	},
+        	{
+        		"name": "4-MeA",
+        		"description": "4-MeA is a stimulant that causes a release of the monoamine neurotransmitters. Similar to MDMA, these are dopamine, noradrenaline and serotonin."
+        	},
+        	{
+        		"name": "Caffeine",
+        		"description": "Alkaloid found in coffee beans, tea and mate leaves, kola nuts and guarana seeds."
+        	},
+        	{
+        		"name": "4-FA",
+        		"description": "4-FA (1-(4-fluorophenyl)propan-2-amine) belongs to the phentylamine family (related to methamphetamine, cathinone and methcathinone)."
+        	}
+        ]
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "Cannabis",
+        "effects": "The most important of a total of 400 active ingredients are THC (tetrahydrocannabinol) and CBD (cannabidiol), with THC being responsible for the majority of the psychoactive effects felt. CBD also has analgesic, sedative and narcotic effects.\nThe main cannabis active substances THC and CBD dock in the body to the cannabinoid receptors CB1 and CB2. This activates the body's own messenger substance endocannabinoid. This has a relaxing, appetite-stimulating, calming and pain-relieving effect. Feelings are intensified, serenity and/or groundless cheerfulness set in. The experience of time is changed, usually slowed down. In high doses and CBD-free varieties, cannabis can have hallucinogenic effects. Since it is usually consumed together with tobacco, the joint-typical effect is an interaction between cannabis and tobacco. This usually leads to an intensification and prolongation of the effect, as tobacco inhibits the degradation of endocannabinoids. ",
+        "dosageRemark": "The main active ingredient content and the ratio of THC to CBD differ greatly depending on the product. Therefore, the dosage is difficult to determine. Hashish contains on average more THC and mostly CBD. Outdoor weed varieties contain less THC and less CBD, while indoor weed varieties contain mainly THC and rarely CBD.",
+        "generalrisks": "Increase in heart rate and pulse rate, reddening of the eyes, dry mouth, excessive feeling of hunger (binge eating), dizziness, nausea and vomiting, general impairment of the ability to concentrate and remember during intoxication, as well as unpleasant intensification of feelings or introversion, drifting into one's own world of thoughts. At high doses and varieties with little CBD, circulatory problems up to circulatory collapse, in the worst case paranoia and depressive moods may occur.\nWhen consuming cannabis products, the dosage is more difficult to estimate, making the risks and side effects more unpredictable.",
+        "longtermrisks": "With frequent and regular use, there is a risk of psychological dependence. Symptoms of mild physical dependence may also manifest themselves; in the case of sudden abstinence, sweating, hot/cold shivers, loss of appetite and difficulty falling asleep as well as irritability are possible. In the case of chronic use, there is a danger of loss of reality; latent psychoses can be triggered. In addition, long-term impairment of short-term memory and the ability to motivate oneself is possible.\nSmoking, especially when mixed with tobacco, increases susceptibility to respiratory problems (bronchitis, tracheitis, pneumonia, etc.) when consumed chronically. Due to the deeper inhalation as well as poorer filtering methods (such as cardboard filters), joints are more harmful to the lungs than cigarettes.",
+        "saferuse": [
+        	"Currently, there are many misdeclared and stretched cannabis products in circulation. Therefore, if possible, use cannabis drug checking and follow the safer use instructions for synthetic cannabinoids.",
+        	"When using new cannabis products for the first time, try a small amount first to see if you notice any suspicious effects (e.g. rapid onset of effects, unusually strong effects, etc.).",
+        	"Cannabis products temporarily affect the ability to remember and concentrate. Consumption at work and at school is therefore not advisable.",
+        	"When smoking, make sure you use good filtering methods (activated carbon filters) or use a vaporizer.",
+        	"Since cannabis products are used mixed with tobacco, there is also a tobacco addiction with daily use. There are some tobacco substitutes such as damiana or coltsfoot that you can use instead of tobacco.",
+        	"Eating or drinking cannabis products is easy on the lungs, but the effects are stronger and more unpredictable than smoking. The risk of very high and highly psychoactive doses is high. Carefully approach the right dose, don't add more right away!",
+        	"Since the brain is developing until the age of 25, you should not use regularly until that age. You are more likely to be exposed to side effects and long-term risks from cannabis use.",
+        	"Do not consume if you are not well, latent psychoses could be triggered.",
+        	"In the case of mental illness, cannabis can aggravate the course of the disease or lead to relapses.",
+        	"Cannabis use should be avoided in cases of lung disease and existing heart conditions or heart disease."
+        ],
+        "extenderText": null,
+        "extenders": [
+        	{
+        		"name": "Synthetic Cannabinoids",
+        		"description": "Synthetic cannabinoids (also described in the literature as cannabimimetics or cannabinoid receptor agonists) are classified as \"new psychoactive substances\" (NPS). There is little information available on the effects, risks, long-term consequences and interactions."
+        	}
+        ]
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "DMT",
+        "effects": "The effect depends very much on the set and the setting. Blood pressure and pulse increase, pupils dilate. Detachment of the body from the mind and ego dissolution are common, near-death experiences also occur relatively often, especially when high doses are consumed. The perception of time changes greatly during intoxication. A few minutes can be perceived as very long and intense. In addition, different feelings such as fear, euphoria, etc. can be experienced within a short period of time. Consumers report immersion in very \"bizarre\" worlds in which connections between being, environment and matter arise. With DMT, this phenomenon is also visually pronounced, i.e., images are linked with oneself, matter and being in one's own society. Physical perception can also be influenced, in that one feels weightless or thinks one is falling.\nWhen swallowed, DMT is only effective in combination with MAO inhibitors. MAO inhibitors (e.g. harmine) are substances and drugs that prevent the enzyme MAO from breaking down the body's own messenger substances such as adrenaline, dopamine, serotonin etc. as well as foreign alkaloids such as caffeine, cocaine, morphine. The psychoactive potion ayahuasca and changa are such a combination. After the consumption of MAO inhibitors, the consumption of certain everyday foods such as cheese is life-threatening.",
+        "dosageRemark": "Ayahuasca is a shamanic herbal potion made from DMT-containing chacruna leaves (Psychotria viridis) and the harmaline-containing ayahuasca liana Banisteriopsis caapi. Harmaline is an MAO inhibitor. MAO inhibitors are substances and drugs that prevent the enzyme MAO from breaking down the body's own messenger substances such as adrenalin, dopamine, serotonin, etc. as well as foreign alkaloids such as caffeine, cocaine, etc.. MAO normally also degrades the active substance DMT even before it can enter the central nervous system via the blood-brain barrier.\nChanga is a mixture for smoking of DMT-containing plants (but usually mostly crystalline DMT) and herbs that act as MAO inhibitors.",
+        "generalrisks": "The risk associated with the use of DMT is mainly psychological and depends on the personality structure of the user. The perceptual changes during a trip can be so intense that especially inexperienced users feel overwhelmed by the flood of impressions. The perception of sudden emotional outbursts can also be perceived as rather disturbing and overwhelming. At high doses, such psychological side effects can be felt for days to weeks. If the rules of the set and setting are not followed, there can be false reactions, loss of orientation, panic, paranoia and horror trips. Physical side effects include nausea, vomiting, increase in heart rate, slightly accelerated breathing, increased blood pressure, pupil dilation, increased salivation, tremors, restlessness, headaches and movement disorders.",
+        "longtermrisks": "Permanent disturbances in self- and reality recognition are possible. The view of the world can be permanently called into question, which can make it difficult to cope with everyday life. Latent (hidden) psychoses can be triggered.",
+        "saferuse": [
+        	"Only consume when you feel good. If you are afraid of the strong effects, do not use. Do not use if you are afraid of the substance.",
+        	"Do not use DMT alone! Take it in a safe atmosphere and together with experienced people you trust.",
+        	"Take DMT while sitting or lying down, as physical perception and ability to move are impaired during intoxication.",
+        	"Dose carefully at first. If there is no effect, increase the dose the next time. Do not add more on the same day.",
+        	"The consumption of MAO-inhibiting foods such as matured cheese, smoked fish or meat, sauerkraut, tofu, chocolate etc. should be avoided before and after consumption.",
+        	"People with high blood pressure should not consume DMT.",
+        	"A trip with DMT should remain an exceptional experience. Make sure you take long breaks from using DMT and talk to others about your experience so that it can be processed."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "5-MeO-DMT",
+        "effects": "The effect depends very much on the set and the setting. Blood pressure and pulse increase, pupils dilate. Detachment of the body from the mind and ego dissolution are common, near-death experiences also occur relatively often, especially when high doses are consumed. The perception of time changes greatly during intoxication. A few minutes can be perceived as very long and intense. In addition, different feelings such as fear, euphoria, etc. can be experienced within a short period of time. Consumers report immersion in very \"bizarre\" worlds in which connections between being, environment and matter arise. Physical perception can also be influenced, in that one feels weightless or thinks one is falling.\nWith 5-MeO-DMT, the potential effect is greater, but less optical than with DMT.",
+        "dosageRemark": "MeO-DMT must be dosed very carefully, as even a few milligrams more can cause a very intense and unpleasant effect, which can result in psychological and mental problems lasting several weeks.",
+        "generalrisks": "The risk associated with the use of 5-MeO-DMT is mainly psychological and depends on the personality structure of the user. The perceptual changes during a trip can be so intense that especially inexperienced users feel overwhelmed by the flood of impressions. The perception of sudden emotional outbursts can also be perceived as rather disturbing and overwhelming. At high doses, such psychological side effects can be felt for days to weeks. If the rules of the set and setting are not followed, there can be false reactions, loss of orientation, panic, paranoia and horror trips. Physical side effects include nausea, vomiting, increase in heart rate, slightly accelerated breathing, increased blood pressure, pupil dilation, increased salivation, tremors, restlessness, headaches and movement disorders.",
+        "longtermrisks": "Permanent disturbances in self- and reality recognition are possible. The view of the world can be permanently called into question, which can make it difficult to cope with everyday life. Latent (hidden) psychoses can be triggered.",
+        "saferuse": [
+        	"Only consume when you feel good. If you are afraid of the strong effects, do not use. Do not use if you are afraid of the substance.",
+        	"Do not use 5-MeO-DMT alone! Take it in a safe atmosphere and together with experienced people you trust.",
+        	"Take 5-MeO-DMT while sitting or lying down, as physical perception and ability to move are impaired during intoxication.",
+        	"Dose carefully at first. If there is no effect, increase the dose the next time. Do not add more on the same day.",
+        	"The consumption of MAO-inhibiting foods such as matured cheese, smoked fish or meat, sauerkraut, tofu, chocolate etc. should be avoided before and after consumption.",
+        	"People with high blood pressure should not consume 5-MeO-DMT.",
+        	"A trip with 5-MeO-DMT should remain an exceptional experience. Make sure you take long breaks from using 5-MeO-DMT and talk to others about your experience so that it can be processed."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "DOM",
+        "effects": "At the beginning, typical effects of amphetamine unfold, such as increased alertness, accelerated pulse, slight euphoria, increased self-confidence and urge to talk. Afterwards, the effect changes: one often feels a strong urge to move, sensory perception, feelings and empathy are heightened, colours are perceived more distinctly. With DOB and DOI, coloured, superimposed, pulsating patterns are perceived. This effect is weaker with DOM.",
+        "dosageRemark": null,
+        "generalrisks": "Since the effect of DOM comes on late, the danger of overdosing by refilling is particularly great. The long duration of action poses a psychological burden. Confusion or anxiety is common, especially at high doses. Some DOB users report a burning or pressure sensation in the bladder. At high doses, temporary paralysis, inability to communicate or insensitivity to pain (caution: risk of injury and accidents) may occur. Teeth grinding and strain on the cardiovascular system are also possible.",
+        "longtermrisks": "Due to the long and intense effects, use - especially frequent use - carries the risk of a loss of reality, which can manifest itself in schizophrenic traits and anxiety states. The consumption of DOM can trigger latent (hidden) psychoses.",
+        "saferuse": [
+        	"DOM are not suitable as party drugs and should only be used by experienced users.",
+        	"Plan your trip ahead because of the long duration of action.",
+        	"Never consume DOM alone and only when you feel very well mentally and physically and are well rested!",
+        	"Pay attention to set and setting: only take DOM in a place where you feel safe and avoid unwanted disturbances from outside! Prepare yourself well for the trip and prepare yourself internally for the long duration of the effect.",
+        	"Drink enough water during the trip.",
+        	"Mixed use of these potent substances should be avoided at all costs.",
+        	"As amphetamine derivatives, DOM can be particularly draining because of their long duration of action. Light vitamin-rich food, fruits, vegetable juices, vitamins and minerals promote a soft landing after the trip has subsided and can weaken a hangover.",
+        	"Plan enough time for recovery after the trip (at least 1 day)!",
+        	"A trip with DOM should remain an exceptional experience. Make sure to take long breaks from consumption so that the experience can be processed."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "DOI",
+        "effects": "At the beginning, typical effects of amphetamine unfold, such as increased alertness, accelerated pulse, slight euphoria, increased self-confidence and urge to talk. Afterwards, the effect changes: one often feels a strong urge to move, sensory perception, feelings and empathy are heightened, colours are perceived more distinctly. With DOB and DOI, coloured, superimposed, pulsating patterns are perceived. This effect is weaker with DOM.",
+        "dosageRemark": null,
+        "generalrisks": "Since the effect of DOI comes on late, the danger of overdosing by refilling is particularly great. The long duration of action poses a psychological burden. Confusion or anxiety is common, especially at high doses. Some DOB users report a burning or pressure sensation in the bladder. At high doses, temporary paralysis, inability to communicate or insensitivity to pain (caution: risk of injury and accidents) may occur. Teeth grinding and strain on the cardiovascular system are also possible.",
+        "longtermrisks": "Due to the long and intense effects, use - especially frequent use - carries the risk of a loss of reality, which can manifest itself in schizophrenic traits and anxiety states. The consumption of DOI can trigger latent (hidden) psychoses.",
+        "saferuse": [
+        	"DOM are not suitable as party drugs and should only be used by experienced users.",
+        	"Plan your trip ahead because of the long duration of action.",
+        	"Never consume DOI alone and only when you feel very well mentally and physically and are well rested!",
+        	"Pay attention to set and setting: only take DOI in a place where you feel safe and avoid unwanted disturbances from outside! Prepare yourself well for the trip and prepare yourself internally for the long duration of the effect.",
+        	"Drink enough water during the trip.",
+        	"Mixed use of these potent substances should be avoided at all costs.",
+        	"As amphetamine derivatives, DOI can be particularly draining because of their long duration of action. Light vitamin-rich food, fruits, vegetable juices, vitamins and minerals promote a soft landing after the trip has subsided and can weaken a hangover.",
+        	"Plan enough time for recovery after the trip (at least 1 day)!",
+        	"A trip with DOI should remain an exceptional experience. Make sure to take long breaks from consumption so that the experience can be processed."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "DOB",
+        "effects": "At the beginning, typical effects of amphetamine unfold, such as increased alertness, accelerated pulse, slight euphoria, increased self-confidence and urge to talk. Afterwards, the effect changes: one often feels a strong urge to move, sensory perception, feelings and empathy are heightened, colours are perceived more distinctly. With DOB and DOI, coloured, superimposed, pulsating patterns are perceived. This effect is weaker with DOM.",
+        "dosageRemark": null,
+        "generalrisks": "Since the effect of DOB comes on late, the danger of overdosing by refilling is particularly great. The long duration of action poses a psychological burden. Confusion or anxiety is common, especially at high doses. Some DOB users report a burning or pressure sensation in the bladder. At high doses, temporary paralysis, inability to communicate or insensitivity to pain (caution: risk of injury and accidents) may occur. Teeth grinding and strain on the cardiovascular system are also possible.",
+        "longtermrisks": "Due to the long and intense effects, use - especially frequent use - carries the risk of a loss of reality, which can manifest itself in schizophrenic traits and anxiety states. The consumption of DOB can trigger latent (hidden) psychoses.",
+        "saferuse": [
+        	"DOB are not suitable as party drugs and should only be used by experienced users.",
+        	"Plan your trip ahead because of the long duration of action.",
+        	"Never consume DOB alone and only when you feel very well mentally and physically and are well rested!",
+        	"Pay attention to set and setting: only take DOB in a place where you feel safe and avoid unwanted disturbances from outside! Prepare yourself well for the trip and prepare yourself internally for the long duration of the effect.",
+        	"Drink enough water during the trip.",
+        	"Mixed use of these potent substances should be avoided at all costs.",
+        	"As amphetamine derivatives, DOB can be particularly draining because of their long duration of action. Light vitamin-rich food, fruits, vegetable juices, vitamins and minerals promote a soft landing after the trip has subsided and can weaken a hangover.",
+        	"Plan enough time for recovery after the trip (at least 1 day)!",
+        	"A trip with DOB should remain an exceptional experience. Make sure to take long breaks from consumption so that the experience can be processed."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
-    },
-    {
-        "name": "",
-        "effects": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse":
-        []
+        "name": "Ephedrine",
+        "effects": "Stimulates circulation, increases drive and performance, and suppresses appetite.",
+        "dosageRemark": null,
+        "generalrisks": "Even at low doses: Palpitations, restlessness, sleep problems, urinary urgency or retention and dry mouth. Also possible are feelings of anxiety, increased blood pressure (vasoconstriction), loss of appetite, dizziness, cardiac arrhythmias and even heart attacks.\nIn case of overdose: confusion and paranoia. The tannins of ephedra herb can cause stomach complaints in larger quantities.",
+        "longtermrisks": "Continuous use: Impaired memory and concentration, irritability, nervousness, aggressive behaviour, cardiac arrhythmia, chronic high blood pressure, bad teeth, liver/kidney damage and psychological disorders. Regular ephedrine use can lead to the development of tolerance and dependence, especially with psychological symptoms.",
+        "saferuse": [
+        	"Take a low dose of ephedrine, as the active ingredient content can vary greatly, especially in herbs!",
+        	"Drink enough water (3 - 5 dl per hour) and no alcohol!",
+        	"People with circulatory problems/diseases, thyroid disorders and liver or kidney damage should not consume ephedrine!",
+        	"Ephedrine is not an effective means of losing weight without medical supervision."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
         "name": "GHB",
         "effects": "The effect is extremely dose-dependent and varies greatly from individual to individual. It also depends on the purity of the substance. The spectrum of effects ranges from euphoria, relaxation, disinhibition, intensification of perception, urge to talk (babble flash), slight dizziness and drowsiness to deep (coma-like) sleep or unconsciousness.",
-        "generalrisks": "The higher the dose, the more likely nausea, vomiting and dizziness will occur. Headaches, confusion, breathing difficulties, cardiac arrhythmias, impaired balance and memory can occur at very high doses, as can uncontrollable muscle twitching, which is easily mistaken for epilepsy but can also progress into epilepsy.\nThe danger of an unintentional overdose is very high with GHB/GBL - even if it is not mixed! Signs of a GHB/GBL overdose are severe drowsiness followed by several hours of deep sleep that cannot be disturbed or can only be disturbed with difficulty (sometimes interrupted by short periods of wakefulness = standing man symptom), mild to very severe nausea, nausea, dizziness, headache, muscle atrophy (barely able to stay on one's feet) up to complete immobility, unconsciousness, disappearance of reflexes and breathing difficulties. It is difficult to assess whether users are only in a deep sleep or already in a coma after GHB/GBL use - if in doubt, always seek medical help!",
+        "dosageRemark": null,
+        "generalrisks": "The higher the dose, the more likely nausea, vomiting and dizziness will occur. Headaches, confusion, breathing difficulties, cardiac arrhythmias, impaired balance and memory can occur at very high doses, as can uncontrollable muscle twitching, which is easily mistaken for epilepsy but can also progress into epilepsy.\nThe danger of an unintentional overdose is very high with GHB - even if it is not mixed! Signs of a GHB overdose are severe drowsiness followed by several hours of deep sleep that cannot be disturbed or can only be disturbed with difficulty (sometimes interrupted by short periods of wakefulness = standing man symptom), mild to very severe nausea, nausea, dizziness, headache, muscle atrophy (barely able to stay on one's feet) up to complete immobility, unconsciousness, disappearance of reflexes and breathing difficulties. It is difficult to assess whether users are only in a deep sleep or already in a coma after GHB use - if in doubt, always seek medical help!",
         "longtermrisks": "Regular use of GHB/GBL can lead to sleep disorders, anxiety and tremors; there is a risk of dependence with psychological and physical symptoms. In the case of chronic high-dose consumption (several doses daily), severe physical withdrawal symptoms such as sweating, muscle cramps or epileptic seizures occur upon discontinuation.",
         "saferuse":
         [
-            "If you are offered GHB/GBL, ask about the origin of the substance and the dosage.",
-            "GBL should be dosed lower than GHB! To produce the same effect, you need about half as much GBL as GHB.",
-            "Dose carefully! If GHB/GBL does not (yet) work, it is best to wait 2 hours and not add more right away. Often, overdosing is caused by adding more. Use an insulin syringe or graduated pipettes so that you can measure your unit of consumption accurately. Make a note of when you took your last dose.",
-            "Refrain from using GHB/GBL when you are alone.",
-            "With GHB/GBL, refrain from mixed consumption of any kind, especially with alcohol! Dilute the liquid before consumption, e.g. with tea.",
-            "If you have sex on GHB/GBL, follow the safe sex rules. Have condoms etc. ready before consumption.",
-            "People with epilepsy, heart or kidney dysfunction should not consume GHB/GBL under any circumstances!",
-            "GHB/GBL withdrawal should only be carried out under medical supervision.",
-            "Never leave your drink unattended to avoid someone mixing GHB/GBL into your drink. If your drink tastes strange, pour it out for your own safety."
-        ]
+            "If you are offered GHB, ask about the origin of the substance and the dosage.",
+            "Dose carefully! If GHB does not (yet) work, it is best to wait 2 hours and not add more right away. Often, overdosing is caused by adding more. Use an insulin syringe or graduated pipettes so that you can measure your unit of consumption accurately. Make a note of when you took your last dose.",
+            "Refrain from using GHB when you are alone.",
+            "With GHB, refrain from mixed consumption of any kind, especially with alcohol! Dilute the liquid before consumption, e.g. with tea.",
+            "If you have sex on GHB, follow the safe sex rules. Have condoms etc. ready before consumption.",
+            "People with epilepsy, heart or kidney dysfunction should not consume GHB under any circumstances!",
+            "GHB withdrawal should only be carried out under medical supervision.",
+            "Never leave your drink unattended to avoid someone mixing GHB into your drink. If your drink tastes strange, pour it out for your own safety."
+        ],
+        "extenderText": null,
+        "extenders": []
     },
     {
         "name": "GBL",
         "effects": "The effect is extremely dose-dependent and varies greatly from individual to individual. It also depends on the purity of the substance. The spectrum of effects ranges from euphoria, relaxation, disinhibition, intensification of perception, urge to talk (babble flash), slight dizziness and drowsiness to deep (coma-like) sleep or unconsciousness.",
-        "generalrisks": "The higher the dose, the more likely nausea, vomiting and dizziness will occur. Headaches, confusion, breathing difficulties, cardiac arrhythmias, impaired balance and memory can occur at very high doses, as can uncontrollable muscle twitching, which is easily mistaken for epilepsy but can also progress into epilepsy.\nThe danger of an unintentional overdose is very high with GHB/GBL - even if it is not mixed! Signs of a GHB/GBL overdose are severe drowsiness followed by several hours of deep sleep that cannot be disturbed or can only be disturbed with difficulty (sometimes interrupted by short periods of wakefulness = standing man symptom), mild to very severe nausea, nausea, dizziness, headache, muscle atrophy (barely able to stay on one's feet) up to complete immobility, unconsciousness, disappearance of reflexes and breathing difficulties. It is difficult to assess whether users are only in a deep sleep or already in a coma after GHB/GBL use - if in doubt, always seek medical help!",
-        "longtermrisks": "Regular use of GHB/GBL can lead to sleep disorders, anxiety and tremors; there is a risk of dependence with psychological and physical symptoms. In the case of chronic high-dose consumption (several doses daily), severe physical withdrawal symptoms such as sweating, muscle cramps or epileptic seizures occur upon discontinuation.",
+        "dosageRemark": "The dosage depends on the degree of dilution and is even more delicate with GBL than with GHB, as not every body converts GBL into GHB at the same rate and in the same amount. GBL is a strong acid that can corrode the mucous membranes and must be heavily diluted with a non-alcoholic drink before drinking! In case of doubt: less is more!",
+        "generalrisks": "The higher the dose, the more likely nausea, vomiting and dizziness will occur. Headaches, confusion, breathing difficulties, cardiac arrhythmias, impaired balance and memory can occur at very high doses, as can uncontrollable muscle twitching, which is easily mistaken for epilepsy but can also progress into epilepsy.\nThe danger of an unintentional overdose is very high with GBL - even if it is not mixed! Signs of a GBL overdose are severe drowsiness followed by several hours of deep sleep that cannot be disturbed or can only be disturbed with difficulty (sometimes interrupted by short periods of wakefulness = standing man symptom), mild to very severe nausea, nausea, dizziness, headache, muscle atrophy (barely able to stay on one's feet) up to complete immobility, unconsciousness, disappearance of reflexes and breathing difficulties. It is difficult to assess whether users are only in a deep sleep or already in a coma after GBL use - if in doubt, always seek medical help!",
+        "longtermrisks": "Regular use of GBL can lead to sleep disorders, anxiety and tremors; there is a risk of dependence with psychological and physical symptoms. In the case of chronic high-dose consumption (several doses daily), severe physical withdrawal symptoms such as sweating, muscle cramps or epileptic seizures occur upon discontinuation.",
         "saferuse":
         [
-            "If you are offered GHB/GBL, ask about the origin of the substance and the dosage.",
+            "If you are offered GBL, ask about the origin of the substance and the dosage.",
             "GBL should be dosed lower than GHB! To produce the same effect, you need about half as much GBL as GHB.",
-            "Dose carefully! If GHB/GBL does not (yet) work, it is best to wait 2 hours and not add more right away. Often, overdosing is caused by adding more. Use an insulin syringe or graduated pipettes so that you can measure your unit of consumption accurately. Make a note of when you took your last dose.",
-            "Refrain from using GHB/GBL when you are alone.",
-            "With GHB/GBL, refrain from mixed consumption of any kind, especially with alcohol! Dilute the liquid before consumption, e.g. with tea.",
-            "If you have sex on GHB/GBL, follow the safe sex rules. Have condoms etc. ready before consumption.",
-            "People with epilepsy, heart or kidney dysfunction should not consume GHB/GBL under any circumstances!",
-            "GHB/GBL withdrawal should only be carried out under medical supervision.",
-            "Never leave your drink unattended to avoid someone mixing GHB/GBL into your drink. If your drink tastes strange, pour it out for your own safety."
+            "Dose carefully! If GBL does not (yet) work, it is best to wait 2 hours and not add more right away. Often, overdosing is caused by adding more. Use an insulin syringe or graduated pipettes so that you can measure your unit of consumption accurately. Make a note of when you took your last dose.",
+            "Refrain from using GBL when you are alone.",
+            "With GBL, refrain from mixed consumption of any kind, especially with alcohol! Dilute the liquid before consumption, e.g. with tea.",
+            "If you have sex on GBL, follow the safe sex rules. Have condoms etc. ready before consumption.",
+            "People with epilepsy, heart or kidney dysfunction should not consume GBL under any circumstances!",
+            "GBL withdrawal should only be carried out under medical supervision.",
+            "Never leave your drink unattended to avoid someone mixing GBL into your drink. If your drink tastes strange, pour it out for your own safety."
+        ],
+        "extenderText": null,
+        "extenders": []
+    }
+    {
+        "name": "Heroin",
+        "effects": "Pain-relieving, balancing, calming, anxiety-relieving and euphoric. The euphoric \"flash\" at the beginning is followed by a state of well-being and a feeling of indifference, serenity, light-heartedness and self-satisfaction.",
+        "dosageRemark": "The dose depends on the individual tolerance to heroin. The lethal dose in non-tolerant people is about 60 mg.",
+        "generalrisks": "Slowing of breathing, nausea, vomiting, itching, drop in blood pressure, pulse slowing, pupil constriction and urinary retention may occur.\nOther side effects of regular use of heroin: confusion, disorientation, memory lapses, slurred and garbled speech as well as coordination disorders, extreme constipation, reduction of sexual desire and a potentially life-threatening reduction of the breathing rate to 2 to 4 breaths per minute (due to the attenuation of the coughing and breathing centre).\nHigh doses of heroin can be fatal if medical help is not sought immediately!\nThe drug methadone is a synthetic opioid and is used as a substitute for heroin addiction. For users who are not used to opiates, the consumption of methadone even in small quantities can be life-threatening (severe respiratory depression, danger of suffocation).\nSniffing: damage to nasal septums and mucous membranes. Risk of hepatitis C infection.\nSmoking: damage to bronchial tubes and lungs (lungs become sticky with daily use).\nInjections: Venous inflammation and risk of infectious diseases (hepatitis C, HIV/AIDS, fungi). Organ damage can occur due to the impurities in heroin.",
+        "longtermrisks": "The risk of dependence with psychological and physical symptoms is great. As soon as a tolerance has developed and the body is not supplied with the necessary amount of substance, physical withdrawal symptoms occur 8 to 12 hours after the last heroin intake. Withdrawal symptoms are sweating and chills, running eyes and nose, vomiting, diarrhoea, restlessness, irritability, weakness, anxiety, depressive states, painful cramps, insomnia and, less frequently, hallucinations, psychotic phases and seizures.",
+        "saferuse": [
+        	"Always use your own clean and new spraying equipment (needles, filters, spoons).",
+        	"Follow the safe sniffing rules when sniffing.",
+        	"Avoid mixed use with other substances, otherwise the effect becomes incalculable and the risks increase! Note that the combination with other downers (e.g. benzodiazepines) can lead to respiratory arrest.",
+        	"The risk of overdose is particularly high after longer periods of non-use and with extremely \"pure substance\".",
+        	"Consume in a quiet environment and not alone."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Ketamine",
+        "effects": "The effect of ketamine as an intoxicant is strongly dependent on the dosage: In lower doses, it has a disinhibiting and relaxing effect similar to alcohol, while higher doses can induce trance-like states up to out-of-body or near-death experiences (K-Hole). There can be a fragmentary dissolution of the environment and bodily sensation, thoughts can break off, feelings of weightlessness or floating can appear. Sensory perceptions and the sense of space-time change. At higher doses, detachment from one's own body and/or ego dissolution or merging with the environment may occur.\nAfter the trip: drowsiness, memory of the experience is often only partially possible.",
+        "dosageRemark": "The dosage of ketamine depends strongly on the desired effect.",
+        "generalrisks": "Movement and communication may be severely restricted. Partial or complete insensitivity to pain, coordination disorders, sensation of weakness, loss of appetite, nausea, vomiting, uncoordinated muscle movements, dizziness, slurred speech, increased pulse and blood pressure and cardiac arrhythmias. At high doses, muscle stiffness, paralysis and narcosis, at very high doses, epileptic seizures and coma.\nKetamine puts a strain on the cardiovascular system. A ketamine trip can be psychologically very stressful. Many ketamine users report near-death experiences, nightmare hallucinations, tunnel visions, blackouts and short periods of memory loss.\nAfter repeated consumption within a short period of time, the effect diminishes considerably and a tolerance develops.",
+        "longtermrisks": "Ketamine can cause dependence with psychological symptoms. Chronic use damages the liver and kidneys and can lead to depressive moods and anxiety. It is suspected that even in small doses, ketamine can trigger dysfunctions in areas of the brain responsible for memory, learning and perception. The more often it is consumed and the larger the individual doses, the more alarming these disturbances become.",
+        "saferuse": [
+        	"Ketamine is not a party drug! Do not take ketamine alone and make sure you are in a familiar and comfortable environment. Allow enough time to process the trip in peace afterwards.",
+        	"Dose carefully. Small differences in dose can cause significant differences in effect, so dosing is difficult.",
+        	"Take regular breaks from consumption.",
+        	"You need a place to sit or lie down, because at high doses there is a great risk of collapsing or fainting.",
+        	"Because of the insensitivity to pain, you can hurt yourself without noticing it.",
+        	"Do not take ketamine on a full stomach.",
+        	"Refrain from mixed consumption. When combined with alcohol, benzodiazepines or opiates, there is a risk of respiratory arrest! Mixing with uppers (e.g. cocaine) can lead to circulatory problems, increase in heart rate and shortness of breath.",
+        	"People with cardiovascular problems, high blood pressure or glaucoma should absolutely refrain from consuming ketamine!"
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Caffeine",
+        "effects": "Caffeine makes you awake, speeds up the heartbeat and temporarily increases mental performance. In higher doses (approx. 300 - 600 mg = approx. 8 cups of coffee) it produces euphoria.",
+        "dosageRemark": null,
+        "generalrisks": "Caffeine dehydrates the body (dehydration). At very high doses: sweating, fluttering of the heart, urge to urinate, cardiac arrhythmia, strong disturbances of perception, trembling, nervousness and sleep disturbances.",
+        "longtermrisks": "With long-term, regular and high-dose caffeine consumption (also with coffee or energy drinks), there is a risk of dependence with physical symptoms. Possible withdrawal symptoms: headaches, nervousness, fatigue, vomiting and even movement and concentration disorders. The acidity of coffee also promotes the formation of stomach ulcers in the long term. Continuous consumption of caffeine with painkillers can lead to severe kidney damage with life-threatening complications.",
+        "saferuse": [
+        	"Do not consume pure caffeine, rather drink coffee or guarana. In addition to caffeine, energy drinks also contain a lot of sugar.",
+        	"Pure (synthetic) caffeine in powder form is often mixed with amphetamine and sold as speed."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Cocaine",
+        "effects": "The increased release and additional reuptake inhibition of the body's own neurotransmitters dopamine and noradrenaline lead to the suppression of tiredness, hunger and thirst, euphoria, feelings of increased performance, greatly increased self-confidence, urge to move, restlessness, talkativeness, elimination of inhibitions and fears, suppressed sense of pain, as well as increased willingness to take risks.\n\nCoca leaves are known as \"Mate de Coca\" or dried leaves. These dried leaves contain about 0.5 to 2.5 % alkaloids, of which up to three quarters consist of cocaine. The leaves are chewed or drunk as tea. However, a psychoactive effect only occurs when they are taken in combination with a basic substance (e.g. lime or plant ash). This combination activates a hydrolysis, resulting in the alkaloid ecgonine. Ecgonine can be absorbed by the body and a slightly stimulating effect sets in. In contrast to cocaine, ecgonine has no dependence potential. If coca leaves are chewed without alkaline additives, they only have a numbing effect on the tongue. Coca leaves are used in South America mainly for medicinal purposes, e.g. to combat nausea or altitude sickness.",
+        "dosageRemark": null,
+        "generalrisks": "Sleep disturbances, irritability, aggressiveness, exaggerated egocentrism up to \"megalomania\", decrease in critical and judgemental ability, anxiety and delusions, depression, memory/concentration disorders, shortness of breath, hyperactivity, nervous twitching, muscle cramps and tremors, high stress on the cardiovascular system due to constriction of the blood vessels, increase in heart rate, increased blood pressure and hypertensive crises. In extreme cases, overdose can lead to a heart attack or stroke.\nWhen the effect wears off: exhaustion, depressive moods, irritability, feelings of anxiety and a strong urge to take the drug again (\"craving\").",
+        "longtermrisks": "Chronic use: psychological dependence. \"Craving\" (irresistible and uncontrollable desire to consume) can be triggered quickly by so-called trigger effects (situations, memories, people, etc., which are associated with consumption). Other long-term risks are anxiety disorders, personality changes such as reduced empathy, emotional coldness, exaggerated mistrust, depression, mental disorders with paranoid delusions and hallucinations, alteration of thought processes, permanent disturbances of short-term memory and intellectual abilities. Nerve damage, nervous twitching, seizures, alteration of movement patterns, damage to: Heart, liver, kidneys, lungs, skin, blood vessels and teeth. General weakening of the immune system, in extreme cases with necrosis (death of skin cells), liver damage due to the breakdown of toxins and the risk of kidney damage due to extender.\nChronic inflammation and damage to the nasal mucous membranes and nasal septum, which is difficult to heal. When smoking freebase and crack, damage to the lungs and respiratory tract is possible due to the deposition of combustion residues (ash residues). When injecting or smoking (freebase), the phenomenon of \"dermatozoan madness\" (the idea that there are worms or insects under the skin, perception of a tingling sensation under the skin) is known. Colloquially also called \"cocaine worms/bugs\"). This delusion leads to excessive scratching of the arms and/or legs, up to open injuries, which can lead to abscesses if hygiene is poor.",
+        "saferuse": [
+        	"Attention, very high risk of psychological dependence! Take breaks from using, especially if it is difficult for you.",
+        	"Keep the dosage low and avoid frequent refilling!",
+        	"Drink enough soft drinks and take breaks in the fresh air.",
+        	"Eat healthy before and after consumption and do not consume on an empty stomach.",
+        	"Follow the safer sniffing and safer sex rules.",
+        	"Snorting is the lowest-risk form of use. Smoking crack and freebase as well as injecting increase the risks (no syringe exchange!).",
+        	"People with pre-existing cardiovascular conditions, asthma, liver disease, hyperthyroidism and pregnant women should not use cocaine.",
+        	"Do not combine cocaine with other stimulants or drugs that increase blood pressure.",
+        	"Do not use cocaine if you have used ecstasy; this will cancel out the ecstasy effect.",
+        	"Do not mix cocaine with alcohol; the mixture makes you aggressive and you risk alcohol poisoning."
+        ],
+        "extenderText": null,
+        "extenders": [
+        	{
+        		"name": "Dimethylterephthalate",
+        		"description": "Dimethyl terephthalate is a basic material for the technical production of polyesters, for example polyethylene terephthalate (PET) or polybutylene terephthalate (PBT). It is also used in the production of polyester resins for films, lacquers and adhesives and of 1,4-dimethylolcyclohexane. The abbreviation for dimethyl terephthalate is DMT; it is possible that there is confusion here with dimethyl triytamine, whose abbreviation is also DMT."
+        	},
+        	{
+        		"name": "Buflomedil",
+        		"description": "Buflomedil is a drug for the supportive treatment of peripheral arterial occlusive disease (PAD). This disease causes pain in the legs, for example when walking, because the arteries are narrowed by deposits in their lumen and therefore less blood with nutrients reaches the muscle tissue in the legs. The drug promotes blood flow in medium and small arterial blood vessels. It is an antagonist at α-adrenoreceptors."
+        	},
+        	{
+        		"name": "Hydroxyzine",
+        		"description": "The effects are based, among other things, on antagonism at histamine H1 receptors and anticholinergic properties. The drug hydroxyzine acts at several sites in the body: It influences different messenger systems in the brain and the rest of the body. As a result, it has a calming effect, relieves tension and anxiety, soothes nausea and relieves itching. Hydroxyzine has a strong calming effect and promotes sleeping through the night. It is particularly suitable for night-time relief of severe itching in allergies and neurodermatitis."
+        	},
+        	{
+        		"name": "Lidocaine",
+        		"description": "Lidocaine is an amide-type local anaesthetic that is also used as a class Ib antiarrhythmic."
+        	},
+        	{
+        		"name": "Piracetam",
+        		"description": "Piracetam is a cyclic derivative (γ-lactam) of γ-aminobutyric acid (GABA) and a drug from the group of anti-dementia drugs (nootropics)."
+        	},
+        	{
+        		"name": "Procaine",
+        		"description": "Procaine is now rarely used for local anaesthesia, as more effective substances, such as lidocaine, are available for this purpose."
+        	},
+        	{
+        		"name": "Levamisole",
+        		"description": "S)-6-phenyl-2,3,5,6-tetrahydroimidazo(2,1-b)(1,3)thiazole. Levamisole was originally used as an agent against threadworms (anthelmintic), but has not been used in human medicine since 2004 because of undesirable drug effects."
+        	},
+        	{
+        		"name": "Diltiazem",
+        		"description": "Diltiazem is a calcium channel blocker that has a vasodilatory effect and delays conduction in the AV node of the heart.\nPossible side effects: Swelling of the lymph nodes, vomiting, heartburn, diarrhoea, feeling of weakness, oedema."
+        	},
+        	{
+        		"name": "Tetracaine",
+        		"description": "Tetracaine is used as a surface anaesthetic of mucous membranes - for example for minor procedures in the mouth or nose."
+        	},
+        	{
+        		"name": "Phenacetin",
+        		"description": "Phenacetin is an active substance from the group of analgesics with analgesic and antipyretic effects. A large proportion of the active substance is converted into paracetamol in the body. Due to its toxicity to the kidneys and the risk of carcinogenesis in the urinary tract, phenacetin is no longer on the market."
+        	}
         ]
+    },
+    {
+        "name": "LSD",
+        "effects": "The effect is very much dependent on dose, set and setting. As a hallucinogen, LSD intensifies and alienates sensory perceptions and the sense of space-time. Mood and feelings can change abruptly. At higher doses, feelings of detachment from one's own body can occur. Especially in the initial phase of the trip, slight breathing difficulties, palpitations, sweating, altered blood pressure and nausea may occur.",
+        "dosageRemark": null,
+        "generalrisks": "The risks of LSD use are psychological and depend on the personality structure of the user. The perceptual changes during a trip can be so intense that inexperienced users in particular feel overwhelmed by the flood of impressions. This can lead to erroneous reactions, loss of orientation, panic, paranoia and badtrips/horror trips.\nThere is a risk - even with single use - that latent (hidden) mental disorders can be triggered. LSD does not lead to organ damage or genetic mutations and is not physically addictive.",
+        "longtermrisks": null,
+        "saferuse": [
+        	"Take LSD only if you are well prepared, in an environment where you feel comfortable, and only with experienced friends (favourable setting).",
+        	"Only take LSD when you feel good mentally and physically (cheap set).",
+        	"You should not be afraid, but have enough respect for the LSD effect.",
+        	"Do not consume LSD on a full stomach, but eat something light before or during the high.",
+        	"Dose low. Don't throw it if it doesn't work right away!",
+        	"Let yourself go during the trip, don't try to fight the LSD effect.",
+        	"Dextrose can help against circulatory problems.",
+        	"Avoid roads and other \"dangerous\" places, your orientation may be disturbed.",
+        	"At least the day after the trip, allow yourself plenty of rest and recovery to be able to process the experience.",
+        	"LSD trips should remain exceptional experiences and should in no case be experienced more than once a month.",
+        	"People with mental problems or illnesses, people taking neuroleptics and people with circulatory and heart problems should refrain from consuming LSD."
+        ],
+        "extenderText": "For the effect of LSD (lysergic acid diethylamide), apart from the dose, one's own state of mind (set) and the environment (setting) are always very decisive. When consuming LSD felts, there is a risk of ingesting misdeclared substances, pharmacologically active extenders and/or high-dose felts. The highly variable active substance content of LSD felts can lead to the unintentional ingestion of high doses of LSD, which increase the risk of a negative experience (bad trip). High doses increase the risk even for experienced users. Highly intense psychedelic experiences can be induced, which can be disturbing and frightening. In recent years, we have repeatedly analysed misdeclared LSD felts (felts containing another psychoactive substance instead of LSD). Depending on the substance, such misdeclarations pose a high health risk.",
+        "extenders": [
+        	{
+        		"name": "NBOMe connections",
+        		"description": "NBOMe compounds belong to the group of phenethylamines. Typical for phenylethylamines is an increased perception of digestion and the intestine (gastrointestinal sensation) as well as a strongly sensitised sense of touch. Visual effects occur, but are less prominent than with LSD. According to user reports, the effects of 25l-NBOMe*HCl, 25B-NBOMe*HCl and 25C-NBOMe*HCl vary from time to time, so the effect cannot be predicted. Unlike LSD, felts with NBOMe have a bitter taste."
+        	},
+        	{
+        		"name": "DOC",
+        		"description": "Only little information exists on DOC / 2,5-dimethoxy-4-chloroamphetamine. However, DOC can lead to chest pain and vasoconstriction. Due to the late onset of action, there is a risk of overdose. The very long duration of action of approx. 20 h should definitely be taken into account."
+        	}
+        ]
+    },
+    {
+        "name": "Nitrous",
+        "effects": "Relaxation, euphoria, optical and acoustic changes in perception, loss of the sense of time.",
+        "generalrisks": null,
+        "dosageRemark": "Mild nausea, headache; in case of excessive and improper consumption, unconsciousness, drop in blood pressure, cardiac arrhythmia, in the worst case death by respiratory paralysis. Danger of suffocation if oxygen supply is insufficient, increased risk of injury from falling when \"stepping away\".",
+        "longtermrisks": "Continuous use of nitrous oxide stresses the nervous system and leads to vitamin B12 deficiency (risk of disturbed cell function and temporary infertility). Dependence with psychological symptoms is possible.",
+        "saferuse": [
+        	"Never inhale nitrous oxide directly from the capsule or gas cylinder (risk of frostbite in the larynx and bronchi!).",
+        	"Consume nitrous oxide while sitting or lying down (less risk of injury).",
+        	"Take breaks to avoid too high a concentration of nitrous oxide.",
+        	"Refrain from mixed consumption, especially with alcohol.",
+        	"Persons with cardiovascular or respiratory diseases should not consume nitrous oxide, nor should persons suffering from epilepsy or otitis media. People with broken ribs or who have suffered a diving accident should also refrain from using nitrous oxide."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "MDA",
+        "effects": "MDA is closely related to MDMA. It differs mainly in how well one's own feelings are perceived (entactogenic effect), how strong empathic understanding (empathic effect) and hallucinogenic effects occur.",
+        "dosageRemark": "1.3 mg per kg body weight (1.3 mg x 80 kg = 100 mg)",
+        "generalrisks": "Nausea to nausea, dry mouth, cramping of the jaw muscles, sweating, coordination disorders, sleep disorders and trembling.",
+        "longtermrisks": "MDA is both neurotoxic (damaging to the nerves) and hepatotoxic (damaging to the liver); regular use can lead to schizophrenia-like symptoms.",
+        "saferuse": [
+        	"First test a third or half a pill.",
+        	"Wait two hours for the effect to take effect before adding more.",
+        	"With MDA, topping up is pointless, as it is effective for a long time even in small doses.",
+        	"Refrain from mixed consumption.",
+        	"Avoid alcohol, drink enough non-alcoholic beverages (3-5 dl per hour).",
+        	"Take breaks from dancing at parties and get some fresh air in between.",
+        	"Take regular breaks from consumption. The body needs time to recover.",
+        	"People taking medication are advised to inform themselves about interactions."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "MDEA",
+        "effects": "MDEA is closely related to MDMA. It differs mainly in how well one's own feelings are perceived (entactogenic effect), how strong empathic understanding (empathic effect) and hallucinogenic effects occur.",
+        "dosageRemark": "1.3 mg per kg body weight (1.3 mg x 80 kg = 100 mg)",
+        "generalrisks": "Nausea to nausea, dry mouth, cramping of the jaw muscles, sweating, coordination disorders, sleep disorders and trembling.",
+        "longtermrisks": "MDA is both neurotoxic (damaging to the nerves) and hepatotoxic (damaging to the liver); regular use can lead to schizophrenia-like symptoms.",
+        "saferuse": [
+        	"First test a third or half a pill.",
+        	"Wait two hours for the effect to take effect before adding more.",
+        	"Refrain from mixed consumption.",
+        	"Avoid alcohol, drink enough non-alcoholic beverages (3-5 dl per hour).",
+        	"Take breaks from dancing at parties and get some fresh air in between.",
+        	"Take regular breaks from consumption. The body needs time to recover.",
+        	"People taking medication are advised to inform themselves about interactions."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "MBDB",
+        "effects": "MBDB is closely related to MDMA. It differs mainly in how well one's own feelings are perceived (entactogenic effect), how strong empathic understanding (empathic effect) and hallucinogenic effects occur.",
+        "dosageRemark": "1.3 mg per kg body weight (1.3 mg x 80 kg = 100 mg)",
+        "generalrisks": "Nausea to nausea, dry mouth, cramping of the jaw muscles, sweating, coordination disorders, sleep disorders and trembling.",
+        "longtermrisks": "MDA is both neurotoxic (damaging to the nerves) and hepatotoxic (damaging to the liver); regular use can lead to schizophrenia-like symptoms.",
+        "saferuse": [
+        	"First test a third or half a pill.",
+        	"Wait two hours for the effect to take effect before adding more.",
+        	"Refrain from mixed consumption.",
+        	"Avoid alcohol, drink enough non-alcoholic beverages (3-5 dl per hour).",
+        	"Take breaks from dancing at parties and get some fresh air in between.",
+        	"Take regular breaks from consumption. The body needs time to recover.",
+        	"People taking medication are advised to inform themselves about interactions."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "MDMA",
+        "effects": "MDMA mainly causes an increased release of the body's own messenger substance serotonin. At the recommended dosage, about 80% of the available serotonin at that time is released. This release triggers a feeling of euphoria, lightness and light-heartedness. Sight and hearing change, touch and music are felt more intensely, inhibitions are reduced and the need for contact is increased. The effect is described as empathogenic (triggering a feeling of closeness and connection to other people) and entactogenic (touching the inner self, intensifying emotional perception). The simultaneous release of the neurotransmitters noradrenalin and dopamine has a stimulating effect. This reduces the feeling of hunger and thirst as well as tiredness and increases alertness. Body temperature and blood pressure also rise.",
+        "dosageRemark": "Swallowed max. 1.5 mg MDMA per kg body weight for men, max. 1.3 mg per kg body weight for women. Lower doses are recommended for rectal and nasal use.",
+        "generalrisks": "Side effects are jaw spasms, muscle tremors, urinary retention, headache, nausea/vomiting, increased pulse and blood pressure. The heart, liver and kidneys are particularly stressed. There is also a risk of life-threatening overheating as body temperature rises and the body becomes dehydrated. In the case of an overdose, hallucinations are possible. When the effect wears off or on the days afterwards, depressive moods may occur.",
+        "longtermrisks": "After a consumption experience, the body needs at least 4 weeks to regenerate the serotonin balance. If one does not allow oneself this break in the long term and consumes repeatedly after short breaks, the probability of a permanent restriction of spatial awareness increases. This risk also exists after repeated high doses. Intense and prolonged use of ecstasy can also lead to a change in the serotonin system. A form of dependence with psychological symptoms can develop, especially if ecstasy use is linked to a certain activity, for example if it is always used at parties and partying without ecstasy afterwards is no longer possible. In the case of snorting, the nasal mucous membranes and the nasal wall are damaged. Rectal use can cause irritation in the rectum.",
+        "saferuse": [
+        	"If you want to be sure that your pill really contains MDMA and know the dose, use drug checking. If this is not possible, first consume only one third of the pill.",
+        	"Do not add more right away, but wait two hours for the full effect and then decide.",
+        	"Avoid mixed use with other substances.",
+        	"Avoid alcohol and drink enough non-alcoholic beverages. Approx. 3 dl per hour is enough. Isotonic drinks are best to avoid hyponatremia (\"water intoxication\").",
+        	"Take breaks from dancing at parties and get some fresh air.",
+        	"Do not wear headgear, except in strong sun (danger of overheating!).",
+        	"Do not take ecstasy immediately after a meal, but also not on an empty stomach. It is advisable to have a light, healthy meal a few hours before.",
+        	"Accept when the effect runs out. \"Re-spiking\" increases the toxicity (poisonousness) of MDMA.",
+        	"Give yourself time to recover and take regular breaks (at least 4-6 weeks) to restore serotonin levels.",
+        	"If you use MDMA nasally, follow the safe-sniffing rules. If consuming rectally, use lubricant to minimise the risk of rectal irritation.",
+        	"If you are taking medication, ask your doctor about possible interactions. If you are taking psychotropic drugs, the use of MDMA is strongly discouraged (risk of serotonin syndrome)!",
+        	"Ecstasy can cause asthma attacks in asthmatics and epileptic seizures in epileptics.",
+        	"People with high blood pressure, heart problems, hyperthyroidism, liver and kidney diseases or circulatory problems should refrain from using MDMA."
+        ],
+        "extenderText": "In addition to the side effects typical of MDMA, there is a risk of taking misdeclared substances, pharmacologically active extenders and high-dose tablets when consuming ecstasy tablets. Even ecstasy tablets with the same logo or appearance can differ greatly in terms of composition. In 2020, a warning was issued for 90.8 % of the ecstasy tablets analysed due to a high MDMA content (> 120 mg MDMA). 41.7 % of the tablets contained more than 200 mg MDMA in 2020. Such high doses can lead to health problems.",
+        "extenders": [
+        	{
+        		"name": "MBDB",
+        		"description": null
+        	},
+        	{
+        		"name": "MDA",
+        		"description": null
+        	},
+        	{
+        		"name": "MDEA",
+        		"description": null
+        	},
+        	{
+        		"name": "Synthesis by-products MDMA",
+        		"description": "In addition to DPIA (bis-amphetamine or di(beta-phenylisopropyl)amines), MDP2P and 1-benzyl-3-methylnaphthalene were analysed in ecstasy tablets. Little information is available on the risks of these synthetic by-products, and the interaction potential between these synthetic by-products and MDMA is completely unknown. MDP2P(3,4-methylenedioxy-phenylpropan-2-one) is a precursor substance for the synthesis (production) of MDMA. This is an indication of an incomplete synthesis process. The risks and side effects of this substance are unknown and there is no information on mixed use with MDMA. Whether and how MDP2P influences the risk of consumption cannot be assessed."
+        	},
+        	{
+        		"name": "Metoclopramide",
+        		"description": "Metoclopramide is a medicine that is taken for problems in the gastrointestinal tract. It relieves nausea, irritable stomach and heartburn and prevents vomiting."
+        	},
+        	{
+        		"name": "PMMA",
+        		"description": null
+        	},
+        	{
+        		"name": "m-CPP",
+        		"description": "m-CPP (meta-chlorophenyl-piperazine=1-(3-chlorophenyl)-piperazine) is a piperazine derivative in powder form and is mostly sold as ecstasy in pill form."
+        	},
+        	{
+        		"name": "PMA",
+        		"description": "PMA or paramethoxyamphetamine is a stimulant and hallucinogenic substance, closely related are PMEA, 4-ETA, 4-MTA."
+        	}
+        	
+        ]
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
+    },
+    {
+        "name": "",
+        "effects": "",
+        "dosageRemark": "",
+        "generalrisks": "",
+        "longtermrisks": "",
+        "saferuse": [],
+        "extenderText": "",
+        "extenders": []
     }
 ]
