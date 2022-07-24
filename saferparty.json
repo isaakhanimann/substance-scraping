@@ -280,7 +280,7 @@
         ],
         "extenderText": null,
         "extenders": []
-    }
+    },
     {
         "name": "Heroin",
         "effects": "Pain-relieving, balancing, calming, anxiety-relieving and euphoric. The euphoric \"flash\" at the beginning is followed by a state of well-being and a feeling of indifference, serenity, light-heartedness and self-satisfaction.",
@@ -552,93 +552,517 @@
         ]
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
+        "name": "Modafinil",
+        "effects": "The mechanism of action of modafinil is not yet fully understood. It is assumed that modafinil binds to the dopamine transporter and inhibits dopamine reuptake. Unlike other stimulants such as amphetamine or methylphenidate (Ritalin®, Concerta®), which in equivalent wakefulness-promoting doses increase neuronal activity throughout the brain, modafinil acts primarily on the brain regions responsible for controlling waking, sleep, wakefulness and vigilance (sustained attention).\nModafinil thus promotes alertness (physical and mental), increases attention and motor activity. Due to its stimulating, wakefulness-promoting properties, modafinil is consumed by healthy people as a so-called \"smart drug\" or \"cognitive enhancer\".According to user reports, modafinil has a much more subtle effect than other stimulants and does not trigger comparable states of intoxication. Modafinil causes less physical restlessness and the sleep-wake rhythm is less disturbed.\nA mood-lifting and euphoric effect is controversial. According to a publication of the American Food and Drug Administration (FDA), modafinil causes psychoactive and euphoric effects, whereas various studies point to the lack of a euphoric effect.",
+        "dosageRemark": "The recommended daily dose when prescribed by a doctor is 200 mg at the beginning. If there is an insufficient response to this dose, a maximum daily dose of 400 mg may be administered/taken.\nThe long-term effect of modafinil when taken regularly and over a longer period of time has not yet been studied. If taken over a longer period of time, regular monitoring by a medical specialist is therefore recommended.",
+        "generalrisks": "In 2011, the European Medicines Agency (EMA) recommended limiting the marketing authorisation for modafinil to the treatment of adults with excessive sleepiness associated with narcolepsy. Due to the possible risks and side effects, modafinil has since not been approved for other indications, for the treatment of children and adolescents, and during pregnancy and breastfeeding.\nThe following side effects may occur: Headache, nervousness, palpitations, abdominal pain and/or dry mouth. In addition, modafinil can impair the effectiveness of oral contraceptives! Therefore, the use of additional contraceptive methods is recommended during intake. Further risks are cardiovascular diseases such as cardiac arrhythmias, diseases of the heart muscles, cardiac insufficiency and/or high blood pressure. Furthermore, the consumption of modafinil can have an effect on the psyche and trigger hostility, aggression ,psychoses/psychotic disorders, depression, insomnia, up to delusions and/or anxiety.\nSymptoms of overdose with modafinil alone or in combination with other medicines: Insomnia; central nervous symptoms (restlessness, disorientation, confusion, agitation, hallucinations); nausea, diarrhoea; palpitations, high blood pressure, chest pain, slow heartbeat.",
+        "longtermrisks": "Since modafinil affects the dopamine balance in the brain, among other things, there is an increased potential for physical dependence. If modafinil is consumed for the purpose of performance enhancement and promotion of alertness with the intention of being able to achieve high performance with little sleep, there is also a risk of psychological dependence.\nThe long-term effect of modafinil when taken regularly and over a longer period of time has been little studied so far. If taken over a longer period of time, regular monitoring by a medical specialist is therefore recommended.",
+        "saferuse": [
+        	"Caution: The effectiveness of hormonal contraceptives may be impaired by the simultaneous intake of modafinil.",
+        	"Side effects such as blurred vision and dizziness may impair the ability to drive or operate machinery.",
+        	"Taking modafinil is not a substitute for sleep! Be sure to maintain good sleep hygiene.",
+        	"If you are using modafinil for cognitive enhancement, try to think of alternative strategies to improve your memory and recall. Sleep deprivation after taking modafinil in particular can impair cognitive performance.",
+        	"Take longer breaks (at least several days) between consumption.",
+        	"The effect of modafinil can last up to 10 hours. Therefore, pay attention to the time of intake.",
+        	"Remember to drink enough water. This can be forgotten during the effect of modafinil."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Dexamphetamine",
+        "effects": "Taking dexamphetamine increases the concentration of the nerve messengers dopamine and noradrenaline. When prescribed for ADHD, the substance is supposed to act as a filter for incoming stimuli and alleviate symptoms such as distractibility, attention deficit disorder, disorganisation and impulsivity.\nHowever, due to their stimulating, energising and euphoric properties, dexamphetamine and Adderall® are also used as recreational drugs or to enhance performance",
+        "dosageRemark": null,
+        "generalrisks": "When prescribed by a doctor or used as directed, sleep disturbances and irritability can often occur. The most common adverse effects include: Cardiovascular and arrhythmias, rapid pulse, high blood pressure, lack of appetite, nausea, dry mouth, dizziness, insomnia, anxiety and/or joint pain.\nIn overdose, it can cause, among other things, hallucinations, muscle twitching, panic, aggressiveness and/or restlessness.",
+        "longtermrisks": "When used therapeutically, it is assumed that no dependence will develop. When abusing higher doses over a longer period of time, psychological dependence may develop. With abrupt discontinuation, withdrawal symptoms such as lethargy, apathy, depression and paranoia may occur.",
+        "saferuse": [
+        	"If possible, do not consume amphetamine-containing substances intravenously. Due to the substances contained in the tablets, embolism (blockage of vessels in the lungs or brain) can occur."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Diacetylmorphine",
+        "effects": "Diacetylmorphine is chemically identical to heroin and therefore has analgesic, balancing, sedative, anxiety-relieving and euphoric effects.",
+        "dosageRemark": "Due to the lack of impurities and extenders, diacetylmorphine must be dosed much lower than heroin.",
+        "generalrisks": "Slowing of breathing, nausea, vomiting, itching, drop in blood pressure, pulse slowing, pupil constriction and urinary retention may occur.\nConfusion, disorientation, memory lapses, slurred and slurred speech as well as coordination disorders, constipation, reduction in sexual desire and a potentially life-threatening reduction in breathing rate to 2 to 4 breaths per minute (due to the attenuation of the coughing and breathing centre) are also known side effects.\nFor users who are not used to opiates, the use of diacetylmorphine even in small quantities can be life-threatening (severe respiratory depression, danger of suffocation).",
+        "longtermrisks": "The danger of addiction with psychological and physical symptoms is great, the same as with illegally produced heroin. As soon as a tolerance has developed and the body is not supplied with the necessary amount of substance, physical withdrawal symptoms occur 8 to 12 hours after the last intake.",
+        "saferuse": [
+        	"Opioids are highly effective drugs that should only be used for a limited time and at best under medical supervision.",
+        	"Start with a low dose and wait for the effect and tolerance before adding more. Do not exceed the maximum daily dose.",
+        	"If you inject opioids, dose even more carefully, as the range between desired effect (rush) and dangerous overdose is even more difficult to assess. Avoid injecting fentanyl; the risk of overdose is particularly high. Always use new (clean and sterile) injection material! Never exchange syringes, filters, water, disinfection swabs to avoid transmission of hepatitis and HIV.",
+        	"Do not rely on dosage information from colleagues who regularly use opioids. Due to habituation or dependence, their doses are much higher and can be fatal for new users.",
+        	"Take longer breaks (at least several days) between consumption.",
+        	"After a period of abstinence, take a much lower dose! The usual dose before the abstinence phase can otherwise quickly have life-threatening consequences.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, benzodiazepines and/or other opioids is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!",
+        	"Refrain from citrus fruits (especially grapefruit) before or during consumption. The combination can lead to an increase in the effect of the opiate and/or to respiratory depression."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Buprenorphine",
+        "effects": "Like all opiates, buprenorphine has analgesic and cough-irritant effects. However, its euphoric and sedative properties are less pronounced than those of other opioids, which is why it is also used for substitution treatment. Buprenorphine is a partial agonist. This means that, for safety reasons, only a submaximal effect is elicited. After a certain dose, a saturation effect (ceiling effect) occurs, which prevents a further increase in the effect. This makes the active ingredient so relevant for substitution treatments, as withdrawal symptoms can be alleviated and overdoses avoided.",
+        "dosageRemark": "From 16 mg, the saturation effect (ceiling effect) takes effect and no more effect enhancement is felt.\nWhen consuming for the first time, low doses should be used, as the risk of respiratory arrest is increased.",
+        "generalrisks": "The side effects are less pronounced than with other opioids. Nevertheless, fatigue, constipation, drowsiness, sweating, nausea, vomiting, insomnia and irritability may occur. Buprenorphine has a lower risk of respiratory depression, which is why it is considered comparatively safe.\nOverdoses with buprenorphine are difficult to treat with the opioid antagonist naloxone due to its high binding to the μ-opioid receptor. Therefore, agents from the group of respiratory stimulants (such as doxapram) are used.",
+        "longtermrisks": "Unlike other opioids, the active ingredient floods on slowly, which is why the risk of dependence is considered lower.",
+        "saferuse": [
+        	"Opioids are highly effective drugs that should only be used for a limited time and at best under medical supervision.",
+        	"Start with a low dose and wait for the effect and tolerance before adding more. Do not exceed the maximum daily dose.",
+        	"If you inject opioids, dose even more carefully, as the range between desired effect (rush) and dangerous overdose is even more difficult to assess. Avoid injecting fentanyl; the risk of overdose is particularly high. Always use new (clean and sterile) injection material! Never exchange syringes, filters, water, disinfection swabs to avoid transmission of hepatitis and HIV.",
+        	"Do not rely on dosage information from colleagues who regularly use opioids. Due to habituation or dependence, their doses are much higher and can be fatal for new users.",
+        	"Take longer breaks (at least several days) between consumption.",
+        	"After a period of abstinence, take a much lower dose! The usual dose before the abstinence phase can otherwise quickly have life-threatening consequences.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, benzodiazepines and/or other opioids is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!",
+        	"Refrain from citrus fruits (especially grapefruit) before or during consumption. The combination can lead to an increase in the effect of the opiate and/or to respiratory depression."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Oxycodone",
+        "effects": "Oxycodone has analgesic, depressant, antianxiety, cough suppressant and psychotropic properties. More intense dreams may also occur. Due to its relaxing and euphoric properties, it is used as a recreational drug, and is said to be more stimulating and mood-lifting than other opioids.",
+        "dosageRemark": null,
+        "generalrisks": "Very common side effects, as with all opioids, are constipation and constriction of the pupils. Drowsiness, dizziness, headache, itching, muscle twitching, sleep disturbances and mood swings are also to be expected. In women, menstruation may also be absent.\nOther opioid-typical side effects such as hallucinations, confusion, vomiting and nausea are less common with oxycodone.\nOverdoses with oxycodone are life-threatening, as the substance has a strong respiratory depressant effect even in low doses when abused, which can lead to respiratory arrest and coma. For opioid addicts, the lethal dose can be much higher. An overdose is treated by taking naloxone, an opioid antagonist.",
+        "longtermrisks": "The consumption of oxycodone leads to physical and psychological dependence after a short time, even more quickly than with morphine. Tolerance builds up, which is why higher and higher doses have to be consumed. Strong withdrawal symptoms such as restlessness, irritability, depression, insomnia, sweating, cold shivers, vomiting, diarrhoea and painful cramps may occur.",
+        "saferuse": [
+        	"Opioids are highly effective drugs that should only be used for a limited time and at best under medical supervision.",
+        	"Start with a low dose and wait for the effect and tolerance before adding more. Do not exceed the maximum daily dose.",
+        	"If you inject opioids, dose even more carefully, as the range between desired effect (rush) and dangerous overdose is even more difficult to assess. Avoid injecting fentanyl; the risk of overdose is particularly high. Always use new (clean and sterile) injection material! Never exchange syringes, filters, water, disinfection swabs to avoid transmission of hepatitis and HIV.",
+        	"Do not rely on dosage information from colleagues who regularly use opioids. Due to habituation or dependence, their doses are much higher and can be fatal for new users.",
+        	"Take longer breaks (at least several days) between consumption.",
+        	"After a period of abstinence, take a much lower dose! The usual dose before the abstinence phase can otherwise quickly have life-threatening consequences.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, benzodiazepines and/or other opioids is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!",
+        	"Refrain from citrus fruits (especially grapefruit) before or during consumption. The combination can lead to an increase in the effect of the opiate and/or to respiratory depression."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Flualprazolam",
+        "effects": "Flualprazolam has a sedative, muscle relaxant and anticonvulsant effect. Compared to the better-known active ingredient alprazolam , flualprazolam works in lower doses (more potent) and the onset of action is relatively rapid. According to user reports, flualprazolam has similar effects and side effects to alprazolam.\nAs it is a little-researched substance, only vague information is available regarding its effect.\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
+        "dosageRemark": null,
+        "generalrisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
+        "longtermrisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
+        "saferuse": [
+        	"If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
+        	"Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
+        	"Blisters of counterfeits may look identical to the original packaging.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Etizolam",
+        "effects": "Etizolam is a research chemical with anti-anxiety, anticonvulsant, sedative and sleep-inducing properties.\nAs it is a little-researched substance, only vague information is available regarding its effect.\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
+        "dosageRemark": "0.75 mg etizolam corresponds to 10 mg diazepam",
+        "generalrisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
+        "longtermrisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
+        "saferuse": [
+        	"If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
+        	"Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
+        	"Blisters of counterfeits may look identical to the original packaging.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Lorazepam",
+        "effects": "Lorazepam has a calming, relaxing, antispasmodic, anti-anxiety and sleep-inducing effect.\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
+        "dosageRemark": null,
+        "generalrisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
+        "longtermrisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
+        "saferuse": [
+        	"If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
+        	"Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
+        	"Blisters of counterfeits may look identical to the original packaging.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Midazolam",
+        "effects": "Midazolam has a calming, relaxing, antispasmodic, anti-anxiety and sleep-inducing effect.\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
+        "dosageRemark": null,
+        "generalrisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
+        "longtermrisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
+        "saferuse": [
+        	"If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
+        	"Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
+        	"Blisters of counterfeits may look identical to the original packaging.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Oxazepam",
+        "effects": "Oxazepam has a calming, relaxing, antispasmodic, anti-anxiety and sleep-inducing effect.\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
+        "dosageRemark": null,
+        "generalrisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
+        "longtermrisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
+        "saferuse": [
+        	"If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
+        	"Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
+        	"Blisters of counterfeits may look identical to the original packaging.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Flunitrazepam",
+        "effects": "Flunitrazepam has a calming, relaxing, antispasmodic, anti-anxiety and sleep-inducing effect.\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
+        "dosageRemark": null,
+        "generalrisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
+        "longtermrisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
+        "saferuse": [
+        	"If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
+        	"Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
+        	"Blisters of counterfeits may look identical to the original packaging.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Diazepam",
+        "effects": "Diazepam has a calming, relaxing, antispasmodic, anti-anxiety and sleep-inducing effect.\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
+        "dosageRemark": null,
+        "generalrisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
+        "longtermrisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
+        "saferuse": [
+        	"If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
+        	"Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
+        	"Blisters of counterfeits may look identical to the original packaging.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Fentanyl",
+        "effects": "Fentanyl has a strong analgesic and sedative effect and is effective in the smallest doses. However, its euphoric effect is less pronounced than that of other opioids. It is used in emergency medicine for surgical procedures and anesthesia, and for breakthrough pain in cancer patients. For chronic pain, fentanyl patches are used, which release the active ingredient slowly. Due to its opioid properties, fentanyl rapidly leads to dependence when taken over a long period of time and should not be discontinued abruptly and only under medical supervision.",
+        "dosageRemark": "Fentanyl is extremely potent and therefore very difficult to dose. Therefore, overdoses can easily occur. When consuming for the first time, low doses should be used, as the risk of respiratory arrest is increased.",
+        "generalrisks": "The side effects are strongly dose-dependent. As the dose increases, the side effects also become more pronounced. At the beginning there is often drowsiness, dizziness, dizziness, pupil constriction, slowed heartbeat, drop in blood pressure, nausea and vomiting.\nExcessive sweating, rashes, itching, central dullness, confusion, visual disturbances, cardiac arrhythmias, respiratory reflex depression and urinary retention may also occur.\nOverdoses with fentanyl are life-threatening because the substance, like all opioids, slows down breathing, even to the point of respiratory arrest and coma.",
+        "longtermrisks": "Regular, abusive use of fentanyl can lead to dependence with severe withdrawal symptoms such as seizures, sleep disorders and depression. Withdrawal, as with all opioids, should not be abrupt and should only take place under medical supervision.",
+        "saferuse": [
+        	"Opioids are highly effective drugs that should only be used for a limited time and at best under medical supervision.",
+        	"Start with a low dose and wait for the effect and tolerance before adding more. Do not exceed the maximum daily dose.",
+        	"If you inject opioids, dose even more carefully, as the range between desired effect (rush) and dangerous overdose is even more difficult to assess. Avoid injecting fentanyl; the risk of overdose is particularly high. Always use new (clean and sterile) injection material! Never exchange syringes, filters, water, disinfection swabs to avoid transmission of hepatitis and HIV.",
+        	"Do not rely on dosage information from colleagues who regularly use opioids. Due to habituation or dependence, their doses are much higher and can be fatal for new users.",
+        	"Take longer breaks (at least several days) between consumption.",
+        	"After a period of abstinence, take a much lower dose! The usual dose before the abstinence phase can otherwise quickly have life-threatening consequences.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, benzodiazepines and/or other opioids is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!",
+        	"Refrain from citrus fruits (especially grapefruit) before or during consumption. The combination can lead to an increase in the effect of the opiate and/or to respiratory depression."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Morphine",
+        "effects": "Due to its strong analgesic, antitussive and psychotropic properties, morphine is used to treat severe pain in emergency and palliative care.\nDue to its depressant and sedative effect, the active substance is also misused as a euphoric intoxicant. In the context of opioid agonist therapy, morphine is used as a substitute for opiate/heroin addiction.",
+        "dosageRemark": "When consuming for the first time, low doses should be used, as the risk of respiratory arrest is increased.",
+        "generalrisks": "Gastrointestinal complaints such as constipation are common side effects after taking opiates. Nausea, vomiting, dry mouth, lack of appetite, abdominal pain, sweating, skin rashes, itching, dizziness, headaches and fatigue are other common complaints. On the psychological level, confusion, nightmares and hallucinations may occur. Rather rarely, there is a drop in blood pressure, breathing difficulties and allergic reactions.\nOverdoses with morphine are life-threatening, as the substance has a strong respiratory depressant effect (worsening breathing) even in low doses, which can lead to respiratory arrest and coma. Oral consumption of 0.3 - 1.5 g and intravenous consumption of 100 mg can lead to a fatal overdose. In opioid addicts, the lethal dose can be significantly higher. An overdose is treated by taking naloxone, an opioid antagonist.",
+        "longtermrisks": "The consumption of morphine can lead to physical and psychological dependence after only a short time. Tolerance builds up quickly, which is why higher and higher doses have to be consumed. Strong withdrawal symptoms such as restlessness, irritability, depression, insomnia, sweating, cold shivers, vomiting, diarrhoea and painful cramps may occur. Like all opiates, morphine can lead to chronic constipation.",
+        "saferuse": [
+        	"Opioids are highly effective drugs that should only be used for a limited time and at best under medical supervision.",
+        	"Start with a low dose and wait for the effect and tolerance before adding more. Do not exceed the maximum daily dose.",
+        	"If you inject opioids, dose even more carefully, as the range between desired effect (rush) and dangerous overdose is even more difficult to assess. Avoid injecting fentanyl; the risk of overdose is particularly high. Always use new (clean and sterile) injection material! Never exchange syringes, filters, water, disinfection swabs to avoid transmission of hepatitis and HIV.",
+        	"Do not rely on dosage information from colleagues who regularly use opioids. Due to habituation or dependence, their doses are much higher and can be fatal for new users.",
+        	"Take longer breaks (at least several days) between consumption.",
+        	"After a period of abstinence, take a much lower dose! The usual dose before the abstinence phase can otherwise quickly have life-threatening consequences.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, benzodiazepines and/or other opioids is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!",
+        	"Refrain from citrus fruits (especially grapefruit) before or during consumption. The combination can lead to an increase in the effect of the opiate and/or to respiratory depression."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Tilidine",
+        "effects": "Tilidine inhibits pain-mediating neuronal systems in the body and thus has a pain-relieving effect. When consumed in higher doses, it has a euphoric and anxiety-relieving effect. Due to its opioid properties, regular use can quickly lead to dependence. Abrupt discontinuation of tilidine leads to withdrawal symptoms.",
+        "dosageRemark": "With slow-release tablets there is a risk of overdose due to delayed release of the active ingredient! The perceived effect is extremely different depending on the person and tolerance.\nIn combination preparations with naloxone, the desired psychoactive effect of the tilidine is cancelled out from approx. 300 - 400 mg by the naloxone contained.\nWhen consuming for the first time, low doses should be used, as the risk of respiratory arrest is increased.",
+        "generalrisks": "Known adverse reactions are nausea, vomiting, dizziness, drop in blood pressure, drowsiness, tiredness, headache, excessive sweating and nervousness.\nIn opioid addicts who abuse Valoron® N in high doses as a substitute for morphine or heroin, the drug triggers acute withdrawal symptoms (anxiety, trembling, sweating) due to the naloxone or intensifies already existing withdrawal symptoms.\nIn higher doses, hallucinations and euphoria may occur, which is why the drug is consumed as a psychoactive intoxicant. The anxiety-relieving, disinhibiting and euphoric properties can lead to aggression, loss of control and increased risk-taking in higher doses. Some German media reported robberies in connection with extremely aggressive, pain-resistant young people under the influence of tilidine.",
+        "longtermrisks": "Regular, abusive use of tilidine can lead to dependence with severe withdrawal symptoms such as seizures, sleep disorders and depression. Withdrawal, as with all opioids, should not be abrupt and should only take place under medical supervision.",
+        "saferuse": [
+        	"Opioids are highly effective drugs that should only be used for a limited time and at best under medical supervision.",
+        	"Start with a low dose and wait for the effect and tolerance before adding more. Do not exceed the maximum daily dose.",
+        	"If you inject opioids, dose even more carefully, as the range between desired effect (rush) and dangerous overdose is even more difficult to assess. Avoid injecting fentanyl; the risk of overdose is particularly high. Always use new (clean and sterile) injection material! Never exchange syringes, filters, water, disinfection swabs to avoid transmission of hepatitis and HIV.",
+        	"Do not rely on dosage information from colleagues who regularly use opioids. Due to habituation or dependence, their doses are much higher and can be fatal for new users.",
+        	"Take longer breaks (at least several days) between consumption.",
+        	"After a period of abstinence, take a much lower dose! The usual dose before the abstinence phase can otherwise quickly have life-threatening consequences.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, benzodiazepines and/or other opioids is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!",
+        	"Refrain from citrus fruits (especially grapefruit) before or during consumption. The combination can lead to an increase in the effect of the opiate and/or to respiratory depression."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Tramadol",
+        "effects": "Analgesic, anxiety-relieving, euphoric, mood-lifting, causes a general feeling of contentment.\nThe human body has its own pain-relieving system. The endogenous substance endorphin ensures that pain messages are sent to the human brain in a reduced form by docking to certain receptors in the human body. The active ingredient tramadol has a similar mode of action in that the active ingredient attaches to neurotransmitter docking sites (opioid receptors) and transmits a signal to the brain, which subsequently triggers pain relief. In addition, tramadol inhibits the reuptake of certain nerve messengers (noradrenaline and serotonin), which in turn increases the amount of free messengers in the tissue and supports the analgesic effect.",
+        "dosageRemark": "When consuming for the first time, low doses should be used, as the risk of respiratory arrest is increased.",
+        "generalrisks": "Adverse side effects may include: headache, malaise/nausea, vomiting, dry mouth, dizziness, drowsiness, constipation, drowsiness, circulatory problems (palpitations, fainting spells, etc.).\nIn higher doses, seizures, speech disorders, paraesthesias (unpleasant bodily sensations, e.g. parts of the body falling asleep), tremor (muscle tremor), coordination disorders and circulatory collapse may occur. Hallucinations, confusion, delirium, anxiety, sleep disorders and nightmares can also be triggered.",
+        "longtermrisks": "Tramadol has a low dependence potential with moderate use. However, regular and long-term use can lead to psychological and physical dependence. Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms, which may manifest as dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression.\nProlonged use can lead to general mood changes, changes in decision-making behaviour or perceptual and reaction disorders.",
+        "saferuse": [
+        	"Opioids are highly effective drugs that should only be used for a limited time and at best under medical supervision.",
+        	"Start with a low dose and wait for the effect and tolerance before adding more. Do not exceed the maximum daily dose.",
+        	"If you inject opioids, dose even more carefully, as the range between desired effect (rush) and dangerous overdose is even more difficult to assess. Avoid injecting fentanyl; the risk of overdose is particularly high. Always use new (clean and sterile) injection material! Never exchange syringes, filters, water, disinfection swabs to avoid transmission of hepatitis and HIV.",
+        	"Do not rely on dosage information from colleagues who regularly use opioids. Due to habituation or dependence, their doses are much higher and can be fatal for new users.",
+        	"Take longer breaks (at least several days) between consumption.",
+        	"After a period of abstinence, take a much lower dose! The usual dose before the abstinence phase can otherwise quickly have life-threatening consequences.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, benzodiazepines and/or other opioids is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!",
+        	"Refrain from citrus fruits (especially grapefruit) before or during consumption. The combination can lead to an increase in the effect of the opiate and/or to respiratory depression."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Dextromethorphan",
+        "effects": "In high doses (120 mg or more) it has a hallucinogenic and euphoric effect. Perceptual disturbances up to confusion as well as states of agitation with epileptic episodes may occur. Side effects are reddening of the skin and severe itching. With regular use there is great potential for dependence with psychological and physical symptoms!",
+        "dosageRemark": null,
+        "generalrisks": "Caution: The simultaneous intake of MAO inhibitors delays the degradation of DXM and can lead to severe respiratory and circulatory disorders!",
+        "longtermrisks": null,
         "saferuse": [],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Neuroleptics",
+        "effects": "Prazine®, Haldol®, Nozinan® and others are depressant, anxiety-relieving agents that inhibit the transmission of the neurotransmitter dopamine. They show severe side effects, including movement disorders, organ dysfunction, restrictions of sexuality and libido, weight gain, among others.\nNon-medically supervised use is strongly discouraged. Neuroleptics are used to treat severe mental illnesses and are not suitable as party drugs!",
+        "dosageRemark": null,
+        "generalrisks": "Caution: Danger to life if amphetamine derivatives are taken at the same time!",
+        "longtermrisks": null,
+        "saferuse": [],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Viagra",
+        "effects": "Restoration of erectile function by increasing blood flow to the penis, lowering blood pressure.",
+        "dosageRemark": null,
+        "generalrisks": "Do not use Viagra® if you have low blood pressure. Do not take Viagra with blood pressure lowering substances. The combination with poppers or other nitrites (often present in medicines against angina pectoris, e.g. glycerine) is life-threatening, as severe blood pressure reductions can occur! Viagra combined with cocaine or other performance-enhancing substances leads to high cardiovascular stress, which can result in overheating or a heart attack.",
+        "longtermrisks": null,
+        "saferuse": [],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Alprazolam",
+        "effects": "Anti-excitant and anti-anxiety, sedative, soporific and muscle relaxant. At high doses: slowing down, drowsiness, danger of memory lapses (\"film tear\").\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
+        "dosageRemark": null,
+        "generalrisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
+        "longtermrisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
+        "saferuse": [
+        	"If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
+        	"Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
+        	"Blisters of counterfeits may look identical to the original packaging.",
+        	"The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
+        ],
         "extenderText": "",
         "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse": [],
-        "extenderText": "",
+        "name": "Methylphenidate",
+        "effects": "Taking methylphenidate increases the concentration of the nerve messengers dopamine, noradrenaline and serotonin in the brain. When prescribed for ADHD, the drug is supposed to act as a filter for incoming stimuli and alleviate symptoms such as distractibility, attention deficit disorder, disorganisation and impulsivity.\nHowever, due to its stimulating, energising and drive-enhancing properties, methylphenidate is also used as a party drug or to increase performance. Due to the increased release of dopamine, similar effects occur as with the use of cocaine.",
+        "dosageRemark": null,
+        "generalrisks": "If prescribed by a doctor or used as directed, sleep disturbances and irritability can often occur. Eating disorders, stomach complaints, nausea and vomiting are also known side effects.\nAbusive use and higher doses can lead to seizures, cardiac arrhythmias as well as headaches and confusion.\nTolerance develops relatively quickly, which is why higher and higher doses have to be consumed. In overdose, Ritalin can trigger hallucinations.",
+        "longtermrisks": "It is assumed that no dependence develops with therapeutic use of Ritalin. When abusing higher doses over a longer period of time, psychological dependence may develop. With abrupt discontinuation, withdrawal symptoms such as lethargy, apathy, depression and paranoia may occur.",
+        "saferuse": [
+        	"If possible, do not consume methylphenidate intravenously. Due to the substances contained in the tablets, embolism (blockage of lung or brain vessels) can occur."
+        ],
+        "extenderText": null,
         "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse": [],
-        "extenderText": "",
+        "name": "Codeine",
+        "effects": "Codeine is converted into morphine in the body. Taking it has a pain-relieving, cough-irritating, calming, euphoric and aphrodisiac effect. An increase in self-confidence is also possible. It should be remembered, however, that the effect varies greatly depending on the individual metabolism. While some people react very sensitively to codeine, others feel no psychoactive effect at all.",
+        "dosageRemark": "An increase in effect at high doses is rarely seen, as the body can only absorb limited amounts of codeine.",
+        "generalrisks": "Dry mouth, headache, nausea, vomiting, loss of appetite, itching, constipation, difficulty in urinating, tiredness/sleepiness, decrease in respiratory rate up to a life-threatening respiratory depression. In men, erectile dysfunction may also occur.\nThere is a risk of psychological and physical dependence. In the case of chronic use, tolerance may develop, so that the dose must be progressively increased to achieve the desired effect. When discontinuing codeine after a phase of continuous use, withdrawal symptoms such as restlessness, stomach and/or leg cramps, cold shivers, trembling, profuse sweating and muscle spasms may appear. Due to the high dependence potential, withdrawal can be as painful and long-lasting as heroin withdrawal (!).",
+        "longtermrisks": "In men, there may be a reduction in sexual desire (libido). In women, menstruation may be absent or irregular and sexual desire may be reduced. Other long-term risks include allergic reactions, sleep disturbances and dizziness. The dependence potential of codeine is lower than that of other opiates, but should still not be underestimated!",
+        "saferuse": [
+        	"Do not use codeine with other depressant substances such as alcohol, cannabis, sleeping pills, MAO inhibitors (such as antidepressants) or GHB/GBL.",
+        	"Dose low and don't top up straight away - it may be that you don't get a high.",
+        	"With Sizzurp: The mixture with carbonic acid and sugar makes the codeine more difficult to dose. In addition, the effect is much faster and more intense.",
+        	"When codeine is injected or snorted, severe side effects and unintentional overdose can result.",
+        	"Codeine is a medicinal product and should therefore only be taken with medical supervision."
+        ],
+        "extenderText": null,
         "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse": [],
-        "extenderText": "",
+        "name": "Mephedrone",
+        "effects": "The effect is similar to that of methcathinone, cocaine and MDMA. Mephedrone causes euphoria and stimulation, increased urge to talk, increased performance and altered sensory perceptions. The need for food and sleep is suppressed.",
+        "dosageRemark": null,
+        "generalrisks": "Various adverse effects may occur when consuming mephedrone: Dry mouth, mydriasis (dilated pupils), jaw grinding, increased heartbeat, increase in body temperature, anxiety or paranoia. There is a risk of dehydration due to decreased thirst and lack of fluid intake. High doses of mephedrone lead to psychotic reactions and can increase schizophrenia. There is a risk of dependence with symptoms such as restlessness, tremors, insomnia and hyperactivity.\nMephedrone is a research chemical. To date, nothing is known about the exact mechanisms of action, toxicity and possible long-term effects. The current state of knowledge is based almost exclusively on reports from users. Due to the strong craving (irresistible and uncontrollable desire to consume), especially when consumed nasally/smoked, there is a danger that one will take more too quickly and the side effects will predominate.",
+        "longtermrisks": null,
+        "saferuse": [
+        	"There is very little knowledge about legal highs, research chemicals, etc. When you use them, you are exposing yourself to unknown risks. Have the substance analysed in a drug check. If this is not possible and you still want to use the substance, try small amounts to reach the desired dose.",
+        	"Do not buy a product with a fancy name without a declaration of the ingredient. Legal does not mean harmless.",
+        	"During consumption, inform your friends about what and how much you have consumed.",
+        	"Drink enough non-alcoholic beverages and get some fresh air in between.",
+        	"Accept it when the effect runs out, don't add to it right away.",
+        	"Refrain from mixed consumption, as interactions are dangerous and unexplored.",
+        	"Take regular breaks from consumption.",
+        	"People with high blood pressure, heart problems, hyperthyroidism, liver and kidney disease or circulatory problems should not take Research Chemicals."
+        ],
+        "extenderText": null,
         "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse": [],
-        "extenderText": "",
+        "name": "Mescaline",
+        "effects": "Before the effect sets in, nausea and/or vomiting can often occur. Hot and cold flushes as well as sweating and dizziness may also occur. These side effects usually subside after a while. The trip begins with hyperactivity and inner restlessness, followed by altered, sharpened perception and intensified colour vision. In a second phase, a more meditative concentration occurs. Users report visions and a euphoria of religious depth, the feeling of a visionary experience and the change of ego sensation as well as feelings of ego dissolution. ",
+        "dosageRemark": "The mescaline content can vary greatly from plant to plant.",
+        "generalrisks": "The pharmacological effect of mescaline and the bitter taste usually lead to nausea and vomiting in the initial phase of the trip. Mescaline is toxic in high doses (from approx. 2 g) and can lead to liver damage and respiratory paralysis. Other side effects may include an increase in pulse and blood pressure, initially dry mouth, then increased salivation, pupil enlargement, increase in body temperature and a reduced feeling of hunger during the period of effect. During vomiting, users may choke on the vomit (danger of choking!).",
+        "longtermrisks": "The use of mescaline can trigger latent (hidden) mental disorders even with single use.",
+        "saferuse": [
+        	"Mescaline is not suitable as a party drug and should only be used by experienced users.",
+        	"Use mescaline only if you are well prepared and in an environment where you feel comfortable. Use mescaline only in the presence of friends who are experienced users (good setting) and/or a sober person (tripsitter).",
+        	"Only use mescaline when you feel good mentally and physically (good set).",
+        	"You should have respect but not fear for the mescaline effect.",
+        	"Mescaline should be taken on an empty stomach. Fasting before the trip may help to reduce the likelihood of nausea and vomiting.",
+        	"For nausea, it helps if you take mescaline in small doses at a time.",
+        	"Don't add to it if it doesn't work right away.",
+        	"Let yourself go during the trip, don't try to fight the effects of mescaline. A trip sitter can help you with this.",
+        	"Dextrose can help against circulatory problems.",
+        	"Avoid roads and other \"dangerous\" places. Your orientation may be disturbed.",
+        	"Drink enough water during the trip.",
+        	"Mixed use of this potent substance should be avoided at all costs, as the effect can then no longer be assessed.",
+        	"Plan enough time for recovery after the trip (at least 1 day)!",
+        	"Mescaline trips should remain exceptional experiences and should in no case be experienced more than once a month.",
+        	"People with mental problems or illnesses, people taking neuroleptics and people with circulatory and heart problems should refrain from using mescaline.",
+        ],
+        "extenderText": null,
         "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse": [],
-        "extenderText": "",
+        "name": "Methamphetamine",
+        "effects": "The body's own performance drug noradrenaline is released, the simultaneous release of dopamine increases self-esteem. Since methamphetamine reaches the brain more quickly than amphetamine and the stimulating effect is stronger, it causes a stronger high and has a higher addiction potential than amphetamine. The body temperature rises, pulse and breathing are accelerated, blood pressure is increased. Hunger and the need for sleep are suppressed. The willingness to take risks is increased, the sensation of pain is suppressed, and euphoria, extreme nervousness, and an increased urge to talk (\"babble flash\") can occur. Methamphetamine has a pleasure-increasing and disinhibiting effect, which is why it is also used as a sex drug.",
+        "dosageRemark": null,
+        "generalrisks": "Methamphetamine can sometimes hardly be distinguished from amphetamine, but has a much stronger effect. Short-term side effects are: tense jaw muscles, dry mouth, temperature increase, great loss of fluid, increased heart rate as well as increased blood pressure and trembling all over the body. Irritability and aggressive behaviour can also occur (especially in combination with alcohol).",
+        "longtermrisks": "Methamphetamine is a highly depleting substance with a very high dependence potential with psychological and physical symptoms. Aggression, depression, mental coldness and the desire for more characterise the period of regular use. Constant restlessness, sleep and circulatory disorders, paranoia and even amphetamine psychosis can occur. Weight loss, skin inflammations (\"speed pimples\"), tooth loss, stomach problems and cramps are also possible. In menstruating persons, the menstrual cycle may be disturbed. Snorting damages the nasal mucous membranes and nasal septum, swallowing damages the stomach mucous membranes. Chronic consumption favours brain haemorrhages and strokes with sudden paralysis. It is suspected that the use of methamphetamine (especially mixed use with MDMA) can lead to irreversible changes or damage in the brain!",
+        "saferuse": [
+        	"Dose low, methamphetamine is a highly potent substance!",
+        	"Take vitamin C and D and minerals (iron, calcium and magnesium) with frequent use.",
+        	"Eat enough after consumption to prevent weight loss.",
+        	"Drink a lot (soft drinks).",
+        	"Follow the safer-sniffing and safer-sex rules.",
+        	"Refrain from mixed consumption. Make sure to take breaks from consumption.",
+        	"Mentally ill persons, persons with high blood pressure, liver and kidney diseases, diabetics and pregnant women should not use methamphetamine.",
+        	"It is better not to wear headgear (danger of overheating!).",
+        	"Have your substance analysed in a drug check."
+        ],
+        "extenderText": null,
         "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse": [],
-        "extenderText": "",
+        "name": "Methcathinone",
+        "effects": "The effect of methcathinone is in no way directly comparable to that of the khat plant, which is traditionally consumed in Yemen, Ethiopia and Kenya. It is much more similar to the effect of other uppers such as speed. Methcathinone suppresses fatigue and hunger. It causes an increase in drive and performance, euphoria, an increased urge to talk, disinhibition, extroversion, inner restlessness and hyperactivity.",
+        "dosageRemark": null,
+        "generalrisks": "Methcathinone puts considerable strain on the heart and circulation. Since the effect of methcathinone seems rather subtle at first, there is a risk of overdose by refilling. Overdoses can cause fluttering of the heart, stomach problems, restlessness and sleep disturbances. According to reports from users, there is an increased urge to urinate, but urination can be difficult.\nSome users report depressive states when coming down.\nMethcathinone, like speed, can have increased impurities and high levels of extenders as it is often produced in illegal home labs.",
+        "longtermrisks": "There is a risk of dependence with psychological symptoms. In the case of long-term, high-dose consumption, the psychological and physical risks are similar to those of speed, cocaine or methamphetamine. In the laboratory, a so-called \"craving\" (urge to consume even more) could also be observed in experimental animals.",
+        "saferuse": [
+        	"Dose methcathinone carefully and do not add more right away.",
+        	"Refrain from mixed use whenever possible. Above all, do not mix methcathinone with other drugs such as speed or cocaine.",
+        	"Do not mix methcathinone with alcohol, this only increases the side effects.",
+        	"Methcathinone has a very draining effect - so take breaks from using it and give yourself enough rest.",
+        	"Drink water or fruit juices regularly, but not too much, as urination on methcathinone can be tedious.",
+        	"Make sure you eat a balanced, healthy diet with enough vitamins and minerals.",
+        	"Follow the safer sniffing rules!"
+        ],
+        "extenderText": null,
         "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse": [],
-        "extenderText": "",
+        "name": "Methylone",
+        "effects": "Compared to MDMA, methylone has a stronger stimulating and less empathogenic effect. The effect is more constant, the \"hangover\" less than with MDMA.",
+        "dosageRemark": null,
+        "generalrisks": "Short-term side effects are increased body temperature and heartbeat, dilated pupils and tightening of the jaw. The side effects and the (long-term) risks of methylone have hardly been researched yet.",
+        "longtermrisks": null,
+        "saferuse": [
+        	"Refrain from re-throwing: This does not intensify or prolong the flash with methylone.",
+        	"Be sure to drink enough water during the effect.",
+        	"Do not combine methylone with alcohol and other drugs, especially MAO inhibitors.",
+        	"Do not use methylone if you have heart or circulatory problems, high blood pressure, diabetes, asthma, epilepsy or mental health problems."
+        ],
+        "extenderText": null,
         "extenders": []
     },
     {
-        "name": "",
-        "effects": "",
-        "dosageRemark": "",
-        "generalrisks": "",
-        "longtermrisks": "",
-        "saferuse": [],
-        "extenderText": "",
+        "name": "Poppers",
+        "effects": "Muscle relaxation, drop in blood pressure, increase in heart rate, feeling of warmth or heat, short-term insensitivity to pain, euphoria and intensification of orgasm.",
+        "dosageRemark": null,
+        "generalrisks": "Headache, dizziness, palpitations, loss of consciousness, fainting and circulatory collapse due to severe drop in blood pressure.",
+        "longtermrisks": "With regular use, permanent impairment of attention and memory as well as reduction of reaction time, cardiac arrhythmia as well as liver and kidney dysfunction, nerve and brain damage.",
+        "saferuse": [
+        	"Do not consume poppers alone.",
+        	"Do not add more right away (danger of circulatory collapse!).",
+        	"Refrain from mixed consumption of any kind, especially with alcohol.",
+        	"Follow the safer sex rules. Do not combine poppers with Viagra (risk of heart failure. Danger to life!).",
+        	"People with respiratory and cardiovascular diseases, epileptics and pregnant women should not consume poppers.",
+        	"Do not swallow! Drinking poppers can lead to a severe overdose, which can result in a fatal oxygen deficiency (methaemoglobinaemia) - contact poison control!",
+        	"Poppers are irritating on contact with eyes and mucous membranes. Rinse immediately with plenty of water and seek medical attention!",
+        	"Caution: Eye damage! Avoid poppers with the active ingredient (iso)propyl nitrite, it is suspected of causing partly irreversible visual disturbances. The active ingredient amyl nitrite does not seem to cause such damage. Some online shops now list the composition."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Psilocybin",
+        "effects": "Low doses have a stimulating and strengthening effect. Medium doses have a mild hallucinogenic effect and stimulate the imagination. High doses have a strong hallucinogenic effect, very psychedelic; the environment is often perceived as dreamlike; visionary immersion in strange worlds, deep insights into oneself and a feeling of strong connection with nature.",
+        "dosageRemark": "Average dosages of dried* mushrooms:\nPointed cone bald: light 0.5-0.8 g, medium to strong 1.0-max. 2 g\nHawaiian: light 0.3-0.5 g, medium to strong 0.5-max. 1 g\nMexican: light 0.5-1.5 g, medium to strong 1.5-max. 5 g\n*for fresh mushrooms approx. ten times this amount.",
+        "generalrisks": "The pupils dilate, pulse and blood pressure change, increase in body temperature (sweating), breathing difficulties and palpitations may occur. Occasionally, nausea may occur. Balance disorders, an altered sense of space-time, confusion and anxiety are also possible; panic attacks may occur in the case of stimulus overload.\nThe use of psilocybin can trigger latent (hidden) mental disorders.\nWhen picking mushrooms in nature, there is a risk of confusion due to deadly doppelgangers!",
+        "longtermrisks": null,
+        "saferuse": [
+        	"Consume mushrooms only in good mental and physical condition (set).",
+        	"Do not consume mushrooms alone, but with someone you trust.",
+        	"Pay attention to the setting. A stress-free environment is important, preferably in nature. Mushrooms are not party drugs!",
+        	"Consume mushrooms only after a light meal; it is best to eat very little for 6 to 8 hours to avoid nausea and other unpleasant side effects. Chew mushrooms well!",
+        	"Use dried mushrooms if possible; wash raw mushrooms well before eating.",
+        	"In delicate moments during the trip: let yourself go, try not to fight the effect of the mushrooms.",
+        	"Avoid mixed consumption, never consume mushrooms together with alcohol or medication!",
+        	"Avoid roads and other \"dangerous\" places, your orientation may be disturbed.",
+        	"In case of panic attacks or horror trips: see General Information under Emergency.",
+        	"After the trip, allow yourself plenty of rest and recovery, at least the day after, to be able to process the experience."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Synthetic Cannabinoids",
+        "effects": "Synthetic cannabinoids are similar in their mode of action to the cannabinoid Δ9-tetrahydrocannabinol (THC), which occurs naturally in the hemp plant. Like THC, synthetic cannabinoids dock onto the cannabinoid receptors CB1 and CB2 in the brain and other organs of the human body. Originally, synthetic cannabinoids were developed as therapeutic agents for pain relief. However, it has proven difficult to separate the desired therapeutic properties from the undesirable psychoactive effect.\nThe effect of synthetic cannabinoids is many times stronger than naturally occurring THC (depending on the substance, it can be 50 to 100 times stronger). This means that much less substance is needed to have an effect. Therefore, the risk of overdose is also very high. In addition, the effect and duration of action of each individual synthetic cannabinoid varies. Since synthetic cannabinoids have hardly been researched, the effect cannot be fully assessed.\nUsers report a cannabis-like feeling of contentment and deep relaxation. There may also be changes in auditory, visual and haptic (touch) sensations. Some synthetic cannabinoids also appear to be mildly stimulating, and users report stimulating and drive-enhancing effects.",
+        "dosageRemark": "Due to the large number of different synthetic cannabinoids (around 300) and the difficult handling, no dosage information is given. Therefore, follow the safer-use rules to minimise the risk of overdose.",
+        "generalrisks": "The risks and side effects can vary quite a bit depending on which synthetic cannabinoid has been consumed. The following side effects can occur: Accelerated pulse, rapid heartbeat, high blood pressure, seizures, chest pain, headaches, nausea with vomiting, decrease in mental performance, confusion, delusions, acute psychoses, strong craving, aggressive and violent behaviour, rapid fainting and even heart attack.\nThe use of synthetic cannabinoids often leads to emergency treatment. The Global Drug Survey 2017 showed that synthetic cannabinoids were cited as the second most common substance (after methamphetamine and before alcohol) whose use had led to emergency medical treatment. Several deaths can also be attributed to the use of synthetic cannabinoids.\nIf synthetic cannabinoids are falsely declared and sprayed on CBD weed and sold as cannabis containing THC, risky overdoses and/or strong side effects that pose a health risk can occur even faster. This effect is intensified by the sometimes very uneven distribution of cannabinoids on the flowers.",
+        "longtermrisks": "Little is known about the exact mechanisms of action, toxicity and possible long-term effects. The current state of knowledge is based almost exclusively on reports from users.\nHowever, with frequent and regular use, there is a risk of psychological dependence.",
+        "saferuse": [
+        	"Have cannabis tested at a drug-checking service if suspected.",
+        	"When using newly purchased cannabis products for the first time, only \"test\" them (take two or three puffs) and then wait 20 minutes. If the effect is unusual, refrain from further use!",
+        	"Avoid mixed consumption! Mixed consumption (also with alcohol or medicines) is particularly risky because of the unpredictable and as yet unknown interactions.",
+        	"Mix cannabis products well before consumption (use a grinder) to avoid a strong concentration of possible synthetic cannabinoids on individual flower parts. Particular care should be taken with residual material that has fallen off the outer flower parts, as a particularly high concentration of synthetic cannabinoids is suspected in them."
+        ],
+        "extenderText": null,
+        "extenders": []
+    },
+    {
+        "name": "Nicotine",
+        "effects": "Nicotine promotes the release of the hormone adrenaline as well as the neurotransmitters dopamine and serotonin. In low quantities, nicotine thus has a stimulating effect. Nicotine briefly and reversibly accelerates the heartbeat and causes constriction of the blood vessels. The central short-term effects include above all an increase in psychomotor performance as well as attention and memory. In higher doses, nicotine has a calming and muscle-relaxing effect; it reduces feelings of hunger, anxiety and aggression. Nicotine is responsible for addiction to tobacco products.",
+        "dosageRemark": "Individual and dependent on the form of consumption. The lethal dose of nicotine for adults is about 60 mg; for children and adolescents it is significantly lower.",
+        "generalrisks": "Reduction of the amount of oxygen in the blood and impairment of the sense of smell and taste. With regular consumption: increase in blood pressure and heart rate, increased release of adrenaline and increased activity of the gastrointestinal tract. Mostly with first or repeated consumption: drop in blood pressure, lowered body temperature, nausea and/or nausea, headache and dizziness.",
+        "longtermrisks": "The accompanying substances of tobacco smoke (not nicotine) are responsible for the known health consequences of smoking such as increased risk of heart and lung diseases (asthma, chronic bronchitis, heart attack, stroke, thrombosis, lung cancer) and damage to the stomach lining (risk of stomach ulcers). Nicotine is suspected of having a cancer-promoting effect. Nicotine is one of the drugs with the highest dependence potential with psychological and physical symptoms. Withdrawal symptoms can include depression, anxiety, restlessness, insomnia and (in the long term with abstinence) weight gain. Taking medication (e.g. birth control pills) in combination with high tobacco consumption impairs blood circulation (risk of thrombosis!). People with cardiovascular problems, lung and respiratory problems (asthma, chronic bronchitis) should not use tobacco.\nThe accompanying substances of tobacco smoke (not nicotine) are responsible for the known health consequences of smoking such as increased risk of heart and lung diseases (asthma, chronic bronchitis, heart attack, stroke, thrombosis, lung cancer) and damage to the stomach lining (risk of stomach ulcers). Nicotine is suspected of having a cancer-promoting effect. Nicotine is one of the drugs with the highest dependence potential with psychological and physical symptoms. Withdrawal symptoms can include depression, anxiety, restlessness, insomnia and (in the long term with abstinence) weight gain. Taking medication (e.g. birth control pills) in combination with high tobacco consumption impairs blood circulation (risk of thrombosis!). People with cardiovascular problems, lung and respiratory problems (asthma, chronic bronchitis) should not use tobacco.",
+        "saferuse": [
+        	"Tobacco is a legal, freely available and socially accepted drug. However, this does not mean that this psychoactive substance is low-risk and harmless to health!",
+        	"With e-cigarettes or vaporizers (vaporisers), there are ways to consume tobacco with less risk.",
+        	"Nicotine is easily absorbed through all mucous membranes of the body. There are therefore lower-risk products such as snuff, chewing tobacco or nicotine gum.",
+        	"If you shoot yourself, make sure you use good filtering methods.",
+        	"For people with cardiovascular problems, risk of heart attack, lung and respiratory problems (asthma, bronchitis), it is recommended not to consume tobacco or to consume only small amounts.",
+        	"Women who use hormonal contraception run an increased risk of circulatory disorders, thromboses, varicose veins and thus heart attacks, strokes or pulmonary embolisms (blockage of blood vessels in the lungs) when they use tobacco. Women over 30 are particularly at risk.",
+        	"Smoking during pregnancy is generally not advisable, as the toxins in tobacco smoke enter the bloodstream of the foetus via the placenta.",
+        	"Always press out your cigarettes well. There is a risk of fire!",
+        	"Do not eat tobacco. If tobacco or tobacco dissolved in water is accidentally swallowed (especially by children), an emergency call should be made immediately. There is a danger to life!"
+        ],
+        "extenderText": null,
         "extenders": []
     }
 ]
