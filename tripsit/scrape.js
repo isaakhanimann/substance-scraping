@@ -48,18 +48,64 @@ async function getAllSubstancesWithInteractions(substancesWithLittleData, page) 
         const encodedName = encodeURIComponent(substanceName.toLowerCase())
         const substanceURL = url + "/" + encodedName
         await page.goto(substanceURL);
-        const dangerousInteractions = await page.evaluate(() => {
-            let dangerousInteractions = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-dangerous > ul > li")).map(e => e.textContent);
-            return dangerousInteractions
-        })
+        const interactions = await getInteractionsFromSubstancePage(page)
         allSubstances.push({
             name: substanceName,
             summary: substanceLittle.summary,
             categories: substanceLittle.categories,
-            dangerousInteractions: dangerousInteractions
+            interactions: interactions
         })
     }
     return allSubstances
+}
+
+async function getInteractionsFromSubstancePage(page) {
+    return await page.evaluate(() => {
+        let dangerousInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-dangerous > ul > li"));
+        let dangerousInteractions = dangerousInteractionsElements.map(element => {
+            let name = element.querySelector("a").textContent
+            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
+            return {name: name, explanations: explanations};
+        })
+        let cautionInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-caution > ul > li"));
+        let cautionInteractions = cautionInteractionsElements.map(element => {
+            let name = element.querySelector("a").textContent
+            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
+            return {name: name, explanations: explanations};
+        })
+        let unsafeInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-unsafe > ul > li"));
+        let unsafeInteractions = unsafeInteractionsElements.map(element => {
+            let name = element.querySelector("a").textContent
+            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
+            return {name: name, explanations: explanations};
+        })
+        let lowRiskIncreasedEffectsInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-lowinc > ul > li"));
+        let lowRiskIncreasedEffectsInteractions = lowRiskIncreasedEffectsInteractionsElements.map(element => {
+            let name = element.querySelector("a").textContent
+            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
+            return {name: name, explanations: explanations};
+        })
+        let lowRiskNoIncreasedEffectsInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-lowno > ul > li"));
+        let lowRiskNoIncreasedEffectsInteractions = lowRiskNoIncreasedEffectsInteractionsElements.map(element => {
+            let name = element.querySelector("a").textContent
+            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
+            return {name: name, explanations: explanations};
+        })
+        let lowRiskDecreasedEffectsInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-lowdec > ul > li"));
+        let lowRiskDecreasedEffectsInteractions = lowRiskDecreasedEffectsInteractionsElements.map(element => {
+            let name = element.querySelector("a").textContent
+            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
+            return {name: name, explanations: explanations};
+        })
+        return {
+            dangerousInteractions: dangerousInteractions,
+            cautionInteractions: cautionInteractions,
+            unsafeInteractions: unsafeInteractions,
+            lowRiskIncreasedEffectsInteractions: lowRiskIncreasedEffectsInteractions,
+            lowRiskNoIncreasedEffectsInteractions: lowRiskNoIncreasedEffectsInteractions,
+            lowRiskDecreasedEffectsInteractions: lowRiskDecreasedEffectsInteractions
+        };
+    });
 }
 
 function saveInFile(substances) {
