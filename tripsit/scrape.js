@@ -8,6 +8,7 @@ async function scrapeSubstances() {
     const page = await browser.newPage();
     await page.goto(url);
     const substancesWithLittleData = await getAllSubstancesWithLittleData(page)
+    console.log(`Done fetching substances with name, summary and category`)
     const substances = await getAllSubstancesWithInteractions(substancesWithLittleData, page)
     saveInFile(substances)
     await browser.close()
@@ -41,10 +42,7 @@ async function getAllSubstancesWithInteractions(substancesWithLittleData, page) 
     for (let i = 0; i < substancesWithLittleData.length; i++) {
         const substanceLittle = substancesWithLittleData[i];
         const substanceName = substanceLittle.name
-        if (substanceName !== "MDMA") {
-            continue;
-        }
-        console.log(`Parsing ${substanceName}`)
+        console.log(`Getting ${substanceName} interactions`)
         const encodedName = encodeURIComponent(substanceName.toLowerCase())
         const substanceURL = url + "/" + encodedName
         await page.goto(substanceURL);
