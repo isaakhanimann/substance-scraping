@@ -1,22 +1,29 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs');
 
-async function scrapeSubstances(url) {
+const url = 'https://drugs.tripsit.me'
+
+async function scrapeSubstances() {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto(url);
-    let substances = [];
-    for (let pageNum = 1; pageNum < 20; pageNum++) {
-        const substancesOnPage = await getSubstancesFromPage(page)
-        substances = substances.concat(substancesOnPage)
-        await page.$eval('#DataTables_Table_0_next > a', form => form.click());
-    }
-    substances = substances.sort(function(sub1, sub2){return sub1 < sub2});
+    const substancesWithLittleData = await getAllSubstancesWithLittleData(page)
+    const substances = await getAllSubstancesWithInteractions(substancesWithLittleData, page)
     saveInFile(substances)
     await browser.close()
 }
 
-async function getSubstancesFromPage(page) {
+async function getAllSubstancesWithLittleData(page) {
+    let allSubstancesWithCategoriesAndSummaries = [];
+    for (let pageNum = 1; pageNum < 20; pageNum++) {
+        const substancesWithCategoriesAndSummaryFromPage = await getSubstancesWithNamesCategoriesAndSummaryFromPage(page)
+        allSubstancesWithCategoriesAndSummaries = allSubstancesWithCategoriesAndSummaries.concat(substancesWithCategoriesAndSummaryFromPage)
+        await page.$eval('#DataTables_Table_0_next > a', form => form.click());
+    }
+    return allSubstancesWithCategoriesAndSummaries;
+}
+
+async function getSubstancesWithNamesCategoriesAndSummaryFromPage(page) {
     return await page.evaluate(() => {
         let rows = Array.from(document.querySelectorAll("#DataTables_Table_0 > tbody > tr"));
         return rows.map(row => {
@@ -27,6 +34,32 @@ async function getSubstancesFromPage(page) {
             }
         )
     });
+}
+
+async function getAllSubstancesWithInteractions(substancesWithLittleData, page) {
+    let allSubstances = [];
+    for (let i = 0; i < substancesWithLittleData.length; i++) {
+        const substanceLittle = substancesWithLittleData[i];
+        const substanceName = substanceLittle.name
+        if (substanceName !== "MDMA") {
+            continue;
+        }
+        console.log(`Parsing ${substanceName}`)
+        const encodedName = encodeURIComponent(substanceName.toLowerCase())
+        const substanceURL = url + "/" + encodedName
+        await page.goto(substanceURL);
+        const dangerousInteractions = await page.evaluate(() => {
+            let dangerousInteractions = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-dangerous > ul > li")).map(e => e.textContent);
+            return dangerousInteractions
+        })
+        allSubstances.push({
+            name: substanceName,
+            summary: substanceLittle.summary,
+            categories: substanceLittle.categories,
+            dangerousInteractions: dangerousInteractions
+        })
+    }
+    return allSubstances
 }
 
 function saveInFile(substances) {
@@ -44,4 +77,4 @@ function saveInFile(substances) {
     );
 }
 
-scrapeSubstances('https://drugs.tripsit.me')
+scrapeSubstances()
