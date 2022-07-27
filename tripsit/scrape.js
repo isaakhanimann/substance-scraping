@@ -19,7 +19,7 @@ async function getAllSubstancesWithLittleData(page) {
     for (let pageNum = 1; pageNum < 20; pageNum++) {
         const substancesWithCategoriesAndSummaryFromPage = await getSubstancesWithNamesCategoriesAndSummaryFromPage(page)
         allSubstancesWithCategoriesAndSummaries = allSubstancesWithCategoriesAndSummaries.concat(substancesWithCategoriesAndSummaryFromPage)
-        await page.$eval('#DataTables_Table_0_next > a', form => form.click());
+        await page.$eval('#DataTables_Table_0_next > a', form => form.click()); // #DataTables_Table_0_next is to reference an element with the id DataTables_Table_0_next
     }
     return allSubstancesWithCategoriesAndSummaries;
 }
@@ -28,7 +28,7 @@ async function getSubstancesWithNamesCategoriesAndSummaryFromPage(page) {
     return await page.evaluate(() => {
         let rows = Array.from(document.querySelectorAll("#DataTables_Table_0 > tbody > tr"));
         return rows.map(row => {
-                const name = row.querySelector("td.ttext.all.sorting_1 > a").textContent.trim();
+                const name = row.querySelector("td.ttext.all.sorting_1 > a").textContent.trim(); //td means the element, .ttext, .all and .sorting_1 are classes of the element, > means go exactly one level down and a is another element
                 const categories = Array.from(row.querySelectorAll("td.min-tablet > a")).map(e => e.textContent);
                 const summary = row.querySelector("td.ttext.desktop").textContent.trim();
                 return {name: name, categories: categories, summary: summary};
@@ -59,49 +59,22 @@ async function getAllSubstancesWithInteractions(substancesWithLittleData, page) 
 
 async function getInteractionsFromSubstancePage(page) {
     return await page.evaluate(() => {
-        let dangerousInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-dangerous > ul > li"));
-        let dangerousInteractions = dangerousInteractionsElements.map(element => {
-            let name = element.querySelector("a").textContent
-            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
-            return {name: name, explanations: explanations};
-        })
-        let cautionInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-caution > ul > li"));
-        let cautionInteractions = cautionInteractionsElements.map(element => {
-            let name = element.querySelector("a").textContent
-            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
-            return {name: name, explanations: explanations};
-        })
-        let unsafeInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-unsafe > ul > li"));
-        let unsafeInteractions = unsafeInteractionsElements.map(element => {
-            let name = element.querySelector("a").textContent
-            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
-            return {name: name, explanations: explanations};
-        })
-        let lowRiskIncreasedEffectsInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-lowinc > ul > li"));
-        let lowRiskIncreasedEffectsInteractions = lowRiskIncreasedEffectsInteractionsElements.map(element => {
-            let name = element.querySelector("a").textContent
-            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
-            return {name: name, explanations: explanations};
-        })
-        let lowRiskNoIncreasedEffectsInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-lowno > ul > li"));
-        let lowRiskNoIncreasedEffectsInteractions = lowRiskNoIncreasedEffectsInteractionsElements.map(element => {
-            let name = element.querySelector("a").textContent
-            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
-            return {name: name, explanations: explanations};
-        })
-        let lowRiskDecreasedEffectsInteractionsElements = Array.from(document.querySelectorAll("div.bs-callout.bs-callout-lowdec > ul > li"));
-        let lowRiskDecreasedEffectsInteractions = lowRiskDecreasedEffectsInteractionsElements.map(element => {
-            let name = element.querySelector("a").textContent
-            let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
-            return {name: name, explanations: explanations};
-        })
+        function getInteractions(label) {
+            let elements = Array.from(document.querySelectorAll(`div.bs-callout.bs-callout-${label} > ul > li`));
+            return elements.map(element => {
+                let name = element.querySelector("a").textContent
+                let explanations = Array.from(element.querySelectorAll("ul > li")).map(e => e.textContent);
+                return {name: name, explanations: explanations};
+            })
+        }
+
         return {
-            dangerousInteractions: dangerousInteractions,
-            cautionInteractions: cautionInteractions,
-            unsafeInteractions: unsafeInteractions,
-            lowRiskIncreasedEffectsInteractions: lowRiskIncreasedEffectsInteractions,
-            lowRiskNoIncreasedEffectsInteractions: lowRiskNoIncreasedEffectsInteractions,
-            lowRiskDecreasedEffectsInteractions: lowRiskDecreasedEffectsInteractions
+            dangerousInteractions: getInteractions("dangerous"),
+            cautionInteractions: getInteractions("caution"),
+            unsafeInteractions: getInteractions("unsafe"),
+            lowRiskIncreasedEffectsInteractions: getInteractions("lowinc"),
+            lowRiskNoIncreasedEffectsInteractions: getInteractions("lowno"),
+            lowRiskDecreasedEffectsInteractions: getInteractions("lowdec")
         };
     });
 }
