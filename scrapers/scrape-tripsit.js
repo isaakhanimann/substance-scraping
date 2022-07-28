@@ -80,7 +80,7 @@ async function getInteractionsFromSubstancePage(page) {
 }
 
 function saveInFile(substances) {
-    const fileName = "tripsit_substances.json"
+    const fileName = "tripsit-substances.json"
     fs.writeFile(
         fileName,
         JSON.stringify(substances, null, 2),

@@ -1,4 +1,4 @@
 .DS_Store
-/tripsit/.idea
-/tripsit/node_modules
-/tripsit/package-lock.json
+/scrapers/.idea
+/scrapers/node_modules
+/scrapers/package-lock.json
