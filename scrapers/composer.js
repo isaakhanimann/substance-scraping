@@ -6,10 +6,11 @@ async function compose() {
     let psychonautWikiSubstances = JSON.parse(psychContent);
     let saferContent = await fsPromises.readFile('./saferparty.json', 'utf-8');
     let saferpartySubstances = JSON.parse(saferContent);
+    let intermediateSubstances = combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances);
     let tripsitContent = await fsPromises.readFile('./tripsit.json', 'utf-8');
     let tripsitSubstances = JSON.parse(tripsitContent);
-    let substances = combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances);
-    saveInFile(substances)
+    let finalSubstances = combinePsychoWithTripsit(intermediateSubstances, tripsitSubstances);
+    saveInFile(finalSubstances);
 }
 
 function combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances) {
@@ -18,7 +19,7 @@ function combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances) 
             let saferpartySub = saferpartySubstances.find(safer => safer.name === psychSub.name);
             if (saferpartySub !== undefined) {
                 unusedSaferpartyNames.delete(psychSub.name);
-                return combineOnePsychoWithOneSafer(psychSub, saferpartySub);
+                return combineOnePsychoWithOneTripsit(psychSub, saferpartySub);
             } else {
                 return psychSub;
             }
@@ -37,6 +38,34 @@ function combineOnePsychoWithOneSafer(psycho, safer) {
     psycho['saferUse'] = safer.saferUse;
     psycho['extenderText'] = safer.extenderText;
     psycho['extenders'] = safer.extenders;
+    return psycho;
+}
+
+function combinePsychoWithTripsit(psychonautWikiSubstances, tripsitSubstances) {
+    let unusedTripsitNames = new Set(tripsitSubstances.map(sub => sub.name));
+    let psychonautWikiSubstancesWithoutMatch = new Set();
+    let combinedSubstances = psychonautWikiSubstances.map(psychSub => {
+            let saferpartySub = tripsitSubstances.find(sub => sub.name === psychSub.name);
+            if (saferpartySub !== undefined) {
+                unusedTripsitNames.delete(psychSub.name);
+                return combineOnePsychoWithOneSafer(psychSub, saferpartySub);
+            } else {
+                psychonautWikiSubstancesWithoutMatch.add(psychSub.name);
+                return psychSub;
+            }
+
+        }
+    )
+    console.log(`Unused tripsit substances: ${Array.from(unusedTripsitNames.values())}`);
+    console.log(`PsychonautWiki substances without a tripsit match: ${Array.from(psychonautWikiSubstancesWithoutMatch.values())}`);
+    return combinedSubstances;
+}
+
+function combineOnePsychoWithOneTripsit(psycho, tripsit) {
+    psycho['summary'] = tripsit.summary;
+    psycho['categories'] = tripsit.categories;
+    // todo replace psychonautWiki interactions
+    psycho['interactions'] = tripsit.interactions;
     return psycho;
 }
 
