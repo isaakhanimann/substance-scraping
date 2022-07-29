@@ -3,7 +3,7 @@ const fs = require("fs");
 
 async function compose() {
     let psychContent = await fsPromises.readFile('./psychonautwiki.json', 'utf-8');
-    let psychonautWikiSubstances = JSON.parse(psychContent);
+    let psychonautWikiSubstances = cleanupPsychonautWikiSubstances(JSON.parse(psychContent));
     let saferContent = await fsPromises.readFile('./saferparty.json', 'utf-8');
     let saferpartySubstances = JSON.parse(saferContent);
     let intermediateSubstances = combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances);
@@ -11,6 +11,76 @@ async function compose() {
     let tripsitSubstances = JSON.parse(tripsitContent);
     let finalSubstances = combinePsychoWithTripsit(intermediateSubstances, tripsitSubstances);
     saveInFile(finalSubstances);
+}
+
+function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
+    let namesToRemove = new Set([
+        "2C-T-X",
+        "2C-X",
+        "25X-Nbome",
+        "Amphetamine (Disambiguation)",
+        "Antihistamine",
+        "Antipsychotic",
+        "Cannabinoid",
+        "Datura (Botany)",
+        "Deliriant",
+        "Depressant",
+        "Dox",
+        "Harmala Alkaloid",
+        "Hyoscyamus Niger (Botany)",
+        "Hypnotic",
+        "Iso-LSD",
+        "List Of Prodrugs",
+        "Mandragora Officinarum (Botany)",
+        "Nbx",
+        "Nootropic",
+        "Phenethylamine (Compound)",
+        "Piper Nigrum (Botany)",
+        "RIMA",
+        "Selective Serotonin Reuptake Inhibitor",
+        "Serotonin",
+        "Serotonin-Norepinephrine Reuptake Inhibitor",
+        "Synthetic Cannabinoid",
+        "Tabernanthe Iboga (Botany)",
+        "Tryptamine (Compound)",
+        "Cake",
+        "Inhalants",
+        "MAOI",
+        "Opioids",
+        "Benzodiazepines",
+        "Classic Psychedelics",
+        "Psychedelics",
+        "Serotonergic Psychedelic",
+        "25x-NBOH",
+        "Antidepressants",
+        "Barbiturates",
+        "Substituted Aminorexes",
+        "Substituted Amphetamines",
+        "Substituted Cathinones",
+        "Substituted Morphinans",
+        "Substituted Phenethylamines",
+        "Substituted Phenidates",
+        "Substituted Tryptamines",
+        "Classical Psychedelics",
+        "Diarylethylamines",
+        "Dissociatives",
+        "Entactogens",
+        "Gabapentinoids",
+        "Hallucinogens",
+        "Lysergamides",
+        "Thienodiazepines",
+        "Xanthines",
+        "Arylcyclohexylamines",
+        "Entheogen",
+        "Racetams",
+        "Sedative",
+        "Stimulants",
+        "Eugeroics"
+    ].map(name => name.toLowerCase()));
+    function isNameOk(substance) {
+        return !substance.name.toLowerCase().includes("experience") && !namesToRemove.has(substance.name.toLowerCase());
+    }
+    return psychonautWikiSubstances.filter(isNameOk)
 }
 
 function combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances) {
@@ -26,7 +96,7 @@ function combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances) 
 
         }
     )
-    console.log(`Unused saferparty substances are: ${Array.from(unusedSaferpartyNames.values())}`);
+    console.log(`Unused saferparty substances are: ${JSON.stringify(Array.from(unusedSaferpartyNames), null, 2)}`);
     return combinedSubstances;
 }
 
@@ -56,8 +126,8 @@ function combinePsychoWithTripsit(psychonautWikiSubstances, tripsitSubstances) {
 
         }
     )
-    console.log(`Unused tripsit substances: ${Array.from(unusedTripsitNames.values())}`);
-    console.log(`PsychonautWiki substances without a tripsit match: ${Array.from(psychonautWikiSubstancesWithoutMatch.values())}`);
+    console.log(`Unused tripsit substances: ${JSON.stringify(Array.from(unusedTripsitNames), null, 2)}`);
+    console.log(`PsychonautWiki substances without a tripsit match: ${JSON.stringify(Array.from(psychonautWikiSubstancesWithoutMatch), null, 2)}`);
     return combinedSubstances;
 }
 

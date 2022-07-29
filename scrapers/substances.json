@@ -2832,122 +2832,6 @@
     ]
   },
   {
-    "name": "25x-NBOH",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/25x-NBOH",
-    "class": null,
-    "tolerance": {
-      "full": "almost immediately after ingestion",
-      "half": "1 week",
-      "zero": "2 weeks"
-    },
-    "roas": [],
-    "addictionPotential": "not habit-forming",
-    "toxicity": null,
-    "crossTolerances": [
-      "psychedelic"
-    ],
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": [
-      {
-        "name": "MAOI"
-      },
-      {
-        "name": "Serotonin"
-      },
-      {
-        "name": "5-Hydroxytryptophan"
-      },
-      {
-        "name": "Selective serotonin reuptake inhibitor"
-      },
-      {
-        "name": "SNRIs"
-      }
-    ]
-  },
-  {
-    "name": "25x-NBOMe",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/25x-NBOMe",
-    "class": null,
-    "tolerance": {
-      "full": "almost immediately after ingestion",
-      "half": "1 week",
-      "zero": "2 weeks"
-    },
-    "roas": [],
-    "addictionPotential": "not habit-forming",
-    "toxicity": null,
-    "crossTolerances": [
-      "psychedelic"
-    ],
-    "uncertainInteractions": [
-      {
-        "name": "2C-T-X"
-      },
-      {
-        "name": "5-MeO-xxt"
-      },
-      {
-        "name": "Caffeine"
-      },
-      {
-        "name": "Cannabis"
-      },
-      {
-        "name": "DOx"
-      },
-      {
-        "name": "MAOI"
-      },
-      {
-        "name": "MDMA"
-      },
-      {
-        "name": "Methoxetamine"
-      }
-    ],
-    "unsafeInteractions": [
-      {
-        "name": "Substituted amphetamines"
-      },
-      {
-        "name": "ΑMT"
-      },
-      {
-        "name": "Cocaine"
-      },
-      {
-        "name": "Dextromethorphan"
-      },
-      {
-        "name": "Tramadol"
-      }
-    ],
-    "dangerousInteractions": [
-      {
-        "name": "Lithium]"
-      },
-      {
-        "name": "MAOI"
-      },
-      {
-        "name": "Serotonin"
-      },
-      {
-        "name": "5-Hydroxytryptophan"
-      },
-      {
-        "name": "Selective serotonin reuptake inhibitor"
-      },
-      {
-        "name": "SNRIs"
-      }
-    ]
-  },
-  {
     "name": "2C-B",
     "commonNames": [
       "2C-B",
@@ -4235,61 +4119,6 @@
     "uncertainInteractions": null,
     "unsafeInteractions": null,
     "dangerousInteractions": null
-  },
-  {
-    "name": "2C-T-x",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/2C-T-x",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "2C-x",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/2C-x",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": [
-      {
-        "name": "5-meo-xxt"
-      },
-      {
-        "name": "Substituted amphetamines"
-      },
-      {
-        "name": "Cannabis"
-      },
-      {
-        "name": "Cocaine"
-      },
-      {
-        "name": "maois"
-      },
-      {
-        "name": "nbomes"
-      }
-    ],
-    "unsafeInteractions": [
-      {
-        "name": "Tramadol"
-      }
-    ],
-    "dangerousInteractions": [
-      {
-        "name": "ΑMT"
-      }
-    ]
   },
   {
     "name": "2M2B",
@@ -12418,20 +12247,6 @@
     ]
   },
   {
-    "name": "Amphetamine (disambiguation)",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Amphetamine_(disambiguation)",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Anadenanthera peregrina",
     "commonNames": null,
     "url": "https://psychonautwiki.org/wiki/Anadenanthera_peregrina",
@@ -12516,48 +12331,6 @@
         "name": "MAOI"
       }
     ]
-  },
-  {
-    "name": "Antidepressants",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Antidepressants",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Antihistamine",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Antihistamine",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Antipsychotic",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Antipsychotic",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
   },
   {
     "name": "Armodafinil",
@@ -12685,20 +12458,6 @@
         "name": "Hormonal birth control"
       }
     ]
-  },
-  {
-    "name": "Arylcyclohexylamines",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Arylcyclohexylamines",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
   },
   {
     "name": "Atropa belladonna",
@@ -12979,41 +12738,6 @@
     "roas": [],
     "addictionPotential": null,
     "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Barbiturates",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Barbiturates",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Benzodiazepines",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Benzodiazepines",
-    "class": null,
-    "tolerance": {
-      "full": "within a couple of days of continuous use",
-      "half": null,
-      "zero": "7-14 days"
-    },
-    "roas": [],
-    "addictionPotential": "extremely physically and psychologically addictive",
-    "toxicity": [
-      "low toxicity",
-      "potentially lethality increases significantly when mixed with depressants like alcohol or opioids"
-    ],
     "crossTolerances": null,
     "uncertainInteractions": null,
     "unsafeInteractions": null,
@@ -13770,52 +13494,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Cake",
-    "commonNames": [
-      "Cake",
-      "Caky",
-      "Cokoo"
-    ],
-    "url": "https://psychonautwiki.org/wiki/Cake",
-    "class": {
-      "chemical": null,
-      "psychoactive": [
-        "Depressant"
-      ]
-    },
-    "tolerance": null,
-    "roas": [
-      {
-        "name": "oral",
-        "dose": {
-          "units": "g",
-          "threshold": 30,
-          "light": {
-            "min": 30,
-            "max": 65
-          },
-          "common": {
-            "min": 65,
-            "max": 100
-          },
-          "strong": {
-            "min": 100,
-            "max": 300
-          },
-          "heavy": 300
-        },
-        "duration": null,
-        "bioavailability": null
-      }
-    ],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Cannabidiol",
     "commonNames": [
       "Cannabidiol",
@@ -13879,20 +13557,6 @@
     "toxicity": [
       "well-tolerated and shows little to no toxicity"
     ],
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Cannabinoid",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Cannabinoid",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
     "crossTolerances": null,
     "uncertainInteractions": null,
     "unsafeInteractions": null,
@@ -14441,20 +14105,6 @@
     "toxicity": [
       "extremely low toxicity"
     ],
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Classical psychedelics",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Classical_psychedelics",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
     "crossTolerances": null,
     "uncertainInteractions": null,
     "unsafeInteractions": null,
@@ -16052,20 +15702,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "DOx",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/DOx",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "DPT",
     "commonNames": [
       "DPT",
@@ -16261,48 +15897,6 @@
     "toxicity": [
       "toxic dosage is unknown"
     ],
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Datura (botany)",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Datura_(botany)",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Deliriant",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Deliriant",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Depressant",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Depressant",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
     "crossTolerances": null,
     "uncertainInteractions": null,
     "unsafeInteractions": null,
@@ -17199,20 +16793,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Diarylethylamines",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Diarylethylamines",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Diazepam",
     "commonNames": [
       "Valium",
@@ -17851,20 +17431,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Dissociatives",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Dissociatives",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Doxylamine",
     "commonNames": null,
     "url": "https://psychonautwiki.org/wiki/Doxylamine",
@@ -18362,34 +17928,6 @@
         "name": "5-Hydroxytryptophan"
       }
     ]
-  },
-  {
-    "name": "Entactogens",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Entactogens",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Entheogen",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Entheogen",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
   },
   {
     "name": "Ephedrine",
@@ -19239,20 +18777,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Eugeroics",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Eugeroics",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Eutylone",
     "commonNames": null,
     "url": "https://psychonautwiki.org/wiki/Eutylone",
@@ -19407,130 +18931,6 @@
         "name": "5-Hydroxytryptophan"
       }
     ]
-  },
-  {
-    "name": "Experience: I-Doser ('audio-drug') and meditation",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Experience:_I-Doser_(%27audio-drug%27)_and_meditation",
-    "class": {
-      "chemical": [
-        "Substituted tryptamines"
-      ],
-      "psychoactive": [
-        "Psychedelics"
-      ]
-    },
-    "tolerance": null,
-    "roas": [
-      {
-        "name": "oral",
-        "dose": {
-          "units": "mg",
-          "threshold": null,
-          "light": null,
-          "common": null,
-          "strong": null,
-          "heavy": null
-        },
-        "duration": {
-          "onset": {
-            "min": null,
-            "max": null,
-            "units": "minutes"
-          },
-          "comeup": {
-            "min": null,
-            "max": null,
-            "units": "minutes"
-          },
-          "peak": {
-            "min": null,
-            "max": null,
-            "units": "hours"
-          },
-          "offset": {
-            "min": null,
-            "max": null,
-            "units": "hours"
-          },
-          "total": {
-            "min": null,
-            "max": null,
-            "units": "hours"
-          },
-          "afterglow": {
-            "min": null,
-            "max": null,
-            "units": "hours"
-          }
-        },
-        "bioavailability": null
-      },
-      {
-        "name": "sublingual",
-        "dose": {
-          "units": "mg",
-          "threshold": null,
-          "light": null,
-          "common": null,
-          "strong": null,
-          "heavy": null
-        },
-        "duration": {
-          "onset": {
-            "min": null,
-            "max": null,
-            "units": "minutes"
-          },
-          "comeup": {
-            "min": null,
-            "max": null,
-            "units": "minutes"
-          },
-          "peak": {
-            "min": null,
-            "max": null,
-            "units": "hours"
-          },
-          "offset": {
-            "min": null,
-            "max": null,
-            "units": "hours"
-          },
-          "total": {
-            "min": null,
-            "max": null,
-            "units": "hours"
-          },
-          "afterglow": {
-            "min": null,
-            "max": null,
-            "units": "hours"
-          }
-        },
-        "bioavailability": null
-      }
-    ],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Experience:First time with kratom",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Experience:First_time_with_kratom",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
   },
   {
     "name": "F-Phenibut",
@@ -20608,20 +20008,6 @@
     ]
   },
   {
-    "name": "Gabapentinoids",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Gabapentinoids",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Gaboxadol",
     "commonNames": null,
     "url": "https://psychonautwiki.org/wiki/Gaboxadol",
@@ -20951,20 +20337,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Hallucinogens",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Hallucinogens",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Haloperidol",
     "commonNames": [
       "Haldol"
@@ -21024,20 +20396,6 @@
       "can have serious side effects at higher dosages",
       "risk of having severe extrapyramidal symptoms and muscle rigidity"
     ],
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Harmala alkaloid",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Harmala_alkaloid",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
     "crossTolerances": null,
     "uncertainInteractions": null,
     "unsafeInteractions": null,
@@ -21606,34 +20964,6 @@
     ]
   },
   {
-    "name": "Hyoscyamus niger (botany)",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Hyoscyamus_niger_(botany)",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Hypnotic",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Hypnotic",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Ibogaine",
     "commonNames": [
       "Ibogaine",
@@ -21688,41 +21018,6 @@
       }
     ],
     "addictionPotential": "not habit-forming",
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Inhalants",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Inhalants",
-    "class": {
-      "chemical": [
-        "Inorganic molecule"
-      ],
-      "psychoactive": [
-        "Dissociatives"
-      ]
-    },
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": "moderately addictive with a high potential for abuse",
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Iso-LSD",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Iso-LSD",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
     "toxicity": null,
     "crossTolerances": null,
     "uncertainInteractions": null,
@@ -22864,20 +22159,6 @@
     ]
   },
   {
-    "name": "List of prodrugs",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/List_of_prodrugs",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Lorazepam",
     "commonNames": [
       "Lorazepam",
@@ -22945,77 +22226,6 @@
     "uncertainInteractions": null,
     "unsafeInteractions": null,
     "dangerousInteractions": null
-  },
-  {
-    "name": "MAOI",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/MAOI",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": [
-      {
-        "name": "2C-T-x"
-      },
-      {
-        "name": "2C-x"
-      },
-      {
-        "name": "dox"
-      },
-      {
-        "name": "Ketamine"
-      },
-      {
-        "name": "Mescaline"
-      },
-      {
-        "name": "nbomes"
-      },
-      {
-        "name": "Opioids"
-      }
-    ],
-    "unsafeInteractions": [
-      {
-        "name": "Alcohol"
-      },
-      {
-        "name": "Methoxetamine"
-      }
-    ],
-    "dangerousInteractions": [
-      {
-        "name": "5-meo-xxt"
-      },
-      {
-        "name": "Substituted amphetamines"
-      },
-      {
-        "name": "ΑMT"
-      },
-      {
-        "name": "Cocaine"
-      },
-      {
-        "name": "Dextromethorphan"
-      },
-      {
-        "name": "MDMA"
-      },
-      {
-        "name": "PCP"
-      },
-      {
-        "name": "ssris"
-      },
-      {
-        "name": "Tramadol"
-      }
-    ]
   },
   {
     "name": "MCPP",
@@ -24251,20 +23461,6 @@
     "name": "Mandragora",
     "commonNames": null,
     "url": "https://psychonautwiki.org/wiki/Mandragora",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Mandragora officinarum (botany)",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Mandragora_officinarum_(botany)",
     "class": null,
     "tolerance": null,
     "roas": [],
@@ -27634,84 +26830,6 @@
     ]
   },
   {
-    "name": "NBx",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/NBx",
-    "class": null,
-    "tolerance": {
-      "full": null,
-      "half": "1 week",
-      "zero": "2 weeks"
-    },
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": [
-      {
-        "name": "2C-T-X"
-      },
-      {
-        "name": "5-MeO-xxt"
-      },
-      {
-        "name": "Caffeine"
-      },
-      {
-        "name": "Cannabis"
-      },
-      {
-        "name": "DOx"
-      },
-      {
-        "name": "MAOI"
-      },
-      {
-        "name": "MDMA"
-      },
-      {
-        "name": "Methoxetamine"
-      }
-    ],
-    "unsafeInteractions": [
-      {
-        "name": "Substituted amphetamines"
-      },
-      {
-        "name": "ΑMT"
-      },
-      {
-        "name": "Cocaine"
-      },
-      {
-        "name": "Dextromethorphan"
-      },
-      {
-        "name": "Tramadol"
-      }
-    ],
-    "dangerousInteractions": [
-      {
-        "name": "MAOI"
-      },
-      {
-        "name": "Serotonin"
-      },
-      {
-        "name": "Selective serotonin reuptake inhibitor"
-      },
-      {
-        "name": "SNRIs"
-      },
-      {
-        "name": "5-Hydroxytryptophan"
-      },
-      {
-        "name": "Lithium]"
-      }
-    ]
-  },
-  {
     "name": "NEP",
     "commonNames": [
       "N-Ethylpentedrone",
@@ -28421,20 +27539,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Nootropic",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Nootropic",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "O-Desmethyltramadol",
     "commonNames": [
       "O-Desmethyltramadol"
@@ -28852,64 +27956,6 @@
     "uncertainInteractions": null,
     "unsafeInteractions": null,
     "dangerousInteractions": null
-  },
-  {
-    "name": "Opioids",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Opioids",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": [
-      {
-        "name": "Substituted amphetamines"
-      },
-      {
-        "name": "MAOI"
-      },
-      {
-        "name": "Nitrous"
-      },
-      {
-        "name": "PCP"
-      }
-    ],
-    "unsafeInteractions": null,
-    "dangerousInteractions": [
-      {
-        "name": "Alcohol"
-      },
-      {
-        "name": "Benzodiazepines"
-      },
-      {
-        "name": "Cocaine"
-      },
-      {
-        "name": "Dextromethorphan"
-      },
-      {
-        "name": "GHB"
-      },
-      {
-        "name": "GBL"
-      },
-      {
-        "name": "Ketamine"
-      },
-      {
-        "name": "Methoxetamine"
-      },
-      {
-        "name": "Tramadol"
-      },
-      {
-        "name": "Grapefruit"
-      }
-    ]
   },
   {
     "name": "Orphenadrine",
@@ -30739,20 +29785,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Phenethylamine (compound)",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Phenethylamine_(compound)",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Phenibut",
     "commonNames": [
       "Phenibut",
@@ -31154,20 +30186,6 @@
     "crossTolerances": [
       "GABA"
     ],
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Piper nigrum (botany)",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Piper_nigrum_(botany)",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
     "uncertainInteractions": null,
     "unsafeInteractions": null,
     "dangerousInteractions": null
@@ -32200,43 +31218,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Psychedelics",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Psychedelics",
-    "class": null,
-    "tolerance": {
-      "full": "almost immediately after ingestion",
-      "half": null,
-      "zero": null
-    },
-    "roas": [],
-    "addictionPotential": "low abuse potential",
-    "toxicity": [
-      "very low toxicity"
-    ],
-    "crossTolerances": [
-      "psychedelics"
-    ],
-    "uncertainInteractions": [
-      {
-        "name": "Cannabis"
-      },
-      {
-        "name": "Stimulants"
-      }
-    ],
-    "unsafeInteractions": [
-      {
-        "name": "Tramadol"
-      }
-    ],
-    "dangerousInteractions": [
-      {
-        "name": "Lithium"
-      }
-    ]
-  },
-  {
     "name": "Pyrazolam",
     "commonNames": [
       "Pyrazolam"
@@ -32399,91 +31380,6 @@
         "name": "Depressant"
       }
     ]
-  },
-  {
-    "name": "RIMA",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/RIMA",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": [
-      {
-        "name": "2C-T-x"
-      },
-      {
-        "name": "2C-x"
-      },
-      {
-        "name": "dox"
-      },
-      {
-        "name": "Ketamine"
-      },
-      {
-        "name": "Mescaline"
-      },
-      {
-        "name": "nbomes"
-      },
-      {
-        "name": "Opioids"
-      }
-    ],
-    "unsafeInteractions": [
-      {
-        "name": "Alcohol"
-      },
-      {
-        "name": "Methoxetamine"
-      }
-    ],
-    "dangerousInteractions": [
-      {
-        "name": "5-meo-xxt"
-      },
-      {
-        "name": "Substituted amphetamines"
-      },
-      {
-        "name": "ΑMT"
-      },
-      {
-        "name": "Cocaine"
-      },
-      {
-        "name": "Dextromethorphan"
-      },
-      {
-        "name": "MDMA"
-      },
-      {
-        "name": "PCP"
-      },
-      {
-        "name": "ssris"
-      },
-      {
-        "name": "Tramadol"
-      }
-    ]
-  },
-  {
-    "name": "Racetams",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Racetams",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
   },
   {
     "name": "Risperidone",
@@ -32926,76 +31822,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Sedative",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Sedative",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Selective serotonin reuptake inhibitor",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Selective_serotonin_reuptake_inhibitor",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Serotonergic psychedelic",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Serotonergic_psychedelic",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Serotonin",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Serotonin",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Serotonin-norepinephrine reuptake inhibitor",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Serotonin-norepinephrine_reuptake_inhibitor",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Sertraline",
     "commonNames": null,
     "url": "https://psychonautwiki.org/wiki/Sertraline",
@@ -33048,118 +31874,6 @@
         "bioavailability": null
       }
     ],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Stimulants",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Stimulants",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Substituted aminorexes",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Substituted_aminorexes",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Substituted amphetamines",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Substituted_amphetamines",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Substituted cathinones",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Substituted_cathinones",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Substituted morphinans",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Substituted_morphinans",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Substituted phenethylamines",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Substituted_phenethylamines",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Substituted phenidates",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Substituted_phenidates",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
-    "name": "Substituted tryptamines",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Substituted_tryptamines",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
     "addictionPotential": null,
     "toxicity": null,
     "crossTolerances": null,
@@ -33299,57 +32013,6 @@
         "name": "GBL"
       }
     ]
-  },
-  {
-    "name": "Synthetic cannabinoid",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Synthetic_cannabinoid",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": "moderately addictive with a high potential for abuse",
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": [
-      {
-        "name": "2C-T-x"
-      },
-      {
-        "name": "2C-x"
-      },
-      {
-        "name": "5-MeO-xxT"
-      },
-      {
-        "name": "Substituted amphetamines"
-      },
-      {
-        "name": "ΑMT"
-      },
-      {
-        "name": "Cocaine"
-      },
-      {
-        "name": "DMT"
-      },
-      {
-        "name": "DOx"
-      },
-      {
-        "name": "LSD"
-      },
-      {
-        "name": "Mescaline"
-      },
-      {
-        "name": "Psilocybin mushrooms"
-      },
-      {
-        "name": "25x-NBOMe"
-      }
-    ],
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
   },
   {
     "name": "THC-O",
@@ -33951,20 +32614,6 @@
     ]
   },
   {
-    "name": "Tabernanthe iboga (botany)",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Tabernanthe_iboga_(botany)",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Tapentadol",
     "commonNames": [
       "Tapentadol",
@@ -34476,20 +33125,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Thienodiazepines",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Thienodiazepines",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Thujone",
     "commonNames": null,
     "url": "https://psychonautwiki.org/wiki/Thujone",
@@ -34926,20 +33561,6 @@
     "dangerousInteractions": null
   },
   {
-    "name": "Tryptamine (compound)",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Tryptamine_(compound)",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
-  },
-  {
     "name": "Tyrosine",
     "commonNames": [
       "Tyrosine",
@@ -35176,20 +33797,6 @@
         "name": "GBL"
       }
     ]
-  },
-  {
-    "name": "Xanthines",
-    "commonNames": null,
-    "url": "https://psychonautwiki.org/wiki/Xanthines",
-    "class": null,
-    "tolerance": null,
-    "roas": [],
-    "addictionPotential": null,
-    "toxicity": null,
-    "crossTolerances": null,
-    "uncertainInteractions": null,
-    "unsafeInteractions": null,
-    "dangerousInteractions": null
   },
   {
     "name": "Zaleplon",
