@@ -1,17 +1,17 @@
 const {promises: fsPromises} = require('fs');
 const fs = require("fs");
 
-async function compose() {
+(async () => {
     let psychContent = await fsPromises.readFile('./psychonautwiki.json', 'utf-8');
     let psychonautWikiSubstances = cleanupPsychonautWikiSubstances(JSON.parse(psychContent));
     let saferContent = await fsPromises.readFile('./saferparty.json', 'utf-8');
     let saferpartySubstances = JSON.parse(saferContent);
-    let intermediateSubstances = combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances);
     let tripsitContent = await fsPromises.readFile('./tripsit.json', 'utf-8');
     let tripsitSubstances = JSON.parse(tripsitContent);
-    let finalSubstances = combinePsychoWithTripsit(intermediateSubstances, tripsitSubstances);
+    let finalSubstances = getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances);
     saveInFile(finalSubstances);
-}
+})();
+
 
 function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
     let namesToRemove = new Set([
@@ -77,66 +77,58 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Stimulants",
         "Eugeroics"
     ].map(name => name.toLowerCase()));
+
     function isNameOk(substance) {
         return !substance.name.toLowerCase().includes("experience") && !namesToRemove.has(substance.name.toLowerCase());
     }
+
     return psychonautWikiSubstances.filter(isNameOk)
 }
 
-function combinePsychoWithSafer(psychonautWikiSubstances, saferpartySubstances) {
+function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances) {
     let unusedSaferpartyNames = new Set(saferpartySubstances.map(sub => sub.name));
-    let combinedSubstances = psychonautWikiSubstances.map(psychSub => {
-            let saferpartySub = saferpartySubstances.find(safer => safer.name === psychSub.name);
-            if (saferpartySub !== undefined) {
-                unusedSaferpartyNames.delete(psychSub.name);
-                return combineOnePsychoWithOneTripsit(psychSub, saferpartySub);
-            } else {
-                return psychSub;
-            }
-
-        }
-    )
-    console.log(`Unused saferparty substances are: ${JSON.stringify(Array.from(unusedSaferpartyNames), null, 2)}`);
-    return combinedSubstances;
-}
-
-function combineOnePsychoWithOneSafer(psycho, safer) {
-    psycho['effects'] = safer.effects;
-    psycho['dosageRemark'] = safer.dosageRemark;
-    psycho['generalRisks'] = safer.generalRisks;
-    psycho['longtermRisks'] = safer.longtermRisks;
-    psycho['saferUse'] = safer.saferUse;
-    psycho['extenderText'] = safer.extenderText;
-    psycho['extenders'] = safer.extenders;
-    return psycho;
-}
-
-function combinePsychoWithTripsit(psychonautWikiSubstances, tripsitSubstances) {
     let unusedTripsitNames = new Set(tripsitSubstances.map(sub => sub.name));
     let psychonautWikiSubstancesWithoutMatch = new Set();
-    let combinedSubstances = psychonautWikiSubstances.map(psychSub => {
-            let saferpartySub = tripsitSubstances.find(sub => sub.name === psychSub.name);
-            if (saferpartySub !== undefined) {
-                unusedTripsitNames.delete(psychSub.name);
-                return combineOnePsychoWithOneSafer(psychSub, saferpartySub);
-            } else {
-                psychonautWikiSubstancesWithoutMatch.add(psychSub.name);
-                return psychSub;
+    let finalSubstances = psychonautWikiSubstances.map(onePsychonautWikiSubstance => {
+            let name = onePsychonautWikiSubstance.name;
+            let saferpartyOptional = saferpartySubstances.find(safer => safer.name === name);
+            let tripsitOptional = tripsitSubstances.find(tripsit => tripsit.name === name);
+            if (saferpartyOptional !== undefined) {
+                unusedSaferpartyNames.delete(name);
             }
-
+            if (tripsitOptional !== undefined) {
+                unusedTripsitNames.delete(name);
+            } else {
+                psychonautWikiSubstancesWithoutMatch.add(name);
+            }
+            let interactions = {
+                dangerous: onePsychonautWikiSubstance.dangerousInteractions,
+                unsafe: onePsychonautWikiSubstance.unsafeInteractions,
+                uncertain: onePsychonautWikiSubstance.uncertainInteractions
+            };
+            return {
+                name: name,
+                commonNames: onePsychonautWikiSubstance.commonNames,
+                url: onePsychonautWikiSubstance.url,
+                tolerance: onePsychonautWikiSubstance.tolerance,
+                crossTolerances: onePsychonautWikiSubstance.crossTolerances,
+                roas: onePsychonautWikiSubstance.roas,
+                addictionPotential: onePsychonautWikiSubstance.addictionPotential,
+                categories: tripsitOptional?.categories,
+                summary: tripsitOptional?.summary,
+                interactions: interactions,
+                effectsSummary: saferpartyOptional?.effects,
+                dosageRemark: saferpartyOptional?.dosageRemark,
+                generalRisks: saferpartyOptional?.generalRisks,
+                longtermRisks: saferpartyOptional?.longtermRisks,
+                saferUse: saferpartyOptional?.saferUse
+            };
         }
     )
     console.log(`Unused tripsit substances: ${JSON.stringify(Array.from(unusedTripsitNames), null, 2)}`);
     console.log(`PsychonautWiki substances without a tripsit match: ${JSON.stringify(Array.from(psychonautWikiSubstancesWithoutMatch), null, 2)}`);
-    return combinedSubstances;
-}
-
-function combineOnePsychoWithOneTripsit(psycho, tripsit) {
-    psycho['summary'] = tripsit.summary;
-    psycho['categories'] = tripsit.categories;
-    // todo replace psychonautWiki interactions
-    psycho['interactions'] = tripsit.interactions;
-    return psycho;
+    console.log(`Unused saferparty substances are: ${JSON.stringify(Array.from(unusedSaferpartyNames), null, 2)}`);
+    return finalSubstances;
 }
 
 function saveInFile(substances) {
@@ -153,5 +145,3 @@ function saveInFile(substances) {
         }
     );
 }
-
-compose()
