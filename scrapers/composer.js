@@ -167,6 +167,7 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
                 tolerance: onePsychonautWikiSubstance.tolerance,
                 crossTolerances: onePsychonautWikiSubstance.crossTolerances,
                 addictionPotential: onePsychonautWikiSubstance.addictionPotential,
+                toxicities: onePsychonautWikiSubstance.toxicity,
                 categories: getCategoriesOfSubstance(name, onePsychonautWikiSubstance.class?.psychoactive ?? [], tripsitOptional?.categories ?? []),
                 summary: tripsitOptional?.summary,
                 effectsSummary: saferpartyOptional?.effects,
