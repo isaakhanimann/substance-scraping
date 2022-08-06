@@ -9,7 +9,12 @@ const fs = require("fs");
     let tripsitContent = await fsPromises.readFile('./tripsit.json', 'utf-8');
     let tripsitSubstances = JSON.parse(tripsitContent);
     let finalSubstances = getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances);
-    saveInFile(finalSubstances);
+    let fileOutput = {
+            categories: getAllCategoriesOfSubstances(finalSubstances),
+            substances: finalSubstances
+        }
+    ;
+    saveInFile(fileOutput);
 })();
 
 
@@ -82,7 +87,31 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         return !substance.name.toLowerCase().includes("experience") && !namesToRemove.has(substance.name.toLowerCase());
     }
 
-    return psychonautWikiSubstances.filter(isNameOk)
+    let substances = psychonautWikiSubstances.filter(isNameOk)
+    substances.forEach(substance => {
+        if (substance.class != undefined) {
+            substance.class.psychoactive = (substance?.class?.psychoactive ?? []).map(element => {
+                if (element === "Selective serotonin reuptake inhibitor") {
+                    return "SSRIs"
+                } else {
+                    return element
+                }
+            });
+        }
+        replaceInteractionSSRI(substance?.dangerousInteractions ?? []);
+        replaceInteractionSSRI(substance?.unsafeInteractions ?? []);
+        replaceInteractionSSRI(substance?.uncertainInteractions ?? []);
+    })
+    return substances
+}
+
+function replaceInteractionSSRI(array) {
+    return array.map(element => {
+        if (element.name === "Selective serotonin reuptake inhibitor") {
+            element.name = "SSRIs"
+        }
+        return element
+    });
 }
 
 function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances) {
@@ -102,9 +131,9 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
                 psychonautWikiSubstancesWithoutMatch.add(name);
             }
             let interactions = {
-                dangerous: onePsychonautWikiSubstance.dangerousInteractions,
-                unsafe: onePsychonautWikiSubstance.unsafeInteractions,
-                uncertain: onePsychonautWikiSubstance.uncertainInteractions
+                dangerous: onePsychonautWikiSubstance?.dangerousInteractions,
+                unsafe: onePsychonautWikiSubstance?.unsafeInteractions,
+                uncertain: onePsychonautWikiSubstance?.uncertainInteractions
             };
             return {
                 name: name,
@@ -112,23 +141,44 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
                 url: onePsychonautWikiSubstance.url,
                 tolerance: onePsychonautWikiSubstance.tolerance,
                 crossTolerances: onePsychonautWikiSubstance.crossTolerances,
-                roas: onePsychonautWikiSubstance.roas,
                 addictionPotential: onePsychonautWikiSubstance.addictionPotential,
-                categories: tripsitOptional?.categories,
+                categories: getCategoriesOfSubstance(name, onePsychonautWikiSubstance.class?.psychoactive ?? [], tripsitOptional?.categories ?? []),
                 summary: tripsitOptional?.summary,
-                interactions: interactions,
                 effectsSummary: saferpartyOptional?.effects,
                 dosageRemark: saferpartyOptional?.dosageRemark,
                 generalRisks: saferpartyOptional?.generalRisks,
                 longtermRisks: saferpartyOptional?.longtermRisks,
-                saferUse: saferpartyOptional?.saferUse
+                saferUse: saferpartyOptional?.saferUse,
+                interactions: interactions,
+                roas: onePsychonautWikiSubstance.roas
             };
         }
     )
-    console.log(`Unused tripsit substances: ${JSON.stringify(Array.from(unusedTripsitNames), null, 2)}`);
-    console.log(`PsychonautWiki substances without a tripsit match: ${JSON.stringify(Array.from(psychonautWikiSubstancesWithoutMatch), null, 2)}`);
-    console.log(`Unused saferparty substances are: ${JSON.stringify(Array.from(unusedSaferpartyNames), null, 2)}`);
+    // console.log(`Unused tripsit substances: ${JSON.stringify(Array.from(unusedTripsitNames), null, 2)}`);
+    // console.log(`PsychonautWiki substances without a tripsit match: ${JSON.stringify(Array.from(psychonautWikiSubstancesWithoutMatch), null, 2)}`);
+    // console.log(`Unused saferparty substances are: ${JSON.stringify(Array.from(unusedSaferpartyNames), null, 2)}`);
     return finalSubstances;
+}
+
+function getCategoriesOfSubstance(substanceName, psychonautWikiPsychoactiveClasses, tripSitCategories) {
+    let psychonautWikiCategories = psychonautWikiPsychoactiveClasses.map(psychonautClass => {
+        return psychonautClass.toLowerCase().replace(/s$/, "");
+    });
+    let finalCategories = new Set([...psychonautWikiCategories, ...tripSitCategories]);
+    return Array.from(finalCategories)
+}
+
+function getAllCategoriesOfSubstances(allSubstances) {
+    let allCategories = new Set();
+    for (const allSubstancesKey in allSubstances) {
+        let sub = allSubstances[allSubstancesKey];
+        let cats = sub.categories ?? []
+        for (const catsKey in cats) {
+            let name = cats[catsKey];
+            allCategories.add(name);
+        }
+    }
+    return [...new Set(allCategories)];
 }
 
 function saveInFile(substances) {
