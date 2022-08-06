@@ -80,7 +80,9 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Racetams",
         "Sedative",
         "Stimulants",
-        "Eugeroics"
+        "Eugeroics",
+        "Sertraline",
+        "Zaleplon"
     ].map(name => name.toLowerCase()));
 
     function isNameOk(substance) {
