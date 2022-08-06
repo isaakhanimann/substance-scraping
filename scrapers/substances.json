@@ -1,27 +1,105 @@
 {
   "categories": [
-    "stimulant",
-    "depressant",
-    "habit-forming",
-    "psychedelic",
-    "tentative",
-    "research-chemical",
-    "entactogen",
-    "dissociative",
-    "common",
-    "empathogen",
-    "cannabinoid",
-    "nootropic",
-    "opioid",
-    "benzodiazepine",
-    "deliriant",
-    "barbiturate",
-    "eugeroic",
-    "hallucinogen",
-    "oneirogen",
-    "antipsychotic",
-    "supplement",
-    "antidepressant"
+    {
+      "name": "common",
+      "description": "Common drugs are those which are well known and widely used among the drug community. This doesn't necessarily mean they are safe, but it usually comes with a longer relative history of use in humans with which to establish a safety profile.",
+      "url": null
+    },
+    {
+      "name": "habit-forming",
+      "description": "These drugs pose a higher risk of causing habit forming behaviour, take particular care with the amount and frequency they are taken.",
+      "url": null
+    },
+    {
+      "name": "psychedelic",
+      "description": "Psychedelics are drugs which alter the perception, causing a number of mental effects which manifest in many forms including altered states of consciousness, visual or tactile effects.",
+      "url": "https://psychonautwiki.org/wiki/Psychedelics"
+    },
+    {
+      "name": "stimulant",
+      "description": "Stimulants excite the nervous system and increase physiological function.",
+      "url": "https://psychonautwiki.org/wiki/Stimulants"
+    },
+    {
+      "name": "entactogen",
+      "description": "Entactogens (also known as empathogens) are a class of psychoactive substances that produce distinctive emotional and social effects similar to those of MDMA.",
+      "url": "https://psychonautwiki.org/wiki/Entactogens"
+    },
+    {
+      "name": "depressant",
+      "description": "Depressants are drugs which reduce arousal and stimulation in the user, characterised by a depressing of mental and physical functions.",
+      "url": "https://psychonautwiki.org/wiki/Depressant"
+    },
+    {
+      "name": "opioid",
+      "description": "Opioids are pain-killing depressants which may also cause euphoria.",
+      "url": "https://psychonautwiki.org/wiki/Opioids"
+    },
+    {
+      "name": "research-chemical",
+      "description": "Research chemicals are drugs with relatively little history of human use, and thus particular care should be taken if choosing to ingest them.",
+      "url": "https://psychonautwiki.org/wiki/Research_chemicals"
+    },
+    {
+      "name": "tentative",
+      "description": "Tentative means that there is not much reliable information about it. This is often because the drug is very new. Information listed under these drugs should not be entirely trusted.",
+      "url": null
+    },
+    {
+      "name": "dissociative",
+      "description": "Dissociatives are mostly NMDA receptor antagonists, these substances are hallucinogenic but different than psychedelics. As per the name, these substances create a distance between the user and reality.",
+      "url": "https://psychonautwiki.org/wiki/Dissociatives"
+    },
+    {
+      "name": "benzodiazepine",
+      "description": "Benzodiazepines are generally hypnotic or anxiolytic depressant drugs.",
+      "url": "https://psychonautwiki.org/wiki/Benzodiazepines"
+    },
+    {
+      "name": "cannabinoid",
+      "description": "A cannabinoid is one of a class of diverse chemical compounds that act on cannabinoid receptors on cells that alter neurotransmitter functioning in the brain.",
+      "url": "https://psychonautwiki.org/wiki/Cannabinoid"
+    },
+    {
+      "name": "nootropic",
+      "description": "Nootropics (also referred to as smart drugs, neuro enhancers, and cognitive enhancers) are substances that purportedly improve cognitive functions such as memory, motivation, attention, and concentration, in healthy individuals.",
+      "url": "https://psychonautwiki.org/wiki/Nootropic"
+    },
+    {
+      "name": "deliriant",
+      "description": "Deliriants are considered to be true hallucinogens, because the visuals they produce are hard or impossible to tell apart from reality; they are also known for negative physical effects.",
+      "url": "https://psychonautwiki.org/wiki/Deliriant"
+    },
+    {
+      "name": "barbiturate",
+      "description": "Barbiturates (also known as barbs and barbies) are a class of psychoactive substances that act as depressants of the central nervous system. They produce a variety of sedative-hypnotic effects including sedation, anxiety suppression, muscle relaxation, and seizure suppression when administered.",
+      "url": "https://psychonautwiki.org/wiki/Barbiturates"
+    },
+    {
+      "name": "eugeroic",
+      "description": "Eugeroics, also known as wakefulness-promoting agents and wakefulness-promoting drugs, are a class of psychoactive substances that promote wakefulness and alertness. The best-known member of this class is modafinil.",
+      "url": "https://psychonautwiki.org/wiki/Eugeroics"
+    },
+    {
+      "name": "hallucinogen",
+      "description": "Hallucinogens are a class of psychoactive substances that produce powerful alterations in perception, mood, and various cognitive processes. Hallucinogens can be classified into psychedelics, dissociatives and deliriants",
+      "url": "https://psychonautwiki.org/wiki/Hallucinogens"
+    },
+    {
+      "name": "oneirogen",
+      "description": "Oneirogen describes a wide array of psychoactive plants and chemicals ranging from normal dream enhancers to intense dissociative or deliriant drugs.",
+      "url": "https://psychonautwiki.org/wiki/Oneirogen"
+    },
+    {
+      "name": "antipsychotic",
+      "description": "Antipsychotics (also known as neuroleptics or major tranquilizers) are a class of psychiatric medication primarily used to manage psychosis (including delusions, hallucinations, or disordered thought), particularly in schizophrenia and bipolar disorder.",
+      "url": "https://psychonautwiki.org/wiki/Antipsychotic"
+    },
+    {
+      "name": "antidepressant",
+      "description": "Antidepressants are a class of psychoactive substances that are prescribed to treat psychiatric disorders, most commonly major depressive disorder and some forms of anxiety disorders.",
+      "url": "https://psychonautwiki.org/wiki/Antidepressants"
+    }
   ],
   "substances": [
     {
@@ -2764,7 +2842,7 @@
       "addictionPotential": "non-addictive with a low potential for abuse",
       "categories": [
         "psychedelic",
-        "empathogen",
+        "entactogen",
         "common"
       ],
       "summary": "A popular psychedelic in the phenethylamine family. Provides empathic experiences at lower doses and strong visual and psychedelic experiences at higher doses. Commonly used as a party drug as it is more clear-headed than most psychedelics. 2C-B has been in use since the early 1990s",
@@ -3619,7 +3697,7 @@
       "addictionPotential": "not habit-forming",
       "categories": [
         "psychedelic",
-        "empathogen",
+        "entactogen",
         "research-chemical",
         "tentative"
       ],
@@ -3908,7 +3986,7 @@
       "categories": [
         "psychedelic",
         "research-chemical",
-        "empathogen"
+        "entactogen"
       ],
       "summary": "A relatively uncommon psychedelic phenethylamine and possible MAOI. Long lasting, an possesses an unpredictable dosage curve. Questionable safety in combination with most things.",
       "interactions": {
@@ -4993,8 +5071,7 @@
       "categories": [
         "stimulant",
         "entactogen",
-        "habit-forming",
-        "empathogen"
+        "habit-forming"
       ],
       "summary": "A euphoric stimulant similar to mephedrone but said to lack much of the \"magic.\" Never gained the same popularity. Slightly less potent.",
       "interactions": {
@@ -6558,7 +6635,7 @@
       "categories": [
         "psychedelic",
         "tentative",
-        "empathogen",
+        "entactogen",
         "research-chemical"
       ],
       "summary": "A quite potent tryptamine that has be related to having \"shroom-like\" visuals. Yet without much bodyload. Very hydroscopic. Seems to be quite safe in dosing. Similar to the likes of 2C-B.",
@@ -6662,7 +6739,6 @@
         "entactogen",
         "research-chemical",
         "habit-forming",
-        "empathogen",
         "common"
       ],
       "summary": "An empathogen commonly used in place of MDMA, having a similar duration of empathogenic effects. This drug, however, has a longer stimulant \"tail,\" during which effects are more like those of amphetamines. Not to be confused with 4-FMA, which has a similar potency, but is not particularly empathogenic.",
@@ -6807,8 +6883,7 @@
         "stimulant",
         "entactogen",
         "research-chemical",
-        "habit-forming",
-        "empathogen"
+        "habit-forming"
       ],
       "summary": "A stimulant with some empathogenic properties, and analogue of Methamphetamine with similar effects. Reported to be less effective than 2-FMA and related compounds. Little is known about the pharmacological effects of this compound. Not to be confused with 4-FA, which has a different effect profile, despite similar potency.",
       "interactions": {
@@ -8360,7 +8435,6 @@
         "entactogen",
         "psychedelic",
         "research-chemical",
-        "empathogen",
         "habit-forming"
       ],
       "summary": "A triple monoamine reuptake inhibitor. This agonism for 5-HT2B makes it likely that 5-APB would be cardiotoxic with long term use, as seen in other 5-HT2B agonists such as fenfluramine and MDMA.",
@@ -8547,7 +8621,6 @@
         "psychedelic",
         "stimulant",
         "research-chemical",
-        "empathogen",
         "habit-forming"
       ],
       "summary": "An empathogen structurally similar to MDMA. Typically more visual than MDMA. Often reported to be much less stimulating and more relaxing than most other stimulating empathogens. Less psychedelic than 6-APB. Much longer lasting than MDMA.",
@@ -9094,7 +9167,7 @@
       "categories": [
         "psychedelic",
         "research-chemical",
-        "empathogen"
+        "entactogen"
       ],
       "summary": "5-methoxy-di isopropyl tryptamine, also known as 'foxy', a psychedelic tryptamine related to DMT, which distorts visual and audio perception. Reported to have a heavy body load at high doses, it behaves similarly to other drugs of its class.",
       "interactions": {
@@ -9282,7 +9355,6 @@
         "psychedelic",
         "entactogen",
         "research-chemical",
-        "empathogen",
         "common"
       ],
       "summary": "A potent, stimulating psychedelic tryptamine, sometimes compared to 5-MeO-DiPT.  Has an unusually strong body component and weak visual effects. Often said to be very empathogenic.",
@@ -9777,7 +9849,6 @@
         "entactogen",
         "stimulant",
         "research-chemical",
-        "empathogen",
         "habit-forming"
       ],
       "summary": "A stimulant, empathogen and analog of MDA. Typically more visual than MDMA or MDA, as well as having a much longer onset and duration. Users often report a slightly more psychedelic headspace as well. Commonly sold as an alternative to MDMA and MDA.",
@@ -9908,7 +9979,6 @@
         "entactogen",
         "psychedelic",
         "research-chemical",
-        "empathogen",
         "habit-forming"
       ],
       "summary": "A stimulant and entactogen related to MDMA and an analogue of MDA. Reported as being fairly psychedlic at higher doses. It is a triple monoamine reuptake inhibitor. Potent full agonist of serotonin 2B receptors.",
@@ -12221,7 +12291,7 @@
       "addictionPotential": "not habit-forming",
       "categories": [
         "psychedelic",
-        "empathogen"
+        "entactogen"
       ],
       "summary": "A concoction made of two or more plants that contain at least an MAOI and DMT, the combination of which allows the DMT to work orally. Typically associated to south american cultures. Also, sometimes approximated synthetically by taking an external MAOI with extracted DMT. Causes intense, spiritually orientated hallucinogenic experiences.",
       "interactions": {
@@ -12919,8 +12989,7 @@
         "entactogen",
         "psychedelic",
         "research-chemical",
-        "habit-forming",
-        "empathogen"
+        "habit-forming"
       ],
       "summary": "Empathogen and stimulant of the cathinone class.",
       "interactions": {
@@ -18132,7 +18201,7 @@
         "psychedelic",
         "research-chemical",
         "habit-forming",
-        "empathogen"
+        "entactogen"
       ],
       "summary": "A euphoric stimulant often sold in place of MDMA since methylone was banned. Slightly less potent and empathogenic than methylone, it is often described as more of a 'straight stimulant.'",
       "interactions": {
@@ -22064,7 +22133,6 @@
         "stimulant",
         "psychedelic",
         "entactogen",
-        "empathogen",
         "habit-forming",
         "common"
       ],
@@ -22211,7 +22279,6 @@
       "categories": [
         "entactogen",
         "stimulant",
-        "empathogen",
         "tentative"
       ],
       "summary": "A quite rare empathogen closely related to MDMA. Yet is less potent than the prior.",
@@ -22371,7 +22438,6 @@
         "stimulant",
         "entactogen",
         "psychedelic",
-        "empathogen",
         "habit-forming",
         "common"
       ],
@@ -23292,8 +23358,7 @@
       "categories": [
         "oneirogen",
         "nootropic",
-        "common",
-        "supplement"
+        "common"
       ],
       "summary": "A naturally occurring hormone produced in the body, which promotes sleep at certain times in the day based on the circadian rhythm. It is also commonly available as a drug to treat insomnia and promote a proper sleep cycle. It can be used to promote sleepfulness at the tail-end of drug experiences, though it is not particularly hypnotic.",
       "interactions": {
@@ -23452,8 +23517,7 @@
         "stimulant",
         "entactogen",
         "research-chemical",
-        "habit-forming",
-        "empathogen"
+        "habit-forming"
       ],
       "summary": "A shortlived euphoric stimulant, developed as an analogue of MDMA, which was extremely popular in the research chemical scene before being banned. Commonly seen on street markets but rarer online. Very strong urge to redose compulsively.",
       "effectsSummary": "The effect is similar to that of methcathinone, cocaine and MDMA. Mephedrone causes euphoria and stimulation, increased urge to talk, increased performance and altered sensory perceptions. The need for food and sleep is suppressed.",
@@ -25113,7 +25177,6 @@
         "psychedelic",
         "research-chemical",
         "habit-forming",
-        "empathogen",
         "common"
       ],
       "summary": "βk-MDMA is a cathinone stimulant and empathogen, similar in structure to MDMA, though more stimulating and less empathogenic in comparison. Was very commonly mis-sold as MDMA on the street until it was banned in 2013. The Marquis reagent can differentiate βk-MDMA from MDMA. Less potent than MDMA with a slightly shorter duration.",
@@ -25499,7 +25562,7 @@
       "addictionPotential": "moderately addictive with a high potential for abuse",
       "categories": [
         "stimulant",
-        "empathogen",
+        "entactogen",
         "research-chemical",
         "habit-forming",
         "tentative"
@@ -26751,7 +26814,7 @@
       "addictionPotential": "moderately addictive with a high potential for abuse",
       "categories": [
         "stimulant",
-        "empathogen"
+        "entactogen"
       ],
       "summary": "Stimulant that is in the aminoindane class. Is it quite close to it's bigger brother 2-AI. Yet this has a lower potency, has a longer duration though.",
       "interactions": {
@@ -30682,7 +30745,7 @@
       "categories": [
         "psychedelic",
         "tentative",
-        "empathogen",
+        "entactogen",
         "research-chemical"
       ],
       "summary": "Psilocin is a substutued tryptamine alkaloid, that is present in most psychedelic mushrooms. It is relatively unstable in solution due to the -OH group.",

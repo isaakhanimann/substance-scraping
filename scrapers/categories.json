@@ -5,11 +5,6 @@
 		"url": null
 	},
 	{
-		"name": "habit-forming",
-		"description": "These drugs pose a higher risk of causing habit forming behaviour, take particular care with the amount and frequency they are taken.",
-		"url": null
-	},
-	{
 		"name": "psychedelic",
 		"description": "Psychedelics are drugs which alter the perception, causing a number of mental effects which manifest in many forms including altered states of consciousness, visual or tactile effects.",
 		"url": "https://psychonautwiki.org/wiki/Psychedelics"
@@ -33,6 +28,11 @@
 		"name": "opioid",
 		"description": "Opioids are pain-killing depressants which may also cause euphoria.",
 		"url": "https://psychonautwiki.org/wiki/Opioids"
+	},
+	{
+		"name": "habit-forming",
+		"description": "These drugs pose a higher risk of causing habit forming behaviour, take particular care with the amount and frequency they are taken.",
+		"url": null
 	},
 	{
 		"name": "research-chemical",

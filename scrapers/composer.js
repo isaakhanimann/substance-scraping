@@ -1,5 +1,6 @@
 const {promises: fsPromises} = require('fs');
 const fs = require("fs");
+const assert = require("assert");
 
 (async () => {
     let psychContent = await fsPromises.readFile('./psychonautwiki.json', 'utf-8');
@@ -7,10 +8,18 @@ const fs = require("fs");
     let saferContent = await fsPromises.readFile('./saferparty.json', 'utf-8');
     let saferpartySubstances = JSON.parse(saferContent);
     let tripsitContent = await fsPromises.readFile('./tripsit.json', 'utf-8');
-    let tripsitSubstances = JSON.parse(tripsitContent);
+    let tripsitSubstances = cleanupTripsitSubstances(JSON.parse(tripsitContent));
     let finalSubstances = getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances);
+    let categoriesContent = await fsPromises.readFile('./categories.json', 'utf-8');
+    let categories = JSON.parse(categoriesContent);
+    let inferredCategoryNames = getAllCategoriesOfSubstances(finalSubstances);
+    let explicitCategoryNames = categories.map(i => i.name);
+    let diff1 = inferredCategoryNames.filter(i => !explicitCategoryNames.includes(i));
+    let diff2 = explicitCategoryNames.filter(i => !inferredCategoryNames.includes(i));
+    assert(diff1.length === 0, `${diff1} were inferred but not inside explicit categories`)
+    assert(diff2.length === 0, `${diff1} were provided explicitly but not inferred`)
     let fileOutput = {
-            categories: getAllCategoriesOfSubstances(finalSubstances),
+            categories: categories,
             substances: finalSubstances
         }
     ;
@@ -107,6 +116,20 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
     return substances
 }
 
+function cleanupTripsitSubstances(tripsitSubstances) {
+    return tripsitSubstances.map(substance => {
+        let newCategories = substance.categories.map(catName => {
+            if (catName === "empathogen") {
+                return "entactogen";
+            } else {
+                return catName
+            }
+        });
+        substance.categories = newCategories.filter(name => name !== "supplement")
+        return substance
+    });
+}
+
 function replaceInteractionSSRI(array) {
     return array.map(element => {
         if (element.name === "Selective serotonin reuptake inhibitor") {
@@ -180,7 +203,7 @@ function getAllCategoriesOfSubstances(allSubstances) {
             allCategories.add(name);
         }
     }
-    return [...new Set(allCategories)];
+    return Array.from(allCategories);
 }
 
 function saveInFile(substances) {
