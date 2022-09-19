@@ -3,7 +3,7 @@ const fs = require("fs");
 const assert = require("assert");
 
 (async () => {
-    let psychContent = await fsPromises.readFile('./psychonautwiki.json', 'utf-8');
+    let psychContent = await fsPromises.readFile('./psychonautwikiapproved.json', 'utf-8');
     let psychonautWikiSubstances = cleanupPsychonautWikiSubstances(JSON.parse(psychContent));
     let saferContent = await fsPromises.readFile('./saferparty.json', 'utf-8');
     let saferpartySubstances = JSON.parse(saferContent);
@@ -93,7 +93,8 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Sertraline",
         "Zaleplon",
         "Salvia Divinorum",
-        "Banisteriopsis caapi"
+        "Banisteriopsis caapi",
+        "Peganum harmala"
     ].map(name => name.toLowerCase()));
 
     function isNameOk(substance) {
@@ -169,6 +170,7 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
                 name: name,
                 commonNames: onePsychonautWikiSubstance.commonNames,
                 url: onePsychonautWikiSubstance.url,
+                isApproved: onePsychonautWikiSubstance.isApproved,
                 tolerance: onePsychonautWikiSubstance.tolerance,
                 crossTolerances: onePsychonautWikiSubstance.crossTolerances,
                 addictionPotential: onePsychonautWikiSubstance.addictionPotential,
