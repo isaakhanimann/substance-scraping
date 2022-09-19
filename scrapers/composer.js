@@ -111,9 +111,9 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
                 }
             });
         }
-        replaceInteractionSSRI(substance?.dangerousInteractions ?? []);
-        replaceInteractionSSRI(substance?.unsafeInteractions ?? []);
-        replaceInteractionSSRI(substance?.uncertainInteractions ?? []);
+        replaceInteractions(substance?.dangerousInteractions ?? []);
+        replaceInteractions(substance?.unsafeInteractions ?? []);
+        replaceInteractions(substance?.uncertainInteractions ?? []);
     })
     return substances
 }
@@ -132,10 +132,13 @@ function cleanupTripsitSubstances(tripsitSubstances) {
     });
 }
 
-function replaceInteractionSSRI(array) {
+function replaceInteractions(array) {
     return array.map(element => {
         if (element.name === "Selective serotonin reuptake inhibitor") {
             element.name = "SSRIs"
+        }
+        if (element.name === "Serotonin") {
+            element.name = "Serotonin releasers"
         }
         return element
     });
