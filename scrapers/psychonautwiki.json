@@ -164,14 +164,24 @@
     },
     {
         "name": "1,4-Butanediol",
-        "commonNames": null,
+        "commonNames":
+        [
+            "1,4-Butanediol",
+            "1,4-B",
+            "BD",
+            "BDO",
+            "One Comma Four",
+            "One Four Bee",
+            "Butylene Glycol",
+            "One Four B-D-O"
+        ],
         "url": "https://psychonautwiki.org/wiki/1,4-Butanediol",
         "class":
         {
             "chemical":
             [
-                "Diol",
-                "Alkanediol"
+                "Alkanediol",
+                "Diol"
             ],
             "psychoactive":
             [
@@ -382,8 +392,8 @@
         "name": "1P-ETH-LAD",
         "commonNames":
         [
-            "1-Propionyl-6-ethyl-6-nor-lysergic acid diethyamide",
-            "1P-ETH-LAD"
+            "1P-ETH-LAD",
+            "1-Propionyl-6-ethyl-6-nor-lysergic acid diethyamide"
         ],
         "url": "https://psychonautwiki.org/wiki/1P-ETH-LAD",
         "class":
@@ -1156,7 +1166,10 @@
     },
     {
         "name": "2-Aminoindane",
-        "commonNames": null,
+        "commonNames":
+        [
+            "2-AI"
+        ],
         "url": "https://psychonautwiki.org/wiki/2-Aminoindane",
         "class":
         {
@@ -1252,20 +1265,17 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
         [
-            {
-                "name": "Stimulants"
-            },
             {
                 "name": "25x-NBOMe"
             },
@@ -1276,10 +1286,13 @@
                 "name": "Tramadol"
             },
             {
-                "name": "MDMA"
+                "name": "MAOI"
             },
             {
-                "name": "MAOI"
+                "name": "Stimulants"
+            },
+            {
+                "name": "MDMA"
             },
             {
                 "name": "Cocaine"
@@ -1297,7 +1310,7 @@
         {
             "chemical":
             [
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -1400,6 +1413,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -1410,9 +1426,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -1464,8 +1477,8 @@
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -1566,20 +1579,17 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
         [
-            {
-                "name": "Stimulants"
-            },
             {
                 "name": "25x-NBOMe"
             },
@@ -1590,10 +1600,13 @@
                 "name": "Tramadol"
             },
             {
-                "name": "MDMA"
+                "name": "MAOI"
             },
             {
-                "name": "MAOI"
+                "name": "Stimulants"
+            },
+            {
+                "name": "MDMA"
             },
             {
                 "name": "Cocaine"
@@ -1612,7 +1625,7 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -1784,6 +1797,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -1794,9 +1810,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -1835,7 +1848,13 @@
     },
     {
         "name": "2-Fluorodeschloroketamine",
-        "commonNames": null,
+        "commonNames":
+        [
+            "2-Fluoroketamine",
+            "Fluoroketamine",
+            "2-FK",
+            "2-FDCK"
+        ],
         "url": "https://psychonautwiki.org/wiki/2-Fluorodeschloroketamine",
         "class":
         {
@@ -2364,7 +2383,7 @@
         "dangerousInteractions":
         [
             {
-                "name": "Lithium]"
+                "name": "Lithium"
             }
         ]
     },
@@ -2611,6 +2630,9 @@
                 "name": "Substituted amphetamines"
             },
             {
+                "name": "ΑMT"
+            },
+            {
                 "name": "Cocaine"
             },
             {
@@ -2618,15 +2640,12 @@
             },
             {
                 "name": "Tramadol"
-            },
-            {
-                "name": "ΑMT"
             }
         ],
         "dangerousInteractions":
         [
             {
-                "name": "Lithium]"
+                "name": "Lithium"
             }
         ]
     },
@@ -2745,6 +2764,9 @@
                 "name": "Substituted amphetamines"
             },
             {
+                "name": "ΑMT"
+            },
+            {
                 "name": "Cocaine"
             },
             {
@@ -2752,15 +2774,12 @@
             },
             {
                 "name": "Tramadol"
-            },
-            {
-                "name": "ΑMT"
             }
         ],
         "dangerousInteractions":
         [
             {
-                "name": "Lithium]"
+                "name": "Lithium"
             }
         ]
     },
@@ -2869,7 +2888,7 @@
         "dangerousInteractions":
         [
             {
-                "name": "Lithium]"
+                "name": "Lithium"
             }
         ]
     },
@@ -3195,6 +3214,9 @@
                 "name": "Substituted amphetamines"
             },
             {
+                "name": "ΑMT"
+            },
+            {
                 "name": "Cocaine"
             },
             {
@@ -3202,15 +3224,12 @@
             },
             {
                 "name": "Tramadol"
-            },
-            {
-                "name": "ΑMT"
             }
         ],
         "dangerousInteractions":
         [
             {
-                "name": "Lithium]"
+                "name": "Lithium"
             }
         ]
     },
@@ -3342,6 +3361,9 @@
                 "name": "Substituted amphetamines"
             },
             {
+                "name": "ΑMT"
+            },
+            {
                 "name": "Cocaine"
             },
             {
@@ -3349,15 +3371,12 @@
             },
             {
                 "name": "Tramadol"
-            },
-            {
-                "name": "ΑMT"
             }
         ],
         "dangerousInteractions":
         [
             {
-                "name": "Lithium]"
+                "name": "Lithium"
             }
         ]
     },
@@ -3385,19 +3404,19 @@
         "dangerousInteractions":
         [
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -3468,7 +3487,10 @@
         "dangerousInteractions":
         [
             {
-                "name": "Lithium]"
+                "name": "SNRIs"
+            },
+            {
+                "name": "Lithium"
             },
             {
                 "name": "MAOI"
@@ -3477,13 +3499,10 @@
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -5291,13 +5310,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -5365,7 +5384,7 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -5473,6 +5492,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -5483,9 +5505,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -5538,8 +5557,8 @@
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -5708,6 +5727,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -5718,9 +5740,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -5769,12 +5788,12 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -5879,6 +5898,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -5889,9 +5911,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -5940,8 +5959,8 @@
         {
             "chemical":
             [
-                "Phenylmorpholine",
-                "Substituted amphetamines"
+                "Substituted amphetamine",
+                "Phenylmorpholine"
             ],
             "psychoactive":
             [
@@ -6070,13 +6089,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -6276,8 +6295,8 @@
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -6439,13 +6458,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -6460,19 +6479,19 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -7542,6 +7561,7 @@
         {
             "chemical":
             [
+                "Substituted amphetamine",
                 "Substituted amphetamines"
             ],
             "psychoactive":
@@ -8338,12 +8358,12 @@
         {
             "chemical":
             [
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -8444,6 +8464,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -8454,9 +8477,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -8504,12 +8524,12 @@
         {
             "chemical":
             [
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -8613,6 +8633,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -8623,9 +8646,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -9621,8 +9641,8 @@
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -9724,6 +9744,9 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -9731,9 +9754,6 @@
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -10200,13 +10220,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -10383,13 +10403,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -10419,13 +10439,13 @@
         {
             "chemical":
             [
-                "Substituted benzofurans",
-                "Substituted amphetamines"
+                "Substituted amphetamine",
+                "Substituted benzofurans"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -10526,13 +10546,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -10550,29 +10570,40 @@
                 "name": "MAOI"
             },
             {
-                "name": "Serotonin"
+                "name": "SNRIs"
             },
             {
-                "name": "5-Hydroxytryptophan"
+                "name": "Serotonin"
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
     {
         "name": "5-Hydroxytryptophan",
-        "commonNames": null,
+        "commonNames":
+        [
+            "5-HTP",
+            "Oxitriptan",
+            "Cincofarm",
+            "Levothym",
+            "Levotonine",
+            "Oxyfan",
+            "Telesol",
+            "Tript-OH",
+            "Triptum"
+        ],
         "url": "https://psychonautwiki.org/wiki/5-Hydroxytryptophan",
         "class":
         {
             "chemical":
             [
-                "Amino acid",
-                "Substituted tryptamines"
+                "Substituted tryptamines",
+                "Amino acid"
             ],
             "psychoactive":
             [
@@ -10620,6 +10651,9 @@
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Serotonin"
             },
             {
@@ -10644,8 +10678,8 @@
         {
             "chemical":
             [
-                "Substituted benzofurans",
-                "Substituted amphetamines"
+                "Substituted amphetamines",
+                "Substituted benzofurans"
             ],
             "psychoactive":
             [
@@ -10750,13 +10784,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -10774,16 +10808,16 @@
                 "name": "MAOI"
             },
             {
-                "name": "Serotonin"
+                "name": "SNRIs"
             },
             {
-                "name": "5-Hydroxytryptophan"
+                "name": "Serotonin"
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -11518,8 +11552,8 @@
             ],
             "psychoactive":
             [
-                "Psychedelics",
-                "Entactogens"
+                "Entactogens",
+                "Psychedelics"
             ]
         },
         "tolerance":
@@ -11727,8 +11761,8 @@
             ],
             "psychoactive":
             [
-                "Psychedelics",
-                "Entactogens"
+                "Entactogens",
+                "Psychedelics"
             ]
         },
         "tolerance":
@@ -11827,8 +11861,8 @@
         {
             "chemical":
             [
-                "Adamantanes",
-                "Indazolecarboxamide"
+                "Indazolecarboxamide",
+                "Adamantanes"
             ],
             "psychoactive":
             [
@@ -12021,7 +12055,7 @@
                 "dose":
                 {
                     "units": "mg",
-                    "threshold": null,
+                    "threshold": 1,
                     "light":
                     {
                         "min": 1,
@@ -12037,7 +12071,7 @@
                         "min": 5,
                         "max": 8
                     },
-                    "heavy": null
+                    "heavy": 8
                 },
                 "duration": null,
                 "bioavailability": null
@@ -12106,13 +12140,13 @@
         {
             "chemical":
             [
-                "Substituted benzofurans",
-                "Substituted amphetamines"
+                "Substituted amphetamine",
+                "Substituted benzofurans"
             ],
             "psychoactive":
             [
-                "Psychedelics",
-                "Entactogens"
+                "Entactogens",
+                "Psychedelics"
             ]
         },
         "tolerance":
@@ -12237,13 +12271,13 @@
                 "name": "MAOI"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Serotonin"
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -12261,14 +12295,14 @@
         {
             "chemical":
             [
+                "Substituted amphetamine",
                 "Substituted phenethylamines",
-                "Substituted benzofurans",
-                "Substituted amphetamines"
+                "Substituted benzofurans"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -12364,13 +12398,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -12388,16 +12422,16 @@
                 "name": "MAOI"
             },
             {
-                "name": "Serotonin"
+                "name": "SNRIs"
             },
             {
-                "name": "5-Hydroxytryptophan"
+                "name": "Serotonin"
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -12429,9 +12463,9 @@
         {
             "chemical":
             [
-                "Khat#1#",
+                "Substituted cathinones",
                 "Pyrrolidinophenone",
-                "Substituted cathinones"
+                "Khat#1#"
             ],
             "psychoactive":
             [
@@ -12649,13 +12683,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -12670,6 +12704,9 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -12677,9 +12714,6 @@
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -12704,9 +12738,9 @@
         {
             "chemical":
             [
-                "Khat#1#",
+                "Substituted cathinones",
                 "Pyrrolidinophenone",
-                "Substituted cathinones"
+                "Khat#1#"
             ],
             "psychoactive":
             [
@@ -12924,13 +12958,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -12945,19 +12979,19 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -13362,8 +13396,8 @@
         {
             "chemical":
             [
-                "Indole cannabinoid",
-                "Indolecarboxamide"
+                "Indolecarboxamide",
+                "Indole cannabinoid"
             ],
             "psychoactive":
             [
@@ -13596,19 +13630,7 @@
         "dangerousInteractions":
         [
             {
-                "name": "MAOI"
-            },
-            {
-                "name": "Serotonin"
-            },
-            {
-                "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
                 "name": "SNRIs"
-            },
-            {
-                "name": "5-Hydroxytryptophan"
             },
             {
                 "name": "Alcohol"
@@ -13639,6 +13661,18 @@
             },
             {
                 "name": "Grapefruit"
+            },
+            {
+                "name": "MAOI"
+            },
+            {
+                "name": "Serotonin"
+            },
+            {
+                "name": "Selective serotonin reuptake inhibitor"
+            },
+            {
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -13888,6 +13922,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -13898,12 +13938,6 @@
             },
             {
                 "name": "Tramadol"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -14310,7 +14344,11 @@
     },
     {
         "name": "Amanita muscaria",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Fly agaric",
+            "Fly amanita"
+        ],
         "url": "https://psychonautwiki.org/wiki/Amanita_muscaria",
         "class": null,
         "tolerance": null,
@@ -14683,6 +14721,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -14693,9 +14734,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -14749,7 +14787,12 @@
     },
     {
         "name": "Anadenanthera peregrina",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Yopo",
+            "Jopo",
+            "Cohoba"
+        ],
         "url": "https://psychonautwiki.org/wiki/Anadenanthera_peregrina",
         "class": null,
         "tolerance": null,
@@ -15015,13 +15058,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -15060,7 +15103,11 @@
     },
     {
         "name": "Atropa belladonna",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Belladonna",
+            "Deadly nightshade"
+        ],
         "url": "https://psychonautwiki.org/wiki/Atropa_belladonna",
         "class":
         {
@@ -15161,96 +15208,6 @@
         "dangerousInteractions": null
     },
     {
-        "name": "BOD",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/BOD",
-        "class":
-        {
-            "chemical":
-            [
-                "Substituted phenethylamines",
-                "BOx"
-            ],
-            "psychoactive":
-            [
-                "Psychedelics",
-                "Entactogens"
-            ]
-        },
-        "tolerance": null,
-        "roas":
-        [
-            {
-                "name": "oral",
-                "dose":
-                {
-                    "units": "mg",
-                    "threshold": 5,
-                    "light":
-                    {
-                        "min": 10,
-                        "max": 15
-                    },
-                    "common":
-                    {
-                        "min": 15,
-                        "max": 25
-                    },
-                    "strong":
-                    {
-                        "min": 25,
-                        "max": 35
-                    },
-                    "heavy": 35
-                },
-                "duration":
-                {
-                    "onset":
-                    {
-                        "min": 30,
-                        "max": 60,
-                        "units": "minutes"
-                    },
-                    "comeup": null,
-                    "peak": null,
-                    "offset": null,
-                    "total":
-                    {
-                        "min": 8,
-                        "max": 16,
-                        "units": "hours"
-                    },
-                    "afterglow": null
-                },
-                "bioavailability": null
-            }
-        ],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions":
-        [
-            {
-                "name": "Cannabis"
-            },
-            {
-                "name": "Stimulants"
-            }
-        ],
-        "unsafeInteractions":
-        [
-            {
-                "name": "Tramadol"
-            }
-        ],
-        "dangerousInteractions":
-        [
-            {
-                "name": "Lithium"
-            }
-        ]
-    },
-    {
         "name": "Baclofen",
         "commonNames":
         [
@@ -15347,6 +15304,12 @@
         "dangerousInteractions":
         [
             {
+                "name": "Dissociatives"
+            },
+            {
+                "name": "Stimulants"
+            },
+            {
                 "name": "1,4-Butanediol"
             },
             {
@@ -15377,7 +15340,12 @@
     },
     {
         "name": "Banisteriopsis caapi",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Ayahuasca",
+            "Caapi",
+            "Yagé"
+        ],
         "url": "https://psychonautwiki.org/wiki/Banisteriopsis_caapi",
         "class": null,
         "tolerance": null,
@@ -15641,8 +15609,9 @@
         {
             "chemical":
             [
-                "Substituted benzofurans",
-                "Substituted amphetamines"
+                "Substituted amphetamine",
+                "Substituted amphetamines",
+                "Substituted benzofurans"
             ],
             "psychoactive":
             [
@@ -15941,6 +15910,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -15951,12 +15926,6 @@
             },
             {
                 "name": "Grapefruit"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -15973,14 +15942,14 @@
         {
             "chemical":
             [
-                "Khat#1#",
                 "MDxx",
-                "Substituted cathinones"
+                "Substituted cathinones",
+                "Khat#1#"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -16076,13 +16045,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -16097,19 +16066,19 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -16816,6 +16785,9 @@
         "dangerousInteractions":
         [
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Stimulants"
             },
             {
@@ -16825,19 +16797,19 @@
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
     {
         "name": "Choline bitartrate",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Choline"
+        ],
         "url": "https://psychonautwiki.org/wiki/Choline_bitartrate",
         "class":
         {
@@ -17999,8 +17971,8 @@
         {
             "chemical":
             [
-                "4-oxazolidinone",
-                "Substituted aminorexes"
+                "Substituted aminorexes",
+                "4-oxazolidinone"
             ],
             "psychoactive":
             [
@@ -18085,13 +18057,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -18525,7 +18497,7 @@
         {
             "chemical":
             [
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -18647,7 +18619,7 @@
         {
             "chemical":
             [
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -18828,6 +18800,7 @@
         {
             "chemical":
             [
+                "Substituted amphetamine",
                 "Substituted amphetamines"
             ],
             "psychoactive":
@@ -18936,7 +18909,7 @@
         {
             "chemical":
             [
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -19877,13 +19850,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -20096,8 +20069,8 @@
         "commonNames":
         [
             "Dextropropoxyphene",
-            "Darvon",
-            "Propoxyphene"
+            "Propoxyphene",
+            "Darvon"
         ],
         "url": "https://psychonautwiki.org/wiki/Dextropropoxyphene",
         "class":
@@ -20199,6 +20172,9 @@
         "dangerousInteractions":
         [
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Alcohol"
             },
             {
@@ -20211,6 +20187,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -20220,28 +20202,19 @@
                 "name": "Tramadol"
             },
             {
+                "name": "Grapefruit"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
-                "name": "Grapefruit"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -20399,8 +20372,8 @@
         [
             "Valium",
             "Diastat",
-            "Apaurin",
-            "Mother's Little Helper"
+            "Mother's Little Helper",
+            "Apaurin"
         ],
         "url": "https://psychonautwiki.org/wiki/Diazepam",
         "class":
@@ -20866,7 +20839,15 @@
     },
     {
         "name": "Diphenhydramine",
-        "commonNames": null,
+        "commonNames":
+        [
+            "DPH",
+            "Benadryl",
+            "Nytol",
+            "Sominex",
+            "Unisom SleepMelts",
+            "ZzzQuil"
+        ],
         "url": "https://psychonautwiki.org/wiki/Diphenhydramine",
         "class":
         {
@@ -21532,13 +21513,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -21755,6 +21736,9 @@
         "dangerousInteractions":
         [
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -21762,9 +21746,6 @@
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -21983,8 +21964,8 @@
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -22066,13 +22047,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -22087,19 +22068,19 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -22357,6 +22338,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -22367,12 +22354,6 @@
             },
             {
                 "name": "Grapefruit"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -22486,13 +22467,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -22507,6 +22488,9 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -22514,9 +22498,6 @@
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -22664,13 +22645,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -22977,6 +22958,9 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -22986,157 +22970,9 @@
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
-            },
-            {
                 "name": "5-Hydroxytryptophan"
             }
         ]
-    },
-    {
-        "name": "Experience: I-Doser ('audio-drug') and meditation",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Experience:_I-Doser_(%27audio-drug%27)_and_meditation",
-        "class":
-        {
-            "chemical":
-            [
-                "Substituted tryptamines"
-            ],
-            "psychoactive":
-            [
-                "Psychedelics"
-            ]
-        },
-        "tolerance": null,
-        "roas":
-        [
-            {
-                "name": "oral",
-                "dose":
-                {
-                    "units": "mg",
-                    "threshold": null,
-                    "light": null,
-                    "common": null,
-                    "strong": null,
-                    "heavy": null
-                },
-                "duration":
-                {
-                    "onset":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "minutes"
-                    },
-                    "comeup":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "minutes"
-                    },
-                    "peak":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "hours"
-                    },
-                    "offset":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "hours"
-                    },
-                    "total":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "hours"
-                    },
-                    "afterglow":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "hours"
-                    }
-                },
-                "bioavailability": null
-            },
-            {
-                "name": "sublingual",
-                "dose":
-                {
-                    "units": "mg",
-                    "threshold": null,
-                    "light": null,
-                    "common": null,
-                    "strong": null,
-                    "heavy": null
-                },
-                "duration":
-                {
-                    "onset":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "minutes"
-                    },
-                    "comeup":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "minutes"
-                    },
-                    "peak":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "hours"
-                    },
-                    "offset":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "hours"
-                    },
-                    "total":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "hours"
-                    },
-                    "afterglow":
-                    {
-                        "min": null,
-                        "max": null,
-                        "units": "hours"
-                    }
-                },
-                "bioavailability": null
-            }
-        ],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
-    },
-    {
-        "name": "Experience:First time with kratom",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Experience:First_time_with_kratom",
-        "class": null,
-        "tolerance": null,
-        "roas":
-        [],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
     },
     {
         "name": "F-Phenibut",
@@ -23234,8 +23070,8 @@
         {
             "chemical":
             [
-                "Racetams",
-                "Substituted piperidines"
+                "Substituted piperidines",
+                "Racetams"
             ],
             "psychoactive":
             [
@@ -23307,8 +23143,8 @@
         {
             "chemical":
             [
-                "Substituted piperidines",
-                "Anilidopiperidine"
+                "Anilidopiperidine",
+                "Substituted piperidines"
             ],
             "psychoactive":
             [
@@ -23486,19 +23322,7 @@
         "dangerousInteractions":
         [
             {
-                "name": "MAOI"
-            },
-            {
-                "name": "Serotonin"
-            },
-            {
-                "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
                 "name": "SNRIs"
-            },
-            {
-                "name": "5-Hydroxytryptophan"
             },
             {
                 "name": "Alcohol"
@@ -23513,6 +23337,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -23525,10 +23355,16 @@
                 "name": "Grapefruit"
             },
             {
-                "name": "GHB"
+                "name": "MAOI"
             },
             {
-                "name": "GBL"
+                "name": "Serotonin"
+            },
+            {
+                "name": "Selective serotonin reuptake inhibitor"
+            },
+            {
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -24262,8 +24098,8 @@
         "addictionPotential": "moderately to highly physically and moderately psychologically addictive",
         "toxicity":
         [
-            "Doses above 10 grams are associated with a risk of death",
-            "considered to be a safe and non-toxic substance when used responsibly or medically"
+            "considered to be a safe and non-toxic substance when used responsibly or medically",
+            "Doses above 10 grams are associated with a risk of death"
         ],
         "crossTolerances": null,
         "uncertainInteractions":
@@ -24846,8 +24682,8 @@
         {
             "chemical":
             [
-                "Butyrophenone",
-                "Substituted piperidines"
+                "Substituted piperidines",
+                "Butyrophenone"
             ],
             "psychoactive":
             [
@@ -25397,6 +25233,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -25407,12 +25249,6 @@
             },
             {
                 "name": "Grapefruit"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -25565,6 +25401,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -25575,12 +25417,6 @@
             },
             {
                 "name": "Grapefruit"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -25725,6 +25561,203 @@
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
+    },
+    {
+        "name": "Isopropylphenidate",
+        "commonNames":
+        [
+            "Isopropylphenidate",
+            "IPH",
+            "IPPH"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Isopropylphenidate",
+        "class":
+        {
+            "chemical":
+            [
+                "Substituted phenidates"
+            ],
+            "psychoactive":
+            [
+                "Stimulants"
+            ]
+        },
+        "tolerance":
+        {
+            "full": "develops with prolonged and repeated use",
+            "half": "3 - 7 days",
+            "zero": "1 - 2 weeks"
+        },
+        "roas":
+        [
+            {
+                "name": "insufflated",
+                "dose":
+                {
+                    "units": "mg",
+                    "threshold": 2,
+                    "light":
+                    {
+                        "min": 5,
+                        "max": 10
+                    },
+                    "common":
+                    {
+                        "min": 10,
+                        "max": 20
+                    },
+                    "strong":
+                    {
+                        "min": 20,
+                        "max": 35
+                    },
+                    "heavy": 35
+                },
+                "duration":
+                {
+                    "onset":
+                    {
+                        "min": 2,
+                        "max": 5,
+                        "units": "minutes"
+                    },
+                    "comeup":
+                    {
+                        "min": 10,
+                        "max": 30,
+                        "units": "minutes"
+                    },
+                    "peak":
+                    {
+                        "min": 1,
+                        "max": 2,
+                        "units": "hours"
+                    },
+                    "offset":
+                    {
+                        "min": 1,
+                        "max": 1.5,
+                        "units": "hours"
+                    },
+                    "total":
+                    {
+                        "min": 2.5,
+                        "max": 4,
+                        "units": "hours"
+                    },
+                    "afterglow": null
+                },
+                "bioavailability": null
+            },
+            {
+                "name": "oral",
+                "dose":
+                {
+                    "units": "mg",
+                    "threshold": 2,
+                    "light":
+                    {
+                        "min": 5,
+                        "max": 15
+                    },
+                    "common":
+                    {
+                        "min": 15,
+                        "max": 25
+                    },
+                    "strong":
+                    {
+                        "min": 25,
+                        "max": 45
+                    },
+                    "heavy": 45
+                },
+                "duration":
+                {
+                    "onset":
+                    {
+                        "min": 10,
+                        "max": 30,
+                        "units": "minutes"
+                    },
+                    "comeup":
+                    {
+                        "min": 20,
+                        "max": 40,
+                        "units": "minutes"
+                    },
+                    "peak":
+                    {
+                        "min": 1.5,
+                        "max": 2.5,
+                        "units": "hours"
+                    },
+                    "offset":
+                    {
+                        "min": 1,
+                        "max": 2,
+                        "units": "hours"
+                    },
+                    "total":
+                    {
+                        "min": 3.5,
+                        "max": 6,
+                        "units": "hours"
+                    },
+                    "afterglow": null
+                },
+                "bioavailability": null
+            }
+        ],
+        "addictionPotential": "moderately addictive with a high potential for abuse",
+        "toxicity":
+        [
+            "exact toxic dosage is unknown"
+        ],
+        "crossTolerances":
+        [
+            "dopamine",
+            "stimulant"
+        ],
+        "uncertainInteractions":
+        [
+            {
+                "name": "Alcohol"
+            },
+            {
+                "name": "Methoxetamine"
+            },
+            {
+                "name": "Dissociatives"
+            }
+        ],
+        "unsafeInteractions":
+        [
+            {
+                "name": "Dextromethorphan"
+            },
+            {
+                "name": "MDMA"
+            },
+            {
+                "name": "Stimulants"
+            }
+        ],
+        "dangerousInteractions":
+        [
+            {
+                "name": "25x-NBOMe"
+            },
+            {
+                "name": "25x-NBOH"
+            },
+            {
+                "name": "Tramadol"
+            },
+            {
+                "name": "MAOI"
+            }
+        ]
     },
     {
         "name": "JWH-018",
@@ -25996,6 +26029,21 @@
         "dangerousInteractions": null
     },
     {
+        "name": "Kava",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Kava",
+        "class": null,
+        "tolerance": null,
+        "roas":
+        [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+    },
+    {
         "name": "Ketamine",
         "commonNames":
         [
@@ -26177,13 +26225,13 @@
                 "name": "MAOI"
             },
             {
-                "name": "Grapefruit"
-            },
-            {
                 "name": "Alcohol"
             },
             {
                 "name": "GHB"
+            },
+            {
+                "name": "GBL"
             },
             {
                 "name": "Opioids"
@@ -26192,7 +26240,7 @@
                 "name": "Trazodone"
             },
             {
-                "name": "GBL"
+                "name": "Grapefruit"
             }
         ],
         "unsafeInteractions": null,
@@ -26329,6 +26377,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -26339,12 +26393,6 @@
             },
             {
                 "name": "Grapefruit"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -26655,13 +26703,13 @@
                 "name": "Tramadol"
             },
             {
+                "name": "Deliriant"
+            },
+            {
                 "name": "Tricyclic antidepressants"
             },
             {
                 "name": "Ritonavir"
-            },
-            {
-                "name": "Deliriant"
             }
         ],
         "dangerousInteractions":
@@ -26909,7 +26957,7 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -27005,6 +27053,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -27015,9 +27066,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -27153,6 +27201,21 @@
         "dangerousInteractions": null
     },
     {
+        "name": "Lysergamides",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Lysergamides",
+        "class": null,
+        "tolerance": null,
+        "roas":
+        [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+    },
+    {
         "name": "MAOI",
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/MAOI",
@@ -27229,7 +27292,10 @@
     },
     {
         "name": "MCPP",
-        "commonNames": null,
+        "commonNames":
+        [
+            "mCPP"
+        ],
         "url": "https://psychonautwiki.org/wiki/MCPP",
         "class":
         {
@@ -27318,13 +27384,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -27342,19 +27408,19 @@
                 "name": "MAOI"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Cocaine"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -27376,9 +27442,9 @@
             ],
             "psychoactive":
             [
+                "Entactogens",
                 "Stimulants",
-                "Psychedelics",
-                "Entactogens"
+                "Psychedelics"
             ]
         },
         "tolerance":
@@ -27476,13 +27542,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -27497,19 +27563,166 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
+                "name": "Selective serotonin reuptake inhibitor"
+            },
+            {
                 "name": "5-Hydroxytryptophan"
+            }
+        ]
+    },
+    {
+        "name": "MDAI",
+        "commonNames":
+        [
+            "MDAI"
+        ],
+        "url": "https://psychonautwiki.org/wiki/MDAI",
+        "class":
+        {
+            "chemical":
+            [
+                "Aminoindane"
+            ],
+            "psychoactive":
+            [
+                "Entactogens"
+            ]
+        },
+        "tolerance":
+        {
+            "full": "develops with prolonged and repeated use",
+            "half": "3 - 7 days",
+            "zero": "1 - 2 weeks"
+        },
+        "roas":
+        [
+            {
+                "name": "oral",
+                "dose":
+                {
+                    "units": "mg",
+                    "threshold": 40,
+                    "light":
+                    {
+                        "min": 40,
+                        "max": 100
+                    },
+                    "common":
+                    {
+                        "min": 100,
+                        "max": 175
+                    },
+                    "strong":
+                    {
+                        "min": 175,
+                        "max": 300
+                    },
+                    "heavy": 300
+                },
+                "duration":
+                {
+                    "onset":
+                    {
+                        "min": 20,
+                        "max": 40,
+                        "units": "minutes"
+                    },
+                    "comeup":
+                    {
+                        "min": 30,
+                        "max": 60,
+                        "units": "minutes"
+                    },
+                    "peak":
+                    {
+                        "min": 2,
+                        "max": 2.5,
+                        "units": "hours"
+                    },
+                    "offset":
+                    {
+                        "min": 1,
+                        "max": 2,
+                        "units": "hours"
+                    },
+                    "total":
+                    {
+                        "min": null,
+                        "max": null,
+                        "units": "hours"
+                    },
+                    "afterglow": null
+                },
+                "bioavailability": null
+            }
+        ],
+        "addictionPotential": "somewhat habit-forming with a low potential for abuse",
+        "toxicity":
+        [
+            "exact toxic dosage is unknown"
+        ],
+        "crossTolerances":
+        [
+            "entactogens"
+        ],
+        "uncertainInteractions":
+        [
+            {
+                "name": "Alcohol"
+            },
+            {
+                "name": "Methoxetamine"
+            },
+            {
+                "name": "Dissociatives"
+            }
+        ],
+        "unsafeInteractions":
+        [
+            {
+                "name": "Dextromethorphan"
+            },
+            {
+                "name": "MDMA"
+            },
+            {
+                "name": "Stimulants"
+            }
+        ],
+        "dangerousInteractions":
+        [
+            {
+                "name": "25x-NBOMe"
+            },
+            {
+                "name": "25x-NBOH"
+            },
+            {
+                "name": "Tramadol"
+            },
+            {
+                "name": "SNRIs"
+            },
+            {
+                "name": "MAOI"
+            },
+            {
+                "name": "Serotonin"
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -27527,8 +27740,8 @@
             "chemical":
             [
                 "Amphetamine",
-                "MDxx",
-                "Substituted amphetamines"
+                "Substituted amphetamine",
+                "MDxx"
             ],
             "psychoactive":
             [
@@ -27634,13 +27847,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -27658,6 +27871,9 @@
                 "name": "MAOI"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Stimulants"
             },
             {
@@ -27667,13 +27883,10 @@
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -27699,13 +27912,13 @@
             "chemical":
             [
                 "Amphetamine",
-                "MDxx",
-                "Substituted amphetamines"
+                "Substituted amphetamine",
+                "MDxx"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -27828,6 +28041,12 @@
                 "name": "PCP"
             },
             {
+                "name": "Selective serotonin reuptake inhibitor"
+            },
+            {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Serotonin"
             },
             {
@@ -27835,12 +28054,6 @@
             },
             {
                 "name": "5-Hydroxytryptophan"
-            },
-            {
-                "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             }
         ],
         "dangerousInteractions":
@@ -27870,13 +28083,13 @@
             "chemical":
             [
                 "MDxx",
-                "Pyrrolidinophenone",
-                "Substituted cathinones"
+                "Substituted cathinones",
+                "Pyrrolidinophenone"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance": null,
@@ -27960,13 +28173,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -28218,8 +28431,8 @@
             ],
             "psychoactive":
             [
-                "Psychedelics",
-                "Entactogens"
+                "Entactogens",
+                "Psychedelics"
             ]
         },
         "tolerance":
@@ -28320,22 +28533,22 @@
                 "name": "MAOI"
             },
             {
-                "name": "Serotonin"
-            },
-            {
-                "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
                 "name": "SNRIs"
-            },
-            {
-                "name": "5-Hydroxytryptophan"
             },
             {
                 "name": "Stimulants"
             },
             {
                 "name": "Cocaine"
+            },
+            {
+                "name": "Serotonin"
+            },
+            {
+                "name": "Selective serotonin reuptake inhibitor"
+            },
+            {
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -28667,7 +28880,10 @@
     },
     {
         "name": "Mandragora",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Mandrake"
+        ],
         "url": "https://psychonautwiki.org/wiki/Mandragora",
         "class": null,
         "tolerance": null,
@@ -29018,13 +29234,13 @@
         {
             "chemical":
             [
-                "Khat#1#",
-                "Substituted cathinones"
+                "Substituted cathinones",
+                "Khat#1#"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -29189,13 +29405,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -29210,6 +29426,9 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -29217,9 +29436,6 @@
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -29253,8 +29469,7 @@
             "Peyote",
             "San Pedro",
             "Cactus",
-            "Buttons",
-            "Devil's Weed"
+            "Buttons"
         ],
         "url": "https://psychonautwiki.org/wiki/Mescaline",
         "class":
@@ -29386,7 +29601,8 @@
         "commonNames":
         [
             "Methadone",
-            "Dolophine"
+            "Dolophine",
+            "Methadose"
         ],
         "url": "https://psychonautwiki.org/wiki/Methadone",
         "class":
@@ -29487,6 +29703,9 @@
         "dangerousInteractions":
         [
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Alcohol"
             },
             {
@@ -29499,6 +29718,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -29508,28 +29733,19 @@
                 "name": "Tramadol"
             },
             {
+                "name": "Grapefruit"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
-                "name": "Grapefruit"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -29649,7 +29865,8 @@
             "Glass",
             "Shard",
             "Tina",
-            "Crank"
+            "Crank",
+            "Desoxyn"
         ],
         "url": "https://psychonautwiki.org/wiki/Methamphetamine",
         "class":
@@ -29657,7 +29874,7 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -30018,6 +30235,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -30028,9 +30248,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -30225,13 +30442,13 @@
         {
             "chemical":
             [
-                "Khat#1#",
-                "Substituted cathinones"
+                "Substituted cathinones",
+                "Khat#1#"
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance": null,
@@ -30408,13 +30625,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -30908,13 +31125,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -30957,8 +31174,8 @@
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -31059,13 +31276,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -31080,19 +31297,19 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -31268,13 +31485,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -31476,13 +31693,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -31497,19 +31714,19 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
                 "name": "Serotonin"
             },
             {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -31956,13 +32173,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -32007,10 +32224,11 @@
         "commonNames":
         [
             "Morphine",
-            "MSContin",
+            "MS-Contin",
             "Oramorph",
             "Zomorph",
-            "Sevredol"
+            "Sevredol",
+            "Duramorph"
         ],
         "url": "https://psychonautwiki.org/wiki/Morphine",
         "class":
@@ -32517,13 +32735,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -32635,13 +32853,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -32657,89 +32875,6 @@
             },
             {
                 "name": "MAOI"
-            }
-        ]
-    },
-    {
-        "name": "NBx",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/NBx",
-        "class": null,
-        "tolerance":
-        {
-            "full": null,
-            "half": "1 week",
-            "zero": "2 weeks"
-        },
-        "roas":
-        [],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions":
-        [
-            {
-                "name": "2C-T-X"
-            },
-            {
-                "name": "5-MeO-xxt"
-            },
-            {
-                "name": "Caffeine"
-            },
-            {
-                "name": "Cannabis"
-            },
-            {
-                "name": "DOx"
-            },
-            {
-                "name": "MAOI"
-            },
-            {
-                "name": "MDMA"
-            },
-            {
-                "name": "Methoxetamine"
-            }
-        ],
-        "unsafeInteractions":
-        [
-            {
-                "name": "Substituted amphetamines"
-            },
-            {
-                "name": "ΑMT"
-            },
-            {
-                "name": "Cocaine"
-            },
-            {
-                "name": "Dextromethorphan"
-            },
-            {
-                "name": "Tramadol"
-            }
-        ],
-        "dangerousInteractions":
-        [
-            {
-                "name": "MAOI"
-            },
-            {
-                "name": "Serotonin"
-            },
-            {
-                "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
-            },
-            {
-                "name": "5-Hydroxytryptophan"
-            },
-            {
-                "name": "Lithium]"
             }
         ]
     },
@@ -32914,13 +33049,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -32938,13 +33073,13 @@
                 "name": "MAOI"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "Serotonin"
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -33045,13 +33180,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -33133,13 +33268,13 @@
                 "name": "intramuscular",
                 "dose":
                 {
-                    "units": "Mg#",
+                    "units": "mg",
                     "threshold": null,
                     "light": null,
                     "common":
                     {
-                        "min": null,
-                        "max": null
+                        "min": 0.4,
+                        "max": 2
                     },
                     "strong": null,
                     "heavy": null
@@ -33148,18 +33283,18 @@
                 {
                     "onset":
                     {
-                        "min": null,
-                        "max": null,
-                        "units": "Minutes#"
+                        "min": 0.25,
+                        "max": 2,
+                        "units": "minutes"
                     },
                     "comeup": null,
                     "peak": null,
                     "offset": null,
                     "total":
                     {
-                        "min": null,
-                        "max": null,
-                        "units": "Minutes#"
+                        "min": 30,
+                        "max": 60,
+                        "units": "minutes"
                     },
                     "afterglow": null
                 },
@@ -33461,14 +33596,14 @@
         "name": "Nitrous",
         "commonNames":
         [
-            "NOS",
-            "N2O",
-            "Nangs",
             "Nitrous Oxide",
             "Laughing Gas",
             "Nitrous",
             "Hippy Crack",
-            "Nitro"
+            "NOS",
+            "Nitro",
+            "N2O",
+            "Nangs"
         ],
         "url": "https://psychonautwiki.org/wiki/Nitrous",
         "class":
@@ -33769,13 +33904,7 @@
         "dangerousInteractions":
         [
             {
-                "name": "MAOI"
-            },
-            {
-                "name": "Serotonin"
-            },
-            {
-                "name": "5-Hydroxytryptophan"
+                "name": "SNRIs"
             },
             {
                 "name": "Alcohol"
@@ -33790,6 +33919,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -33802,16 +33937,16 @@
                 "name": "Grapefruit"
             },
             {
+                "name": "MAOI"
+            },
+            {
+                "name": "Serotonin"
+            },
+            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -34420,6 +34555,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -34430,12 +34571,6 @@
             },
             {
                 "name": "Grapefruit"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -34542,6 +34677,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -34552,12 +34693,6 @@
             },
             {
                 "name": "Grapefruit"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -35203,7 +35338,7 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -35262,6 +35397,9 @@
                 "name": "Cocaine"
             },
             {
+                "name": "Cannabis"
+            },
+            {
                 "name": "Caffeine"
             },
             {
@@ -35272,9 +35410,6 @@
             },
             {
                 "name": "Psychedelics"
-            },
-            {
-                "name": "Cannabis"
             }
         ],
         "unsafeInteractions":
@@ -35323,7 +35458,7 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -35603,7 +35738,12 @@
     },
     {
         "name": "Peganum harmala",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Espand",
+            "Esfand",
+            "Syrian rue"
+        ],
         "url": "https://psychonautwiki.org/wiki/Peganum_harmala",
         "class": null,
         "tolerance": null,
@@ -35787,13 +35927,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -35924,8 +36064,8 @@
             ],
             "psychoactive":
             [
-                "Stimulants",
-                "Entactogens"
+                "Entactogens",
+                "Stimulants"
             ]
         },
         "tolerance":
@@ -36028,6 +36168,9 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -36035,9 +36178,6 @@
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -36153,13 +36293,7 @@
         "dangerousInteractions":
         [
             {
-                "name": "MAOI"
-            },
-            {
-                "name": "Serotonin"
-            },
-            {
-                "name": "5-Hydroxytryptophan"
+                "name": "SNRIs"
             },
             {
                 "name": "Alcohol"
@@ -36174,6 +36308,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -36186,16 +36326,16 @@
                 "name": "Grapefruit"
             },
             {
+                "name": "MAOI"
+            },
+            {
+                "name": "Serotonin"
+            },
+            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -36536,8 +36676,8 @@
         "commonNames":
         [
             "Phenobarbital",
-            "Luminal",
             "Phenobarbitone",
+            "Luminal",
             "Phenobarb"
         ],
         "url": "https://psychonautwiki.org/wiki/Phenobarbital",
@@ -37199,7 +37339,7 @@
                 "name": "oral",
                 "dose":
                 {
-                    "units": null,
+                    "units": "mg",
                     "threshold": 2,
                     "light":
                     {
@@ -37259,8 +37399,8 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted pyrrolidines",
-                "Substituted amphetamines"
+                "Substituted amphetamine",
+                "Substituted pyrrolidines"
             ],
             "psychoactive":
             [
@@ -37353,13 +37493,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -37380,7 +37520,11 @@
     },
     {
         "name": "Promethazine",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Phenergan",
+            "Lergigan"
+        ],
         "url": "https://psychonautwiki.org/wiki/Promethazine",
         "class":
         {
@@ -37481,6 +37625,7 @@
         {
             "chemical":
             [
+                "(2)cycloalkylamine",
                 "Cycloalkylamines"
             ],
             "psychoactive":
@@ -37583,13 +37728,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -37797,7 +37942,15 @@
     },
     {
         "name": "Psilocin",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Psilocin",
+            "Psilocine",
+            "Psilocyn",
+            "Psilotsin",
+            "4-HO-DMT",
+            "4-OH-DMT"
+        ],
         "url": "https://psychonautwiki.org/wiki/Psilocin",
         "class":
         {
@@ -37898,7 +38051,11 @@
     },
     {
         "name": "Psilocybe cubensis",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Shrooms",
+            "Magic mushroom"
+        ],
         "url": "https://psychonautwiki.org/wiki/Psilocybe_cubensis",
         "class": null,
         "tolerance": null,
@@ -37913,7 +38070,14 @@
     },
     {
         "name": "Psilocybin mushrooms",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Psilocybin",
+            "Psilocybin mushrooms",
+            "Magic Mushrooms",
+            "Shrooms",
+            "4-PO-DMT"
+        ],
         "url": "https://psychonautwiki.org/wiki/Psilocybin_mushrooms",
         "class":
         {
@@ -37938,38 +38102,38 @@
                 "name": "oral",
                 "dose":
                 {
-                    "units": null,
-                    "threshold": null,
+                    "units": "mg",
+                    "threshold": 0.25,
                     "light":
                     {
-                        "min": null,
-                        "max": null
+                        "min": 0.25,
+                        "max": 1
                     },
                     "common":
                     {
-                        "min": null,
-                        "max": null
+                        "min": 1,
+                        "max": 2.5
                     },
                     "strong":
                     {
-                        "min": null,
-                        "max": null
+                        "min": 2.5,
+                        "max": 5
                     },
-                    "heavy": null
+                    "heavy": 5
                 },
                 "duration":
                 {
                     "onset":
                     {
-                        "min": 20,
-                        "max": 45,
+                        "min": 15,
+                        "max": 60,
                         "units": "minutes"
                     },
                     "comeup":
                     {
-                        "min": 1.5,
-                        "max": 3,
-                        "units": "hours"
+                        "min": 15,
+                        "max": 30,
+                        "units": "minutes"
                     },
                     "peak":
                     {
@@ -37986,7 +38150,7 @@
                     "total":
                     {
                         "min": 4,
-                        "max": 6,
+                        "max": 7,
                         "units": "hours"
                     },
                     "afterglow":
@@ -38011,10 +38175,10 @@
         "uncertainInteractions":
         [
             {
-                "name": "Substituted amphetamines"
+                "name": "Cannabis"
             },
             {
-                "name": "Cannabis"
+                "name": "Substituted amphetamines"
             },
             {
                 "name": "Cocaine"
@@ -38451,8 +38615,8 @@
         "name": "SAM-e",
         "commonNames":
         [
-            "SAM-e",
             "S-Adenosyl Methionine",
+            "SAM-e",
             "Methylguanidoacetic Acid"
         ],
         "url": "https://psychonautwiki.org/wiki/SAM-e",
@@ -38528,8 +38692,8 @@
         {
             "chemical":
             [
-                "Adamantanes",
-                "Indolecarboxamide"
+                "Indolecarboxamide",
+                "Adamantanes"
             ],
             "psychoactive":
             [
@@ -38662,7 +38826,15 @@
     },
     {
         "name": "Salvia divinorum",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Salvia",
+            "Sage of the Diviners",
+            "ska maría pastora",
+            "seer's sage",
+            "yerba de la pastora",
+            "Sally"
+        ],
         "url": "https://psychonautwiki.org/wiki/Salvia_divinorum",
         "class": null,
         "tolerance": null,
@@ -38677,14 +38849,22 @@
     },
     {
         "name": "Salvinorin A",
-        "commonNames": null,
+        "commonNames":
+        [
+            "Salvia",
+            "Salvia divinorum",
+            "Diviner's Sage",
+            "Ska María Pastora",
+            "Seer's Sage",
+            "Sally"
+        ],
         "url": "https://psychonautwiki.org/wiki/Salvinorin_A",
         "class":
         {
             "chemical":
             [
-                "Terpenoid",
-                "Salvinorin"
+                "Salvinorin",
+                "Terpenoid"
             ],
             "psychoactive":
             [
@@ -38796,8 +38976,8 @@
         "commonNames":
         [
             "Secobarbital",
-            "Seconal",
-            "Secobarbitone"
+            "Secobarbitone",
+            "Seconal"
         ],
         "url": "https://psychonautwiki.org/wiki/Secobarbital",
         "class":
@@ -38982,7 +39162,7 @@
                 "name": "oral",
                 "dose":
                 {
-                    "units": "0.25",
+                    "units": "mg",
                     "threshold": 0.25,
                     "light":
                     {
@@ -38997,7 +39177,7 @@
                     "strong":
                     {
                         "min": 1.5,
-                        "max": 1.5
+                        "max": 2
                     },
                     "heavy": 2
                 },
@@ -39171,12 +39351,7 @@
                 "Opioids"
             ]
         },
-        "tolerance":
-        {
-            "full": "develops with prolonged and repeated use",
-            "half": null,
-            "zero": null
-        },
+        "tolerance": null,
         "roas":
         [
             {
@@ -39224,17 +39399,9 @@
                 "bioavailability": null
             }
         ],
-        "addictionPotential": "extremely addictive with a high potential for abuse",
-        "toxicity":
-        [
-            "potentially fatal at heavy dosages",
-            "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
-            "unintentionally spilling a very small amount of sufentanil on one's skin could result in a fatal overdose."
-        ],
-        "crossTolerances":
-        [
-            "opioids"
-        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
         "uncertainInteractions":
         [
             {
@@ -39254,13 +39421,7 @@
         "dangerousInteractions":
         [
             {
-                "name": "MAOI"
-            },
-            {
-                "name": "Serotonin"
-            },
-            {
-                "name": "5-Hydroxytryptophan"
+                "name": "SNRIs"
             },
             {
                 "name": "Alcohol"
@@ -39275,6 +39436,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -39287,16 +39454,16 @@
                 "name": "Grapefruit"
             },
             {
+                "name": "MAOI"
+            },
+            {
+                "name": "Serotonin"
+            },
+            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -39845,7 +40012,7 @@
         {
             "chemical":
             [
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -39951,7 +40118,7 @@
             "chemical":
             [
                 "Amphetamine",
-                "Substituted amphetamines"
+                "Substituted amphetamine"
             ],
             "psychoactive":
             [
@@ -40046,6 +40213,9 @@
         "dangerousInteractions":
         [
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -40053,9 +40223,6 @@
             },
             {
                 "name": "Selective serotonin reuptake inhibitor"
-            },
-            {
-                "name": "SNRIs"
             },
             {
                 "name": "5-Hydroxytryptophan"
@@ -40186,13 +40353,7 @@
         "dangerousInteractions":
         [
             {
-                "name": "MAOI"
-            },
-            {
-                "name": "Serotonin"
-            },
-            {
-                "name": "5-Hydroxytryptophan"
+                "name": "SNRIs"
             },
             {
                 "name": "Alcohol"
@@ -40207,6 +40368,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -40219,16 +40386,16 @@
                 "name": "Grapefruit"
             },
             {
+                "name": "MAOI"
+            },
+            {
+                "name": "Serotonin"
+            },
+            {
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
+                "name": "5-Hydroxytryptophan"
             }
         ]
     },
@@ -40332,8 +40499,8 @@
         {
             "chemical":
             [
-                "4-oxazolidinone",
-                "Substituted aminorexes"
+                "Substituted aminorexes",
+                "4-oxazolidinone"
             ],
             "psychoactive":
             [
@@ -40921,9 +41088,6 @@
         "uncertainInteractions":
         [
             {
-                "name": "Nitrous"
-            },
-            {
                 "name": "Benzodiazepines"
             },
             {
@@ -40931,6 +41095,9 @@
             },
             {
                 "name": "Alcohol"
+            },
+            {
+                "name": "Nitrous"
             }
         ],
         "unsafeInteractions":
@@ -40942,22 +41109,13 @@
         "dangerousInteractions":
         [
             {
-                "name": "MAOI"
-            },
-            {
-                "name": "MDMA"
-            },
-            {
-                "name": "ΑMT"
-            },
-            {
-                "name": "Dextromethorphan"
+                "name": "Substituted amphetamines"
             },
             {
                 "name": "Cocaine"
             },
             {
-                "name": "Grapefruit"
+                "name": "Dextromethorphan"
             },
             {
                 "name": "GHB"
@@ -40966,7 +41124,16 @@
                 "name": "GBL"
             },
             {
-                "name": "Substituted amphetamines"
+                "name": "MAOI"
+            },
+            {
+                "name": "Grapefruit"
+            },
+            {
+                "name": "MDMA"
+            },
+            {
+                "name": "ΑMT"
             }
         ]
     },
@@ -41238,8 +41405,8 @@
         {
             "chemical":
             [
-                "Amino acid",
-                "Substituted phenethylamines"
+                "Substituted phenethylamines",
+                "Amino acid"
             ],
             "psychoactive":
             [
@@ -41333,13 +41500,13 @@
         "unsafeInteractions":
         [
             {
+                "name": "Dextromethorphan"
+            },
+            {
                 "name": "MDMA"
             },
             {
                 "name": "Stimulants"
-            },
-            {
-                "name": "Dextromethorphan"
             }
         ],
         "dangerousInteractions":
@@ -41485,6 +41652,12 @@
                 "name": "Dextromethorphan"
             },
             {
+                "name": "GHB"
+            },
+            {
+                "name": "GBL"
+            },
+            {
                 "name": "Ketamine"
             },
             {
@@ -41495,12 +41668,6 @@
             },
             {
                 "name": "Grapefruit"
-            },
-            {
-                "name": "GHB"
-            },
-            {
-                "name": "GBL"
             }
         ]
     },
@@ -41836,9 +42003,9 @@
         {
             "chemical":
             [
-                "Khat#1#",
+                "Substituted tryptamines",
                 "Pyrrolidinophenone",
-                "Substituted tryptamines"
+                "Khat#1#"
             ],
             "psychoactive":
             [
@@ -42005,6 +42172,9 @@
                 "name": "Tramadol"
             },
             {
+                "name": "SNRIs"
+            },
+            {
                 "name": "MAOI"
             },
             {
@@ -42014,16 +42184,18 @@
                 "name": "Selective serotonin reuptake inhibitor"
             },
             {
-                "name": "SNRIs"
-            },
-            {
                 "name": "5-Hydroxytryptophan"
             }
         ]
     },
     {
         "name": "ΑMT",
-        "commonNames": null,
+        "commonNames":
+        [
+            "AMT",
+            "αMT",
+            "Indopan"
+        ],
         "url": "https://psychonautwiki.org/wiki/%CE%91MT",
         "class":
         {
@@ -42033,8 +42205,8 @@
             ],
             "psychoactive":
             [
-                "Psychedelics",
-                "Entactogens"
+                "Entactogens",
+                "Psychedelics"
             ]
         },
         "tolerance":
@@ -42173,7 +42345,12 @@
     },
     {
         "name": "Βk-2C-B",
-        "commonNames": null,
+        "commonNames":
+        [
+            "βk-2C-B",
+            "beta-keto 2C-B",
+            "bk-2C-B"
+        ],
         "url": "https://psychonautwiki.org/wiki/%CE%92k-2C-B",
         "class":
         {
