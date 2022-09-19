@@ -92,7 +92,8 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Eugeroics",
         "Sertraline",
         "Zaleplon",
-        "Salvia Divinorum"
+        "Salvia Divinorum",
+        "Banisteriopsis caapi"
     ].map(name => name.toLowerCase()));
 
     function isNameOk(substance) {
