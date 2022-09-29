@@ -12956,7 +12956,8 @@
     "categories": [
       "opioid",
       "habit-forming",
-      "depressant"
+      "depressant",
+      "common"
     ],
     "interactions": {
       "dangerousInteractions": [
