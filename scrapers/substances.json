@@ -20483,7 +20483,10 @@
             },
             "afterglow": null
           },
-          "bioavailability": null
+          "bioavailability": {
+            "min": 27,
+            "max": 60
+          }
         }
       ]
     },
@@ -22072,7 +22075,10 @@
               "units": "hours"
             }
           },
-          "bioavailability": null
+          "bioavailability": {
+            "min": null,
+            "max": 45
+          }
         },
         {
           "name": "oral",
@@ -22121,7 +22127,19 @@
               "units": "hours"
             }
           },
-          "bioavailability": null
+          "bioavailability": {
+            "min": null,
+            "max": 17
+          }
+        },
+        {
+          "name": "sublingual",
+          "dose": null,
+          "duration": null,
+          "bioavailability": {
+            "min": 20,
+            "max": 29
+          }
         }
       ]
     },
@@ -29005,6 +29023,23 @@
       ]
     },
     {
+      "name": "Oroxylin A",
+      "commonNames": null,
+      "url": "https://psychonautwiki.org/wiki/Oroxylin_A",
+      "isApproved": false,
+      "tolerance": null,
+      "crossTolerances": null,
+      "addictionPotential": null,
+      "toxicities": null,
+      "categories": [],
+      "interactions": {
+        "dangerous": null,
+        "unsafe": null,
+        "uncertain": null
+      },
+      "roas": []
+    },
+    {
       "name": "Orphenadrine",
       "commonNames": null,
       "url": "https://psychonautwiki.org/wiki/Orphenadrine",
@@ -31460,7 +31495,7 @@
             "units": "mg",
             "threshold": 50,
             "light": {
-              "min": 75,
+              "min": 50,
               "max": 225
             },
             "common": {
@@ -31475,11 +31510,15 @@
           },
           "duration": {
             "onset": {
-              "min": 40,
-              "max": 120,
+              "min": 30,
+              "max": 45,
               "units": "minutes"
             },
-            "comeup": null,
+            "comeup": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
             "peak": {
               "min": 4,
               "max": 6,
@@ -31491,8 +31530,8 @@
               "units": "hours"
             },
             "total": {
-              "min": 8,
-              "max": 14,
+              "min": 9,
+              "max": 17,
               "units": "hours"
             },
             "afterglow": {
@@ -31501,7 +31540,10 @@
               "units": "hours"
             }
           },
-          "bioavailability": null
+          "bioavailability": {
+            "min": null,
+            "max": 90
+          }
         },
         {
           "name": "rectal",
@@ -34599,7 +34641,8 @@
       "name": "Tyrosine",
       "commonNames": [
         "Tyrosine",
-        "L-Tyrosine or 4-hydroxyphenylalanine"
+        "L-Tyrosine",
+        "4-Hydroxyphenylalanine"
       ],
       "url": "https://psychonautwiki.org/wiki/Tyrosine",
       "isApproved": true,

@@ -3,13 +3,15 @@ const fs = require("fs");
 const assert = require("assert");
 
 (async () => {
-    let psychContent = await fsPromises.readFile('./psychonautwikiapproved.json', 'utf-8');
-    let psychonautWikiSubstances = cleanupPsychonautWikiSubstances(JSON.parse(psychContent));
+    let psychonautWikiContent = await fsPromises.readFile('./psychonautwiki.json', 'utf-8');
+    let psychonautWikiSubstances = cleanupPsychonautWikiSubstances(JSON.parse(psychonautWikiContent)['data']['substances']);
+    let approvedContent = await fsPromises.readFile('./approved.json', 'utf-8');
+    let approvedSubstances = JSON.parse(approvedContent);
     let saferContent = await fsPromises.readFile('./saferparty.json', 'utf-8');
     let saferpartySubstances = JSON.parse(saferContent);
     let tripsitContent = await fsPromises.readFile('./tripsit.json', 'utf-8');
     let tripsitSubstances = cleanupTripsitSubstances(JSON.parse(tripsitContent));
-    let finalSubstances = getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances);
+    let finalSubstances = getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances, approvedSubstances);
     let categoriesContent = await fsPromises.readFile('./categories.json', 'utf-8');
     let categories = JSON.parse(categoriesContent);
     let inferredCategoryNames = getAllCategoriesOfSubstances(finalSubstances);
@@ -145,7 +147,7 @@ function replaceInteractions(array) {
     });
 }
 
-function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances) {
+function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances, approvedSubstances) {
     let unusedSaferpartyNames = new Set(saferpartySubstances.map(sub => sub.name));
     let unusedTripsitNames = new Set(tripsitSubstances.map(sub => sub.name));
     let psychonautWikiSubstancesWithoutMatch = new Set();
@@ -153,6 +155,7 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
             let name = onePsychonautWikiSubstance.name;
             let saferpartyOptional = saferpartySubstances.find(safer => safer.name === name);
             let tripsitOptional = tripsitSubstances.find(tripsit => tripsit.name === name);
+            let approvedOptional = approvedSubstances.find(approved => approved.name === name);
             if (saferpartyOptional !== undefined) {
                 unusedSaferpartyNames.delete(name);
             }
@@ -170,7 +173,7 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
                 name: name,
                 commonNames: onePsychonautWikiSubstance.commonNames,
                 url: onePsychonautWikiSubstance.url,
-                isApproved: onePsychonautWikiSubstance.isApproved,
+                isApproved: approvedOptional?.isApproved ?? false,
                 tolerance: onePsychonautWikiSubstance.tolerance,
                 crossTolerances: onePsychonautWikiSubstance.crossTolerances,
                 addictionPotential: onePsychonautWikiSubstance.addictionPotential,
@@ -214,17 +217,17 @@ function getAllCategoriesOfSubstances(allSubstances) {
     return Array.from(allCategories);
 }
 
-function saveInFile(substances) {
+function saveInFile(fileOutput) {
     const fileName = "substances.json"
     fs.writeFile(
         fileName,
-        JSON.stringify(substances, null, 2),
+        JSON.stringify(fileOutput, null, 2),
         'utf8',
         function (err) {
             if (err) {
                 return console.log(err);
             }
-            console.log(`${substances.length} substances been saved successfully! View them at './${fileName}'`);
+            console.log(`${fileOutput.substances.length} substances been saved successfully! View them at './${fileName}'`);
         }
     );
 }

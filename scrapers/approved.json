@@ -1,0 +1,1582 @@
+[
+  {
+    "name": "1,3-DMAA",
+    "isApproved": false
+  },
+  {
+    "name": "1,3-dimethylbutylamine",
+    "isApproved": false
+  },
+  {
+    "name": "1,4-Butanediol",
+    "isApproved": true
+  },
+  {
+    "name": "1B-LSD",
+    "isApproved": true
+  },
+  {
+    "name": "1P-ETH-LAD",
+    "isApproved": true
+  },
+  {
+    "name": "1P-LSD",
+    "isApproved": true
+  },
+  {
+    "name": "1V-LSD",
+    "isApproved": true
+  },
+  {
+    "name": "1cP-AL-LAD",
+    "isApproved": true
+  },
+  {
+    "name": "1cP-LSD",
+    "isApproved": true
+  },
+  {
+    "name": "1cP-MiPLA",
+    "isApproved": true
+  },
+  {
+    "name": "2,5-DMA",
+    "isApproved": true
+  },
+  {
+    "name": "2-Aminoindane",
+    "isApproved": true
+  },
+  {
+    "name": "2-FA",
+    "isApproved": true
+  },
+  {
+    "name": "2-FEA",
+    "isApproved": true
+  },
+  {
+    "name": "2-FMA",
+    "isApproved": true
+  },
+  {
+    "name": "2-Fluorodeschloroketamine",
+    "isApproved": true
+  },
+  {
+    "name": "2-MMC",
+    "isApproved": false
+  },
+  {
+    "name": "25B-NBOH",
+    "isApproved": true
+  },
+  {
+    "name": "25B-NBOMe",
+    "isApproved": true
+  },
+  {
+    "name": "25C-NBOH",
+    "isApproved": true
+  },
+  {
+    "name": "25C-NBOMe",
+    "isApproved": true
+  },
+  {
+    "name": "25D-NBOMe",
+    "isApproved": true
+  },
+  {
+    "name": "25E-NBOH",
+    "isApproved": true
+  },
+  {
+    "name": "25H-NBOMe",
+    "isApproved": false
+  },
+  {
+    "name": "25I-NBOH",
+    "isApproved": true
+  },
+  {
+    "name": "25I-NBOMe",
+    "isApproved": true
+  },
+  {
+    "name": "25N-NBOMe",
+    "isApproved": true
+  },
+  {
+    "name": "25x-NBOH",
+    "isApproved": true
+  },
+  {
+    "name": "25x-NBOMe",
+    "isApproved": true
+  },
+  {
+    "name": "2C-B",
+    "isApproved": true
+  },
+  {
+    "name": "2C-B-FLY",
+    "isApproved": true
+  },
+  {
+    "name": "2C-C",
+    "isApproved": true
+  },
+  {
+    "name": "2C-D",
+    "isApproved": true
+  },
+  {
+    "name": "2C-E",
+    "isApproved": true
+  },
+  {
+    "name": "2C-H",
+    "isApproved": true
+  },
+  {
+    "name": "2C-I",
+    "isApproved": true
+  },
+  {
+    "name": "2C-P",
+    "isApproved": true
+  },
+  {
+    "name": "2C-T",
+    "isApproved": true
+  },
+  {
+    "name": "2C-T-2",
+    "isApproved": true
+  },
+  {
+    "name": "2C-T-21",
+    "isApproved": true
+  },
+  {
+    "name": "2C-T-7",
+    "isApproved": true
+  },
+  {
+    "name": "2C-T-x",
+    "isApproved": true
+  },
+  {
+    "name": "2C-x",
+    "isApproved": true
+  },
+  {
+    "name": "2M2B",
+    "isApproved": true
+  },
+  {
+    "name": "3,4-CTMP",
+    "isApproved": true
+  },
+  {
+    "name": "3-Cl-PCP",
+    "isApproved": true
+  },
+  {
+    "name": "3-FA",
+    "isApproved": true
+  },
+  {
+    "name": "3-FEA",
+    "isApproved": true
+  },
+  {
+    "name": "3-FMA",
+    "isApproved": true
+  },
+  {
+    "name": "3-FPM",
+    "isApproved": true
+  },
+  {
+    "name": "3-HO-PCE",
+    "isApproved": true
+  },
+  {
+    "name": "3-HO-PCP",
+    "isApproved": true
+  },
+  {
+    "name": "3-MMC",
+    "isApproved": true
+  },
+  {
+    "name": "3-Me-PCP",
+    "isApproved": false
+  },
+  {
+    "name": "3-Me-PCPy",
+    "isApproved": false
+  },
+  {
+    "name": "3-MeO-PCE",
+    "isApproved": true
+  },
+  {
+    "name": "3-MeO-PCMo",
+    "isApproved": true
+  },
+  {
+    "name": "3-MeO-PCP",
+    "isApproved": true
+  },
+  {
+    "name": "3C-E",
+    "isApproved": true
+  },
+  {
+    "name": "3C-P",
+    "isApproved": false
+  },
+  {
+    "name": "4-AcO-DET",
+    "isApproved": true
+  },
+  {
+    "name": "4-AcO-DMT",
+    "isApproved": true
+  },
+  {
+    "name": "4-AcO-DiPT",
+    "isApproved": true
+  },
+  {
+    "name": "4-AcO-MET",
+    "isApproved": true
+  },
+  {
+    "name": "4-AcO-MiPT",
+    "isApproved": true
+  },
+  {
+    "name": "4-FA",
+    "isApproved": true
+  },
+  {
+    "name": "4-FMA",
+    "isApproved": true
+  },
+  {
+    "name": "4-HO-DET",
+    "isApproved": true
+  },
+  {
+    "name": "4-HO-DPT",
+    "isApproved": true
+  },
+  {
+    "name": "4-HO-DiPT",
+    "isApproved": true
+  },
+  {
+    "name": "4-HO-EPT",
+    "isApproved": true
+  },
+  {
+    "name": "4-HO-MET",
+    "isApproved": true
+  },
+  {
+    "name": "4-HO-MPT",
+    "isApproved": true
+  },
+  {
+    "name": "4-HO-MiPT",
+    "isApproved": true
+  },
+  {
+    "name": "4-MEC",
+    "isApproved": false
+  },
+  {
+    "name": "4-MeO-PCP",
+    "isApproved": true
+  },
+  {
+    "name": "4C-D",
+    "isApproved": false
+  },
+  {
+    "name": "4F-ADB",
+    "isApproved": false
+  },
+  {
+    "name": "4F-EPH",
+    "isApproved": true
+  },
+  {
+    "name": "4F-MPH",
+    "isApproved": true
+  },
+  {
+    "name": "5-APB",
+    "isApproved": true
+  },
+  {
+    "name": "5-Hydroxytryptophan",
+    "isApproved": true
+  },
+  {
+    "name": "5-MAPB",
+    "isApproved": true
+  },
+  {
+    "name": "5-MeO-DALT",
+    "isApproved": true
+  },
+  {
+    "name": "5-MeO-DMT",
+    "isApproved": true
+  },
+  {
+    "name": "5-MeO-DiBF",
+    "isApproved": true
+  },
+  {
+    "name": "5-MeO-DiPT",
+    "isApproved": true
+  },
+  {
+    "name": "5-MeO-EiPT",
+    "isApproved": false
+  },
+  {
+    "name": "5-MeO-MiPT",
+    "isApproved": true
+  },
+  {
+    "name": "5-MeO-aMT",
+    "isApproved": false
+  },
+  {
+    "name": "5F-AKB48",
+    "isApproved": true
+  },
+  {
+    "name": "5F-PB-22",
+    "isApproved": true
+  },
+  {
+    "name": "6-APB",
+    "isApproved": true
+  },
+  {
+    "name": "6-APDB",
+    "isApproved": true
+  },
+  {
+    "name": "8-Chlorotheophylline",
+    "isApproved": true
+  },
+  {
+    "name": "A-PHP",
+    "isApproved": true
+  },
+  {
+    "name": "A-PVP",
+    "isApproved": true
+  },
+  {
+    "name": "AB-FUBINACA",
+    "isApproved": true
+  },
+  {
+    "name": "AL-LAD",
+    "isApproved": true
+  },
+  {
+    "name": "ALD-52",
+    "isApproved": true
+  },
+  {
+    "name": "APICA",
+    "isApproved": true
+  },
+  {
+    "name": "Acetylfentanyl",
+    "isApproved": true
+  },
+  {
+    "name": "Adrafinil",
+    "isApproved": true
+  },
+  {
+    "name": "Alcohol",
+    "isApproved": true
+  },
+  {
+    "name": "Alimemazine",
+    "isApproved": false
+  },
+  {
+    "name": "Allylescaline",
+    "isApproved": true
+  },
+  {
+    "name": "Alpha-GPC",
+    "isApproved": true
+  },
+  {
+    "name": "Alprazolam",
+    "isApproved": true
+  },
+  {
+    "name": "Amanita muscaria",
+    "isApproved": true
+  },
+  {
+    "name": "Amantadine",
+    "isApproved": false
+  },
+  {
+    "name": "Amobarbital",
+    "isApproved": false
+  },
+  {
+    "name": "Amphetamine",
+    "isApproved": true
+  },
+  {
+    "name": "Amphetamine (disambiguation)",
+    "isApproved": true
+  },
+  {
+    "name": "Anadenanthera peregrina",
+    "isApproved": true
+  },
+  {
+    "name": "Aniracetam",
+    "isApproved": true
+  },
+  {
+    "name": "Antidepressants",
+    "isApproved": true
+  },
+  {
+    "name": "Antihistamine",
+    "isApproved": true
+  },
+  {
+    "name": "Antipsychotic",
+    "isApproved": true
+  },
+  {
+    "name": "Armodafinil",
+    "isApproved": true
+  },
+  {
+    "name": "Arylcyclohexylamines",
+    "isApproved": true
+  },
+  {
+    "name": "Atropa belladonna",
+    "isApproved": true
+  },
+  {
+    "name": "Ayahuasca",
+    "isApproved": true
+  },
+  {
+    "name": "Baclofen",
+    "isApproved": true
+  },
+  {
+    "name": "Banisteriopsis caapi",
+    "isApproved": true
+  },
+  {
+    "name": "Barbiturates",
+    "isApproved": true
+  },
+  {
+    "name": "Benzodiazepines",
+    "isApproved": true
+  },
+  {
+    "name": "Benzydamine",
+    "isApproved": true
+  },
+  {
+    "name": "Bromantane",
+    "isApproved": true
+  },
+  {
+    "name": "Bromazolam",
+    "isApproved": false
+  },
+  {
+    "name": "Bromo-DragonFLY",
+    "isApproved": true
+  },
+  {
+    "name": "Bufotenin",
+    "isApproved": true
+  },
+  {
+    "name": "Buprenorphine",
+    "isApproved": true
+  },
+  {
+    "name": "Butylone",
+    "isApproved": true
+  },
+  {
+    "name": "Cabergoline",
+    "isApproved": true
+  },
+  {
+    "name": "Caffeine",
+    "isApproved": true
+  },
+  {
+    "name": "Cake",
+    "isApproved": true
+  },
+  {
+    "name": "Cannabidiol",
+    "isApproved": true
+  },
+  {
+    "name": "Cannabinoid",
+    "isApproved": true
+  },
+  {
+    "name": "Cannabis",
+    "isApproved": true
+  },
+  {
+    "name": "Carisoprodol",
+    "isApproved": true
+  },
+  {
+    "name": "Changa",
+    "isApproved": true
+  },
+  {
+    "name": "Choline bitartrate",
+    "isApproved": true
+  },
+  {
+    "name": "Cinolazepam",
+    "isApproved": false
+  },
+  {
+    "name": "Citicoline",
+    "isApproved": true
+  },
+  {
+    "name": "Classical psychedelics",
+    "isApproved": true
+  },
+  {
+    "name": "Clonazepam",
+    "isApproved": true
+  },
+  {
+    "name": "Clonazolam",
+    "isApproved": true
+  },
+  {
+    "name": "Clonidine",
+    "isApproved": true
+  },
+  {
+    "name": "Cocaine",
+    "isApproved": true
+  },
+  {
+    "name": "Cocoa",
+    "isApproved": true
+  },
+  {
+    "name": "Codeine",
+    "isApproved": true
+  },
+  {
+    "name": "Coluracetam",
+    "isApproved": true
+  },
+  {
+    "name": "Creatine",
+    "isApproved": true
+  },
+  {
+    "name": "Cyclazodone",
+    "isApproved": true
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "isApproved": false
+  },
+  {
+    "name": "DET",
+    "isApproved": true
+  },
+  {
+    "name": "DMT",
+    "isApproved": true
+  },
+  {
+    "name": "DOB",
+    "isApproved": true
+  },
+  {
+    "name": "DOC",
+    "isApproved": false
+  },
+  {
+    "name": "DOI",
+    "isApproved": true
+  },
+  {
+    "name": "DOM",
+    "isApproved": true
+  },
+  {
+    "name": "DOx",
+    "isApproved": true
+  },
+  {
+    "name": "DPT",
+    "isApproved": true
+  },
+  {
+    "name": "Datura",
+    "isApproved": true
+  },
+  {
+    "name": "Datura (botany)",
+    "isApproved": true
+  },
+  {
+    "name": "Deliriant",
+    "isApproved": true
+  },
+  {
+    "name": "Depressant",
+    "isApproved": true
+  },
+  {
+    "name": "Deschloroetizolam",
+    "isApproved": true
+  },
+  {
+    "name": "Deschloroketamine",
+    "isApproved": true
+  },
+  {
+    "name": "Desomorphine",
+    "isApproved": true
+  },
+  {
+    "name": "Desoxypipradrol",
+    "isApproved": true
+  },
+  {
+    "name": "Dexamphetamine",
+    "isApproved": false
+  },
+  {
+    "name": "Dextromethorphan",
+    "isApproved": true
+  },
+  {
+    "name": "Dextropropoxyphene",
+    "isApproved": true
+  },
+  {
+    "name": "DiPT",
+    "isApproved": true
+  },
+  {
+    "name": "Diarylethylamines",
+    "isApproved": true
+  },
+  {
+    "name": "Diazepam",
+    "isApproved": true
+  },
+  {
+    "name": "Dichloropane",
+    "isApproved": true
+  },
+  {
+    "name": "Diclazepam",
+    "isApproved": true
+  },
+  {
+    "name": "Dihydrocodeine",
+    "isApproved": false
+  },
+  {
+    "name": "Diphenhydramine",
+    "isApproved": true
+  },
+  {
+    "name": "Diphenidine",
+    "isApproved": true
+  },
+  {
+    "name": "Dissociatives",
+    "isApproved": true
+  },
+  {
+    "name": "Doxylamine",
+    "isApproved": false
+  },
+  {
+    "name": "EPT",
+    "isApproved": true
+  },
+  {
+    "name": "ETH-CAT",
+    "isApproved": true
+  },
+  {
+    "name": "ETH-LAD",
+    "isApproved": true
+  },
+  {
+    "name": "Efavirenz",
+    "isApproved": true
+  },
+  {
+    "name": "Entactogens",
+    "isApproved": true
+  },
+  {
+    "name": "Entheogen",
+    "isApproved": true
+  },
+  {
+    "name": "Ephedrine",
+    "isApproved": false
+  },
+  {
+    "name": "Ephenidine",
+    "isApproved": true
+  },
+  {
+    "name": "Ephylone",
+    "isApproved": true
+  },
+  {
+    "name": "Ergotamine",
+    "isApproved": true
+  },
+  {
+    "name": "Escaline",
+    "isApproved": true
+  },
+  {
+    "name": "Etazene",
+    "isApproved": false
+  },
+  {
+    "name": "Ethylmorphine",
+    "isApproved": true
+  },
+  {
+    "name": "Ethylone",
+    "isApproved": true
+  },
+  {
+    "name": "Ethylphenidate",
+    "isApproved": true
+  },
+  {
+    "name": "Etizolam",
+    "isApproved": true
+  },
+  {
+    "name": "Eugeroics",
+    "isApproved": true
+  },
+  {
+    "name": "Eutylone",
+    "isApproved": false
+  },
+  {
+    "name": "F-Phenibut",
+    "isApproved": true
+  },
+  {
+    "name": "Fasoracetam",
+    "isApproved": false
+  },
+  {
+    "name": "Fentanyl",
+    "isApproved": true
+  },
+  {
+    "name": "Flualprazolam",
+    "isApproved": true
+  },
+  {
+    "name": "Flubromazepam",
+    "isApproved": true
+  },
+  {
+    "name": "Flubromazolam",
+    "isApproved": true
+  },
+  {
+    "name": "Fluclotizolam",
+    "isApproved": false
+  },
+  {
+    "name": "Flunitrazepam",
+    "isApproved": true
+  },
+  {
+    "name": "Flunitrazolam",
+    "isApproved": true
+  },
+  {
+    "name": "GBL",
+    "isApproved": true
+  },
+  {
+    "name": "GHB",
+    "isApproved": true
+  },
+  {
+    "name": "Gabapentin",
+    "isApproved": true
+  },
+  {
+    "name": "Gabapentinoids",
+    "isApproved": true
+  },
+  {
+    "name": "Gaboxadol",
+    "isApproved": false
+  },
+  {
+    "name": "Galantamine",
+    "isApproved": true
+  },
+  {
+    "name": "HXE",
+    "isApproved": true
+  },
+  {
+    "name": "Hallucinogens",
+    "isApproved": true
+  },
+  {
+    "name": "Haloperidol",
+    "isApproved": true
+  },
+  {
+    "name": "Harmala alkaloid",
+    "isApproved": true
+  },
+  {
+    "name": "Heroin",
+    "isApproved": true
+  },
+  {
+    "name": "Hexedrone",
+    "isApproved": true
+  },
+  {
+    "name": "Hydrocodone",
+    "isApproved": true
+  },
+  {
+    "name": "Hydromorphone",
+    "isApproved": true
+  },
+  {
+    "name": "Hyoscyamus niger (botany)",
+    "isApproved": true
+  },
+  {
+    "name": "Hypnotic",
+    "isApproved": true
+  },
+  {
+    "name": "Ibogaine",
+    "isApproved": true
+  },
+  {
+    "name": "Inhalants",
+    "isApproved": true
+  },
+  {
+    "name": "Iso-LSD",
+    "isApproved": false
+  },
+  {
+    "name": "Isopropylphenidate",
+    "isApproved": true
+  },
+  {
+    "name": "JWH-018",
+    "isApproved": true
+  },
+  {
+    "name": "JWH-073",
+    "isApproved": true
+  },
+  {
+    "name": "Kava",
+    "isApproved": false
+  },
+  {
+    "name": "Ketamine",
+    "isApproved": true
+  },
+  {
+    "name": "Kratom",
+    "isApproved": true
+  },
+  {
+    "name": "LAE-32",
+    "isApproved": true
+  },
+  {
+    "name": "LSA",
+    "isApproved": true
+  },
+  {
+    "name": "LSD",
+    "isApproved": true
+  },
+  {
+    "name": "LSM-775",
+    "isApproved": true
+  },
+  {
+    "name": "LSZ",
+    "isApproved": true
+  },
+  {
+    "name": "Lisdexamfetamine",
+    "isApproved": true
+  },
+  {
+    "name": "List of prodrugs",
+    "isApproved": true
+  },
+  {
+    "name": "Lorazepam",
+    "isApproved": true
+  },
+  {
+    "name": "Lysergamides",
+    "isApproved": true
+  },
+  {
+    "name": "MAOI",
+    "isApproved": true
+  },
+  {
+    "name": "MCPP",
+    "isApproved": true
+  },
+  {
+    "name": "MDA",
+    "isApproved": true
+  },
+  {
+    "name": "MDAI",
+    "isApproved": true
+  },
+  {
+    "name": "MDEA",
+    "isApproved": true
+  },
+  {
+    "name": "MDMA",
+    "isApproved": true
+  },
+  {
+    "name": "MDPV",
+    "isApproved": true
+  },
+  {
+    "name": "MET",
+    "isApproved": true
+  },
+  {
+    "name": "MMDA",
+    "isApproved": false
+  },
+  {
+    "name": "MPT",
+    "isApproved": true
+  },
+  {
+    "name": "MXPr",
+    "isApproved": false
+  },
+  {
+    "name": "MXiPr",
+    "isApproved": true
+  },
+  {
+    "name": "Mandragora",
+    "isApproved": true
+  },
+  {
+    "name": "Mandragora officinarum (botany)",
+    "isApproved": true
+  },
+  {
+    "name": "Mebroqualone",
+    "isApproved": false
+  },
+  {
+    "name": "Melatonin",
+    "isApproved": true
+  },
+  {
+    "name": "Memantine",
+    "isApproved": true
+  },
+  {
+    "name": "Mephedrone",
+    "isApproved": true
+  },
+  {
+    "name": "Meprobamate",
+    "isApproved": false
+  },
+  {
+    "name": "Mescaline",
+    "isApproved": true
+  },
+  {
+    "name": "Methadone",
+    "isApproved": true
+  },
+  {
+    "name": "Methallylescaline",
+    "isApproved": true
+  },
+  {
+    "name": "Methamphetamine",
+    "isApproved": true
+  },
+  {
+    "name": "Methaqualone",
+    "isApproved": true
+  },
+  {
+    "name": "Methcathinone",
+    "isApproved": false
+  },
+  {
+    "name": "Methiopropamine",
+    "isApproved": true
+  },
+  {
+    "name": "Methoxetamine",
+    "isApproved": true
+  },
+  {
+    "name": "Methoxphenidine",
+    "isApproved": true
+  },
+  {
+    "name": "Methylnaphthidate",
+    "isApproved": true
+  },
+  {
+    "name": "Methylone",
+    "isApproved": true
+  },
+  {
+    "name": "Methylphenidate",
+    "isApproved": true
+  },
+  {
+    "name": "Metizolam",
+    "isApproved": true
+  },
+  {
+    "name": "Mexedrone",
+    "isApproved": true
+  },
+  {
+    "name": "MiPLA",
+    "isApproved": true
+  },
+  {
+    "name": "MiPT",
+    "isApproved": true
+  },
+  {
+    "name": "Midazolam",
+    "isApproved": true
+  },
+  {
+    "name": "Mirtazapine",
+    "isApproved": true
+  },
+  {
+    "name": "Modafinil",
+    "isApproved": true
+  },
+  {
+    "name": "Morning glory",
+    "isApproved": true
+  },
+  {
+    "name": "Morphine",
+    "isApproved": true
+  },
+  {
+    "name": "Myristicin",
+    "isApproved": true
+  },
+  {
+    "name": "N-Acetylcysteine",
+    "isApproved": true
+  },
+  {
+    "name": "N-Ethylhexedrone",
+    "isApproved": true
+  },
+  {
+    "name": "N-Methylbisfluoromodafinil",
+    "isApproved": true
+  },
+  {
+    "name": "NEP",
+    "isApproved": true
+  },
+  {
+    "name": "NM-2-AI",
+    "isApproved": true
+  },
+  {
+    "name": "Naloxone",
+    "isApproved": true
+  },
+  {
+    "name": "Nicotine",
+    "isApproved": true
+  },
+  {
+    "name": "Nifoxipam",
+    "isApproved": true
+  },
+  {
+    "name": "Nitrous",
+    "isApproved": true
+  },
+  {
+    "name": "Nootropic",
+    "isApproved": true
+  },
+  {
+    "name": "O-Desmethyltramadol",
+    "isApproved": true
+  },
+  {
+    "name": "O-PCE",
+    "isApproved": true
+  },
+  {
+    "name": "Omberacetam",
+    "isApproved": true
+  },
+  {
+    "name": "Opioids",
+    "isApproved": true
+  },
+  {
+    "name": "Orphenadrine",
+    "isApproved": false
+  },
+  {
+    "name": "Oxiracetam",
+    "isApproved": true
+  },
+  {
+    "name": "Oxycodone",
+    "isApproved": true
+  },
+  {
+    "name": "Oxymorphone",
+    "isApproved": true
+  },
+  {
+    "name": "PARGY-LAD",
+    "isApproved": true
+  },
+  {
+    "name": "PCE",
+    "isApproved": true
+  },
+  {
+    "name": "PCP",
+    "isApproved": true
+  },
+  {
+    "name": "PMA",
+    "isApproved": true
+  },
+  {
+    "name": "PMMA",
+    "isApproved": true
+  },
+  {
+    "name": "PPAP",
+    "isApproved": false
+  },
+  {
+    "name": "PRO-LAD",
+    "isApproved": true
+  },
+  {
+    "name": "Peganum harmala",
+    "isApproved": true
+  },
+  {
+    "name": "Pentedrone",
+    "isApproved": true
+  },
+  {
+    "name": "Pentobarbital",
+    "isApproved": true
+  },
+  {
+    "name": "Pentylone",
+    "isApproved": false
+  },
+  {
+    "name": "Pethidine",
+    "isApproved": true
+  },
+  {
+    "name": "Phenazepam",
+    "isApproved": false
+  },
+  {
+    "name": "Phenethylamine (compound)",
+    "isApproved": true
+  },
+  {
+    "name": "Phenibut",
+    "isApproved": true
+  },
+  {
+    "name": "Phenmetrazine",
+    "isApproved": false
+  },
+  {
+    "name": "Phenobarbital",
+    "isApproved": true
+  },
+  {
+    "name": "Phenylpiracetam",
+    "isApproved": true
+  },
+  {
+    "name": "Picamilon",
+    "isApproved": false
+  },
+  {
+    "name": "Piper nigrum (botany)",
+    "isApproved": true
+  },
+  {
+    "name": "Piracetam",
+    "isApproved": true
+  },
+  {
+    "name": "Poppers",
+    "isApproved": true
+  },
+  {
+    "name": "Pramiracetam",
+    "isApproved": true
+  },
+  {
+    "name": "Pregabalin",
+    "isApproved": true
+  },
+  {
+    "name": "Prochlorperazine",
+    "isApproved": true
+  },
+  {
+    "name": "Prolintane",
+    "isApproved": true
+  },
+  {
+    "name": "Promethazine",
+    "isApproved": true
+  },
+  {
+    "name": "Propylhexedrine",
+    "isApproved": true
+  },
+  {
+    "name": "Proscaline",
+    "isApproved": true
+  },
+  {
+    "name": "Pseudoephedrine",
+    "isApproved": false
+  },
+  {
+    "name": "Psilocin",
+    "isApproved": true
+  },
+  {
+    "name": "Psilocybe cubensis",
+    "isApproved": true
+  },
+  {
+    "name": "Psilocybin mushrooms",
+    "isApproved": true
+  },
+  {
+    "name": "Psychedelics",
+    "isApproved": true
+  },
+  {
+    "name": "Pyrazolam",
+    "isApproved": true
+  },
+  {
+    "name": "Quetiapine",
+    "isApproved": true
+  },
+  {
+    "name": "RIMA",
+    "isApproved": true
+  },
+  {
+    "name": "Racetams",
+    "isApproved": true
+  },
+  {
+    "name": "Risperidone",
+    "isApproved": true
+  },
+  {
+    "name": "SAM-e",
+    "isApproved": true
+  },
+  {
+    "name": "STS-135",
+    "isApproved": true
+  },
+  {
+    "name": "Salvia divinorum",
+    "isApproved": true
+  },
+  {
+    "name": "Salvinorin A",
+    "isApproved": true
+  },
+  {
+    "name": "Salvinorin B methoxymethyl ether",
+    "isApproved": true
+  },
+  {
+    "name": "Secobarbital",
+    "isApproved": true
+  },
+  {
+    "name": "Sedative",
+    "isApproved": true
+  },
+  {
+    "name": "Selective serotonin reuptake inhibitor",
+    "isApproved": true
+  },
+  {
+    "name": "Serotonergic psychedelic",
+    "isApproved": true
+  },
+  {
+    "name": "Serotonin",
+    "isApproved": true
+  },
+  {
+    "name": "Serotonin-norepinephrine reuptake inhibitor",
+    "isApproved": true
+  },
+  {
+    "name": "Sertraline",
+    "isApproved": false
+  },
+  {
+    "name": "Stimulants",
+    "isApproved": true
+  },
+  {
+    "name": "Substituted aminorexes",
+    "isApproved": true
+  },
+  {
+    "name": "Substituted amphetamines",
+    "isApproved": true
+  },
+  {
+    "name": "Substituted cathinones",
+    "isApproved": true
+  },
+  {
+    "name": "Substituted morphinans",
+    "isApproved": true
+  },
+  {
+    "name": "Substituted phenethylamines",
+    "isApproved": true
+  },
+  {
+    "name": "Substituted phenidates",
+    "isApproved": true
+  },
+  {
+    "name": "Substituted tryptamines",
+    "isApproved": true
+  },
+  {
+    "name": "Sufentanil",
+    "isApproved": true
+  },
+  {
+    "name": "Synthetic cannabinoid",
+    "isApproved": true
+  },
+  {
+    "name": "THC-O",
+    "isApproved": false
+  },
+  {
+    "name": "THJ-018",
+    "isApproved": true
+  },
+  {
+    "name": "THJ-2201",
+    "isApproved": true
+  },
+  {
+    "name": "TMA",
+    "isApproved": false
+  },
+  {
+    "name": "TMA-2",
+    "isApproved": true
+  },
+  {
+    "name": "TMA-6",
+    "isApproved": true
+  },
+  {
+    "name": "Tabernanthe iboga (botany)",
+    "isApproved": true
+  },
+  {
+    "name": "Tapentadol",
+    "isApproved": true
+  },
+  {
+    "name": "Temazepam",
+    "isApproved": true
+  },
+  {
+    "name": "N-Methyl-Cyclazodone",
+    "isApproved": false
+  },
+  {
+    "name": "Theacrine",
+    "isApproved": true
+  },
+  {
+    "name": "Theanine",
+    "isApproved": true
+  },
+  {
+    "name": "Thebaine",
+    "isApproved": false
+  },
+  {
+    "name": "Thienodiazepines",
+    "isApproved": true
+  },
+  {
+    "name": "Thujone",
+    "isApproved": false
+  },
+  {
+    "name": "Tianeptine",
+    "isApproved": true
+  },
+  {
+    "name": "Tramadol",
+    "isApproved": true
+  },
+  {
+    "name": "Triazolam",
+    "isApproved": false
+  },
+  {
+    "name": "Troparil",
+    "isApproved": false
+  },
+  {
+    "name": "Tryptamine (compound)",
+    "isApproved": true
+  },
+  {
+    "name": "Tyrosine",
+    "isApproved": true
+  },
+  {
+    "name": "U-47700",
+    "isApproved": true
+  },
+  {
+    "name": "Xanthines",
+    "isApproved": true
+  },
+  {
+    "name": "Zaleplon",
+    "isApproved": false
+  },
+  {
+    "name": "Zolpidem",
+    "isApproved": true
+  },
+  {
+    "name": "Zopiclone",
+    "isApproved": true
+  },
+  {
+    "name": "Beta-Carboline",
+    "isApproved": true
+  },
+  {
+    "name": "Α-PiHP",
+    "isApproved": false
+  },
+  {
+    "name": "ΑMT",
+    "isApproved": true
+  },
+  {
+    "name": "Βk-2C-B",
+    "isApproved": true
+  }
+]
