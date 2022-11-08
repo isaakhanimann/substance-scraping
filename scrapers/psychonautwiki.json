@@ -223,7 +223,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "1B-LSD",
@@ -4382,7 +4392,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "3,4-CTMP",
@@ -4509,7 +4529,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "3-FA",
@@ -5216,7 +5243,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "3-HO-PCP",
@@ -5286,7 +5320,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "3-MMC",
@@ -5639,7 +5680,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "3-Me-PCPy",
@@ -5808,7 +5856,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "3-MeO-PCE",
@@ -5947,7 +6002,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "3-MeO-PCMo",
@@ -6026,7 +6088,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "3-MeO-PCP",
@@ -6198,7 +6267,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "3C-E",
@@ -8319,7 +8395,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "4C-D",
@@ -11639,9 +11722,9 @@
             "name": "oral",
             "dose": {
               "units": "mL EtOH",
-              "threshold": 13,
+              "threshold": null,
               "light": {
-                "min": 25,
+                "min": 13,
                 "max": 38
               },
               "common": {
@@ -11656,11 +11739,15 @@
             },
             "duration": {
               "onset": {
-                "min": 30,
+                "min": 2,
+                "max": 5,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 15,
                 "max": 45,
                 "units": "minutes"
               },
-              "comeup": null,
               "peak": {
                 "min": 30,
                 "max": 90,
@@ -11668,12 +11755,12 @@
               },
               "offset": {
                 "min": 45,
-                "max": 60,
+                "max": 120,
                 "units": "minutes"
               },
               "total": {
-                "min": 2.2,
-                "max": 4.4,
+                "min": 1.5,
+                "max": 5,
                 "units": "hours"
               },
               "afterglow": {
@@ -11751,6 +11838,15 @@
           },
           {
             "name": "Tramadol"
+          },
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
           }
         ]
       },
@@ -12085,7 +12181,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Amanita muscaria",
@@ -12994,7 +13100,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Benzydamine",
@@ -14156,7 +14272,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Changa",
@@ -14345,7 +14471,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Citicoline",
@@ -14515,7 +14651,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Clonazolam",
@@ -14586,7 +14732,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Clonidine",
@@ -14658,7 +14814,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Cocaine",
@@ -15103,7 +15269,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Creatine",
@@ -16544,7 +16720,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "Desomorphine",
@@ -17272,7 +17455,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Dissociatives"
+          },
+          {
+            "name": "Stimulants"
+          }
+        ]
       },
       {
         "name": "Dichloropane",
@@ -17836,7 +18029,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "Dissociatives",
@@ -18513,7 +18713,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "Ephylone",
@@ -19467,7 +19674,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Fasoracetam",
@@ -19807,7 +20024,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Flubromazepam",
@@ -22007,7 +22234,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Ketamine",
@@ -22061,13 +22298,13 @@
             },
             "duration": {
               "onset": {
-                "min": 2,
-                "max": 5,
+                "min": 5,
+                "max": 10,
                 "units": "minutes"
               },
               "comeup": {
-                "min": 5,
-                "max": 10,
+                "min": 10,
+                "max": 20,
                 "units": "minutes"
               },
               "peak": {
@@ -22081,8 +22318,8 @@
                 "units": "hours"
               },
               "total": {
-                "min": 1,
-                "max": 1.5,
+                "min": 3.5,
+                "max": 7.5,
                 "units": "hours"
               },
               "afterglow": {
@@ -24449,7 +24686,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "Mandragora",
@@ -24576,7 +24820,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Melatonin",
@@ -24734,7 +24988,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "Mephedrone",
@@ -24941,7 +25202,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Mescaline",
@@ -25759,7 +26030,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Methcathinone",
@@ -26216,7 +26497,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Methylnaphthidate",
@@ -28867,7 +29158,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "Omberacetam",
@@ -29681,7 +29979,14 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ]
       },
       {
         "name": "PCP",
@@ -30884,7 +31189,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Phenethylamine (compound)",
@@ -31304,7 +31619,17 @@
         ],
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Piper nigrum (botany)",
@@ -35452,7 +35777,17 @@
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Zolpidem",
