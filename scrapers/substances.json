@@ -285,7 +285,17 @@
       ],
       "summary": "1,4-BD is a clear liquid with intoxicating effects. It is a pro-drug for GHB, and has similar though reportedly inferior effects. It also carries the potential for more health risks than GHB, such as liver toxicity.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -4306,7 +4316,17 @@
         "depressant"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -4474,7 +4494,14 @@
         "dissociative"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -5151,7 +5178,14 @@
       ],
       "summary": "A rare and very potent PCP analogue, eight times more potent than PCP as NMDA receptor antagonist and also a μ-opioid receptor agonist. Similar in structure to methoxetamine.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -5219,7 +5253,14 @@
       ],
       "summary": "An arylcyclohexamine dissociative analogue of PCP, this drug is relatively uncommon, and little information is available. It is reported to not only have dissociative activity but also be an opioid. Some trip reports suggest very negative side-effects including intense muscle tension.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -5468,7 +5509,14 @@
         "dissociative"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -5635,7 +5683,14 @@
         "dissociative"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -5809,7 +5864,14 @@
       ],
       "summary": "3-MeO-PCP with a change of a ring replacement. Slightly more potent than 3-MeO-PCP.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -5943,7 +6005,14 @@
         "dissociative"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -6027,7 +6096,14 @@
       ],
       "summary": "A potent dissociative often compared to MXE but with a longer duration, much less sedating effects and causing an overall different experience. Users have reported effects as being similar to PCP. Roughtly ten times more potent than 4-MeO-PCP.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -8200,7 +8276,14 @@
       ],
       "summary": "An arylcyclohexamine dissociative anaesthetic related to PCP. First discovered in the 1960s by Parke-Davis, it was introduced to the RC market in 2008. Reported to be less potent than PCP. It is not commonly seen, but has seen some increase in popularity with the inavailability of other dissociatives.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -11676,6 +11759,15 @@
           },
           {
             "name": "Tramadol"
+          },
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
           }
         ],
         "unsafe": [
@@ -11718,9 +11810,9 @@
           "name": "oral",
           "dose": {
             "units": "mL EtOH",
-            "threshold": 13,
+            "threshold": null,
             "light": {
-              "min": 25,
+              "min": 13,
               "max": 38
             },
             "common": {
@@ -11735,11 +11827,15 @@
           },
           "duration": {
             "onset": {
-              "min": 30,
+              "min": 2,
+              "max": 5,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 15,
               "max": 45,
               "units": "minutes"
             },
-            "comeup": null,
             "peak": {
               "min": 30,
               "max": 90,
@@ -11747,12 +11843,12 @@
             },
             "offset": {
               "min": 45,
-              "max": 60,
+              "max": 120,
               "units": "minutes"
             },
             "total": {
-              "min": 2.2,
-              "max": 4.4,
+              "min": 1.5,
+              "max": 5,
               "units": "hours"
             },
             "afterglow": {
@@ -12050,7 +12146,17 @@
         "The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -14024,7 +14130,17 @@
       ],
       "summary": "A skeletal muscle relaxant drug also known as Soma, carisoprodol has limited recreational value, however its main metabolite meprobamate has some moderate tranquilising properties. Sometimes found in concoctions with codeine or caffeine.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -14220,7 +14336,17 @@
       ],
       "summary": "A benzodiazepine derivative drug with anxiolytic effects but mainly hypnotic effects. It is extremely effective for sleep aid but has mild euphoria compared to other benzos",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -14376,7 +14502,17 @@
       ],
       "summary": "A medium-length common prescription benzodiazepine, often used to treat panic attacks because of its relatively fast sublingual onset. Primarily anxiolytic, but also possessing of other benzo traits.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -14454,7 +14590,17 @@
       ],
       "summary": "A long lasting benzodiazepine with heavily hypnotic effects. The safety profile is not well established, and there have been reports that people taking it three days in a row have had a seizure. Most comparable to Triazolam, but with a much longer half-life.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -14518,7 +14664,17 @@
       ],
       "summary": "Is a medication that is used to treat high blood pressure, anxiety, withdrawal (Typically from Alcohol, Opioids, Smoking) and many other uses.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -14967,7 +15123,17 @@
       ],
       "summary": "A nootropic drug of the racetam class, originally developed to treat Alzheimer's disease, it is currently being investigated as a treatment for major depressive disorder and generalised anxiety disorder. May be a modulator of the AMPA receptor. Limited recreational value.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -16356,7 +16522,14 @@
       ],
       "summary": "A novel analogue of Ketamine which is much more potent and has a longer duration.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -17186,7 +17359,17 @@
         "The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Dissociatives"
+          },
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -17668,7 +17851,14 @@
       ],
       "summary": "A dissociative anaesthetic related to ephenidine with similar qualities to PCP and ketamine. Has seen some popularity as a recreational RC. Dosage curve has been reported as particularly steep, so care should be taken.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -18402,7 +18592,14 @@
       ],
       "summary": "A dissociative drug which is less potent and less confusing than MXE but with otherwise similar properties. Reported as causing light stimulant effects at lower doses.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -19362,7 +19559,17 @@
         "depressant"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -19718,7 +19925,17 @@
         "The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -21929,7 +22146,17 @@
       ],
       "summary": "Tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to alcohol. It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -22045,13 +22272,13 @@
           },
           "duration": {
             "onset": {
-              "min": 2,
-              "max": 5,
+              "min": 5,
+              "max": 10,
               "units": "minutes"
             },
             "comeup": {
-              "min": 5,
-              "max": 10,
+              "min": 10,
+              "max": 20,
               "units": "minutes"
             },
             "peak": {
@@ -22065,8 +22292,8 @@
               "units": "hours"
             },
             "total": {
-              "min": 1,
-              "max": 1.5,
+              "min": 3.5,
+              "max": 7.5,
               "units": "hours"
             },
             "afterglow": {
@@ -24272,7 +24499,14 @@
         "dissociative"
       ],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -24406,7 +24640,17 @@
       ],
       "summary": "A short acting analogue of Methaqualone, that is much more potent.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -24578,7 +24822,14 @@
       ],
       "summary": "An NMDA-antagonist that if used recreationally can cause to a very prolonged \"hole\" lasting up to 16+ hours.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -24856,7 +25107,17 @@
       ],
       "categories": [],
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -25633,7 +25894,17 @@
       ],
       "summary": "A pharmaceutical depressant and sedative phased out due to the better safety profile of benzodiazepines, part of the Qualone group of substances. Now very rare, except in South Africa.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -26135,7 +26406,17 @@
       ],
       "summary": "A dissociative from the diarylethylamine class, a more potent analogue of diphenidine. Known to be unpredictable, and can cause blackouts.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -28821,7 +29102,14 @@
       ],
       "summary": "Dissociative of the Arylcyclohexylamine class. Structurally related to Deschloroketamine.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -29519,7 +29807,14 @@
       ],
       "summary": "Eticyclidine (PCE) is a Dissociative anesthetic that has hallucinogenic effects. Slightly more potent than Phencyclidine.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Depressant"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -30816,7 +31111,17 @@
       ],
       "summary": "A very long acting, potent and subtle benzodiazepine. Infamous for the calamitous experiences it tends to produce in people dosing unknown amounts. Prescribed in certain countries for epilepsy and alcohol withdrawal.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
@@ -31233,7 +31538,17 @@
       ],
       "summary": "An analogue of GABA that does pass the brain blood barrier, which is then hydrolyzed into GABA and Niacin. In which the GABA could produce an anxiolytic effect. The Niacin as a vasodilator. And is usually used as part of a nootropic stack.",
       "interactions": {
-        "dangerous": null,
+        "dangerous": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Stimulants"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
         "unsafe": null,
         "uncertain": null
       },
