@@ -4695,7 +4695,7 @@
         "class": {
           "chemical": [
             "Amphetamine",
-            "Substituted amphetamines"
+            "Substituted amphetamine"
           ],
           "psychoactive": [
             "Entactogens",
@@ -11722,7 +11722,7 @@
             "name": "oral",
             "dose": {
               "units": "mL EtOH",
-              "threshold": null,
+              "threshold": 13,
               "light": {
                 "min": 13,
                 "max": 38
@@ -11776,10 +11776,7 @@
         "toxicity": [
           "Death from ethanol consumption is possible when blood alcohol levels reach 0.4%"
         ],
-        "crossTolerances": [
-          "GABA",
-          "depressants"
-        ],
+        "crossTolerances": null,
         "uncertainInteractions": [
           {
             "name": "Cannabis"
@@ -20396,7 +20393,7 @@
           {
             "name": "oral",
             "dose": {
-              "units": "ml",
+              "units": "mL",
               "threshold": 0.3,
               "light": {
                 "min": 0.3,
@@ -25690,27 +25687,27 @@
               "threshold": 5,
               "light": {
                 "min": 5,
-                "max": 15
+                "max": 10
               },
               "common": {
-                "min": 15,
-                "max": 30
+                "min": 10,
+                "max": 25
               },
               "strong": {
-                "min": 30,
-                "max": 60
+                "min": 25,
+                "max": 50
               },
-              "heavy": 60
+              "heavy": 50
             },
             "duration": {
               "onset": {
-                "min": 20,
+                "min": 15,
                 "max": 45,
                 "units": "minutes"
               },
               "comeup": {
-                "min": 2.6,
-                "max": 3.6,
+                "min": 1,
+                "max": 3,
                 "units": "hours"
               },
               "peak": {
@@ -25724,7 +25721,7 @@
                 "units": "hours"
               },
               "total": {
-                "min": 7,
+                "min": 8,
                 "max": 12,
                 "units": "hours"
               },

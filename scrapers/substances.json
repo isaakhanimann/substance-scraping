@@ -2999,7 +2999,7 @@
       "generalRisks": "The pupils dilate, blood pressure rises and nausea, sweating and dizziness may occur. Some users report stomach and intestinal problems, and mild allergic reactions (such as coughing due to increased mucus production) may occur. Disorientation, confusion and feelings of anxiety, even fear of death, are risks on a psychological level.",
       "longtermRisks": "There are no research results on long-term risks so far.",
       "saferUse": [
-        "2C-B seems very setting-dependent and are only suitable for parties to a limited extent.",
+        "2C-B seems very setting-dependent and is only suitable for parties to a limited extent.",
         "Be aware of set and setting: Use 2C-B only in places where you feel comfortable and safe. Do not use if you are afraid of the drug.",
         "Never consume 2C-B alone and only when you feel mentally and physically well and are well rested.",
         "Do not add more, dose carefully.",
@@ -3671,7 +3671,7 @@
       "generalRisks": "The pupils dilate, blood pressure rises and nausea, sweating and dizziness may occur. Some users report stomach and intestinal problems, and mild allergic reactions (such as coughing due to increased mucus production) may occur. Disorientation, confusion and feelings of anxiety, even fear of death, are risks on a psychological level.",
       "longtermRisks": "There are no research results on long-term risks so far.",
       "saferUse": [
-        "2C-I seems very setting-dependent and are only suitable for parties to a limited extent.",
+        "2C-I seems very setting-dependent and is only suitable for parties to a limited extent.",
         "Be aware of set and setting: Use 2C-I only in places where you feel comfortable and safe. Do not use if you are afraid of the drug.",
         "Never consume 2C-I alone and only when you feel mentally and physically well and are well rested.",
         "Do not add more, dose carefully.",
@@ -11705,10 +11705,7 @@
         "half": "3 - 7 days",
         "zero": "1 - 2 weeks"
       },
-      "crossTolerances": [
-        "GABA",
-        "depressants"
-      ],
+      "crossTolerances": null,
       "addictionPotential": "extremely addictive with a high potential for abuse",
       "toxicities": [
         "Death from ethanol consumption is possible when blood alcohol levels reach 0.4%"
@@ -11810,7 +11807,7 @@
           "name": "oral",
           "dose": {
             "units": "mL EtOH",
-            "threshold": null,
+            "threshold": 13,
             "light": {
               "min": 13,
               "max": 38
@@ -20431,7 +20428,7 @@
         {
           "name": "oral",
           "dose": {
-            "units": "ml",
+            "units": "mL",
             "threshold": 0.3,
             "light": {
               "min": 0.3,
@@ -23345,7 +23342,7 @@
         "Wait two hours for the effect to take effect before adding more.",
         "With MDA, topping up is pointless, as it is effective for a long time even in small doses.",
         "Refrain from mixed consumption.",
-        "Avoid alcohol, drink enough non-alcoholic beverages (3-5 dl per hour).",
+        "Avoid alcohol, drink enough non-alcoholic beverages (0.3-0.5 L per hour).",
         "Take breaks from dancing at parties and get some fresh air in between.",
         "Take regular breaks from consumption. The body needs time to recover.",
         "People taking medication are advised to inform themselves about interactions."
@@ -23622,7 +23619,7 @@
         "First test a third or half a pill.",
         "Wait two hours for the effect to take effect before adding more.",
         "Refrain from mixed consumption.",
-        "Avoid alcohol, drink enough non-alcoholic beverages (3-5 dl per hour).",
+        "Avoid alcohol, drink enough non-alcoholic beverages (0.3-0.5 L per hour).",
         "Take breaks from dancing at parties and get some fresh air in between.",
         "Take regular breaks from consumption. The body needs time to recover.",
         "People taking medication are advised to inform themselves about interactions."
@@ -25706,27 +25703,27 @@
             "threshold": 5,
             "light": {
               "min": 5,
-              "max": 15
+              "max": 10
             },
             "common": {
-              "min": 15,
-              "max": 30
+              "min": 10,
+              "max": 25
             },
             "strong": {
-              "min": 30,
-              "max": 60
+              "min": 25,
+              "max": 50
             },
-            "heavy": 60
+            "heavy": 50
           },
           "duration": {
             "onset": {
-              "min": 20,
+              "min": 15,
               "max": 45,
               "units": "minutes"
             },
             "comeup": {
-              "min": 2.6,
-              "max": 3.6,
+              "min": 1,
+              "max": 3,
               "units": "hours"
             },
             "peak": {
@@ -25740,7 +25737,7 @@
               "units": "hours"
             },
             "total": {
-              "min": 7,
+              "min": 8,
               "max": 12,
               "units": "hours"
             },
