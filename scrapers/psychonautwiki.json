@@ -32616,7 +32616,7 @@
           {
             "name": "oral",
             "dose": {
-              "units": "mg",
+              "units": "g",
               "threshold": 0.25,
               "light": {
                 "min": 0.25,
@@ -32634,14 +32634,14 @@
             },
             "duration": {
               "onset": {
-                "min": 15,
-                "max": 60,
+                "min": 20,
+                "max": 45,
                 "units": "minutes"
               },
               "comeup": {
-                "min": 15,
-                "max": 30,
-                "units": "minutes"
+                "min": 1.5,
+                "max": 3,
+                "units": "hours"
               },
               "peak": {
                 "min": 2,
@@ -32655,7 +32655,7 @@
               },
               "total": {
                 "min": 4,
-                "max": 7,
+                "max": 6,
                 "units": "hours"
               },
               "afterglow": {
