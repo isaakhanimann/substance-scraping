@@ -114,6 +114,7 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
                 }
             });
         }
+        substance.roas = substance.roas?.map(roa => cleanedUpRoa(roa)) ?? []
         replaceInteractions(substance?.dangerousInteractions ?? []);
         replaceInteractions(substance?.unsafeInteractions ?? []);
         replaceInteractions(substance?.uncertainInteractions ?? []);
@@ -145,6 +146,40 @@ function replaceInteractions(array) {
         }
         return element
     });
+}
+
+function cleanedUpRoa(roa) {
+    roa.duration = cleanupDuration(roa.duration)
+    return roa
+}
+
+function cleanupDuration(duration) {
+    let onsetValue = cleanupDurationRange(duration?.onset)
+    let comeupValue = cleanupDurationRange(duration?.comeup)
+    let peakValue = cleanupDurationRange(duration?.peak)
+    let offsetValue = cleanupDurationRange(duration?.offset)
+    let totalValue = cleanupDurationRange(duration?.total)
+    let afterglowValue = cleanupDurationRange(duration?.afterglow)
+    if (onsetValue == null && comeupValue == null && peakValue == null && offsetValue == null && totalValue == null && afterglowValue == null) {
+        return null
+    } else {
+        return {
+            onset: onsetValue,
+            comeup: comeupValue,
+            peak: peakValue,
+            offset: offsetValue,
+            total: totalValue,
+            afterglow: afterglowValue
+        }
+    }
+}
+
+function cleanupDurationRange(range) {
+    if (range?.min == null && range?.max == null) {
+        return null
+    } else {
+        return range
+    }
 }
 
 function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances, approvedSubstances) {

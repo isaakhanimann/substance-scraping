@@ -211,38 +211,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         }
       ]
@@ -1622,38 +1591,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         },
         {
@@ -1666,38 +1604,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         }
       ]
@@ -10354,38 +10261,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         },
         {
@@ -10398,38 +10274,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         }
       ]
@@ -13451,38 +13296,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         },
         {
@@ -13495,38 +13309,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         }
       ]
@@ -20670,11 +20453,7 @@
               "max": 2,
               "units": "hours"
             },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
+            "total": null,
             "afterglow": null
           },
           "bioavailability": null
@@ -27260,16 +27039,8 @@
               "units": "hours"
             },
             "comeup": null,
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
+            "peak": null,
+            "offset": null,
             "total": {
               "min": 15,
               "max": 24,
@@ -27576,11 +27347,7 @@
               "units": "minutes"
             },
             "comeup": null,
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hour"
-            },
+            "peak": null,
             "offset": null,
             "total": {
               "min": 2,
@@ -29289,38 +29056,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         },
         {
@@ -29333,38 +29069,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         }
       ]
@@ -31050,38 +30755,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         },
         {
@@ -31094,38 +30768,7 @@
             "strong": null,
             "heavy": null
           },
-          "duration": {
-            "onset": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": null,
-              "max": null,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "offset": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "total": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": null,
-              "max": null,
-              "units": "hours"
-            }
-          },
+          "duration": null,
           "bioavailability": null
         }
       ]
