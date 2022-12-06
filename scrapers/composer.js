@@ -164,11 +164,14 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
             } else {
                 psychonautWikiSubstancesWithoutMatch.add(name);
             }
-            let interactions = {
-                dangerous: onePsychonautWikiSubstance?.dangerousInteractions,
-                unsafe: onePsychonautWikiSubstance?.unsafeInteractions,
-                uncertain: onePsychonautWikiSubstance?.uncertainInteractions
-            };
+            let dangerousNames = onePsychonautWikiSubstance?.dangerousInteractions?.map(interaction => interaction.name) ?? [];
+            let unsafeNames = onePsychonautWikiSubstance?.unsafeInteractions?.map(interaction => interaction.name) ?? [];
+            let uncertainNames = onePsychonautWikiSubstance?.uncertainInteractions?.map(interaction => interaction.name) ?? [];
+            let interactions = (dangerousNames.length + unsafeNames.length + uncertainNames.length > 0) ? {
+                dangerous: dangerousNames,
+                unsafe: unsafeNames,
+                uncertain: uncertainNames
+            } : null
             return {
                 name: name,
                 commonNames: onePsychonautWikiSubstance.commonNames,
