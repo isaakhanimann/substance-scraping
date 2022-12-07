@@ -124,13 +124,13 @@
   "substances": [
     {
       "name": "1,3-DMAA",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/1,3-DMAA",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -189,13 +189,13 @@
     },
     {
       "name": "1,3-dimethylbutylamine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/1,3-dimethylbutylamine",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -235,11 +235,8 @@
         "half": null,
         "zero": "7 - 14 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "moderately physically and psychologically addictive",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -322,9 +319,6 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
-      "toxicities": [
-        "extremely low toxicity relative to dose"
-      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -416,9 +410,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -501,9 +492,6 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
-      "toxicities": [
-        "extremely low toxicity relative to dose"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -593,9 +581,6 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
-      "toxicities": [
-        "extremely low toxicity relative to dose"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -683,10 +668,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown",
-        "extremely low toxicity"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -774,7 +755,7 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic"
       ],
@@ -862,10 +843,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown",
-        "extremely low toxicity"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -950,9 +927,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "stimulant",
         "psychedelic"
@@ -988,9 +962,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -1076,9 +1047,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -1181,9 +1149,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -1285,9 +1250,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -1449,9 +1411,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -1564,13 +1523,13 @@
     },
     {
       "name": "2-MMC",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/2-MMC",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -1625,9 +1584,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -1664,9 +1620,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -1788,9 +1741,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -1876,9 +1826,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "fatal at heavy dosages"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -1971,7 +1918,7 @@
         "psychedelics"
       ],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2049,13 +1996,13 @@
     },
     {
       "name": "25E-NBOH",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/25E-NBOH",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic"
       ],
@@ -2064,7 +2011,7 @@
     },
     {
       "name": "25H-NBOMe",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/25H-NBOMe",
       "isApproved": false,
       "tolerance": {
@@ -2076,9 +2023,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy or very heavy dosages"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2126,9 +2070,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2221,9 +2162,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2377,9 +2315,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2470,11 +2405,8 @@
       "url": "https://psychonautwiki.org/wiki/2C-B",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "non-addictive with a low potential for abuse",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "entactogen",
@@ -2652,9 +2584,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2736,11 +2665,8 @@
       "url": "https://psychonautwiki.org/wiki/2C-C",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2832,9 +2758,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2921,9 +2844,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -3060,9 +2980,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "stimulant",
         "psychedelic"
@@ -3097,9 +3014,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -3202,9 +3116,6 @@
         "psychedelic"
       ],
       "addictionPotential": "low potential for abuse and dependence",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -3295,9 +3206,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "no negative health effects attributed to trying this drug"
-      ],
       "categories": [
         "psychedelic",
         "entactogen",
@@ -3375,9 +3283,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "no negative health effects attributed to trying this drug"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -3502,7 +3407,7 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -3581,7 +3486,7 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -3716,9 +3621,6 @@
         "depressants"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "depressant"
       ],
@@ -3783,9 +3685,9 @@
       "url": "https://psychonautwiki.org/wiki/3,4-CTMP",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -3856,7 +3758,7 @@
     },
     {
       "name": "3-Cl-PCP",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/3-Cl-PCP",
       "isApproved": true,
       "tolerance": {
@@ -3868,9 +3770,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -3902,9 +3801,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -4013,9 +3909,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -4178,9 +4071,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -4289,9 +4179,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -4410,9 +4297,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a moderate potential for adverse side effects such as psychosis",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -4481,9 +4365,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -4557,7 +4438,7 @@
         "stimulant"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "entactogen",
         "stimulant",
@@ -4697,7 +4578,7 @@
     },
     {
       "name": "3-Me-PCP",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/3-Me-PCP",
       "isApproved": false,
       "tolerance": {
@@ -4709,9 +4590,6 @@
         "dissociative"
       ],
       "addictionPotential": "produces dependence with chronic use and has a high potential for abuse",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -4867,7 +4745,7 @@
     },
     {
       "name": "3-Me-PCPy",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/3-Me-PCPy",
       "isApproved": false,
       "tolerance": {
@@ -4879,9 +4757,6 @@
         "dissociative"
       ],
       "addictionPotential": "produces dependence with chronic use and has a high potential for abuse",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -5052,9 +4927,6 @@
         "dissociatives"
       ],
       "addictionPotential": "highly addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -5181,7 +5053,7 @@
     },
     {
       "name": "3-MeO-PCMo",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/3-MeO-PCMo",
       "isApproved": true,
       "tolerance": {
@@ -5193,9 +5065,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -5276,9 +5145,6 @@
         "dissociative"
       ],
       "addictionPotential": "produces dependence with chronic use and has a high potential for abuse",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -5453,9 +5319,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -5577,7 +5440,7 @@
     },
     {
       "name": "3C-P",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/3C-P",
       "isApproved": false,
       "tolerance": {
@@ -5589,9 +5452,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -5671,9 +5531,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -5768,9 +5625,6 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with low potential for abuse",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -5917,9 +5771,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -6012,9 +5863,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -6106,9 +5954,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -6204,7 +6049,7 @@
         "stimulants"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "entactogen",
         "stimulant",
@@ -6313,9 +6158,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -6424,9 +6266,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -6517,9 +6356,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -6656,9 +6492,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -6745,9 +6578,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "tentative"
@@ -6832,9 +6662,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -6963,9 +6790,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -7057,9 +6881,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -7135,7 +6956,7 @@
     },
     {
       "name": "4-MEC",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/4-MEC",
       "isApproved": false,
       "tolerance": {
@@ -7148,9 +6969,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -7237,9 +7055,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -7377,9 +7192,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -7453,7 +7265,7 @@
     },
     {
       "name": "4F-ADB",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/4F-ADB",
       "isApproved": false,
       "tolerance": {
@@ -7465,9 +7277,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid"
       ],
@@ -7509,7 +7318,7 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -7583,9 +7392,9 @@
       "url": "https://psychonautwiki.org/wiki/4F-MPH",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -7725,9 +7534,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -7830,9 +7636,9 @@
       "url": "https://psychonautwiki.org/wiki/5-Hydroxytryptophan",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "nootropic"
       ],
@@ -7890,9 +7696,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -7996,9 +7799,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -8120,11 +7920,8 @@
         "half": "1 hour",
         "zero": "2 hours"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "non-addictive with a low abuse potential",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -8286,9 +8083,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -8362,9 +8156,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -8439,7 +8230,7 @@
     },
     {
       "name": "5-MeO-EiPT",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/5-MeO-EiPT",
       "isApproved": false,
       "tolerance": {
@@ -8451,9 +8242,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -8501,9 +8289,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -8640,7 +8425,7 @@
     },
     {
       "name": "5-MeO-aMT",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/5-MeO-aMT",
       "isApproved": false,
       "tolerance": {
@@ -8652,9 +8437,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "entactogen",
         "psychedelic"
@@ -8728,9 +8510,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid",
         "research-chemical",
@@ -8810,7 +8589,7 @@
     },
     {
       "name": "5F-PB-22",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/5F-PB-22",
       "isApproved": true,
       "tolerance": {
@@ -8822,9 +8601,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid",
         "tentative",
@@ -8926,9 +8702,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -9032,9 +8805,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -9119,13 +8889,13 @@
     },
     {
       "name": "8-Chlorotheophylline",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/8-Chlorotheophylline",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -9149,9 +8919,6 @@
         "stimulant"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -9351,9 +9118,6 @@
         "stimulant"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -9545,9 +9309,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid",
         "research-chemical",
@@ -9643,10 +9404,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown",
-        "extremely low toxicity"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -9740,10 +9497,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown",
-        "extremely low toxicity"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -9836,9 +9589,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid"
       ],
@@ -9911,11 +9661,6 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": [
-        "potentially fatal at heavy dosages",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
-        "unintentionally spilling a very small amount of acetylfentanyl on one's skin could result in a fatal overdose."
-      ],
       "categories": [
         "opioid",
         "research-chemical",
@@ -10044,7 +9789,7 @@
         "nootropic|nootropics"
       ],
       "addictionPotential": "not addictive with a low potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "nootropic",
         "stimulant",
@@ -10126,11 +9871,8 @@
         "half": "3 - 7 days",
         "zero": "1 - 2 weeks"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": [
-        "Death from ethanol consumption is possible when blood alcohol levels reach 0.4%"
-      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -10239,13 +9981,13 @@
     },
     {
       "name": "Alimemazine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Alimemazine",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic"
       ],
@@ -10296,9 +10038,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -10361,9 +10100,6 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "nootropic"
       ],
@@ -10426,10 +10162,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -10517,16 +10249,16 @@
       "url": "https://psychonautwiki.org/wiki/Amanita_muscaria",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
     },
     {
       "name": "Amantadine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Amantadine",
       "isApproved": false,
       "tolerance": null,
@@ -10534,7 +10266,7 @@
         "dissociative|dissociatives"
       ],
       "addictionPotential": "produce dependence with chronic use",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "dissociative",
         "deliriant",
@@ -10599,16 +10331,12 @@
     },
     {
       "name": "Amobarbital",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Amobarbital",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "moderate toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -10638,9 +10366,6 @@
         "stimulant"
       ],
       "addictionPotential": "has high abuse potential and can cause psychological dependence with chronic use",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -10858,9 +10583,9 @@
       "url": "https://psychonautwiki.org/wiki/Anadenanthera_peregrina",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -10882,7 +10607,7 @@
         "nootropic"
       ],
       "addictionPotential": "non-addictive with a low potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "nootropic",
         "research-chemical"
@@ -10957,9 +10682,6 @@
         "nootropic"
       ],
       "addictionPotential": "mildly addictive with a low potential for abuse",
-      "toxicities": [
-        "The median lethal dose at which 50% of participants die (LD50) from either armodafinil or modafinil for human beings has never been reached"
-      ],
       "categories": [
         "eugeroic",
         "stimulant",
@@ -11051,9 +10773,9 @@
       "url": "https://psychonautwiki.org/wiki/Atropa_belladonna",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "deliriant"
       ],
@@ -11077,11 +10799,8 @@
       "url": "https://psychonautwiki.org/wiki/Ayahuasca",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "LD50 is around 50 times a regular dose"
-      ],
       "categories": [
         "psychedelic",
         "entactogen"
@@ -11141,10 +10860,6 @@
         "GABA"
       ],
       "addictionPotential": "moderately physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids"
-      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -11224,11 +10939,8 @@
       "url": "https://psychonautwiki.org/wiki/Benzydamine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "deliriant",
         "stimulant",
@@ -11294,9 +11006,9 @@
       "url": "https://psychonautwiki.org/wiki/Bromantane",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "nootropic",
@@ -11354,13 +11066,13 @@
     },
     {
       "name": "Bromazolam",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Bromazolam",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -11391,11 +11103,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "extreme vasoconstrictive effects",
-        "one can easily overdose if this substance is not measured correctly",
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -11482,11 +11189,8 @@
         "half": "1 hour",
         "zero": "2 hours"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -11575,9 +11279,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "low toxicity"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -11640,9 +11341,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -11727,13 +11425,13 @@
     },
     {
       "name": "Cabergoline",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Cabergoline",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -11752,9 +11450,6 @@
       },
       "crossTolerances": [],
       "addictionPotential": "produces dependence with chronic use and has a low abuse potential",
-      "toxicities": [
-        "The LD50 of caffeine in humans is dependent on individual sensitivity, but is estimated to be about 150 to 200 milligrams per kilogram of body mass or roughly 80 to 100 cups of coffee for an average adult"
-      ],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -11902,11 +11597,8 @@
       "url": "https://psychonautwiki.org/wiki/Cannabidiol",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "low abuse potential",
-      "toxicities": [
-        "well-tolerated and shows little to no toxicity"
-      ],
       "categories": [
         "cannabinoid"
       ],
@@ -11980,7 +11672,7 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately habit-forming",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "habit-forming",
         "common"
@@ -12171,12 +11863,8 @@
       "url": "https://psychonautwiki.org/wiki/Carisoprodol",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "moderate toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -12237,13 +11925,13 @@
     },
     {
       "name": "Changa",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Changa",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic",
         "tentative"
@@ -12277,9 +11965,6 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "nootropic"
       ],
@@ -12357,10 +12042,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -12427,11 +12108,8 @@
       "url": "https://psychonautwiki.org/wiki/Citicoline",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "nootropic"
       ],
@@ -12511,10 +12189,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -12592,10 +12266,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -12664,9 +12334,9 @@
       "url": "https://psychonautwiki.org/wiki/Clonidine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not addictive and has a low potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "depressant",
         "common"
@@ -12754,9 +12424,6 @@
         "stimulant"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
-      "toxicities": [
-        "individuals have died from as little as 30 mg applied to mucous membranes, whereas addicts may tolerate up to 5 grams daily"
-      ],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -12898,13 +12565,13 @@
     },
     {
       "name": "Cocoa",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Cocoa",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -12925,10 +12592,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -13037,9 +12700,6 @@
         "nootropic"
       ],
       "addictionPotential": "not addictive with a low potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "nootropic",
         "research-chemical"
@@ -13141,9 +12801,9 @@
       "url": "https://psychonautwiki.org/wiki/Creatine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming with a low potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "nootropic"
       ],
@@ -13205,9 +12865,6 @@
         "stimulant"
       ],
       "addictionPotential": null,
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -13270,13 +12927,13 @@
     },
     {
       "name": "Cyclobenzaprine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Cyclobenzaprine",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic",
         "depressant",
@@ -13331,9 +12988,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -13405,9 +13059,6 @@
         "psychedelics"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "psychedelic",
         "common"
@@ -13561,9 +13212,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -13669,9 +13317,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -13812,9 +13457,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -13909,9 +13551,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -14001,11 +13640,8 @@
       "url": "https://psychonautwiki.org/wiki/DPT",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -14151,11 +13787,8 @@
         "half": "3 - 7 days",
         "zero": "1 - 2 weeks"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "mildly addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "deliriant",
         "depressant",
@@ -14204,10 +13837,6 @@
         "thienodiazepine"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -14288,9 +13917,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -14462,7 +14088,7 @@
         "opioids"
       ],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "opioid"
       ],
@@ -14522,7 +14148,7 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -14643,13 +14269,13 @@
     },
     {
       "name": "Dexamphetamine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Dexamphetamine",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "effectsSummary": "Taking dexamphetamine increases the concentration of the nerve messengers dopamine and noradrenaline. When prescribed for ADHD, the substance is supposed to act as a filter for incoming stimuli and alleviate symptoms such as distractibility, attention deficit disorder, disorganisation and impulsivity.\nHowever, due to their stimulating, energising and euphoric properties, dexamphetamine and Adderall® are also used as recreational drugs or to enhance performance",
       "dosageRemark": null,
@@ -14684,9 +14310,6 @@
         "dissociatives"
       ],
       "addictionPotential": "produces dependence with chronic use and has moderate abuse potential",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -14796,11 +14419,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "high toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
-        "known to cause potentially fatal heart arrhythmias"
-      ],
       "categories": [
         "opioid",
         "depressant",
@@ -14893,9 +14511,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -15002,10 +14617,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -15098,7 +14709,7 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -15226,10 +14837,6 @@
         "GABAergic"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -15293,10 +14900,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -15381,9 +14984,6 @@
         "deliriant"
       ],
       "addictionPotential": "produces dependence with chronic use",
-      "toxicities": [
-        "fatal at amounts close to or exceeding 2 grams"
-      ],
       "categories": [
         "deliriant",
         "depressant"
@@ -15461,9 +15061,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -15611,7 +15208,7 @@
     },
     {
       "name": "Doxylamine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Doxylamine",
       "isApproved": false,
       "tolerance": {
@@ -15623,7 +15220,7 @@
         "deliriant"
       ],
       "addictionPotential": "produces dependence with chronic use",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "deliriant",
         "depressant"
@@ -15702,9 +15299,6 @@
         "psychedelic"
       ],
       "addictionPotential": "does not produce dependence and has low abuse potential",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -15775,9 +15369,6 @@
         "stimulant"
       ],
       "addictionPotential": "mildly addictive with a comparatively low potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -15916,9 +15507,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -16001,12 +15589,8 @@
       "url": "https://psychonautwiki.org/wiki/Efavirenz",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not known to be habit-forming",
-      "toxicities": [
-        "low toxicity",
-        "may cause liver toxicity at high doses or after chronic use"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -16068,9 +15652,9 @@
       "url": "https://psychonautwiki.org/wiki/Ephedrine",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "habit-forming"
@@ -16148,9 +15732,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -16221,11 +15802,8 @@
         "half": null,
         "zero": null
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant"
@@ -16298,13 +15876,13 @@
     },
     {
       "name": "Ergotamine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Ergotamine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -16325,9 +15903,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -16391,7 +15966,7 @@
     },
     {
       "name": "Etazene",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Etazene",
       "isApproved": false,
       "tolerance": {
@@ -16403,7 +15978,7 @@
         "opioids"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -16426,10 +16001,6 @@
         "opioids"
       ],
       "addictionPotential": "very addictive with a high potential for abuse",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -16512,9 +16083,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "psychedelic",
@@ -16615,9 +16183,6 @@
         "stimulants"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -16739,10 +16304,6 @@
         "thienodiazepine"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -16819,7 +16380,7 @@
     },
     {
       "name": "Eutylone",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Eutylone",
       "isApproved": false,
       "tolerance": {
@@ -16832,9 +16393,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -16961,11 +16519,6 @@
         "GABA"
       ],
       "addictionPotential": "moderately physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids",
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "depressant"
       ],
@@ -17020,13 +16573,13 @@
     },
     {
       "name": "Fasoracetam",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Fasoracetam",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "nootropic",
         "research-chemical",
@@ -17092,11 +16645,6 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": [
-        "potentially fatal at heavy dosages",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
-        "unintentionally transporting the substance from the skin by touching the mouth, nose or eyes is dangerous"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -17266,9 +16814,9 @@
       "url": "https://psychonautwiki.org/wiki/Flualprazolam",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17364,10 +16912,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17432,10 +16976,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17482,7 +17022,7 @@
     },
     {
       "name": "Fluclotizolam",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Fluclotizolam",
       "isApproved": false,
       "tolerance": {
@@ -17495,10 +17035,6 @@
         "thienodiazepine"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17539,10 +17075,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17620,10 +17152,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17697,9 +17225,9 @@
         "half": null,
         "zero": "7 - 14 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "highly physically and moderately to highly psychologically addictive",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "depressant",
         "habit-forming",
@@ -17811,12 +17339,8 @@
         "half": null,
         "zero": "7 - 14 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "moderately to highly physically and moderately psychologically addictive",
-      "toxicities": [
-        "considered to be a safe and non-toxic substance when used responsibly or medically",
-        "Doses above 10 grams are associated with a risk of death"
-      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -17927,11 +17451,8 @@
         "half": null,
         "zero": "7-14 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": [
-        "low toxicity"
-      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -17994,13 +17515,13 @@
     },
     {
       "name": "Gaboxadol",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Gaboxadol",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "hallucinogen",
         "depressant"
@@ -18068,9 +17589,6 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "oneirogen",
         "nootropic"
@@ -18135,7 +17653,7 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "dissociative"
       ],
@@ -18310,12 +17828,8 @@
       "url": "https://psychonautwiki.org/wiki/Haloperidol",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": [
-        "can have serious side effects at higher dosages",
-        "risk of having severe extrapyramidal symptoms and muscle rigidity"
-      ],
       "categories": [
         "antipsychotic"
       ],
@@ -18380,7 +17894,7 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "opioid",
         "habit-forming",
@@ -18592,7 +18106,7 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -18662,9 +18176,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
       "categories": [
         "opioid",
         "depressant",
@@ -18747,7 +18258,7 @@
         "opioids"
       ],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "opioid",
         "habit-forming",
@@ -18862,9 +18373,9 @@
       "url": "https://psychonautwiki.org/wiki/Ibogaine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic",
         "opioid",
@@ -18930,9 +18441,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -19061,7 +18569,7 @@
     },
     {
       "name": "JWH-018",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/JWH-018",
       "isApproved": true,
       "tolerance": {
@@ -19073,9 +18581,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid"
       ],
@@ -19166,7 +18671,7 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "cannabinoid"
       ],
@@ -19242,13 +18747,13 @@
     },
     {
       "name": "Kava",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Kava",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "depressant",
         "habit-forming"
@@ -19292,7 +18797,7 @@
         "dissociative"
       ],
       "addictionPotential": "moderate to high abuse potential and produces psychological dependence with chronic use",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "dissociative",
         "habit-forming",
@@ -19471,9 +18976,6 @@
         "opioids"
       ],
       "addictionPotential": "produces dependence with chronic use and has a high abuse potential",
-      "toxicities": [
-        "low toxicity"
-      ],
       "categories": [
         "stimulant",
         "opioid",
@@ -19553,13 +19055,13 @@
     },
     {
       "name": "LAE-32",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/LAE-32",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic"
       ],
@@ -19617,11 +19119,8 @@
         "half": null,
         "zero": "7 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "non-addictive with a low abuse potential",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "common"
@@ -19709,9 +19208,6 @@
         "psychedelics"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
-      "toxicities": [
-        "extremely low toxicity relative to dose"
-      ],
       "categories": [
         "psychedelic",
         "common"
@@ -19824,9 +19320,6 @@
         "psychedelics"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -19900,11 +19393,8 @@
         "half": "3 days",
         "zero": "7 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -19988,9 +19478,9 @@
       "url": "https://psychonautwiki.org/wiki/Lisdexamfetamine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -20096,10 +19586,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -20162,9 +19648,9 @@
       "url": "https://psychonautwiki.org/wiki/MCPP",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -20262,7 +19748,7 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "entactogen",
         "stimulant",
@@ -20379,9 +19865,6 @@
         "entactogens"
       ],
       "addictionPotential": "somewhat habit-forming with a low potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -20480,9 +19963,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -20610,9 +20090,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -20732,9 +20209,9 @@
       "url": "https://psychonautwiki.org/wiki/MDPV",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "entactogen",
         "stimulant",
@@ -20821,11 +20298,8 @@
       "url": "https://psychonautwiki.org/wiki/MET",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -20993,7 +20467,7 @@
     },
     {
       "name": "MMDA",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/MMDA",
       "isApproved": false,
       "tolerance": {
@@ -21007,9 +20481,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "psychedelic"
@@ -21091,9 +20562,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -21116,7 +20584,7 @@
     },
     {
       "name": "MXPr",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/MXPr",
       "isApproved": false,
       "tolerance": {
@@ -21128,7 +20596,7 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "dissociative"
       ],
@@ -21235,9 +20703,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -21342,16 +20807,16 @@
       "url": "https://psychonautwiki.org/wiki/Mandragora",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
     },
     {
       "name": "Mebroqualone",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Mebroqualone",
       "isApproved": false,
       "tolerance": {
@@ -21364,9 +20829,6 @@
         "depressants"
       ],
       "addictionPotential": "extremely addictive",
-      "toxicities": [
-        "safe at appropriate dosages"
-      ],
       "categories": [
         "depressant",
         "research-chemical",
@@ -21466,9 +20928,6 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "oneirogen",
         "nootropic",
@@ -21537,9 +20996,6 @@
         "dissociatives"
       ],
       "addictionPotential": "unknown",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "deliriant",
@@ -21631,9 +21087,6 @@
         "stimulant"
       ],
       "addictionPotential": null,
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -21788,16 +21241,12 @@
     },
     {
       "name": "Meprobamate",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Meprobamate",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "moderate toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [],
       "interactions": {
         "dangerous": [
@@ -21830,9 +21279,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "common"
@@ -21948,10 +21394,6 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": [
-        "moderate toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -22046,9 +21488,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -22136,7 +21575,7 @@
         "stimulants"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -22477,10 +21916,6 @@
         "depressants"
       ],
       "addictionPotential": "extremely addictive",
-      "toxicities": [
-        "doses of over 300mg can be dangerous for first time users",
-        "safe at appropriate dosages"
-      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -22589,9 +22024,9 @@
       "url": "https://psychonautwiki.org/wiki/Methcathinone",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "entactogen",
         "stimulant"
@@ -22652,9 +22087,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -22768,9 +22200,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -22926,9 +22355,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -22998,9 +22424,9 @@
       "url": "https://psychonautwiki.org/wiki/Methylnaphthidate",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -23145,9 +22571,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -23257,9 +22680,9 @@
       "url": "https://psychonautwiki.org/wiki/Methylphenidate",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -23418,9 +22841,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely addictive",
-      "toxicities": [
-        "large therapeutic index and margin of safety"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -23492,9 +22912,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "entactogen",
@@ -23578,9 +22995,6 @@
         "psychedelic"
       ],
       "addictionPotential": "low potential for abuse and dependence",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -23664,9 +23078,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -23716,9 +23127,9 @@
       "url": "https://psychonautwiki.org/wiki/Midazolam",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -23755,9 +23166,9 @@
         "half": "3 days",
         "zero": "7 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "deliriant",
         "depressant",
@@ -23840,9 +23251,6 @@
         "nootropic|nootropics"
       ],
       "addictionPotential": "not addictive with a low potential for abuse",
-      "toxicities": [
-        "The median lethal dose at which 50% of participants die (LD50) from modafinil for human beings has never been reached"
-      ],
       "categories": [
         "eugeroic",
         "stimulant",
@@ -23942,13 +23350,13 @@
     },
     {
       "name": "Morning glory",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Morning_glory",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -23970,7 +23378,7 @@
         "opioids"
       ],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "opioid",
         "habit-forming",
@@ -24073,12 +23481,8 @@
       "url": "https://psychonautwiki.org/wiki/Myristicin",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "is not known to be addictive",
-      "toxicities": [
-        "is neurotoxic",
-        "can be fatal in extremely high doses"
-      ],
       "categories": [
         "deliriant"
       ],
@@ -24162,9 +23566,9 @@
       "url": "https://psychonautwiki.org/wiki/N-Acetylcysteine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "nootropic"
       ],
@@ -24230,9 +23634,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -24374,9 +23775,6 @@
         "analog"
       ],
       "addictionPotential": "mildly addictive with a low potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "nootropic"
       ],
@@ -24453,9 +23851,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -24585,7 +23980,7 @@
     },
     {
       "name": "NM-2-AI",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/NM-2-AI",
       "isApproved": true,
       "tolerance": {
@@ -24598,9 +23993,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "entactogen"
@@ -24674,9 +24066,9 @@
       "url": "https://psychonautwiki.org/wiki/Naloxone",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "opioid"
       ],
@@ -24789,9 +24181,9 @@
         "half": "3 - 7 days",
         "zero": "1 - 2 weeks"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -24940,10 +24332,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -25014,9 +24402,6 @@
       },
       "crossTolerances": [],
       "addictionPotential": "mildly addictive with a moderate potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative"
       ],
@@ -25114,10 +24499,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "moderate potential toxicity relative to its dose due to its potency",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "research-chemical",
@@ -25270,9 +24651,6 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -25393,9 +24771,6 @@
         "nootropic"
       ],
       "addictionPotential": "non-addictive with a low potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "nootropic"
       ],
@@ -25483,26 +24858,26 @@
     },
     {
       "name": "Oroxylin A",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Oroxylin_A",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
     },
     {
       "name": "Orphenadrine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Orphenadrine",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -25524,10 +24899,6 @@
         "nootropic"
       ],
       "addictionPotential": "non-addictive with a low potential for abuse",
-      "toxicities": [
-        "safe even when high doses are consumed for a long period of time",
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "nootropic"
@@ -25600,10 +24971,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -25735,7 +25102,7 @@
         "opioids"
       ],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "opioid",
         "habit-forming",
@@ -25819,9 +25186,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -25894,7 +25258,7 @@
         "dissociative"
       ],
       "addictionPotential": "highly addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "dissociative",
         "tentative",
@@ -26096,7 +25460,7 @@
         "dissociative|dissociatives"
       ],
       "addictionPotential": "highly addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "dissociative",
         "habit-forming"
@@ -26298,12 +25662,8 @@
       "url": "https://psychonautwiki.org/wiki/PMA",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": [
-        "can be considered extremely toxic when compared to other substances such as Methamphetamine or MDMA",
-        "Ingestion of PMA has been associated with severe tachycardia (abnormally high heart rate), seizures, hyperthermia, and death"
-      ],
       "categories": [
         "hallucinogen",
         "entactogen",
@@ -26368,12 +25728,8 @@
       "url": "https://psychonautwiki.org/wiki/PMMA",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": [
-        "can be considered extremely toxic when compared to other substances such as Methamphetamine or MDMA",
-        "Ingestion of PMMA has been associated with severe tachycardia (abnormally high heart rate), seizures, hyperthermia, and death"
-      ],
       "categories": [
         "entactogen"
       ],
@@ -26410,11 +25766,8 @@
         "half": null,
         "zero": null
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "mildly addictive with a low potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -26505,9 +25858,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic",
         "tentative"
@@ -26583,9 +25933,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -26721,12 +26068,8 @@
       "url": "https://psychonautwiki.org/wiki/Pentobarbital",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "moderate toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -26801,11 +26144,8 @@
         "half": null,
         "zero": null
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -26900,10 +26240,6 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
-      "toxicities": [
-        "high toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -26982,7 +26318,7 @@
     },
     {
       "name": "Phenazepam",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Phenazepam",
       "isApproved": false,
       "tolerance": {
@@ -26990,12 +26326,8 @@
         "half": null,
         "zero": "7-14 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -27075,10 +26407,6 @@
         "GABA"
       ],
       "addictionPotential": "moderately physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids"
-      ],
       "categories": [
         "depressant",
         "research-chemical",
@@ -27145,7 +26473,7 @@
     },
     {
       "name": "Phenmetrazine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Phenmetrazine",
       "isApproved": false,
       "tolerance": {
@@ -27158,9 +26486,6 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "habit-forming"
@@ -27233,12 +26558,8 @@
       "url": "https://psychonautwiki.org/wiki/Phenobarbital",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "moderate toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -27309,10 +26630,6 @@
         "nootropic"
       ],
       "addictionPotential": "non-addictive with a low potential for abuse",
-      "toxicities": [
-        "safe even when high doses are consumed for a long period of time",
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "nootropic",
@@ -27362,7 +26679,7 @@
     },
     {
       "name": "Picamilon",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Picamilon",
       "isApproved": false,
       "tolerance": null,
@@ -27370,10 +26687,6 @@
         "GABA"
       ],
       "addictionPotential": "unknown",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids"
-      ],
       "categories": [
         "depressant",
         "nootropic",
@@ -27450,7 +26763,7 @@
         "nootropic"
       ],
       "addictionPotential": "not addictive with a low potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "nootropic"
       ],
@@ -27498,13 +26811,13 @@
     },
     {
       "name": "Poppers",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Poppers",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "effectsSummary": "Muscle relaxation, drop in blood pressure, increase in heart rate, feeling of warmth or heat, short-term insensitivity to pain, euphoria and intensification of orgasm.",
       "dosageRemark": null,
@@ -27540,9 +26853,6 @@
         "nootropic"
       ],
       "addictionPotential": "not addictive with a low potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "nootropic"
       ],
@@ -27602,11 +26912,8 @@
         "half": null,
         "zero": "7 - 14 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": [
-        "low toxicity"
-      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -27746,9 +27053,9 @@
       "url": "https://psychonautwiki.org/wiki/Prochlorperazine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "antipsychotic"
       ],
@@ -27801,9 +27108,9 @@
       "url": "https://psychonautwiki.org/wiki/Prolintane",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -27894,9 +27201,9 @@
       "url": "https://psychonautwiki.org/wiki/Promethazine",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "deliriant",
         "depressant",
@@ -27978,7 +27285,7 @@
         "stimulant"
       ],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -28075,9 +27382,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "no negative health effects attributed to trying this drug"
-      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -28122,13 +27426,13 @@
     },
     {
       "name": "Pseudoephedrine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Pseudoephedrine",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant"
       ],
@@ -28214,9 +27518,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -28290,9 +27591,9 @@
       "url": "https://psychonautwiki.org/wiki/Psilocybe_cubensis",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -28317,9 +27618,6 @@
         "psychedelic"
       ],
       "addictionPotential": null,
-      "toxicities": [
-        "extremely low toxicity relative to dose"
-      ],
       "categories": [
         "psychedelic"
       ],
@@ -28423,10 +27721,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -28488,11 +27782,8 @@
         "half": null,
         "zero": "7 - 14 days"
       },
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "moderately physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity"
-      ],
       "categories": [
         "antipsychotic",
         "depressant"
@@ -28571,9 +27862,9 @@
       "url": "https://psychonautwiki.org/wiki/Risperidone",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "antipsychotic"
       ],
@@ -28636,9 +27927,9 @@
       "url": "https://psychonautwiki.org/wiki/SAM-e",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "not habit-forming with a low potential for abuse",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "nootropic"
       ],
@@ -28695,9 +27986,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid"
       ],
@@ -28792,9 +28080,6 @@
         "hallucinogen"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "hallucinogen",
         "dissociative",
@@ -28859,13 +28144,13 @@
     },
     {
       "name": "Salvinorin B methoxymethyl ether",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Salvinorin_B_methoxymethyl_ether",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "hallucinogen"
       ],
@@ -28882,11 +28167,8 @@
       "url": "https://psychonautwiki.org/wiki/Secobarbital",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "moderate toxicity"
-      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -28957,9 +28239,9 @@
       "url": "https://psychonautwiki.org/wiki/Sufentanil",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "opioid",
         "depressant",
@@ -29034,13 +28316,13 @@
     },
     {
       "name": "THC-O",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/THC-O",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "psychedelic"
       ],
@@ -29090,9 +28372,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid"
       ],
@@ -29182,9 +28461,6 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "cannabinoid"
       ],
@@ -29260,7 +28536,7 @@
     },
     {
       "name": "TMA",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/TMA",
       "isApproved": false,
       "tolerance": {
@@ -29272,9 +28548,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "stimulant",
         "psychedelic"
@@ -29332,9 +28605,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "stimulant",
         "psychedelic",
@@ -29415,9 +28685,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "stimulant",
         "psychedelic",
@@ -29512,10 +28779,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -29610,10 +28873,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -29667,7 +28926,7 @@
     },
     {
       "name": "N-Methyl-Cyclazodone",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/N-Methyl-Cyclazodone",
       "isApproved": false,
       "tolerance": {
@@ -29680,9 +28939,6 @@
         "stimulant"
       ],
       "addictionPotential": null,
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -29771,7 +29027,7 @@
       },
       "crossTolerances": [],
       "addictionPotential": "produces dependence with chronic use and has a low abuse potential",
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "nootropic"
@@ -29865,9 +29121,6 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "nootropic"
       ],
@@ -29918,26 +29171,26 @@
     },
     {
       "name": "Thebaine",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Thebaine",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
     },
     {
       "name": "Thujone",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Thujone",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
@@ -29962,9 +29215,6 @@
         "opioids"
       ],
       "addictionPotential": "mildly addictive",
-      "toxicities": [
-        "large therapeutic index and margin of safety"
-      ],
       "categories": [
         "nootropic",
         "opioid",
@@ -30046,10 +29296,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -30150,7 +29396,7 @@
     },
     {
       "name": "Triazolam",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Triazolam",
       "isApproved": false,
       "tolerance": {
@@ -30162,10 +29408,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -30235,9 +29477,9 @@
       "url": "https://psychonautwiki.org/wiki/Troparil",
       "isApproved": false,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -30361,9 +29603,6 @@
         "dopamine"
       ],
       "addictionPotential": "mildly habit forming",
-      "toxicities": [
-        "extremely low toxicity"
-      ],
       "categories": [
         "stimulant"
       ],
@@ -30449,10 +29688,6 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
-      "toxicities": [
-        "high toxicity relative to its dose due to its extreme potency",
-        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
-      ],
       "categories": [
         "opioid",
         "research-chemical",
@@ -30544,12 +29779,8 @@
       "url": "https://psychonautwiki.org/wiki/Zolpidem",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": "moderately addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
       "categories": [
         "hallucinogen",
         "depressant",
@@ -30631,10 +29862,6 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like benzodiazepines, alcohol or opioids"
-      ],
       "categories": [
         "hallucinogen",
         "depressant",
@@ -30689,20 +29916,20 @@
     },
     {
       "name": "Beta-Carboline",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Beta-Carboline",
       "isApproved": true,
       "tolerance": null,
-      "crossTolerances": null,
+      "crossTolerances": [],
       "addictionPotential": null,
-      "toxicities": null,
+      "toxicities": [],
       "categories": [],
       "interactions": null,
       "roas": []
     },
     {
       "name": "Α-PiHP",
-      "commonNames": null,
+      "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/%CE%91-PiHP",
       "isApproved": false,
       "tolerance": {
@@ -30715,9 +29942,6 @@
         "stimulant"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
       "categories": [
         "stimulant",
         "psychedelic"
@@ -30791,9 +30015,6 @@
         "psychedelics"
       ],
       "addictionPotential": "moderately habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "entactogen",
         "psychedelic"
@@ -30889,9 +30110,6 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
       "categories": [
         "psychedelic"
       ],

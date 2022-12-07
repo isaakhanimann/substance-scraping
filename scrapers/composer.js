@@ -115,6 +115,18 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
             });
         }
         substance.roas = substance.roas?.map(roa => cleanedUpRoa(roa)) ?? []
+        if (substance.commonNames == null) {
+            substance.commonNames = []
+        }
+        if (substance.name == "2C-T-21") {
+            let a = 2;
+        }
+        if (substance.crossTolerances == null) {
+            substance.crossTolerances = []
+        }
+        if (substance.toxicity == null) {
+            substance.toxicities = []
+        }
         replaceInteractions(substance?.dangerousInteractions ?? []);
         replaceInteractions(substance?.unsafeInteractions ?? []);
         replaceInteractions(substance?.uncertainInteractions ?? []);
@@ -215,7 +227,7 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
                 tolerance: onePsychonautWikiSubstance.tolerance,
                 crossTolerances: onePsychonautWikiSubstance.crossTolerances,
                 addictionPotential: onePsychonautWikiSubstance.addictionPotential,
-                toxicities: onePsychonautWikiSubstance.toxicity,
+                toxicities: onePsychonautWikiSubstance.toxicities,
                 categories: getCategoriesOfSubstance(name, onePsychonautWikiSubstance.class?.psychoactive ?? [], tripsitOptional?.categories ?? []),
                 summary: tripsitOptional?.summary,
                 effectsSummary: saferpartyOptional?.effects,
