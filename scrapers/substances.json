@@ -237,6 +237,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "moderately physically and psychologically addictive",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -319,6 +322,9 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "extremely low toxicity relative to dose"
+      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -410,6 +416,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -492,6 +501,9 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "extremely low toxicity relative to dose"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -581,6 +593,9 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "extremely low toxicity relative to dose"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -668,6 +683,10 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown",
+        "extremely low toxicity"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -843,6 +862,10 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown",
+        "extremely low toxicity"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -927,6 +950,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "stimulant",
         "psychedelic"
@@ -962,6 +988,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -1047,6 +1076,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -1149,6 +1181,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -1250,6 +1285,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -1411,6 +1449,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -1584,6 +1625,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "potentially fatal at heavy dosages"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -1620,6 +1664,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "potentially fatal at heavy dosages"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -1741,6 +1788,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "potentially fatal at heavy dosages"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -1826,6 +1876,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "fatal at heavy dosages"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2023,6 +2076,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "potentially fatal at heavy or very heavy dosages"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2070,6 +2126,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "potentially fatal at heavy dosages"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2162,6 +2221,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "potentially fatal at heavy dosages"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2315,6 +2377,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "potentially fatal at heavy dosages"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2407,6 +2472,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "non-addictive with a low potential for abuse",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "entactogen",
@@ -2584,6 +2652,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2667,6 +2738,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2758,6 +2832,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -2844,6 +2921,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -2980,6 +3060,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "stimulant",
         "psychedelic"
@@ -3014,6 +3097,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -3116,6 +3202,9 @@
         "psychedelic"
       ],
       "addictionPotential": "low potential for abuse and dependence",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -3206,6 +3295,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "no negative health effects attributed to trying this drug"
+      ],
       "categories": [
         "psychedelic",
         "entactogen",
@@ -3283,6 +3375,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "no negative health effects attributed to trying this drug"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -3621,6 +3716,9 @@
         "depressants"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "depressant"
       ],
@@ -3770,6 +3868,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for adverse side effects such as psychosis",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -3801,6 +3902,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -3909,6 +4013,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -4071,6 +4178,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -4179,6 +4289,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -4297,6 +4410,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a moderate potential for adverse side effects such as psychosis",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -4365,6 +4481,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for adverse side effects such as psychosis",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -4590,6 +4709,9 @@
         "dissociative"
       ],
       "addictionPotential": "produces dependence with chronic use and has a high potential for abuse",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -4757,6 +4879,9 @@
         "dissociative"
       ],
       "addictionPotential": "produces dependence with chronic use and has a high potential for abuse",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -4927,6 +5052,9 @@
         "dissociatives"
       ],
       "addictionPotential": "highly addictive with a high potential for adverse side effects such as psychosis",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -5065,6 +5193,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -5145,6 +5276,9 @@
         "dissociative"
       ],
       "addictionPotential": "produces dependence with chronic use and has a high potential for abuse",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -5319,6 +5453,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -5452,6 +5589,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -5531,6 +5671,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -5625,6 +5768,9 @@
         "psychedelic"
       ],
       "addictionPotential": "non-addictive with low potential for abuse",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -5771,6 +5917,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -5863,6 +6012,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -5954,6 +6106,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -6158,6 +6313,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -6266,6 +6424,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -6356,6 +6517,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -6492,6 +6656,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -6578,6 +6745,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "tentative"
@@ -6662,6 +6832,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -6790,6 +6963,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -6881,6 +7057,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -6969,6 +7148,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -7055,6 +7237,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -7192,6 +7377,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -7277,6 +7465,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid"
       ],
@@ -7534,6 +7725,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -7696,6 +7890,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -7799,6 +7996,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -7922,6 +8122,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -8083,6 +8286,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -8156,6 +8362,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -8242,6 +8451,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -8289,6 +8501,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -8437,6 +8652,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "entactogen",
         "psychedelic"
@@ -8510,6 +8728,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid",
         "research-chemical",
@@ -8601,6 +8822,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid",
         "tentative",
@@ -8702,6 +8926,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -8805,6 +9032,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -8919,6 +9149,9 @@
         "stimulant"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -9118,6 +9351,9 @@
         "stimulant"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -9309,6 +9545,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid",
         "research-chemical",
@@ -9404,6 +9643,10 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown",
+        "extremely low toxicity"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -9497,6 +9740,10 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown",
+        "extremely low toxicity"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -9589,6 +9836,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid"
       ],
@@ -9661,6 +9911,11 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
+      "toxicities": [
+        "potentially fatal at heavy dosages",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
+        "unintentionally spilling a very small amount of acetylfentanyl on one's skin could result in a fatal overdose."
+      ],
       "categories": [
         "opioid",
         "research-chemical",
@@ -9873,6 +10128,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "extremely addictive with a high potential for abuse",
+      "toxicities": [
+        "Death from ethanol consumption is possible when blood alcohol levels reach 0.4%"
+      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -10038,6 +10296,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -10100,6 +10361,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "nootropic"
       ],
@@ -10162,6 +10426,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -10337,6 +10605,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "moderate toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -10366,6 +10638,9 @@
         "stimulant"
       ],
       "addictionPotential": "has high abuse potential and can cause psychological dependence with chronic use",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -10682,6 +10957,9 @@
         "nootropic"
       ],
       "addictionPotential": "mildly addictive with a low potential for abuse",
+      "toxicities": [
+        "The median lethal dose at which 50% of participants die (LD50) from either armodafinil or modafinil for human beings has never been reached"
+      ],
       "categories": [
         "eugeroic",
         "stimulant",
@@ -10801,6 +11079,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "LD50 is around 50 times a regular dose"
+      ],
       "categories": [
         "psychedelic",
         "entactogen"
@@ -10860,6 +11141,10 @@
         "GABA"
       ],
       "addictionPotential": "moderately physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids"
+      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -10941,6 +11226,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": null,
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "deliriant",
         "stimulant",
@@ -11103,6 +11391,11 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "extreme vasoconstrictive effects",
+        "one can easily overdose if this substance is not measured correctly",
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -11191,6 +11484,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -11279,6 +11575,9 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "low toxicity"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -11341,6 +11640,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -11450,6 +11752,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "produces dependence with chronic use and has a low abuse potential",
+      "toxicities": [
+        "The LD50 of caffeine in humans is dependent on individual sensitivity, but is estimated to be about 150 to 200 milligrams per kilogram of body mass or roughly 80 to 100 cups of coffee for an average adult"
+      ],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -11599,6 +11904,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "low abuse potential",
+      "toxicities": [
+        "well-tolerated and shows little to no toxicity"
+      ],
       "categories": [
         "cannabinoid"
       ],
@@ -11865,6 +12173,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "moderate toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -11965,6 +12277,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "nootropic"
       ],
@@ -12042,6 +12357,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -12110,6 +12429,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "nootropic"
       ],
@@ -12189,6 +12511,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -12266,6 +12592,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -12424,6 +12754,9 @@
         "stimulant"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
+      "toxicities": [
+        "individuals have died from as little as 30 mg applied to mucous membranes, whereas addicts may tolerate up to 5 grams daily"
+      ],
       "categories": [
         "stimulant",
         "habit-forming",
@@ -12592,6 +12925,10 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -12700,6 +13037,9 @@
         "nootropic"
       ],
       "addictionPotential": "not addictive with a low potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "nootropic",
         "research-chemical"
@@ -12865,6 +13205,9 @@
         "stimulant"
       ],
       "addictionPotential": null,
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -12988,6 +13331,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -13059,6 +13405,9 @@
         "psychedelics"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "psychedelic",
         "common"
@@ -13212,6 +13561,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -13317,6 +13669,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -13457,6 +13812,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -13551,6 +13909,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "stimulant",
@@ -13642,6 +14003,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -13789,6 +14153,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "mildly addictive with a high potential for adverse side effects such as psychosis",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "deliriant",
         "depressant",
@@ -13837,6 +14204,10 @@
         "thienodiazepine"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -13917,6 +14288,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -14310,6 +14684,9 @@
         "dissociatives"
       ],
       "addictionPotential": "produces dependence with chronic use and has moderate abuse potential",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -14419,6 +14796,11 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "high toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
+        "known to cause potentially fatal heart arrhythmias"
+      ],
       "categories": [
         "opioid",
         "depressant",
@@ -14511,6 +14893,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -14617,6 +15002,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -14837,6 +15226,10 @@
         "GABAergic"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -14900,6 +15293,10 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -14984,6 +15381,9 @@
         "deliriant"
       ],
       "addictionPotential": "produces dependence with chronic use",
+      "toxicities": [
+        "fatal at amounts close to or exceeding 2 grams"
+      ],
       "categories": [
         "deliriant",
         "depressant"
@@ -15061,6 +15461,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -15299,6 +15702,9 @@
         "psychedelic"
       ],
       "addictionPotential": "does not produce dependence and has low abuse potential",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -15369,6 +15775,9 @@
         "stimulant"
       ],
       "addictionPotential": "mildly addictive with a comparatively low potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -15507,6 +15916,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -15591,6 +16003,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "not known to be habit-forming",
+      "toxicities": [
+        "low toxicity",
+        "may cause liver toxicity at high doses or after chronic use"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -15732,6 +16148,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -15804,6 +16223,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant"
@@ -15903,6 +16325,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -16001,6 +16426,10 @@
         "opioids"
       ],
       "addictionPotential": "very addictive with a high potential for abuse",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -16083,6 +16512,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "psychedelic",
@@ -16183,6 +16615,9 @@
         "stimulants"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -16304,6 +16739,10 @@
         "thienodiazepine"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -16393,6 +16832,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -16519,6 +16961,11 @@
         "GABA"
       ],
       "addictionPotential": "moderately physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids",
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "depressant"
       ],
@@ -16645,6 +17092,11 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
+      "toxicities": [
+        "potentially fatal at heavy dosages",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines",
+        "unintentionally transporting the substance from the skin by touching the mouth, nose or eyes is dangerous"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -16912,6 +17364,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -16976,6 +17432,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17035,6 +17495,10 @@
         "thienodiazepine"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17075,6 +17539,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17152,6 +17620,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -17341,6 +17813,10 @@
       },
       "crossTolerances": [],
       "addictionPotential": "moderately to highly physically and moderately psychologically addictive",
+      "toxicities": [
+        "considered to be a safe and non-toxic substance when used responsibly or medically",
+        "Doses above 10 grams are associated with a risk of death"
+      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -17453,6 +17929,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": null,
+      "toxicities": [
+        "low toxicity"
+      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -17589,6 +18068,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "oneirogen",
         "nootropic"
@@ -17830,6 +18312,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": null,
+      "toxicities": [
+        "can have serious side effects at higher dosages",
+        "risk of having severe extrapyramidal symptoms and muscle rigidity"
+      ],
       "categories": [
         "antipsychotic"
       ],
@@ -18176,6 +18662,9 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive",
+      "toxicities": [
+        "potentially fatal at heavy dosages"
+      ],
       "categories": [
         "opioid",
         "depressant",
@@ -18441,6 +18930,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -18581,6 +19073,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid"
       ],
@@ -18976,6 +19471,9 @@
         "opioids"
       ],
       "addictionPotential": "produces dependence with chronic use and has a high abuse potential",
+      "toxicities": [
+        "low toxicity"
+      ],
       "categories": [
         "stimulant",
         "opioid",
@@ -19121,6 +19619,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "common"
@@ -19208,6 +19709,9 @@
         "psychedelics"
       ],
       "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "extremely low toxicity relative to dose"
+      ],
       "categories": [
         "psychedelic",
         "common"
@@ -19320,6 +19824,9 @@
         "psychedelics"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -19395,6 +19902,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -19586,6 +20096,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -19865,6 +20379,9 @@
         "entactogens"
       ],
       "addictionPotential": "somewhat habit-forming with a low potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -19963,6 +20480,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -20090,6 +20610,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -20300,6 +20823,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -20481,6 +21007,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "psychedelic"
@@ -20562,6 +21091,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -20703,6 +21235,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -20829,6 +21364,9 @@
         "depressants"
       ],
       "addictionPotential": "extremely addictive",
+      "toxicities": [
+        "safe at appropriate dosages"
+      ],
       "categories": [
         "depressant",
         "research-chemical",
@@ -20928,6 +21466,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "oneirogen",
         "nootropic",
@@ -20996,6 +21537,9 @@
         "dissociatives"
       ],
       "addictionPotential": "unknown",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "deliriant",
@@ -21087,6 +21631,9 @@
         "stimulant"
       ],
       "addictionPotential": null,
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -21247,6 +21794,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "moderate toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [],
       "interactions": {
         "dangerous": [
@@ -21279,6 +21830,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "common"
@@ -21394,6 +21948,10 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
+      "toxicities": [
+        "moderate toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -21488,6 +22046,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -21916,6 +22477,10 @@
         "depressants"
       ],
       "addictionPotential": "extremely addictive",
+      "toxicities": [
+        "doses of over 300mg can be dangerous for first time users",
+        "safe at appropriate dosages"
+      ],
       "categories": [
         "depressant",
         "habit-forming"
@@ -22087,6 +22652,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -22200,6 +22768,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -22355,6 +22926,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -22571,6 +23145,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -22841,6 +23418,9 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely addictive",
+      "toxicities": [
+        "large therapeutic index and margin of safety"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -22912,6 +23492,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "entactogen",
@@ -22995,6 +23578,9 @@
         "psychedelic"
       ],
       "addictionPotential": "low potential for abuse and dependence",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -23078,6 +23664,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical",
@@ -23251,6 +23840,9 @@
         "nootropic|nootropics"
       ],
       "addictionPotential": "not addictive with a low potential for abuse",
+      "toxicities": [
+        "The median lethal dose at which 50% of participants die (LD50) from modafinil for human beings has never been reached"
+      ],
       "categories": [
         "eugeroic",
         "stimulant",
@@ -23483,6 +24075,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "is not known to be addictive",
+      "toxicities": [
+        "is neurotoxic",
+        "can be fatal in extremely high doses"
+      ],
       "categories": [
         "deliriant"
       ],
@@ -23634,6 +24230,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -23775,6 +24374,9 @@
         "analog"
       ],
       "addictionPotential": "mildly addictive with a low potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "nootropic"
       ],
@@ -23851,6 +24453,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -23993,6 +24598,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "entactogen"
@@ -24332,6 +24940,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -24402,6 +25014,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "mildly addictive with a moderate potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative"
       ],
@@ -24499,6 +25114,10 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "moderate potential toxicity relative to its dose due to its potency",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "research-chemical",
@@ -24651,6 +25270,9 @@
         "dissociative"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "dissociative",
         "research-chemical",
@@ -24771,6 +25393,9 @@
         "nootropic"
       ],
       "addictionPotential": "non-addictive with a low potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "nootropic"
       ],
@@ -24899,6 +25524,10 @@
         "nootropic"
       ],
       "addictionPotential": "non-addictive with a low potential for abuse",
+      "toxicities": [
+        "safe even when high doses are consumed for a long period of time",
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "nootropic"
@@ -24971,6 +25600,10 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -25186,6 +25819,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -25664,6 +26300,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": null,
+      "toxicities": [
+        "can be considered extremely toxic when compared to other substances such as Methamphetamine or MDMA",
+        "Ingestion of PMA has been associated with severe tachycardia (abnormally high heart rate), seizures, hyperthermia, and death"
+      ],
       "categories": [
         "hallucinogen",
         "entactogen",
@@ -25730,6 +26370,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": null,
+      "toxicities": [
+        "can be considered extremely toxic when compared to other substances such as Methamphetamine or MDMA",
+        "Ingestion of PMMA has been associated with severe tachycardia (abnormally high heart rate), seizures, hyperthermia, and death"
+      ],
       "categories": [
         "entactogen"
       ],
@@ -25768,6 +26412,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "mildly addictive with a low potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -25858,6 +26505,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic",
         "tentative"
@@ -25933,6 +26583,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "research-chemical",
@@ -26070,6 +26723,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "moderate toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -26146,6 +26803,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "entactogen",
         "stimulant",
@@ -26240,6 +26900,10 @@
         "opioids"
       ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
+      "toxicities": [
+        "high toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -26328,6 +26992,10 @@
       },
       "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -26407,6 +27075,10 @@
         "GABA"
       ],
       "addictionPotential": "moderately physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids"
+      ],
       "categories": [
         "depressant",
         "research-chemical",
@@ -26486,6 +27158,9 @@
         "stimulant"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "habit-forming"
@@ -26560,6 +27235,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "moderate toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -26630,6 +27309,10 @@
         "nootropic"
       ],
       "addictionPotential": "non-addictive with a low potential for abuse",
+      "toxicities": [
+        "safe even when high doses are consumed for a long period of time",
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "nootropic",
@@ -26687,6 +27370,10 @@
         "GABA"
       ],
       "addictionPotential": "unknown",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol, benzodiazepines or opioids"
+      ],
       "categories": [
         "depressant",
         "nootropic",
@@ -26853,6 +27540,9 @@
         "nootropic"
       ],
       "addictionPotential": "not addictive with a low potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "nootropic"
       ],
@@ -26914,6 +27604,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": null,
+      "toxicities": [
+        "low toxicity"
+      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -27382,6 +28075,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "no negative health effects attributed to trying this drug"
+      ],
       "categories": [
         "psychedelic",
         "research-chemical"
@@ -27518,6 +28214,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "psychedelic",
         "tentative",
@@ -27618,6 +28317,9 @@
         "psychedelic"
       ],
       "addictionPotential": null,
+      "toxicities": [
+        "extremely low toxicity relative to dose"
+      ],
       "categories": [
         "psychedelic"
       ],
@@ -27721,6 +28423,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -27784,6 +28490,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "moderately physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity"
+      ],
       "categories": [
         "antipsychotic",
         "depressant"
@@ -27986,6 +28695,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid"
       ],
@@ -28080,6 +28792,9 @@
         "hallucinogen"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "hallucinogen",
         "dissociative",
@@ -28169,6 +28884,9 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "moderate toxicity"
+      ],
       "categories": [
         "depressant",
         "habit-forming",
@@ -28372,6 +29090,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid"
       ],
@@ -28461,6 +29182,9 @@
         "cannabinoids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "cannabinoid"
       ],
@@ -28548,6 +29272,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "stimulant",
         "psychedelic"
@@ -28605,6 +29332,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "stimulant",
         "psychedelic",
@@ -28685,6 +29415,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "stimulant",
         "psychedelic",
@@ -28779,6 +29512,10 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -28873,6 +29610,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -28939,6 +29680,9 @@
         "stimulant"
       ],
       "addictionPotential": null,
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -29121,6 +29865,9 @@
       },
       "crossTolerances": [],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "nootropic"
       ],
@@ -29215,6 +29962,9 @@
         "opioids"
       ],
       "addictionPotential": "mildly addictive",
+      "toxicities": [
+        "large therapeutic index and margin of safety"
+      ],
       "categories": [
         "nootropic",
         "opioid",
@@ -29296,6 +30046,10 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "habit-forming",
@@ -29408,6 +30162,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "depressant",
         "benzodiazepine",
@@ -29603,6 +30361,9 @@
         "dopamine"
       ],
       "addictionPotential": "mildly habit forming",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "stimulant"
       ],
@@ -29688,6 +30449,10 @@
         "opioids"
       ],
       "addictionPotential": "moderately addictive with a high potential for abuse",
+      "toxicities": [
+        "high toxicity relative to its dose due to its extreme potency",
+        "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
+      ],
       "categories": [
         "opioid",
         "research-chemical",
@@ -29781,6 +30546,10 @@
       "tolerance": null,
       "crossTolerances": [],
       "addictionPotential": "moderately addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
       "categories": [
         "hallucinogen",
         "depressant",
@@ -29862,6 +30631,10 @@
         "benzodiazepines"
       ],
       "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like benzodiazepines, alcohol or opioids"
+      ],
       "categories": [
         "hallucinogen",
         "depressant",
@@ -29942,6 +30715,9 @@
         "stimulant"
       ],
       "addictionPotential": "highly addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
       "categories": [
         "stimulant",
         "psychedelic"
@@ -30015,6 +30791,9 @@
         "psychedelics"
       ],
       "addictionPotential": "moderately habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "entactogen",
         "psychedelic"
@@ -30110,6 +30889,9 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
       "categories": [
         "psychedelic"
       ],

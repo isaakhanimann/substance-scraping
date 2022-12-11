@@ -118,14 +118,16 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         if (substance.commonNames == null) {
             substance.commonNames = []
         }
-        if (substance.name == "2C-T-21") {
-            let a = 2;
-        }
+        // if (substance.name == "1B-LSD") {
+        //     let a = 2;
+        // }
         if (substance.crossTolerances == null) {
             substance.crossTolerances = []
         }
         if (substance.toxicity == null) {
             substance.toxicities = []
+        } else {
+            substance.toxicities = substance.toxicity
         }
         replaceInteractions(substance?.dangerousInteractions ?? []);
         replaceInteractions(substance?.unsafeInteractions ?? []);
