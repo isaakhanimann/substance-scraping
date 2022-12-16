@@ -164,6 +164,7 @@ function replaceInteractions(array) {
 
 function cleanedUpRoa(roa) {
     roa.duration = cleanupDuration(roa.duration)
+    roa.dose = cleanupDose(roa.dose)
     return roa
 }
 
@@ -184,6 +185,24 @@ function cleanupDuration(duration) {
             offset: offsetValue,
             total: totalValue,
             afterglow: afterglowValue
+        }
+    }
+}
+
+function cleanupDose(dose) {
+    let lightMin = dose?.threshold ?? dose?.light?.min
+    let commonMin = dose?.common?.min ?? dose?.light?.max
+    let strongMin = dose?.strong?.min ?? dose?.common?.max
+    let heavyMin = dose?.heavy ?? dose?.strong?.max
+    if (dose?.units == null && lightMin == null && commonMin == null && strongMin == null && heavyMin == null) {
+        return null
+    } else {
+        return {
+            units: dose.units,
+            lightMin: lightMin,
+            commonMin: commonMin,
+            strongMin: strongMin,
+            heavyMin: heavyMin,
         }
     }
 }
