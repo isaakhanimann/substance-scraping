@@ -194,7 +194,7 @@ function cleanupDose(dose) {
     let commonMin = dose?.common?.min ?? dose?.light?.max
     let strongMin = dose?.strong?.min ?? dose?.common?.max
     let heavyMin = dose?.heavy ?? dose?.strong?.max
-    if (dose?.units == null && lightMin == null && commonMin == null && strongMin == null && heavyMin == null) {
+    if (dose?.units == null || dose?.units?.length === 0) {
         return null
     } else {
         return {
