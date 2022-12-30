@@ -1,4 +1,4 @@
 .DS_Store
-/scrapers/.idea
-/scrapers/node_modules
-/scrapers/package-lock.json
+.idea
+node_modules
+package-lock.json
