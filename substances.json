@@ -8904,7 +8904,10 @@
         "half": "3 - 7 days",
         "zero": "1 - 2 weeks"
       },
-      "crossTolerances": [],
+      "crossTolerances": [
+        "GABA",
+        "depressants"
+      ],
       "addictionPotential": "extremely addictive with a high potential for abuse",
       "toxicities": [
         "Death from ethanol consumption is possible when blood alcohol levels reach 0.4%"
@@ -16999,18 +17002,18 @@
               "units": "minutes"
             },
             "peak": {
+              "min": 15,
+              "max": 45,
+              "units": "minutes"
+            },
+            "offset": {
               "min": 30,
               "max": 60,
               "units": "minutes"
             },
-            "offset": {
-              "min": 3,
-              "max": 6,
-              "units": "hours"
-            },
             "total": {
-              "min": 3.5,
-              "max": 7.5,
+              "min": 1,
+              "max": 2,
               "units": "hours"
             },
             "afterglow": {
@@ -27001,7 +27004,7 @@
           "Cocaine",
           "DOx",
           "Dextromethorphan",
-          "MAOIs",
+          "MAOI",
           "MDMA",
           "Mescaline",
           "Methoxetamine",

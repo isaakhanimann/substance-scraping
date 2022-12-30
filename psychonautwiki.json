@@ -11776,7 +11776,10 @@
         "toxicity": [
           "Death from ethanol consumption is possible when blood alcohol levels reach 0.4%"
         ],
-        "crossTolerances": null,
+        "crossTolerances": [
+          "GABA",
+          "depressants"
+        ],
         "uncertainInteractions": [
           {
             "name": "Cannabis"
@@ -22305,18 +22308,18 @@
                 "units": "minutes"
               },
               "peak": {
+                "min": 15,
+                "max": 45,
+                "units": "minutes"
+              },
+              "offset": {
                 "min": 30,
                 "max": 60,
                 "units": "minutes"
               },
-              "offset": {
-                "min": 3,
-                "max": 6,
-                "units": "hours"
-              },
               "total": {
-                "min": 3.5,
-                "max": 7.5,
+                "min": 1,
+                "max": 2,
                 "units": "hours"
               },
               "afterglow": {
@@ -36238,7 +36241,7 @@
             "name": "Dextromethorphan"
           },
           {
-            "name": "MAOIs"
+            "name": "MAOI"
           },
           {
             "name": "MDMA"
@@ -36256,7 +36259,7 @@
             "name": "PCP"
           },
           {
-            "name": "SSRIs"
+            "name": "Selective serotonin reuptake inhibitor"
           },
           {
             "name": "Tramadol"
