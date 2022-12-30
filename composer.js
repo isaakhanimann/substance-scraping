@@ -9,8 +9,8 @@ const assert = require("assert");
     let approvedSubstances = JSON.parse(approvedContent);
     let saferContent = await fsPromises.readFile('./saferparty.json', 'utf-8');
     let saferpartySubstances = JSON.parse(saferContent);
-    let tripsitContent = await fsPromises.readFile('./tripsit.json', 'utf-8');
-    let tripsitSubstances = cleanupTripsitSubstances(JSON.parse(tripsitContent));
+    let tripsitContent = await fsPromises.readFile('./tripsitCleaned.json', 'utf-8');
+    let tripsitSubstances = JSON.parse(tripsitContent);
     let finalSubstances = getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances, approvedSubstances);
     let categoriesContent = await fsPromises.readFile('./categories.json', 'utf-8');
     let categories = JSON.parse(categoriesContent);
@@ -134,20 +134,6 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         replaceInteractions(substance?.uncertainInteractions ?? []);
     })
     return substances
-}
-
-function cleanupTripsitSubstances(tripsitSubstances) {
-    return tripsitSubstances.map(substance => {
-        let newCategories = substance.categories.map(catName => {
-            if (catName === "empathogen") {
-                return "entactogen";
-            } else {
-                return catName
-            }
-        });
-        substance.categories = newCategories.filter(name => name !== "supplement")
-        return substance
-    });
 }
 
 function replaceInteractions(array) {
