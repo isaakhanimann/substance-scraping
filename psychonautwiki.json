@@ -14837,7 +14837,8 @@
           "Girl",
           "White",
           "Snow",
-          "Nose Candy"
+          "Nose Candy",
+          "Chari"
         ],
         "url": "https://psychonautwiki.org/wiki/Cocaine",
         "class": {
@@ -14854,39 +14855,6 @@
           "zero": "1 - 2 weeks"
         },
         "roas": [
-          {
-            "name": "inhaled",
-            "dose": null,
-            "duration": {
-              "onset": {
-                "min": 3,
-                "max": 5,
-                "units": "seconds"
-              },
-              "comeup": {
-                "min": 1,
-                "max": 2,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": 2,
-                "max": 10,
-                "units": "minutes"
-              },
-              "offset": {
-                "min": 1,
-                "max": 5,
-                "units": "minutes"
-              },
-              "total": {
-                "min": 5,
-                "max": 15,
-                "units": "minutes"
-              },
-              "afterglow": null
-            },
-            "bioavailability": null
-          },
           {
             "name": "insufflated",
             "dose": {
@@ -14930,6 +14898,39 @@
               "total": {
                 "min": 10,
                 "max": 90,
+                "units": "minutes"
+              },
+              "afterglow": null
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "smoked",
+            "dose": null,
+            "duration": {
+              "onset": {
+                "min": 3,
+                "max": 5,
+                "units": "seconds"
+              },
+              "comeup": {
+                "min": 1,
+                "max": 2,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 2,
+                "max": 10,
+                "units": "minutes"
+              },
+              "offset": {
+                "min": 1,
+                "max": 5,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 5,
+                "max": 15,
                 "units": "minutes"
               },
               "afterglow": null
