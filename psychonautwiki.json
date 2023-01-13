@@ -28662,7 +28662,9 @@
           }
         ],
         "addictionPotential": "extremely addictive with a high potential for abuse",
-        "toxicity": null,
+        "toxicity": [
+          "estimated oral LD50 of 6.5 - 13 mg/kg in humans"
+        ],
         "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
@@ -32392,99 +32394,6 @@
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
-      },
-      {
-        "name": "Pseudoephedrine",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Pseudoephedrine",
-        "class": {
-          "chemical": [
-            "Amphetamine"
-          ],
-          "psychoactive": [
-            "Stimulants"
-          ]
-        },
-        "tolerance": null,
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": 30,
-              "light": {
-                "min": 30,
-                "max": 60
-              },
-              "common": {
-                "min": 60,
-                "max": 120
-              },
-              "strong": {
-                "min": 120,
-                "max": 180
-              },
-              "heavy": 180
-            },
-            "duration": {
-              "onset": {
-                "min": 20,
-                "max": 90,
-                "units": "minutes"
-              },
-              "comeup": null,
-              "peak": null,
-              "offset": null,
-              "total": {
-                "min": 2,
-                "max": 5,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": 2,
-                "max": 4,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          }
-        ],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": [
-          {
-            "name": "Alcohol"
-          },
-          {
-            "name": "Methoxetamine"
-          },
-          {
-            "name": "Dissociatives"
-          }
-        ],
-        "unsafeInteractions": [
-          {
-            "name": "Dextromethorphan"
-          },
-          {
-            "name": "MDMA"
-          },
-          {
-            "name": "Stimulants"
-          }
-        ],
-        "dangerousInteractions": [
-          {
-            "name": "25x-NBOMe"
-          },
-          {
-            "name": "25x-NBOH"
-          },
-          {
-            "name": "Tramadol"
-          }
-        ]
       },
       {
         "name": "Psilocin",
