@@ -15,6 +15,7 @@ const assert = require("assert");
     let categoriesContent = await fsPromises.readFile('./categories.json', 'utf-8');
     let categories = JSON.parse(categoriesContent);
     let inferredCategoryNames = getAllCategoriesOfSubstances(finalSubstances);
+    // console.log(`Its substance: ${finalSubstances[161].name}`);
     let explicitCategoryNames = categories.map(i => i.name);
     let diff1 = inferredCategoryNames.filter(i => !explicitCategoryNames.includes(i));
     let diff2 = explicitCategoryNames.filter(i => !inferredCategoryNames.includes(i));
@@ -194,7 +195,7 @@ function cleanupDose(dose) {
 }
 
 function cleanupDurationRange(range) {
-    if (range?.units === "Hours#") {
+    if (range?.units === "Hours#" || range?.units === "Hours") {
         range.units = "hours"
         return range
     }
