@@ -20875,13 +20875,13 @@
             "onset": {
               "min": 15,
               "max": 30,
-              "units": "min"
+              "units": "minutes"
             },
             "comeup": null,
             "peak": {
               "min": 90,
               "max": 180,
-              "units": "min"
+              "units": "minutes"
             },
             "offset": {
               "min": 2,
