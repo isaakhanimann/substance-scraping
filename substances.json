@@ -19576,7 +19576,7 @@
             "afterglow": {
               "min": 12,
               "max": 24,
-              "units": "Hours#"
+              "units": "hours"
             }
           },
           "bioavailability": null

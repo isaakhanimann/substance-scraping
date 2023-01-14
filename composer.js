@@ -194,6 +194,10 @@ function cleanupDose(dose) {
 }
 
 function cleanupDurationRange(range) {
+    if (range?.units === "Hours#") {
+        range.units = "hours"
+        return range
+    }
     if (range?.min == null && range?.max == null) {
         return null
     } else {
