@@ -633,7 +633,7 @@
   },
   {
     "name": "DOC",
-    "isApproved": false
+    "isApproved": true
   },
   {
     "name": "DOI",
@@ -717,7 +717,7 @@
   },
   {
     "name": "Dihydrocodeine",
-    "isApproved": false
+    "isApproved": true
   },
   {
     "name": "Diphenhydramine",
@@ -1076,10 +1076,6 @@
     "isApproved": true
   },
   {
-    "name": "Methcathinone",
-    "isApproved": false
-  },
-  {
     "name": "Methiopropamine",
     "isApproved": true
   },
@@ -1144,6 +1140,10 @@
     "isApproved": true
   },
   {
+    "name": "N-(2C)-fentanyl",
+    "isApproved": true
+  },
+  {
     "name": "N-Acetylcysteine",
     "isApproved": true
   },
@@ -1198,6 +1198,10 @@
   {
     "name": "Opioids",
     "isApproved": true
+  },
+  {
+    "name": "Oroxylin A",
+    "isApproved": false
   },
   {
     "name": "Orphenadrine",
