@@ -17929,7 +17929,7 @@
               "afterglow": {
                 "min": 4,
                 "max": 24,
-                "units": "Hours"
+                "units": "hours"
               }
             },
             "bioavailability": null
@@ -23278,7 +23278,7 @@
             "name": "2C-x"
           },
           {
-            "name": "dox"
+            "name": "DOx"
           },
           {
             "name": "Ketamine"
@@ -23287,7 +23287,7 @@
             "name": "Mescaline"
           },
           {
-            "name": "nbomes"
+            "name": "25x-NBOMe"
           },
           {
             "name": "Opioids"
@@ -23303,7 +23303,7 @@
         ],
         "dangerousInteractions": [
           {
-            "name": "5-meo-xxt"
+            "name": "5-MeO-xxT"
           },
           {
             "name": "Substituted amphetamines"
@@ -23324,7 +23324,7 @@
             "name": "PCP"
           },
           {
-            "name": "ssris"
+            "name": "Selective serotonin reuptake inhibitor"
           },
           {
             "name": "Tramadol"
@@ -26070,20 +26070,11 @@
             "name": "oral",
             "dose": {
               "units": "mg",
-              "threshold": 25,
-              "light": {
-                "min": 50,
-                "max": 100
-              },
-              "common": {
-                "min": 100,
-                "max": 200
-              },
-              "strong": {
-                "min": 200,
-                "max": 300
-              },
-              "heavy": 300
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
             },
             "duration": null,
             "bioavailability": null
@@ -27394,13 +27385,13 @@
               "onset": {
                 "min": 15,
                 "max": 30,
-                "units": "min"
+                "units": "minutes"
               },
               "comeup": null,
               "peak": {
                 "min": 90,
                 "max": 180,
-                "units": "min"
+                "units": "minutes"
               },
               "offset": {
                 "min": 2,
@@ -27802,6 +27793,20 @@
             "name": "Diphenhydramine"
           }
         ]
+      },
+      {
+        "name": "N-(2C)-fentanyl",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/N-(2C)-fentanyl",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
       },
       {
         "name": "N-Acetylcysteine",
@@ -32396,6 +32401,99 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Pseudoephedrine",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Pseudoephedrine",
+        "class": {
+          "chemical": [
+            "Amphetamine"
+          ],
+          "psychoactive": [
+            "Stimulants"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 30,
+              "light": {
+                "min": 30,
+                "max": 60
+              },
+              "common": {
+                "min": 60,
+                "max": 120
+              },
+              "strong": {
+                "min": 120,
+                "max": 180
+              },
+              "heavy": 180
+            },
+            "duration": {
+              "onset": {
+                "min": 20,
+                "max": 90,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": null,
+              "offset": null,
+              "total": {
+                "min": 2,
+                "max": 5,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": [
+          {
+            "name": "Alcohol"
+          },
+          {
+            "name": "Methoxetamine"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
+        "unsafeInteractions": [
+          {
+            "name": "Dextromethorphan"
+          },
+          {
+            "name": "MDMA"
+          },
+          {
+            "name": "Stimulants"
+          }
+        ],
+        "dangerousInteractions": [
+          {
+            "name": "25x-NBOMe"
+          },
+          {
+            "name": "25x-NBOH"
+          },
+          {
+            "name": "Tramadol"
+          }
+        ]
+      },
+      {
         "name": "Psilocin",
         "commonNames": [
           "Psilocin",
@@ -32827,7 +32925,7 @@
             "name": "2C-x"
           },
           {
-            "name": "dox"
+            "name": "DOx"
           },
           {
             "name": "Ketamine"
@@ -32836,7 +32934,7 @@
             "name": "Mescaline"
           },
           {
-            "name": "nbomes"
+            "name": "25x-NBOMe"
           },
           {
             "name": "Opioids"
@@ -32852,7 +32950,7 @@
         ],
         "dangerousInteractions": [
           {
-            "name": "5-meo-xxt"
+            "name": "5-MeO-xxT"
           },
           {
             "name": "Substituted amphetamines"
@@ -32873,7 +32971,7 @@
             "name": "PCP"
           },
           {
-            "name": "ssris"
+            "name": "Selective serotonin reuptake inhibitor"
           },
           {
             "name": "Tramadol"

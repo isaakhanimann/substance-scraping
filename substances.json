@@ -12041,7 +12041,7 @@
         "DOC"
       ],
       "url": "https://psychonautwiki.org/wiki/DOC",
-      "isApproved": false,
+      "isApproved": true,
       "tolerance": {
         "full": "almost immediately after ingestion",
         "half": "3 days",
@@ -13445,7 +13445,7 @@
         "Dihydrocodeine"
       ],
       "url": "https://psychonautwiki.org/wiki/Dihydrocodeine",
-      "isApproved": false,
+      "isApproved": true,
       "tolerance": {
         "full": "develops with prolonged and repeated use",
         "half": "3 - 7 days",
@@ -19836,7 +19836,7 @@
         "stimulant"
       ],
       "effectsSummary": "The effect of methcathinone is in no way directly comparable to that of the khat plant, which is traditionally consumed in Yemen, Ethiopia and Kenya. It is much more similar to the effect of other uppers such as speed. Methcathinone suppresses fatigue and hunger. It causes an increase in drive and performance, euphoria, an increased urge to talk, disinhibition, extroversion, inner restlessness and hyperactivity.",
-      "dosageRemark": null,
+      "dosageRemark": "Snorted: 50 - 70 mg (never more than 300 mg per night!)",
       "generalRisks": "Methcathinone puts considerable strain on the heart and circulation. Since the effect of methcathinone seems rather subtle at first, there is a risk of overdose by refilling. Overdoses can cause fluttering of the heart, stomach problems, restlessness and sleep disturbances. According to reports from users, there is an increased urge to urinate, but urination can be difficult.\nSome users report depressive states when coming down.\nMethcathinone, like speed, can have increased impurities and high levels of extenders as it is often produced in illegal home labs.",
       "longtermRisks": "There is a risk of dependence with psychological symptoms. In the case of long-term, high-dose consumption, the psychological and physical risks are similar to those of speed, cocaine or methamphetamine. In the laboratory, a so-called \"craving\" (urge to consume even more) could also be observed in experimental animals.",
       "saferUse": [
@@ -19853,11 +19853,7 @@
         {
           "name": "oral",
           "dose": {
-            "units": "mg",
-            "lightMin": 25,
-            "commonMin": 100,
-            "strongMin": 200,
-            "heavyMin": 300
+            "units": "mg"
           },
           "duration": null,
           "bioavailability": null
@@ -24630,6 +24626,69 @@
               "units": "hours"
             },
             "afterglow": null
+          },
+          "bioavailability": null
+        }
+      ]
+    },
+    {
+      "name": "Pseudoephedrine",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Pseudoephedrine",
+      "isApproved": false,
+      "tolerance": null,
+      "crossTolerances": [],
+      "addictionPotential": null,
+      "toxicities": [],
+      "categories": [
+        "stimulant"
+      ],
+      "interactions": {
+        "dangerous": [
+          "25x-NBOMe",
+          "25x-NBOH",
+          "Tramadol"
+        ],
+        "unsafe": [
+          "Dextromethorphan",
+          "MDMA",
+          "Stimulants"
+        ],
+        "uncertain": [
+          "Alcohol",
+          "Methoxetamine",
+          "Dissociatives"
+        ]
+      },
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 30,
+            "commonMin": 60,
+            "strongMin": 120,
+            "heavyMin": 180
+          },
+          "duration": {
+            "onset": {
+              "min": 20,
+              "max": 90,
+              "units": "minutes"
+            },
+            "comeup": null,
+            "peak": null,
+            "offset": null,
+            "total": {
+              "min": 2,
+              "max": 5,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            }
           },
           "bioavailability": null
         }
