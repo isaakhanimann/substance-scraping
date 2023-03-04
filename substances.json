@@ -6878,6 +6878,38 @@
       ]
     },
     {
+      "name": "5-Br-DMT",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/5-Br-DMT",
+      "isApproved": false,
+      "tolerance": null,
+      "crossTolerances": [],
+      "addictionPotential": null,
+      "toxicities": [],
+      "categories": [
+        "psychedelic"
+      ],
+      "interactions": null,
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg"
+          },
+          "duration": null,
+          "bioavailability": null
+        },
+        {
+          "name": "sublingual",
+          "dose": {
+            "units": "mg"
+          },
+          "duration": null,
+          "bioavailability": null
+        }
+      ]
+    },
+    {
       "name": "5-Hydroxytryptophan",
       "commonNames": [
         "5-HTP",
@@ -8895,7 +8927,8 @@
         "Liquor",
         "Moonshine",
         "Sauce",
-        "Juice"
+        "Juice",
+        "Bevvy"
       ],
       "url": "https://psychonautwiki.org/wiki/Alcohol",
       "isApproved": true,
@@ -8966,11 +8999,11 @@
         {
           "name": "oral",
           "dose": {
-            "units": "mL EtOH",
-            "lightMin": 13,
-            "commonMin": 38,
-            "strongMin": 64,
-            "heavyMin": 76
+            "units": "g",
+            "lightMin": 10,
+            "commonMin": 20,
+            "strongMin": 30,
+            "heavyMin": 40
           },
           "duration": {
             "onset": {
@@ -9936,6 +9969,38 @@
       ]
     },
     {
+      "name": "Bisfluoromodafinil",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Bisfluoromodafinil",
+      "isApproved": false,
+      "tolerance": null,
+      "crossTolerances": [],
+      "addictionPotential": null,
+      "toxicities": [],
+      "categories": [
+        "psychedelic"
+      ],
+      "interactions": null,
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg"
+          },
+          "duration": null,
+          "bioavailability": null
+        },
+        {
+          "name": "sublingual",
+          "dose": {
+            "units": "mg"
+          },
+          "duration": null,
+          "bioavailability": null
+        }
+      ]
+    },
+    {
       "name": "Bromantane",
       "commonNames": [
         "Bromantane",
@@ -10241,6 +10306,38 @@
         ]
       },
       "roas": []
+    },
+    {
+      "name": "Buspirone",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Buspirone",
+      "isApproved": false,
+      "tolerance": null,
+      "crossTolerances": [],
+      "addictionPotential": null,
+      "toxicities": [],
+      "categories": [
+        "psychedelic"
+      ],
+      "interactions": null,
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg"
+          },
+          "duration": null,
+          "bioavailability": null
+        },
+        {
+          "name": "sublingual",
+          "dose": {
+            "units": "mg"
+          },
+          "duration": null,
+          "bioavailability": null
+        }
+      ]
     },
     {
       "name": "Butylone",
@@ -10719,6 +10816,38 @@
             },
             "afterglow": null
           },
+          "bioavailability": null
+        }
+      ]
+    },
+    {
+      "name": "Cariprazine",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Cariprazine",
+      "isApproved": false,
+      "tolerance": null,
+      "crossTolerances": [],
+      "addictionPotential": null,
+      "toxicities": [],
+      "categories": [
+        "psychedelic"
+      ],
+      "interactions": null,
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg"
+          },
+          "duration": null,
+          "bioavailability": null
+        },
+        {
+          "name": "sublingual",
+          "dose": {
+            "units": "mg"
+          },
+          "duration": null,
           "bioavailability": null
         }
       ]
@@ -19816,51 +19945,6 @@
       ]
     },
     {
-      "name": "Methcathinone",
-      "commonNames": [
-        "Methcathinone",
-        "Ephedrone",
-        "Methcat",
-        "Cat",
-        "Jeff",
-        "MC"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Methcathinone",
-      "isApproved": false,
-      "tolerance": null,
-      "crossTolerances": [],
-      "addictionPotential": null,
-      "toxicities": [],
-      "categories": [
-        "entactogen",
-        "stimulant"
-      ],
-      "effectsSummary": "The effect of methcathinone is in no way directly comparable to that of the khat plant, which is traditionally consumed in Yemen, Ethiopia and Kenya. It is much more similar to the effect of other uppers such as speed. Methcathinone suppresses fatigue and hunger. It causes an increase in drive and performance, euphoria, an increased urge to talk, disinhibition, extroversion, inner restlessness and hyperactivity.",
-      "dosageRemark": "Snorted: 50 - 70 mg (never more than 300 mg per night!)",
-      "generalRisks": "Methcathinone puts considerable strain on the heart and circulation. Since the effect of methcathinone seems rather subtle at first, there is a risk of overdose by refilling. Overdoses can cause fluttering of the heart, stomach problems, restlessness and sleep disturbances. According to reports from users, there is an increased urge to urinate, but urination can be difficult.\nSome users report depressive states when coming down.\nMethcathinone, like speed, can have increased impurities and high levels of extenders as it is often produced in illegal home labs.",
-      "longtermRisks": "There is a risk of dependence with psychological symptoms. In the case of long-term, high-dose consumption, the psychological and physical risks are similar to those of speed, cocaine or methamphetamine. In the laboratory, a so-called \"craving\" (urge to consume even more) could also be observed in experimental animals.",
-      "saferUse": [
-        "Dose methcathinone carefully and do not add more right away.",
-        "Refrain from mixed use whenever possible. Above all, do not mix methcathinone with other drugs such as speed or cocaine.",
-        "Do not mix methcathinone with alcohol, this only increases the side effects.",
-        "Methcathinone has a very draining effect - so take breaks from using it and give yourself enough rest.",
-        "Drink water or fruit juices regularly, but not too much, as urination on methcathinone can be tedious.",
-        "Make sure you eat a balanced, healthy diet with enough vitamins and minerals.",
-        "Follow the safer sniffing rules!"
-      ],
-      "interactions": null,
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg"
-          },
-          "duration": null,
-          "bioavailability": null
-        }
-      ]
-    },
-    {
       "name": "Methiopropamine",
       "commonNames": [
         "MPA"
@@ -22003,6 +22087,69 @@
               "min": 15,
               "max": 30,
               "units": "minutes"
+            }
+          },
+          "bioavailability": null
+        }
+      ]
+    },
+    {
+      "name": "Norflurazepam",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Norflurazepam",
+      "isApproved": false,
+      "tolerance": null,
+      "crossTolerances": [],
+      "addictionPotential": null,
+      "toxicities": [],
+      "categories": [
+        "benzodiazepine",
+        "depressant",
+        "tentative",
+        "habit-forming"
+      ],
+      "summary": "Benzodiazepine analogue that is an active metabolite to many other benzodiazepines, such as Flurazepam, Flutoprazepam, and Midazolam.",
+      "interactions": null,
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 1,
+            "commonMin": 5,
+            "strongMin": 10,
+            "heavyMin": 20
+          },
+          "duration": {
+            "onset": {
+              "min": 40,
+              "max": 120,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 40,
+              "max": 120,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 8,
+              "max": 10,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 8,
+              "max": 10,
+              "units": "hours"
+            },
+            "total": {
+              "min": 10,
+              "max": 16,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
+              "units": "hours"
             }
           },
           "bioavailability": null

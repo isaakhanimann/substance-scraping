@@ -8970,6 +8970,116 @@
         ]
       },
       {
+        "name": "5-Br-DMT",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/5-Br-DMT",
+        "class": {
+          "chemical": [
+            "Substituted tryptamines"
+          ],
+          "psychoactive": [
+            "Psychedelics"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "sublingual",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "5-Hydroxytryptophan",
         "commonNames": [
           "5-HTP",
@@ -11701,7 +11811,8 @@
           "Liquor",
           "Moonshine",
           "Sauce",
-          "Juice"
+          "Juice",
+          "Bevvy"
         ],
         "url": "https://psychonautwiki.org/wiki/Alcohol",
         "class": {
@@ -11721,21 +11832,21 @@
           {
             "name": "oral",
             "dose": {
-              "units": "mL EtOH",
-              "threshold": 13,
+              "units": "g",
+              "threshold": 10,
               "light": {
-                "min": 13,
-                "max": 38
+                "min": 10,
+                "max": 20
               },
               "common": {
-                "min": 38,
-                "max": 64
+                "min": 20,
+                "max": 30
               },
               "strong": {
-                "min": 64,
-                "max": 76
+                "min": 30,
+                "max": 40
               },
-              "heavy": 76
+              "heavy": 40
             },
             "duration": {
               "onset": {
@@ -13186,6 +13297,116 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Bisfluoromodafinil",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Bisfluoromodafinil",
+        "class": {
+          "chemical": [
+            "Substituted tryptamines"
+          ],
+          "psychoactive": [
+            "Psychedelics"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "sublingual",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Bromantane",
         "commonNames": [
           "Bromantane",
@@ -13558,6 +13779,116 @@
             "name": "Grapefruit"
           }
         ]
+      },
+      {
+        "name": "Buspirone",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Buspirone",
+        "class": {
+          "chemical": [
+            "Substituted tryptamines"
+          ],
+          "psychoactive": [
+            "Psychedelics"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "sublingual",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
       },
       {
         "name": "Butylone",
@@ -14202,6 +14533,116 @@
             "name": "25x-NBOMe"
           }
         ],
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Cariprazine",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Cariprazine",
+        "class": {
+          "chemical": [
+            "Substituted tryptamines"
+          ],
+          "psychoactive": [
+            "Psychedelics"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "sublingual",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
       },
@@ -26044,50 +26485,6 @@
         ]
       },
       {
-        "name": "Methcathinone",
-        "commonNames": [
-          "Methcathinone",
-          "Ephedrone",
-          "Methcat",
-          "Cat",
-          "Jeff",
-          "MC"
-        ],
-        "url": "https://psychonautwiki.org/wiki/Methcathinone",
-        "class": {
-          "chemical": [
-            "Substituted cathinones",
-            "Khat#1#"
-          ],
-          "psychoactive": [
-            "Entactogens",
-            "Stimulants"
-          ]
-        },
-        "tolerance": null,
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": null,
-              "light": null,
-              "common": null,
-              "strong": null,
-              "heavy": null
-            },
-            "duration": null,
-            "bioavailability": null
-          }
-        ],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
-      },
-      {
         "name": "Methiopropamine",
         "commonNames": [
           "MPA"
@@ -28856,6 +29253,74 @@
         "class": null,
         "tolerance": null,
         "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Norflurazepam",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Norflurazepam",
+        "class": null,
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 1,
+              "light": {
+                "min": 2,
+                "max": 5
+              },
+              "common": {
+                "min": 5,
+                "max": 10
+              },
+              "strong": {
+                "min": 10,
+                "max": 20
+              },
+              "heavy": 20
+            },
+            "duration": {
+              "onset": {
+                "min": 40,
+                "max": 120,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 40,
+                "max": 120,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 8,
+                "max": 10,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 8,
+                "max": 10,
+                "units": "hours"
+              },
+              "total": {
+                "min": 10,
+                "max": 16,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
         "addictionPotential": null,
         "toxicity": null,
         "crossTolerances": null,
@@ -31727,7 +32192,7 @@
         "url": "https://psychonautwiki.org/wiki/Poppers",
         "class": {
           "chemical": [
-            "Alkyl nitrites"
+            "Poppers"
           ],
           "psychoactive": null
         },
