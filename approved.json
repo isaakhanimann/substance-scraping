@@ -324,6 +324,10 @@
     "isApproved": true
   },
   {
+    "name": "5-Br-DMT",
+    "isApproved": false
+  },
+  {
     "name": "5-Hydroxytryptophan",
     "isApproved": true
   },
@@ -508,6 +512,10 @@
     "isApproved": true
   },
   {
+    "name": "Bisfluoromodafinil",
+    "isApproved": false
+  },
+  {
     "name": "Bromantane",
     "isApproved": true
   },
@@ -526,6 +534,10 @@
   {
     "name": "Buprenorphine",
     "isApproved": true
+  },
+  {
+    "name": "Buspirone",
+    "isApproved": false
   },
   {
     "name": "Butylone",
@@ -554,6 +566,10 @@
   {
     "name": "Cannabis",
     "isApproved": true
+  },
+  {
+    "name": "Cariprazine",
+    "isApproved": false
   },
   {
     "name": "Carisoprodol",
@@ -780,6 +796,10 @@
     "isApproved": true
   },
   {
+    "name": "Eszopiclone",
+    "isApproved": true
+  },
+  {
     "name": "Etazene",
     "isApproved": false
   },
@@ -837,7 +857,7 @@
   },
   {
     "name": "Flunitrazepam",
-    "isApproved": true
+    "isApproved": false
   },
   {
     "name": "Flunitrazolam",
@@ -1182,6 +1202,10 @@
   {
     "name": "Nootropic",
     "isApproved": true
+  },
+  {
+    "name": "Norflurazepam",
+    "isApproved": false
   },
   {
     "name": "O-Desmethyltramadol",
@@ -1570,10 +1594,6 @@
   {
     "name": "Beta-Carboline",
     "isApproved": true
-  },
-  {
-    "name": "Α-PiHP",
-    "isApproved": false
   },
   {
     "name": "ΑMT",

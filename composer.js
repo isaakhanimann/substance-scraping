@@ -99,7 +99,8 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Salvia Divinorum",
         "Banisteriopsis caapi",
         "Peganum harmala",
-        "N-(2C)-fentanyl"
+        "N-(2C)-fentanyl",
+        "Eszopiclone"
     ].map(name => name.toLowerCase()));
 
     function isNameOk(substance) {

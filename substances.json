@@ -10702,7 +10702,7 @@
         {
           "name": "oral",
           "dose": {
-            "units": "mg (THC)",
+            "units": "mg",
             "lightMin": 1,
             "commonMin": 5,
             "strongMin": 10,
@@ -10745,7 +10745,7 @@
         {
           "name": "smoked",
           "dose": {
-            "units": "mg (THC)",
+            "units": "mg",
             "lightMin": 0.4,
             "commonMin": 2,
             "strongMin": 4,
@@ -15532,7 +15532,7 @@
         "Wolfies"
       ],
       "url": "https://psychonautwiki.org/wiki/Flunitrazepam",
-      "isApproved": true,
+      "isApproved": false,
       "tolerance": {
         "full": "within a couple of days of continuous use",
         "half": null,
@@ -18228,7 +18228,8 @@
         "X",
         "XTC",
         "Rolls",
-        "Beans"
+        "Beans",
+        "Pingers"
       ],
       "url": "https://psychonautwiki.org/wiki/MDMA",
       "isApproved": true,
@@ -18304,10 +18305,10 @@
           "name": "oral",
           "dose": {
             "units": "mg",
-            "lightMin": 10,
-            "commonMin": 55,
-            "strongMin": 125,
-            "heavyMin": 180
+            "lightMin": 20,
+            "commonMin": 80,
+            "strongMin": 120,
+            "heavyMin": 150
           },
           "duration": {
             "onset": {
@@ -24993,11 +24994,11 @@
         {
           "name": "oral",
           "dose": {
-            "units": "g",
-            "lightMin": 0.25,
-            "commonMin": 1,
-            "strongMin": 2.5,
-            "heavyMin": 5
+            "units": "mg",
+            "lightMin": 2.5,
+            "commonMin": 10,
+            "strongMin": 25,
+            "heavyMin": 50
           },
           "duration": {
             "onset": {
@@ -27052,69 +27053,6 @@
       "categories": [],
       "interactions": null,
       "roas": []
-    },
-    {
-      "name": "Α-PiHP",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/%CE%91-PiHP",
-      "isApproved": false,
-      "tolerance": {
-        "full": "develops with prolonged and repeated use",
-        "half": "3 - 7 days",
-        "zero": "1 - 2 weeks"
-      },
-      "crossTolerances": [
-        "dopamine",
-        "stimulant"
-      ],
-      "addictionPotential": "highly addictive with a high potential for abuse",
-      "toxicities": [
-        "exact toxic dosage is unknown"
-      ],
-      "categories": [
-        "stimulant",
-        "psychedelic"
-      ],
-      "interactions": {
-        "dangerous": [
-          "25x-NBOMe",
-          "25x-NBOH",
-          "Tramadol",
-          "SNRIs",
-          "MAOI",
-          "Serotonin releasers",
-          "SSRIs",
-          "5-Hydroxytryptophan"
-        ],
-        "unsafe": [
-          "Dextromethorphan",
-          "MDMA",
-          "Stimulants"
-        ],
-        "uncertain": [
-          "Alcohol",
-          "Methoxetamine",
-          "Dissociatives"
-        ]
-      },
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg"
-          },
-          "duration": null,
-          "bioavailability": null
-        },
-        {
-          "name": "sublingual",
-          "dose": {
-            "units": "mg"
-          },
-          "duration": null,
-          "bioavailability": null
-        }
-      ]
     },
     {
       "name": "ΑMT",

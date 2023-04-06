@@ -14353,7 +14353,7 @@
           {
             "name": "oral",
             "dose": {
-              "units": "mg (THC)",
+              "units": "mg",
               "threshold": 1,
               "light": {
                 "min": 2.5,
@@ -14406,7 +14406,7 @@
           {
             "name": "smoked",
             "dose": {
-              "units": "mg (THC)",
+              "units": "mg",
               "threshold": 0.4,
               "light": {
                 "min": 0.4,
@@ -19387,6 +19387,83 @@
         ]
       },
       {
+        "name": "Eszopiclone",
+        "commonNames": [
+          "Lunesta",
+          "Eszop"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Eszopiclone",
+        "class": {
+          "chemical": [
+            "Cyclopyrrolone"
+          ],
+          "psychoactive": [
+            "Hallucinogens",
+            "Depressant",
+            "Hypnotic"
+          ]
+        },
+        "tolerance": {
+          "full": "within a couple of weeks of daily use",
+          "half": null,
+          "zero": "7 - 14 days"
+        },
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 0.5,
+              "light": {
+                "min": 1,
+                "max": 1.5
+              },
+              "common": {
+                "min": 2,
+                "max": 3
+              },
+              "strong": {
+                "min": 4,
+                "max": 5
+              },
+              "heavy": 6
+            },
+            "duration": {
+              "onset": {
+                "min": 10,
+                "max": 20,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": {
+                "min": 30,
+                "max": 90,
+                "units": "minutes"
+              },
+              "offset": null,
+              "total": {
+                "min": 6,
+                "max": 8,
+                "units": "hours"
+              },
+              "afterglow": null
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": "extremely physically and psychologically addictive",
+        "toxicity": [
+          "low toxicity",
+          "potentially lethal when mixed with depressants like benzodiazepines, alcohol or opioids"
+        ],
+        "crossTolerances": [
+          "benzodiazepines"
+        ],
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Etazene",
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/Etazene",
@@ -24304,7 +24381,8 @@
           "X",
           "XTC",
           "Rolls",
-          "Beans"
+          "Beans",
+          "Pingers"
         ],
         "url": "https://psychonautwiki.org/wiki/MDMA",
         "class": {
@@ -24328,20 +24406,20 @@
             "name": "oral",
             "dose": {
               "units": "mg",
-              "threshold": 10,
+              "threshold": 20,
               "light": {
-                "min": 15,
-                "max": 55
+                "min": 20,
+                "max": 80
               },
               "common": {
-                "min": 55,
-                "max": 125
+                "min": 80,
+                "max": 120
               },
               "strong": {
-                "min": 125,
-                "max": 180
+                "min": 120,
+                "max": 150
               },
-              "heavy": 180
+              "heavy": 150
             },
             "duration": {
               "onset": {
@@ -33092,21 +33170,21 @@
           {
             "name": "oral",
             "dose": {
-              "units": "g",
-              "threshold": 0.25,
+              "units": "mg",
+              "threshold": 2.5,
               "light": {
-                "min": 0.25,
-                "max": 1
+                "min": 2.5,
+                "max": 10
               },
               "common": {
-                "min": 1,
-                "max": 2.5
+                "min": 10,
+                "max": 25
               },
               "strong": {
-                "min": 2.5,
-                "max": 5
+                "min": 25,
+                "max": 50
               },
-              "heavy": 5
+              "heavy": 50
             },
             "duration": {
               "onset": {
@@ -36435,173 +36513,6 @@
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
-      },
-      {
-        "name": "Α-PiHP",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/%CE%91-PiHP",
-        "class": {
-          "chemical": [
-            "Substituted tryptamines",
-            "Pyrrolidinophenone",
-            "Khat#1#"
-          ],
-          "psychoactive": [
-            "Stimulants",
-            "Psychedelics"
-          ]
-        },
-        "tolerance": {
-          "full": "develops with prolonged and repeated use",
-          "half": "3 - 7 days",
-          "zero": "1 - 2 weeks"
-        },
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": null,
-              "light": null,
-              "common": null,
-              "strong": null,
-              "heavy": null
-            },
-            "duration": {
-              "onset": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "comeup": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "offset": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "total": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          },
-          {
-            "name": "sublingual",
-            "dose": {
-              "units": "mg",
-              "threshold": null,
-              "light": null,
-              "common": null,
-              "strong": null,
-              "heavy": null
-            },
-            "duration": {
-              "onset": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "comeup": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "offset": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "total": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          }
-        ],
-        "addictionPotential": "highly addictive with a high potential for abuse",
-        "toxicity": [
-          "exact toxic dosage is unknown"
-        ],
-        "crossTolerances": [
-          "dopamine",
-          "stimulant"
-        ],
-        "uncertainInteractions": [
-          {
-            "name": "Alcohol"
-          },
-          {
-            "name": "Methoxetamine"
-          },
-          {
-            "name": "Dissociatives"
-          }
-        ],
-        "unsafeInteractions": [
-          {
-            "name": "Dextromethorphan"
-          },
-          {
-            "name": "MDMA"
-          },
-          {
-            "name": "Stimulants"
-          }
-        ],
-        "dangerousInteractions": [
-          {
-            "name": "25x-NBOMe"
-          },
-          {
-            "name": "25x-NBOH"
-          },
-          {
-            "name": "Tramadol"
-          },
-          {
-            "name": "SNRIs"
-          },
-          {
-            "name": "MAOI"
-          },
-          {
-            "name": "Serotonin"
-          },
-          {
-            "name": "Selective serotonin reuptake inhibitor"
-          },
-          {
-            "name": "5-Hydroxytryptophan"
-          }
-        ]
       },
       {
         "name": "ΑMT",
