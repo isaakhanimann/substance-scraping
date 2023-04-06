@@ -25813,7 +25813,7 @@
         {
           "name": "oral",
           "dose": {
-            "units": "70",
+            "units": "mg",
             "lightMin": 40,
             "commonMin": 140,
             "strongMin": 170,
