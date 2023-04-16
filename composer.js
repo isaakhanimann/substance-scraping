@@ -261,7 +261,23 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
     console.log(`Unused tripsit substances: ${JSON.stringify(Array.from(unusedTripsitNames), null, 2)}`);
     console.log(`PsychonautWiki substances without a tripsit match: ${JSON.stringify(Array.from(psychonautWikiSubstancesWithoutMatch), null, 2)}`);
     console.log(`Unused saferparty substances are: ${JSON.stringify(Array.from(unusedSaferpartyNames), null, 2)}`);
+    printInteractionsWhichAreNotSubstances(finalSubstances);
     return finalSubstances;
+}
+
+function printInteractionsWhichAreNotSubstances(finalSubstances) {
+    let interactions = finalSubstances.flatMap(substance => {
+        return substance.interactions?.dangerous ?? [] + substance.interactions?.unsafe ?? [] + substance.interactions?.uncertain ?? []
+    });
+    const interactionsUnique = interactions
+        .filter((item) => item !== undefined)
+        .filter((item, index, self) => self.indexOf(item) === index);
+    let interactionsWhichAreNotASubstance = interactionsUnique.filter(interactionName => {
+        return !finalSubstances.some(substance => {
+            return substance.name === interactionName;
+        });
+    });
+    console.log(`Interactions which are not substances: ${JSON.stringify(Array.from(interactionsWhichAreNotASubstance), null, 2)}`);
 }
 
 function getCategoriesOfSubstance(substanceName, psychonautWikiPsychoactiveClasses, tripSitCategories) {
