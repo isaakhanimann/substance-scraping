@@ -10023,9 +10023,7 @@
           }
         ],
         "addictionPotential": "not habit-forming",
-        "toxicity": [
-          "toxic dose is unknown"
-        ],
+        "toxicity": null,
         "crossTolerances": [
           "psychedelic"
         ],
@@ -11909,6 +11907,9 @@
           },
           {
             "name": "Selective serotonin reuptake inhibitor"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": [
@@ -11952,9 +11953,6 @@
           },
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -13209,14 +13207,15 @@
           "potentially lethality increases significantly when mixed with depressants like alcohol or opioids"
         ],
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -14711,14 +14710,15 @@
           "potentially lethal when mixed with depressants like alcohol or opioids"
         ],
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -14910,14 +14910,15 @@
         "crossTolerances": [
           "benzodiazepines"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -15483,7 +15484,10 @@
       {
         "name": "Codeine",
         "commonNames": [
-          "Codeine"
+          "Codeine",
+          "Lean",
+          "Purple Drank",
+          "Syrup"
         ],
         "url": "https://psychonautwiki.org/wiki/Codeine",
         "class": {
@@ -16646,9 +16650,21 @@
         "crossTolerances": [
           "psychedelic"
         ],
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
+        "unsafeInteractions": [
+          {
+            "name": "Tramadol"
+          }
+        ],
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "DOx",
@@ -20191,14 +20207,15 @@
         "crossTolerances": [
           "GABA"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -22751,14 +22768,15 @@
         "addictionPotential": null,
         "toxicity": null,
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -25338,14 +25356,15 @@
           "GABA|gabaergic",
           "depressants"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -25720,14 +25739,15 @@
           "potentially lethal when mixed with depressants like alcohol or opioids"
         ],
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -26079,7 +26099,13 @@
           "Shard",
           "Tina",
           "Crank",
-          "Desoxyn"
+          "Desoxyn",
+          "Crystal",
+          "Ma",
+          "T",
+          "Tweak",
+          "Shabu",
+          "Yaba"
         ],
         "url": "https://psychonautwiki.org/wiki/Methamphetamine",
         "class": {
@@ -26548,14 +26574,15 @@
           "GABA|gabaergic",
           "depressants"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -31738,14 +31765,15 @@
           "potentially lethal when mixed with depressants like alcohol or opioids"
         ],
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -32168,14 +32196,15 @@
         "crossTolerances": [
           "GABA"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -36326,14 +36355,15 @@
           "potentially lethal when mixed with depressants like benzodiazepines, alcohol or opioids"
         ],
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -36513,6 +36543,82 @@
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
+      },
+      {
+        "name": "Α-PiHP",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/%CE%91-PiHP",
+        "class": {
+          "chemical": [
+            "Pyrrolidinophenone",
+            "Khat#1#"
+          ],
+          "psychoactive": [
+            "Stimulants"
+          ]
+        },
+        "tolerance": {
+          "full": "develops with prolonged and repeated use",
+          "half": "3 - 7 days",
+          "zero": "1 - 2 weeks"
+        },
+        "roas": [],
+        "addictionPotential": "highly addictive with a high potential for abuse",
+        "toxicity": [
+          "exact toxic dosage is unknown"
+        ],
+        "crossTolerances": [
+          "dopamine",
+          "stimulant"
+        ],
+        "uncertainInteractions": [
+          {
+            "name": "Alcohol"
+          },
+          {
+            "name": "Methoxetamine"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ],
+        "unsafeInteractions": [
+          {
+            "name": "Dextromethorphan"
+          },
+          {
+            "name": "MDMA"
+          },
+          {
+            "name": "Stimulants"
+          }
+        ],
+        "dangerousInteractions": [
+          {
+            "name": "25x-NBOMe"
+          },
+          {
+            "name": "25x-NBOH"
+          },
+          {
+            "name": "Tramadol"
+          },
+          {
+            "name": "SNRIs"
+          },
+          {
+            "name": "MAOI"
+          },
+          {
+            "name": "Serotonin"
+          },
+          {
+            "name": "Selective serotonin reuptake inhibitor"
+          },
+          {
+            "name": "5-Hydroxytryptophan"
+          }
+        ]
       },
       {
         "name": "ΑMT",

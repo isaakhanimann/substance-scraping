@@ -7521,9 +7521,7 @@
         "psychedelic"
       ],
       "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
+      "toxicities": [],
       "categories": [
         "entactogen",
         "psychedelic",
@@ -8977,7 +8975,6 @@
           "Opioids",
           "Tramadol",
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [
@@ -8992,7 +8989,8 @@
           "ΑMT",
           "MDMA",
           "Nitrous",
-          "SSRIs"
+          "SSRIs",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -10875,11 +10873,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -11039,11 +11038,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -11523,7 +11523,10 @@
     {
       "name": "Codeine",
       "commonNames": [
-        "Codeine"
+        "Codeine",
+        "Lean",
+        "Purple Drank",
+        "Syrup"
       ],
       "url": "https://psychonautwiki.org/wiki/Codeine",
       "isApproved": true,
@@ -12415,7 +12418,17 @@
         "Plan enough time for recovery after the trip (at least 1 day)!",
         "A trip with DOM should remain an exceptional experience. Make sure to take long breaks from consumption so that the experience can be processed."
       ],
-      "interactions": null,
+      "interactions": {
+        "dangerous": [
+          "Lithium"
+        ],
+        "unsafe": [
+          "Tramadol"
+        ],
+        "uncertain": [
+          "Stimulants"
+        ]
+      },
       "roas": [
         {
           "name": "oral",
@@ -15051,11 +15064,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -17036,11 +17050,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": []
     },
@@ -18908,11 +18923,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -19273,11 +19289,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": []
     },
@@ -19563,7 +19580,13 @@
         "Shard",
         "Tina",
         "Crank",
-        "Desoxyn"
+        "Desoxyn",
+        "Crystal",
+        "Ma",
+        "T",
+        "Tweak",
+        "Shabu",
+        "Yaba"
       ],
       "url": "https://psychonautwiki.org/wiki/Methamphetamine",
       "isApproved": true,
@@ -19880,11 +19903,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -23814,11 +23838,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -24145,11 +24170,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -27055,6 +27081,51 @@
       "toxicities": [],
       "categories": [],
       "interactions": null,
+      "roas": []
+    },
+    {
+      "name": "Α-PiHP",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/%CE%91-PiHP",
+      "isApproved": false,
+      "tolerance": {
+        "full": "develops with prolonged and repeated use",
+        "half": "3 - 7 days",
+        "zero": "1 - 2 weeks"
+      },
+      "crossTolerances": [
+        "dopamine",
+        "stimulant"
+      ],
+      "addictionPotential": "highly addictive with a high potential for abuse",
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
+      "categories": [
+        "stimulant"
+      ],
+      "interactions": {
+        "dangerous": [
+          "25x-NBOMe",
+          "25x-NBOH",
+          "Tramadol",
+          "SNRIs",
+          "MAOI",
+          "Serotonin releasers",
+          "SSRIs",
+          "5-Hydroxytryptophan"
+        ],
+        "unsafe": [
+          "Dextromethorphan",
+          "MDMA",
+          "Stimulants"
+        ],
+        "uncertain": [
+          "Alcohol",
+          "Methoxetamine",
+          "Dissociatives"
+        ]
+      },
       "roas": []
     },
     {
