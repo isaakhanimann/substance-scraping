@@ -118,5 +118,11 @@
 		"description": "Antidepressants are a class of psychoactive substances that are prescribed to treat psychiatric disorders, most commonly major depressive disorder and some forms of anxiety disorders.",
 		"url": "https://psychonautwiki.org/wiki/Antidepressants",
 		"color": 4294954702
+	},
+	{
+		"name": "hypnotic",
+		"description": "Hypnotics, or soporifics, are a class of drugs which promote and induce sleep. They are the opposite of eugeroics which promote wakefulness. They are commonly distributed in the form of pharmaceutical drugs prescribed to treat insomnia.",
+		"url": "https://psychonautwiki.org/wiki/Hypnotic",
+		"color": 4293455940
 	}
 ]

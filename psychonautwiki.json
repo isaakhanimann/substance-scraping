@@ -221,14 +221,15 @@
           "exact toxic dosage is unknown"
         ],
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -4390,14 +4391,15 @@
           "GABA",
           "depressants"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -12288,14 +12290,15 @@
         "crossTolerances": [
           "benzodiazepines"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -15091,14 +15094,15 @@
         "crossTolerances": [
           "benzodiazepines"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -15172,14 +15176,15 @@
         "crossTolerances": [
           "benzodiazepines"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -15254,14 +15259,15 @@
         "addictionPotential": "not addictive and has a low potential for abuse",
         "toxicity": null,
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -15713,14 +15719,15 @@
           "racetam",
           "nootropic"
         ],
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -20508,8 +20515,8 @@
           {
             "name": "oral",
             "dose": {
-              "units": "µg",
-              "threshold": 50,
+              "units": "mg",
+              "threshold": 0.05,
               "light": {
                 "min": 0.1,
                 "max": 0.3
@@ -20558,14 +20565,15 @@
         "addictionPotential": null,
         "toxicity": null,
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
         "dangerousInteractions": [
           {
             "name": "Depressant"
-          },
-          {
-            "name": "Stimulants"
           },
           {
             "name": "Dissociatives"
@@ -22951,18 +22959,6 @@
             "name": "MAOI"
           },
           {
-            "name": "Alcohol"
-          },
-          {
-            "name": "GHB"
-          },
-          {
-            "name": "GBL"
-          },
-          {
-            "name": "Opioids"
-          },
-          {
             "name": "Trazodone"
           },
           {
@@ -22973,6 +22969,18 @@
         "dangerousInteractions": [
           {
             "name": "Tramadol"
+          },
+          {
+            "name": "Alcohol"
+          },
+          {
+            "name": "GHB"
+          },
+          {
+            "name": "GBL"
+          },
+          {
+            "name": "Opioids"
           }
         ]
       },

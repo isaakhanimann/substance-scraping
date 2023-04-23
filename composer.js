@@ -94,13 +94,11 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Sedative",
         "Stimulants",
         "Eugeroics",
-        "Sertraline",
-        "Zaleplon",
+        "Sertraline", // todo: check if roa still doesn't make sense
         "Salvia Divinorum",
         "Banisteriopsis caapi",
         "Peganum harmala",
-        "N-(2C)-fentanyl",
-        "Eszopiclone"
+        "N-(2C)-fentanyl"
     ].map(name => name.toLowerCase()));
 
     function isNameOk(substance) {

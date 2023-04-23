@@ -119,6 +119,12 @@
       "description": "Antidepressants are a class of psychoactive substances that are prescribed to treat psychiatric disorders, most commonly major depressive disorder and some forms of anxiety disorders.",
       "url": "https://psychonautwiki.org/wiki/Antidepressants",
       "color": 4294954702
+    },
+    {
+      "name": "hypnotic",
+      "description": "Hypnotics, or soporifics, are a class of drugs which promote and induce sleep. They are the opposite of eugeroics which promote wakefulness. They are commonly distributed in the form of pharmaceutical drugs prescribed to treat insomnia.",
+      "url": "https://psychonautwiki.org/wiki/Hypnotic",
+      "color": 4293455940
     }
   ],
   "substances": [
@@ -233,11 +239,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -3300,11 +3307,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -9222,11 +9230,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -11175,11 +11184,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -11247,11 +11257,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -11305,11 +11316,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -11652,11 +11664,12 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
@@ -14548,6 +14561,69 @@
       ]
     },
     {
+      "name": "Eszopiclone",
+      "commonNames": [
+        "Lunesta",
+        "Eszop"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Eszopiclone",
+      "isApproved": false,
+      "tolerance": {
+        "full": "within a couple of weeks of daily use",
+        "half": null,
+        "zero": "7 - 14 days"
+      },
+      "crossTolerances": [
+        "benzodiazepines"
+      ],
+      "addictionPotential": "extremely physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like benzodiazepines, alcohol or opioids"
+      ],
+      "categories": [
+        "hallucinogen",
+        "depressant",
+        "hypnotic",
+        "habit-forming"
+      ],
+      "summary": "The d-isomer of Zopiclone, this drug is a potent hypnotic 'Z' drug often used to treat insomnia. High doses may cause amnesia, delirium and lowered inhibitions. Should not be combined with any depressants. Limited recreational value.",
+      "interactions": null,
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.5,
+            "commonMin": 2,
+            "strongMin": 4,
+            "heavyMin": 6
+          },
+          "duration": {
+            "onset": {
+              "min": 10,
+              "max": 20,
+              "units": "minutes"
+            },
+            "comeup": null,
+            "peak": {
+              "min": 30,
+              "max": 90,
+              "units": "minutes"
+            },
+            "offset": null,
+            "total": {
+              "min": 6,
+              "max": 8,
+              "units": "hours"
+            },
+            "afterglow": null
+          },
+          "bioavailability": null
+        }
+      ]
+    },
+    {
       "name": "Etazene",
       "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Etazene",
@@ -15337,18 +15413,19 @@
       "interactions": {
         "dangerous": [
           "Depressant",
-          "Stimulants",
           "Dissociatives"
         ],
         "unsafe": [],
-        "uncertain": []
+        "uncertain": [
+          "Stimulants"
+        ]
       },
       "roas": [
         {
           "name": "oral",
           "dose": {
-            "units": "µg",
-            "lightMin": 50,
+            "units": "mg",
+            "lightMin": 0.05,
             "commonMin": 0.3,
             "strongMin": 0.5,
             "heavyMin": 1
@@ -17109,7 +17186,11 @@
       ],
       "interactions": {
         "dangerous": [
-          "Tramadol"
+          "Tramadol",
+          "Alcohol",
+          "GHB",
+          "GBL",
+          "Opioids"
         ],
         "unsafe": [],
         "uncertain": [
@@ -17117,10 +17198,6 @@
           "Cocaine",
           "Benzodiazepines",
           "MAOI",
-          "Alcohol",
-          "GHB",
-          "GBL",
-          "Opioids",
           "Trazodone",
           "Grapefruit"
         ]
@@ -26925,6 +27002,83 @@
               "min": 2,
               "max": 3,
               "units": "hours"
+            },
+            "afterglow": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            }
+          },
+          "bioavailability": null
+        }
+      ]
+    },
+    {
+      "name": "Zaleplon",
+      "commonNames": [
+        "Sonata",
+        "Starnoc",
+        "Andante"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Zaleplon",
+      "isApproved": false,
+      "tolerance": {
+        "full": "within a couple of weeks of daily use",
+        "half": null,
+        "zero": "7 - 14 days"
+      },
+      "crossTolerances": [],
+      "addictionPotential": "moderate physically and psychologically addictive",
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like benzodiazepines, alcohol or opioids"
+      ],
+      "categories": [
+        "hallucinogen",
+        "depressant",
+        "hypnotic"
+      ],
+      "interactions": {
+        "dangerous": [
+          "Depressant",
+          "Dissociatives"
+        ],
+        "unsafe": [],
+        "uncertain": [
+          "Stimulants"
+        ]
+      },
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 5,
+            "commonMin": 30,
+            "strongMin": 60,
+            "heavyMin": 100
+          },
+          "duration": {
+            "onset": {
+              "min": 5,
+              "max": 15,
+              "units": "minutes"
+            },
+            "comeup": null,
+            "peak": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 10,
+              "max": 20,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 90,
+              "max": 120,
+              "units": "minutes"
             },
             "afterglow": {
               "min": 2,
