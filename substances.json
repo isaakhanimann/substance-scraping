@@ -11327,7 +11327,7 @@
         {
           "name": "oral",
           "dose": {
-            "units": "μg",
+            "units": "µg",
             "lightMin": 25,
             "commonMin": 75,
             "strongMin": 100,
@@ -15301,7 +15301,7 @@
         {
           "name": "insufflated",
           "dose": {
-            "units": "μg",
+            "units": "µg",
             "lightMin": 5,
             "commonMin": 25,
             "strongMin": 50,
@@ -15328,7 +15328,7 @@
         {
           "name": "sublingual",
           "dose": {
-            "units": "μg",
+            "units": "µg",
             "lightMin": 5,
             "commonMin": 25,
             "strongMin": 50,
@@ -15355,7 +15355,7 @@
         {
           "name": "transdermal",
           "dose": {
-            "units": "μg",
+            "units": "µg",
             "lightMin": 5,
             "commonMin": 25,
             "strongMin": 50,
@@ -15552,7 +15552,7 @@
         {
           "name": "oral",
           "dose": {
-            "units": "μg",
+            "units": "µg",
             "lightMin": 50,
             "commonMin": 150,
             "strongMin": 250,
@@ -25671,7 +25671,7 @@
         {
           "name": "intravenous",
           "dose": {
-            "units": "μg",
+            "units": "µg",
             "lightMin": 0.1,
             "commonMin": 5,
             "strongMin": 10,

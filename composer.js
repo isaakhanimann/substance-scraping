@@ -185,8 +185,9 @@ function cleanupDose(dose) {
     if (dose?.units == null || dose?.units?.length === 0) {
         return null
     } else {
+        let units = dose.units == "μg" ? "µg" : dose.units
         return {
-            units: dose.units,
+            units: units,
             lightMin: lightMin,
             commonMin: commonMin,
             strongMin: strongMin,
