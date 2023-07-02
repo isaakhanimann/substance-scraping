@@ -304,7 +304,7 @@ function saveInFile(fileOutput) {
     const fileName = "substances.json"
     fs.writeFile(
         fileName,
-        JSON.stringify(fileOutput, null, 2),
+        JSON.stringify(fileOutput, removeFieldsWithNullValues, 2),
         'utf8',
         function (err) {
             if (err) {
@@ -313,4 +313,9 @@ function saveInFile(fileOutput) {
             console.log(`${fileOutput.substances.length} substances been saved successfully! View them at './${fileName}'`);
         }
     );
+}
+
+function removeFieldsWithNullValues(key, value) {
+    if (value === null) return undefined;
+    return value;
 }
