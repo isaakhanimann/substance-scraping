@@ -23,6 +23,9 @@ function getNewSubstanceWithUpdatedTolerance(substance) {
             let zeroToleranceInHours = convertToHours(substance.tolerance.zero);
             newSubstance.tolerance['zeroToleranceInHours'] = zeroToleranceInHours;
         }
+        if (substance.tolerance.halfToleranceInHours != undefined && substance.tolerance.zeroToleranceInHours == undefined) {
+            throw new Error('Substance has half tolerance but no zero tolerance');
+        }
     }
     return newSubstance;
 }
