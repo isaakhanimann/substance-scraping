@@ -235,7 +235,8 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
                 dangerous: dangerousNames,
                 unsafe: unsafeNames,
                 uncertain: uncertainNames
-            } : null
+            } : null;
+            checkMissingDurations(onePsychonautWikiSubstance);
             return {
                 name: name,
                 commonNames: onePsychonautWikiSubstance.commonNames,
@@ -262,6 +263,41 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
     console.log(`Unused saferparty substances are: ${JSON.stringify(Array.from(unusedSaferpartyNames), null, 2)}`);
     printInteractionsWhichAreNotSubstances(finalSubstances);
     return finalSubstances;
+}
+
+function checkMissingDurations(substance) {
+    let roas = substance.roas;
+    if (roas === undefined) return;
+    roas.forEach(roa => {
+        let duration = roa.duration;
+        if (duration === null) return;
+        let message = substance.name + " " + roa.name + ":";
+        let nullCount = 0;
+        if (duration.onset === null) {
+            message += " onset";
+            nullCount += 1;
+        }
+        if (duration.comeup === null) {
+            message += " comeup";
+            nullCount += 1;
+        }
+        if (duration.peak === null) {
+            message += " peak";
+            nullCount += 1;
+        }
+        if (duration.offset === null) {
+            message += " offset";
+            nullCount += 1;
+        }
+        if (duration.total === null) {
+            message += " total";
+            nullCount += 1;
+        }
+        message += " missing";
+        if (nullCount > 0) {
+            console.log(message);
+        }
+    })
 }
 
 function printInteractionsWhichAreNotSubstances(finalSubstances) {
