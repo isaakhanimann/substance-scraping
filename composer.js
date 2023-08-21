@@ -68,6 +68,7 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Benzodiazepines",
         "Classic Psychedelics",
         "Psychedelics",
+        "Psychedelic",
         "Serotonergic Psychedelic",
         "25x-NBOH",
         "Antidepressants",
@@ -145,6 +146,9 @@ function replaceInteractions(array) {
         }
         if (element.name === "Serotonin") {
             element.name = "Serotonin releasers"
+        }
+        if (element.name === "Psychedelic") {
+            element.name = "Psychedelics"
         }
         return element
     });

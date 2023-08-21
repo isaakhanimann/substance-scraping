@@ -840,8 +840,8 @@
         "toxic dose is unknown"
       ],
       "categories": [
-        "stimulant",
-        "psychedelic"
+        "psychedelic",
+        "stimulant"
       ],
       "interactions": {
         "dangerous": [
@@ -2153,7 +2153,7 @@
       ],
       "summary": "A popular psychedelic in the phenethylamine family. Provides empathic experiences at lower doses and strong visual and psychedelic experiences at higher doses. Commonly used as a party drug as it is more clear-headed than most psychedelics. 2C-B has been in use since the early 1990s",
       "effectsSummary": "Perceptions and feelings become more intense. From 10-15 mg (snorted already from 7 mg), the effect usually takes on a hallucinogenic character. The boundaries between inside and outside can dissolve. Often moving coloured patterns and luminous fields around objects and persons are perceived. However, the intoxication is felt to be less profound than with LSD.",
-      "dosageRemark": "2C-B is effective even in small doses; even 2 mg more or less can make a big difference in the effect experienced; a gradual approach to the individual dose is recommended. Doses above 35 mg can be experienced as unpleasantly strong even by experienced users.",
+      "dosageRemark": "2C-B is effective even in small doses; a gradual approach to the individual dose is recommended. Over the 12 to 24 milligram range, every 2 milligrams can make a profound increase or change of response. Doses above 35 mg can be experienced as unpleasantly strong even by experienced users.",
       "generalRisks": "The pupils dilate, blood pressure rises and nausea, sweating and dizziness may occur. Some users report stomach and intestinal problems, and mild allergic reactions (such as coughing due to increased mucus production) may occur. Disorientation, confusion and feelings of anxiety, even fear of death, are risks on a psychological level.",
       "longtermRisks": "There are no research results on long-term risks so far.",
       "saferUse": [
@@ -2216,23 +2216,23 @@
               "units": "minutes"
             },
             "comeup": {
-              "min": 40,
-              "max": 60,
+              "min": 60,
+              "max": 90,
               "units": "minutes"
             },
             "peak": {
-              "min": 2,
-              "max": 3,
-              "units": "hours"
+              "min": 60,
+              "max": 90,
+              "units": "minutes"
             },
             "offset": {
-              "min": 1.5,
-              "max": 3,
+              "min": 2.5,
+              "max": 3.5,
               "units": "hours"
             },
             "total": {
               "min": 5,
-              "max": 8,
+              "max": 7,
               "units": "hours"
             },
             "afterglow": {
@@ -2635,8 +2635,8 @@
         "toxic dose is unknown"
       ],
       "categories": [
-        "stimulant",
-        "psychedelic"
+        "psychedelic",
+        "stimulant"
       ],
       "interactions": {
         "dangerous": [
@@ -7270,8 +7270,8 @@
       "addictionPotential": "not habit-forming",
       "toxicities": [],
       "categories": [
-        "entactogen",
         "psychedelic",
+        "entactogen",
         "research-chemical",
         "common"
       ],
@@ -7396,8 +7396,8 @@
         "toxic dose is unknown"
       ],
       "categories": [
-        "entactogen",
-        "psychedelic"
+        "psychedelic",
+        "entactogen"
       ],
       "interactions": {
         "dangerous": [
@@ -7615,8 +7615,8 @@
         "exact toxic dosage is unknown"
       ],
       "categories": [
-        "entactogen",
         "psychedelic",
+        "entactogen",
         "stimulant",
         "research-chemical",
         "habit-forming"
@@ -11560,6 +11560,20 @@
           }
         }
       ]
+    },
+    {
+      "name": "DMXE",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/DMXE",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [
+        "exact toxic dosage is unknown"
+      ],
+      "categories": [
+        "dissociative"
+      ],
+      "roas": []
     },
     {
       "name": "DOB",
@@ -16259,6 +16273,34 @@
       ]
     },
     {
+      "name": "Kanna",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Kanna",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "psychedelic",
+        "habit-forming",
+        "depressant"
+      ],
+      "summary": "A South African plant containing numerous psychoactive alkaloids, including mesembrine and mesembrenone. The first written account of the substance was in 1662. The pharmacology of these compounds is poorly understood, but they are suspected to be serotonin uptake inhibitors and potentially monoamine releasers. Said to suppress appetite, produce mild euphoria and reduce anxiety.",
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg"
+          }
+        },
+        {
+          "name": "sublingual",
+          "dose": {
+            "units": "mg"
+          }
+        }
+      ]
+    },
+    {
       "name": "Kava",
       "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Kava",
@@ -17119,9 +17161,9 @@
       "addictionPotential": "moderately addictive with a high potential for abuse",
       "toxicities": [],
       "categories": [
+        "psychedelic",
         "entactogen",
         "stimulant",
-        "psychedelic",
         "habit-forming",
         "common"
       ],
@@ -17772,8 +17814,8 @@
         "exact toxic dosage is unknown"
       ],
       "categories": [
-        "entactogen",
-        "psychedelic"
+        "psychedelic",
+        "entactogen"
       ],
       "interactions": {
         "dangerous": [
@@ -20982,6 +21024,31 @@
       ]
     },
     {
+      "name": "Nitromethaqualone",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Nitromethaqualone",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "psychedelic"
+      ],
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg"
+          }
+        },
+        {
+          "name": "sublingual",
+          "dose": {
+            "units": "mg"
+          }
+        }
+      ]
+    },
+    {
       "name": "Nitrous",
       "commonNames": [
         "Nitrous Oxide",
@@ -22104,8 +22171,8 @@
         "Ingestion of PMA has been associated with severe tachycardia (abnormally high heart rate), seizures, hyperthermia, and death"
       ],
       "categories": [
-        "hallucinogen",
         "entactogen",
+        "hallucinogen",
         "stimulant",
         "tentative"
       ],
@@ -23798,23 +23865,23 @@
               "units": "minutes"
             },
             "comeup": {
-              "min": 1.5,
-              "max": 3,
+              "min": 1,
+              "max": 1.5,
               "units": "hours"
             },
             "peak": {
               "min": 2,
-              "max": 3,
+              "max": 2.5,
               "units": "hours"
             },
             "offset": {
-              "min": 1.5,
-              "max": 2,
+              "min": 2.5,
+              "max": 3.5,
               "units": "hours"
             },
             "total": {
-              "min": 4,
-              "max": 6,
+              "min": 6,
+              "max": 8,
               "units": "hours"
             },
             "afterglow": {
@@ -24534,8 +24601,8 @@
         "toxic dose is unknown"
       ],
       "categories": [
-        "stimulant",
-        "psychedelic"
+        "psychedelic",
+        "stimulant"
       ],
       "roas": [
         {
@@ -24577,8 +24644,8 @@
         "toxic dose is unknown"
       ],
       "categories": [
-        "stimulant",
         "psychedelic",
+        "stimulant",
         "research-chemical",
         "tentative"
       ],
@@ -24648,8 +24715,8 @@
         "toxic dose is unknown"
       ],
       "categories": [
-        "stimulant",
         "psychedelic",
+        "stimulant",
         "research-chemical",
         "tentative"
       ],
@@ -25140,6 +25207,34 @@
           }
         }
       ]
+    },
+    {
+      "name": "Tilidin",
+      "commonNames": [
+        "Tilidine",
+        "Tilidin",
+        "Darby",
+        "Valoron",
+        "Generika"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Tilidin",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "opioid"
+      ],
+      "interactions": {
+        "dangerous": [
+          "Alcohol"
+        ],
+        "unsafe": [],
+        "uncertain": [
+          "Benzodiazepines",
+          "Cocaine"
+        ]
+      },
+      "roas": []
     },
     {
       "name": "Tramadol",
@@ -25846,8 +25941,8 @@
         "toxic dose is unknown"
       ],
       "categories": [
-        "entactogen",
-        "psychedelic"
+        "psychedelic",
+        "entactogen"
       ],
       "interactions": {
         "dangerous": [

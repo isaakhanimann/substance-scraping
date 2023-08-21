@@ -247,7 +247,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -348,7 +348,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -440,7 +440,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -540,7 +540,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -640,7 +640,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -741,7 +741,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -839,7 +839,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -937,8 +937,8 @@
             "Amphetamine"
           ],
           "psychoactive": [
-            "Stimulants",
-            "Psychedelics"
+            "Psychedelic",
+            "Stimulants"
           ]
         },
         "tolerance": {
@@ -1196,7 +1196,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -1239,10 +1239,10 @@
         "url": "https://psychonautwiki.org/wiki/2-FEA",
         "class": {
           "chemical": [
-            "Substituted amphetamines"
+            "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -1525,7 +1525,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -1717,7 +1717,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -1829,7 +1829,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -1875,7 +1875,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -2027,7 +2027,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -2122,7 +2122,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -2248,7 +2248,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -2362,7 +2362,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -2383,7 +2383,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -2460,7 +2460,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -2562,7 +2562,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -2745,7 +2745,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -2989,7 +2989,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -3057,23 +3057,23 @@
                 "units": "minutes"
               },
               "comeup": {
-                "min": 40,
-                "max": 60,
+                "min": 60,
+                "max": 90,
                 "units": "minutes"
               },
               "peak": {
-                "min": 2,
-                "max": 3,
-                "units": "hours"
+                "min": 60,
+                "max": 90,
+                "units": "minutes"
               },
               "offset": {
-                "min": 1.5,
-                "max": 3,
+                "min": 2.5,
+                "max": 3.5,
                 "units": "hours"
               },
               "total": {
                 "min": 5,
-                "max": 8,
+                "max": 7,
                 "units": "hours"
               },
               "afterglow": {
@@ -3158,7 +3158,7 @@
             "Substituted benzofurans"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -3258,7 +3258,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -3354,7 +3354,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -3455,7 +3455,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -3597,8 +3597,8 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Stimulants",
-            "Psychedelics"
+            "Psychedelic",
+            "Stimulants"
           ]
         },
         "tolerance": {
@@ -3644,7 +3644,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -3744,7 +3744,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -3845,7 +3845,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -3927,7 +3927,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -4058,7 +4058,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -4140,7 +4140,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -4653,7 +4653,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -4700,7 +4700,7 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -4855,7 +4855,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -4902,7 +4902,7 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -5004,7 +5004,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -5343,7 +5343,7 @@
             "Khat#1#"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -6291,7 +6291,7 @@
             "Substituted amphetamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -6435,7 +6435,7 @@
             "Substituted amphetamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -6524,7 +6524,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -6628,7 +6628,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -6784,7 +6784,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -6887,7 +6887,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -6989,7 +6989,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -7092,7 +7092,7 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -7191,7 +7191,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -7237,7 +7237,7 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -7338,7 +7338,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -7386,7 +7386,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -7487,7 +7487,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -7633,7 +7633,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -7730,7 +7730,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -7825,7 +7825,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -7963,7 +7963,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -8064,7 +8064,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -8162,7 +8162,7 @@
             "Khat#1#"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -8422,7 +8422,7 @@
             "Phenisobutylamine"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -8850,7 +8850,7 @@
             "Substituted benzofurans"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -8980,7 +8980,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -9167,7 +9167,7 @@
             "Substituted benzofurans"
           ],
           "psychoactive": [
-            "Entactogens"
+            "Entactogen"
           ]
         },
         "tolerance": {
@@ -9299,7 +9299,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -9455,7 +9455,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -9632,7 +9632,7 @@
             "Substituted benzofurans"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -9718,7 +9718,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -9834,7 +9834,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -9911,8 +9911,8 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Entactogens",
-            "Psychedelics"
+            "Psychedelic",
+            "Entactogen"
           ]
         },
         "tolerance": {
@@ -10087,8 +10087,8 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Entactogens",
-            "Psychedelics"
+            "Psychedelic",
+            "Entactogen"
           ]
         },
         "tolerance": {
@@ -10416,8 +10416,8 @@
             "Substituted benzofurans"
           ],
           "psychoactive": [
-            "Entactogens",
-            "Psychedelics"
+            "Psychedelic",
+            "Entactogen"
           ]
         },
         "tolerance": {
@@ -10550,7 +10550,7 @@
             "Substituted benzofurans"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -11274,7 +11274,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -11379,7 +11379,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -11970,7 +11970,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -12083,7 +12083,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -12636,7 +12636,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -13000,7 +13000,7 @@
         "class": {
           "chemical": null,
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -13307,7 +13307,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -13516,7 +13516,7 @@
             "Substituted benzofurans"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -13619,7 +13619,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -13791,7 +13791,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -13907,7 +13907,7 @@
             "Khat#1#"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -14547,7 +14547,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -15907,7 +15907,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -16020,7 +16020,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -16097,7 +16097,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -16236,6 +16236,29 @@
         ]
       },
       {
+        "name": "DMXE",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/DMXE",
+        "class": {
+          "chemical": [
+            "Arylcyclohexylamines"
+          ],
+          "psychoactive": [
+            "Dissociatives"
+          ]
+        },
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": [
+          "exact toxic dosage is unknown"
+        ],
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "DOB",
         "commonNames": [
           "DOB",
@@ -16248,7 +16271,7 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -16348,7 +16371,7 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -16498,7 +16521,7 @@
             "Substituted amphetamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -16587,7 +16610,7 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -16700,7 +16723,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -17728,7 +17751,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -18609,7 +18632,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -18848,7 +18871,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -18949,7 +18972,7 @@
             "Benzoxazine"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -19015,20 +19038,6 @@
             "name": "5-Hydroxytryptophan"
           }
         ]
-      },
-      {
-        "name": "Entactogens",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Entactogens",
-        "class": null,
-        "tolerance": null,
-        "roas": [],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
       },
       {
         "name": "Entheogen",
@@ -19201,7 +19210,7 @@
             "Khat#1#"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -19332,7 +19341,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -22284,7 +22293,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -22767,6 +22776,116 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Kanna",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Kanna",
+        "class": {
+          "chemical": [
+            "Substituted tryptamines"
+          ],
+          "psychoactive": [
+            "Psychedelic"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "sublingual",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Kava",
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/Kava",
@@ -23119,7 +23238,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -23185,7 +23304,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -23281,7 +23400,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -23393,7 +23512,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -23480,7 +23599,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -23672,7 +23791,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -24006,9 +24125,9 @@
             "Amphetamine"
           ],
           "psychoactive": [
-            "Entactogens",
-            "Stimulants",
-            "Psychedelics"
+            "Psychedelic",
+            "Entactogen",
+            "Stimulants"
           ]
         },
         "tolerance": {
@@ -24137,7 +24256,7 @@
             "Aminoindane"
           ],
           "psychoactive": [
-            "Entactogens"
+            "Entactogen"
           ]
         },
         "tolerance": {
@@ -24267,7 +24386,7 @@
             "MDxx"
           ],
           "psychoactive": [
-            "Entactogens"
+            "Entactogen"
           ]
         },
         "tolerance": {
@@ -24418,7 +24537,7 @@
             "MDxx"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -24567,7 +24686,7 @@
             "Pyrrolidinophenone"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -24675,7 +24794,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -24855,8 +24974,8 @@
             "Substituted amphetamines"
           ],
           "psychoactive": [
-            "Entactogens",
-            "Psychedelics"
+            "Psychedelic",
+            "Entactogen"
           ]
         },
         "tolerance": {
@@ -24975,7 +25094,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -25560,7 +25679,7 @@
             "Khat#1#"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -25777,7 +25896,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -26022,7 +26141,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -26432,7 +26551,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -27187,7 +27306,7 @@
             "Khat#1#"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -27674,7 +27793,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -27770,7 +27889,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -29256,6 +29375,116 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Nitromethaqualone",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Nitromethaqualone",
+        "class": {
+          "chemical": [
+            "Substituted tryptamines"
+          ],
+          "psychoactive": [
+            "Psychedelic"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "sublingual",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Nitrous",
         "commonNames": [
           "Nitrous Oxide",
@@ -30304,7 +30533,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -30841,8 +31070,8 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Hallucinogens",
-            "Entactogens"
+            "Entactogen",
+            "Hallucinogens"
           ]
         },
         "tolerance": null,
@@ -30902,7 +31131,7 @@
             "name": "Methoxetamine"
           },
           {
-            "name": "Psychedelics"
+            "name": "Psychedelic"
           }
         ],
         "unsafeInteractions": [
@@ -30949,7 +31178,7 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Entactogens"
+            "Entactogen"
           ]
         },
         "tolerance": null,
@@ -31108,7 +31337,7 @@
             "Lysergamides"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -31456,7 +31685,7 @@
             "Khat#1#"
           ],
           "psychoactive": [
-            "Entactogens",
+            "Entactogen",
             "Stimulants"
           ]
         },
@@ -32926,7 +33155,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -33089,7 +33318,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -33195,7 +33424,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
@@ -33230,23 +33459,23 @@
                 "units": "minutes"
               },
               "comeup": {
-                "min": 1.5,
-                "max": 3,
+                "min": 1,
+                "max": 1.5,
                 "units": "hours"
               },
               "peak": {
                 "min": 2,
-                "max": 3,
+                "max": 2.5,
                 "units": "hours"
               },
               "offset": {
-                "min": 1.5,
-                "max": 2,
+                "min": 2.5,
+                "max": 3.5,
                 "units": "hours"
               },
               "total": {
-                "min": 4,
-                "max": 6,
+                "min": 6,
+                "max": 8,
                 "units": "hours"
               },
               "afterglow": {
@@ -33287,9 +33516,9 @@
         "dangerousInteractions": null
       },
       {
-        "name": "Psychedelics",
+        "name": "Psychedelic",
         "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Psychedelics",
+        "url": "https://psychonautwiki.org/wiki/Psychedelic",
         "class": null,
         "tolerance": {
           "full": "almost immediately after ingestion",
@@ -34451,7 +34680,7 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": null,
@@ -34797,8 +35026,8 @@
             "Amphetamine"
           ],
           "psychoactive": [
-            "Stimulants",
-            "Psychedelics"
+            "Psychedelic",
+            "Stimulants"
           ]
         },
         "tolerance": {
@@ -34863,8 +35092,8 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Stimulants",
-            "Psychedelics"
+            "Psychedelic",
+            "Stimulants"
           ]
         },
         "tolerance": {
@@ -34950,8 +35179,8 @@
             "Substituted amphetamine"
           ],
           "psychoactive": [
-            "Stimulants",
-            "Psychedelics"
+            "Psychedelic",
+            "Stimulants"
           ]
         },
         "tolerance": {
@@ -35681,6 +35910,42 @@
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
+      },
+      {
+        "name": "Tilidin",
+        "commonNames": [
+          "Tilidine",
+          "Tilidin",
+          "Darby",
+          "Valoron",
+          "Generika"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Tilidin",
+        "class": {
+          "chemical": null,
+          "psychoactive": [
+            "Opioids"
+          ]
+        },
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": [
+          {
+            "name": "Benzodiazepines"
+          },
+          {
+            "name": "Cocaine"
+          }
+        ],
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "Alcohol"
+          }
+        ]
       },
       {
         "name": "Tramadol",
@@ -36641,8 +36906,8 @@
             "Substituted tryptamines"
           ],
           "psychoactive": [
-            "Entactogens",
-            "Psychedelics"
+            "Psychedelic",
+            "Entactogen"
           ]
         },
         "tolerance": {
@@ -36777,7 +37042,7 @@
             "Substituted phenethylamines"
           ],
           "psychoactive": [
-            "Psychedelics"
+            "Psychedelic"
           ]
         },
         "tolerance": {
