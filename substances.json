@@ -9910,7 +9910,72 @@
           "PCP"
         ]
       },
-      "roas": []
+      "roas": [
+        {
+          "name": "insufflated",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.2,
+            "commonMin": 0.4,
+            "strongMin": 0.8,
+            "heavyMin": 1.5
+          },
+          "duration": {
+            "onset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 4,
+              "max": 8,
+              "units": "hours"
+            },
+            "total": {
+              "min": 8,
+              "max": 14,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 3,
+              "units": "days"
+            }
+          }
+        },
+        {
+          "name": "sublingual",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.3,
+            "commonMin": 2,
+            "strongMin": 4,
+            "heavyMin": 8
+          },
+          "duration": {
+            "onset": {
+              "min": 40,
+              "max": 80,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1.5,
+              "max": 2,
+              "units": "hours"
+            },
+            "total": {
+              "min": 18,
+              "max": 24,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 3,
+              "units": "days"
+            }
+          }
+        }
+      ]
     },
     {
       "name": "Buspirone",
@@ -12773,7 +12838,6 @@
       "crossTolerances": [
         "benzodiazepines"
       ],
-      "addictionPotential": "extremely physically and psychologically addictive",
       "toxicities": [
         "low toxicity",
         "potentially lethal when mixed with depressants like alcohol or opioids"
@@ -17527,7 +17591,8 @@
           "GHB",
           "GBL",
           "Methoxetamine",
-          "ΑMT"
+          "ΑMT",
+          "Protease Inhibitors"
         ]
       },
       "roas": [
