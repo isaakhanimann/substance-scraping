@@ -109,11 +109,13 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
     let substances = psychonautWikiSubstances.filter(isNameOk)
     substances.forEach(substance => {
         if (substance.class != undefined) {
-            substance.class.psychoactive = (substance?.class?.psychoactive ?? []).map(element => {
+            substance.class.psychoactive = (substance?.class?.psychoactive ?? []).flatMap(element => {
                 if (element === "Selective serotonin reuptake inhibitor") {
-                    return "SSRIs"
+                    return ["SSRIs"]
+                } else if (element === "Atypical neuroleptic") {
+                    return []
                 } else {
-                    return element
+                    return [element]
                 }
             });
         }
