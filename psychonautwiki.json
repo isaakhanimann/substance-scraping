@@ -1,45 +1,4 @@
 {
-  "errors": [
-    {
-      "message": "Float cannot represent non numeric value: [30, 1]",
-      "path": [
-        "substances",
-        348,
-        "roas",
-        0,
-        "duration",
-        "offset",
-        "min"
-      ],
-      "code": "INTERNAL_SERVER_ERROR"
-    },
-    {
-      "message": "Float cannot represent non numeric value: [60, 12]",
-      "path": [
-        "substances",
-        348,
-        "roas",
-        0,
-        "duration",
-        "offset",
-        "max"
-      ],
-      "code": "INTERNAL_SERVER_ERROR"
-    },
-    {
-      "message": "String cannot represent value: [\"minutes\", \"hours\"]",
-      "path": [
-        "substances",
-        348,
-        "roas",
-        0,
-        "duration",
-        "offset",
-        "units"
-      ],
-      "code": "INTERNAL_SERVER_ERROR"
-    }
-  ],
   "data": {
     "substances": [
       {
@@ -20196,7 +20155,7 @@
             "bioavailability": null
           }
         ],
-        "addictionPotential": null,
+        "addictionPotential": "not habit-forming",
         "toxicity": null,
         "crossTolerances": null,
         "uncertainInteractions": null,
@@ -32574,16 +32533,20 @@
                 "units": "hours"
               },
               "offset": {
-                "min": null,
-                "max": null,
-                "units": null
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
               },
               "total": {
                 "min": 3,
                 "max": 6,
                 "units": "hours"
               },
-              "afterglow": null
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "hours"
+              }
             },
             "bioavailability": null
           }
