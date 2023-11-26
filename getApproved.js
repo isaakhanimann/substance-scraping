@@ -3,7 +3,7 @@ const fs = require('fs');
 const {promises: fsPromises} = require("fs");
 
 (async () => {
-    let psychonautWikiContent = await fsPromises.readFile('./psychonautwiki.json', 'utf-8');
+    let psychonautWikiContent = await fsPromises.readFile('./input/psychonautwiki.json', 'utf-8');
     let psychonautWikiSubstances = JSON.parse(psychonautWikiContent)['data']['substances'];
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -30,7 +30,7 @@ const {promises: fsPromises} = require("fs");
 })();
 
 function saveInFile(substances) {
-    const fileName = "approved.json"
+    const fileName = "input/approved.json"
     fs.writeFile(
         fileName,
         JSON.stringify(substances, null, 2),

@@ -3,7 +3,7 @@ const fs = require("fs");
 const assert = require("assert");
 
 (async () => {
-    let psychonautWikiContent = await fsPromises.readFile('./psychonautwiki.json', 'utf-8');
+    let psychonautWikiContent = await fsPromises.readFile('./input/psychonautwiki.json', 'utf-8');
     let psychonautWikiSubstances = cleanupPsychonautWikiSubstances(JSON.parse(psychonautWikiContent)['data']['substances']);
     for (let i = 0; i < psychonautWikiSubstances.length; i++) {
         const substance = psychonautWikiSubstances[i];

@@ -3,16 +3,16 @@ const fs = require("fs");
 const assert = require("assert");
 
 (async () => {
-    let psychonautWikiContent = await fsPromises.readFile('./psychonautwiki.json', 'utf-8');
+    let psychonautWikiContent = await fsPromises.readFile('./input/psychonautwiki.json', 'utf-8');
     let psychonautWikiSubstances = cleanupPsychonautWikiSubstances(JSON.parse(psychonautWikiContent)['data']['substances']);
-    let approvedContent = await fsPromises.readFile('./approved.json', 'utf-8');
+    let approvedContent = await fsPromises.readFile('./input/approved.json', 'utf-8');
     let approvedSubstances = JSON.parse(approvedContent);
-    let saferContent = await fsPromises.readFile('./saferparty.json', 'utf-8');
+    let saferContent = await fsPromises.readFile('./input/saferparty.json', 'utf-8');
     let saferpartySubstances = JSON.parse(saferContent);
-    let tripsitContent = await fsPromises.readFile('./tripsitCleaned.json', 'utf-8');
+    let tripsitContent = await fsPromises.readFile('./input/tripsitCleaned.json', 'utf-8');
     let tripsitSubstances = JSON.parse(tripsitContent);
     let finalSubstances = getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, tripsitSubstances, approvedSubstances);
-    let categoriesContent = await fsPromises.readFile('./categories.json', 'utf-8');
+    let categoriesContent = await fsPromises.readFile('./input/categories.json', 'utf-8');
     let categories = JSON.parse(categoriesContent);
     let inferredCategoryNames = getAllCategoriesOfSubstances(finalSubstances);
     let indexToPrint = 291
@@ -344,7 +344,7 @@ function getAllCategoriesOfSubstances(allSubstances) {
 }
 
 function saveInFile(fileOutput) {
-    const fileName = "substances.json"
+    const fileName = "output/substances.json"
     fs.writeFile(
         fileName,
         JSON.stringify(fileOutput, removeFieldsWithNullValues, 2),

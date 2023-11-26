@@ -3,7 +3,7 @@ const {promises: fsPromises} = require("fs");
 
 (async () => {
     // tripsitOriginal.json is obtained by writing "https://tripbot.tripsit.me/api/tripsit/getAllDrugs" into the browser url and copying the text into a file and formatting and sorting the json with pretty json
-    let tripsitContent = await fsPromises.readFile('./tripsitOriginal.json', 'utf-8');
+    let tripsitContent = await fsPromises.readFile('./input/tripsitOriginal.json', 'utf-8');
     let tripsitSubstances = cleanupTripsitSubstances(JSON.parse(tripsitContent));
     saveInFile(tripsitSubstances);
 })();
@@ -44,7 +44,7 @@ function cleanupTripsitSubstances(tripsitContent) {
 }
 
 function saveInFile(substances) {
-    const fileName = "tripsitCleaned.json"
+    const fileName = "input/tripsitCleaned.json"
     fs.writeFile(
         fileName,
         JSON.stringify(substances, null, 2),

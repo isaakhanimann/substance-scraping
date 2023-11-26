@@ -2,7 +2,7 @@ const {promises: fsPromises} = require('fs');
 const fs = require("fs");
 
 (async () => {
-    let fileData = await fsPromises.readFile('./substances.json', 'utf-8');
+    let fileData = await fsPromises.readFile('./output/substances.json', 'utf-8');
     let file = JSON.parse(fileData);
     let newFile = { ...file };
     newFile.substances = file.substances.map(substance => {
@@ -59,7 +59,7 @@ function convertToHours(durationStr) {
 
 
 function saveInFile(fileOutput) {
-    const fileName = "ios-substances.json"
+    const fileName = "output/ios-substances.json"
     fs.writeFile(
         fileName,
         JSON.stringify(fileOutput, null, 2),
