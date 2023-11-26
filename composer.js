@@ -100,6 +100,7 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Banisteriopsis caapi",
         "Peganum harmala",
         "Tizanidine",
+        "Entactogen",
         "N-(2C)-fentanyl"
     ].map(name => name.toLowerCase()));
 
