@@ -15,7 +15,7 @@ const assert = require("assert");
     let categoriesContent = await fsPromises.readFile('./categories.json', 'utf-8');
     let categories = JSON.parse(categoriesContent);
     let inferredCategoryNames = getAllCategoriesOfSubstances(finalSubstances);
-    let indexToPrint = 246
+    let indexToPrint = 291
     console.log(`Substance at index: ${indexToPrint} is: ${finalSubstances[indexToPrint].name}`);
     let explicitCategoryNames = categories.map(i => i.name);
     let diff1 = inferredCategoryNames.filter(i => !explicitCategoryNames.includes(i));
@@ -99,6 +99,7 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Salvia Divinorum",
         "Banisteriopsis caapi",
         "Peganum harmala",
+        "Tizanidine",
         "N-(2C)-fentanyl"
     ].map(name => name.toLowerCase()));
 
