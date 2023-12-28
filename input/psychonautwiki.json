@@ -2,77 +2,6 @@
   "data": {
     "substances": [
       {
-        "name": "1,3-DMAA",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/1,3-DMAA",
-        "class": {
-          "chemical": [
-            "Amine"
-          ],
-          "psychoactive": [
-            "Stimulants"
-          ]
-        },
-        "tolerance": null,
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": 30,
-              "light": {
-                "min": 50,
-                "max": 100
-              },
-              "common": {
-                "min": 100,
-                "max": 200
-              },
-              "strong": {
-                "min": 200,
-                "max": 500
-              },
-              "heavy": 500
-            },
-            "duration": {
-              "onset": {
-                "min": 15,
-                "max": 30,
-                "units": "minutes"
-              },
-              "comeup": null,
-              "peak": {
-                "min": 2,
-                "max": 4,
-                "units": "hours"
-              },
-              "offset": {
-                "min": 3,
-                "max": 5,
-                "units": "hours"
-              },
-              "total": {
-                "min": 6,
-                "max": 8,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": 2,
-                "max": 10,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          }
-        ],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
-      },
-      {
         "name": "1,3-dimethylbutylamine",
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/1,3-dimethylbutylamine",
@@ -1605,6 +1534,122 @@
           },
           {
             "name": "Tramadol"
+          }
+        ]
+      },
+      {
+        "name": "2-Methyl-AP-237",
+        "commonNames": [
+          "2-Methyl-AP-237",
+          "Apex",
+          "2-MAP"
+        ],
+        "url": "https://psychonautwiki.org/wiki/2-Methyl-AP-237",
+        "class": null,
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 10,
+              "light": {
+                "min": 10,
+                "max": 15
+              },
+              "common": {
+                "min": 15,
+                "max": 20
+              },
+              "strong": {
+                "min": 20,
+                "max": 25
+              },
+              "heavy": 25
+            },
+            "duration": {
+              "onset": {
+                "min": 5,
+                "max": 15,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 10,
+                "max": 40,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 15,
+                "max": 20,
+                "units": "minutes"
+              },
+              "offset": {
+                "min": 5,
+                "max": 60,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": [
+          {
+            "name": "Substituted amphetamines"
+          },
+          {
+            "name": "MAOI"
+          },
+          {
+            "name": "Nitrous"
+          },
+          {
+            "name": "PCP"
+          }
+        ],
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "Alcohol"
+          },
+          {
+            "name": "Benzodiazepines"
+          },
+          {
+            "name": "Cocaine"
+          },
+          {
+            "name": "Dextromethorphan"
+          },
+          {
+            "name": "GHB"
+          },
+          {
+            "name": "GBL"
+          },
+          {
+            "name": "Ketamine"
+          },
+          {
+            "name": "Methoxetamine"
+          },
+          {
+            "name": "Tramadol"
+          },
+          {
+            "name": "Grapefruit"
           }
         ]
       },
@@ -11944,6 +11989,103 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Bromazepam",
+        "commonNames": [
+          "Bromazepam",
+          "Brozam",
+          "Lectopam",
+          "Lexomil",
+          "Lexotan",
+          "Lexilium",
+          "Lexaurin",
+          "Brazepam",
+          "Rekotnil",
+          "Bromaze",
+          "Somalium",
+          "Lexatin",
+          "Calmepam",
+          "Zepam",
+          "Lexotanil"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Bromazepam",
+        "class": null,
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 3,
+              "light": {
+                "min": 3,
+                "max": 6
+              },
+              "common": {
+                "min": 6,
+                "max": 9
+              },
+              "strong": {
+                "min": 9,
+                "max": 12
+              },
+              "heavy": 12
+            },
+            "duration": {
+              "onset": {
+                "min": 14,
+                "max": 15,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 15,
+                "max": 120,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 2,
+                "max": 12,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 6,
+                "max": 15,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 12,
+                "max": 22,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": [
+          "low toxicity",
+          "potentially lethal when mixed with depressants like alcohol or opioids"
+        ],
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Dissociatives"
+          },
+          {
+            "name": "Stimulants"
+          }
+        ]
+      },
+      {
         "name": "Bromazolam",
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/Bromazolam",
@@ -14507,6 +14649,79 @@
         "crossTolerances": [
           "psychedelic"
         ],
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "DMXE",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/DMXE",
+        "class": {
+          "chemical": [
+            "Arylcyclohexylamines"
+          ],
+          "psychoactive": [
+            "Dissociatives"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "insufflated",
+            "dose": {
+              "units": "mg",
+              "threshold": 5,
+              "light": {
+                "min": 5,
+                "max": 20
+              },
+              "common": {
+                "min": 20,
+                "max": 35
+              },
+              "strong": {
+                "min": 35,
+                "max": 60
+              },
+              "heavy": 60
+            },
+            "duration": {
+              "onset": {
+                "min": 5,
+                "max": 15,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 30,
+                "max": 90,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 3,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "total": {
+                "min": 2,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": null
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": [
+          "exact toxic dosage is unknown"
+        ],
+        "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
@@ -19225,6 +19440,85 @@
           "extremely low toxicity"
         ],
         "crossTolerances": [],
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Glaucine",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Glaucine",
+        "class": {
+          "chemical": [
+            "Aporphine"
+          ],
+          "psychoactive": [
+            "Psychedelic",
+            "Depressant"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 20,
+              "light": {
+                "min": 20,
+                "max": 75
+              },
+              "common": {
+                "min": 75,
+                "max": 150
+              },
+              "strong": {
+                "min": 150,
+                "max": 180
+              },
+              "heavy": 180
+            },
+            "duration": {
+              "onset": {
+                "min": 20,
+                "max": 45,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 3,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "total": {
+                "min": 3,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 3,
+                "max": 8,
+                "units": "hours"
+              }
+            },
+            "bioavailability": {
+              "min": 17,
+              "max": null
+            }
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
@@ -27558,6 +27852,83 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Oxazepam",
+        "commonNames": [
+          "Oxazepam",
+          "Serax",
+          "Ceresta"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Oxazepam",
+        "class": null,
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 10,
+              "light": {
+                "min": 10,
+                "max": 15
+              },
+              "common": {
+                "min": 15,
+                "max": 25
+              },
+              "strong": {
+                "min": 30,
+                "max": 45
+              },
+              "heavy": 45
+            },
+            "duration": {
+              "onset": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 2,
+                "max": 3,
+                "units": "hours"
+              },
+              "peak": {
+                "min": 6,
+                "max": 8,
+                "units": "hours"
+              },
+              "offset": null,
+              "total": {
+                "min": 8,
+                "max": 12,
+                "units": "hours"
+              },
+              "afterglow": null
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": [
+          "low toxicity",
+          "potentially lethal when mixed with depressants like alcohol or opioids"
+        ],
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Dissociatives"
+          },
+          {
+            "name": "Stimulants"
+          }
+        ]
+      },
+      {
         "name": "Oxiracetam",
         "commonNames": [
           "Oxiracetam"
@@ -30739,6 +31110,252 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Rolicyclidine",
+        "commonNames": [
+          "PCPy"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Rolicyclidine",
+        "class": {
+          "chemical": [
+            "Arylcyclohexylamines"
+          ],
+          "psychoactive": [
+            "Dissociatives"
+          ]
+        },
+        "tolerance": {
+          "full": "with prolonged and repeated use",
+          "half": "3 - 7 days",
+          "zero": "1 - 2 weeks"
+        },
+        "roas": [
+          {
+            "name": "insufflated",
+            "dose": {
+              "units": "mg",
+              "threshold": 1,
+              "light": {
+                "min": 2,
+                "max": 4
+              },
+              "common": {
+                "min": 4,
+                "max": 8
+              },
+              "strong": {
+                "min": 8,
+                "max": 15
+              },
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": 3,
+                "max": 30,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 30,
+                "max": 90,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 2,
+                "max": 3,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "total": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 4,
+                "max": 48,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 1,
+              "light": {
+                "min": 3,
+                "max": 5
+              },
+              "common": {
+                "min": 5,
+                "max": 9
+              },
+              "strong": {
+                "min": 9,
+                "max": 13
+              },
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": 20,
+                "max": 90,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 30,
+                "max": 120,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 2,
+                "max": 3,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 3,
+                "max": 4,
+                "units": "hours"
+              },
+              "total": {
+                "min": 6,
+                "max": 12,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 12,
+                "max": 48,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "smoked",
+            "dose": {
+              "units": "mg",
+              "threshold": 1,
+              "light": {
+                "min": 2,
+                "max": 4
+              },
+              "common": {
+                "min": 4,
+                "max": 8
+              },
+              "strong": {
+                "min": 8,
+                "max": 12
+              },
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": 2,
+                "max": 20,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 20,
+                "max": 40,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 2,
+                "max": 3,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "total": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 4,
+                "max": 48,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": "highly addictive with a high potential for adverse side effects such as psychosis",
+        "toxicity": null,
+        "crossTolerances": [
+          "dissociative|dissociatives"
+        ],
+        "uncertainInteractions": [
+          {
+            "name": "Methoxetamine"
+          },
+          {
+            "name": "Caffeine"
+          }
+        ],
+        "unsafeInteractions": [
+          {
+            "name": "DOx"
+          },
+          {
+            "name": "Substituted amphetamines"
+          },
+          {
+            "name": "MDMA"
+          },
+          {
+            "name": "Cocaine"
+          },
+          {
+            "name": "Alcohol"
+          },
+          {
+            "name": "Benzodiazepines"
+          },
+          {
+            "name": "Selective serotonin reuptake inhibitor"
+          },
+          {
+            "name": "Dextromethorphan"
+          }
+        ],
+        "dangerousInteractions": [
+          {
+            "name": "2C-T-x"
+          },
+          {
+            "name": "ΑMT"
+          },
+          {
+            "name": "5-MeO-xxT"
+          },
+          {
+            "name": "GHB"
+          },
+          {
+            "name": "GBL"
+          },
+          {
+            "name": "Tramadol"
+          },
+          {
+            "name": "MAOI"
+          },
+          {
+            "name": "Opioids"
+          }
+        ]
+      },
+      {
         "name": "SAM-e",
         "commonNames": [
           "S-Adenosyl Methionine",
@@ -32645,7 +33262,7 @@
               "peak": {
                 "min": 60,
                 "max": 120,
-                "units": null
+                "units": "minutes"
               },
               "offset": null,
               "total": {
