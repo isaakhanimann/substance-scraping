@@ -102,11 +102,16 @@ Promise.all([
   axios.post('https://api.psychonautwiki.org', { query: dmtQuery })
 ]).then(function (responses) {
   const [allSubstancesResponse, dmtResponse] = responses;
-  const mergedData = {data: {substances: [...allSubstancesResponse.data.data.substances, ...dmtResponse.data.data.substances]}};
+
+  const mergedSubstances = [...allSubstancesResponse.data.data.substances, ...dmtResponse.data.data.substances];
+
+  mergedSubstances.sort((a, b) => a.name.localeCompare(b.name));
+
+  const mergedData = {data: {substances: mergedSubstances}};
 
   fs.writeFile('input/psychonautwiki.json', JSON.stringify(mergedData, null, 2), (err) => {
     if (err) throw err;
-    console.log('Data written to file');
+    console.log('PsychonautWiki substances written to file');
   });
 }).catch(function (error) {
   console.error(error);
