@@ -90,20 +90,12 @@ query AllSubstances {
   }
 }`;
 
-const dmtQuery = `
-query OneSubstance {
-  substances(query: "DMT") {
-    ${substanceFieldQuery}
-  }
-}`;
-
 Promise.all([
   axios.post('https://api.psychonautwiki.org', { query: allSubstancesQuery }),
-  axios.post('https://api.psychonautwiki.org', { query: dmtQuery })
 ]).then(function (responses) {
-  const [allSubstancesResponse, dmtResponse] = responses;
+  const [allSubstancesResponse] = responses;
 
-  const mergedSubstances = [...allSubstancesResponse.data.data.substances, ...dmtResponse.data.data.substances];
+  const mergedSubstances = [...allSubstancesResponse.data.data.substances];
 
   mergedSubstances.sort((a, b) => a.name.localeCompare(b.name));
 
