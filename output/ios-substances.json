@@ -1217,84 +1217,6 @@
       ]
     },
     {
-      "name": "2-Methyl-AP-237",
-      "commonNames": [
-        "2-Methyl-AP-237",
-        "Apex",
-        "2-MAP"
-      ],
-      "url": "https://psychonautwiki.org/wiki/2-Methyl-AP-237",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "interactions": {
-        "dangerous": [
-          "Alcohol",
-          "Benzodiazepines",
-          "Cocaine",
-          "Dextromethorphan",
-          "GHB",
-          "GBL",
-          "Ketamine",
-          "Methoxetamine",
-          "Tramadol",
-          "Grapefruit"
-        ],
-        "unsafe": [],
-        "uncertain": [
-          "Substituted amphetamines",
-          "MAOI",
-          "Nitrous",
-          "PCP"
-        ]
-      },
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg",
-            "lightMin": 10,
-            "commonMin": 15,
-            "strongMin": 20,
-            "heavyMin": 25
-          },
-          "duration": {
-            "onset": {
-              "min": 5,
-              "max": 15,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": 10,
-              "max": 40,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": 15,
-              "max": 20,
-              "units": "minutes"
-            },
-            "offset": {
-              "min": 5,
-              "max": 60,
-              "units": "minutes"
-            },
-            "total": {
-              "min": 4,
-              "max": 6,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": 4,
-              "max": 6,
-              "units": "hours"
-            }
-          }
-        }
-      ]
-    },
-    {
       "name": "2,5-DMA",
       "commonNames": [
         "2,5-DMA",
@@ -10033,6 +9955,65 @@
       "roas": []
     },
     {
+      "name": "Chlordiazepoxide",
+      "commonNames": [
+        "Librium"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Chlordiazepoxide",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
+      "categories": [
+        "depressant"
+      ],
+      "interactions": {
+        "dangerous": [
+          "Depressant",
+          "Dissociatives",
+          "Stimulants"
+        ],
+        "unsafe": [],
+        "uncertain": []
+      },
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 5,
+            "commonMin": 10,
+            "strongMin": 50,
+            "heavyMin": 100
+          },
+          "duration": {
+            "onset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 120,
+              "max": 180,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 24,
+              "max": 60,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 150,
+              "max": 300,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
       "name": "Choline bitartrate",
       "commonNames": [
         "Choline"
@@ -12134,8 +12115,16 @@
       ],
       "url": "https://psychonautwiki.org/wiki/DMT",
       "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
+      "tolerance": {
+        "full": "does not appear to occur"
+      },
+      "crossTolerances": [
+        "psychedelics"
+      ],
+      "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "extremely low toxicity"
+      ],
       "categories": [
         "psychedelic",
         "common"
@@ -12154,6 +12143,18 @@
         "People with high blood pressure should not consume DMT.",
         "A trip with DMT should remain an exceptional experience. Make sure you take long breaks from using DMT and talk to others about your experience so that it can be processed."
       ],
+      "interactions": {
+        "dangerous": [
+          "Lithium"
+        ],
+        "unsafe": [
+          "Tramadol"
+        ],
+        "uncertain": [
+          "Cannabis",
+          "Stimulants"
+        ]
+      },
       "roas": [
         {
           "name": "intravenous",
@@ -12237,52 +12238,133 @@
       ]
     },
     {
-      "name": "DMXE",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/DMXE",
-      "isApproved": false,
-      "crossTolerances": [],
+      "name": "DMT",
+      "commonNames": [
+        "DMT",
+        "N,N-DMT",
+        "Dmitry",
+        "The Glory",
+        "The Spirit Molecule"
+      ],
+      "url": "https://psychonautwiki.org/wiki/DMT",
+      "isApproved": true,
+      "tolerance": {
+        "full": "does not appear to occur"
+      },
+      "crossTolerances": [
+        "psychedelics"
+      ],
+      "addictionPotential": "non-addictive with a low abuse potential",
       "toxicities": [
-        "exact toxic dosage is unknown"
+        "extremely low toxicity"
       ],
       "categories": [
-        "dissociative"
+        "psychedelic",
+        "common"
       ],
+      "summary": "A popular and powerful psychedelic, typically used in two ways; either it is vapourised for a short 'breakthrough' experience, or it is taken in combination with an enzyme inhibitor for a long, intense trip (this is also known as ayahuasca or pharmahuasca).",
+      "effectsSummary": "The effect depends very much on the set and the setting. Blood pressure and pulse increase, pupils dilate. Detachment of the body from the mind and ego dissolution are common, near-death experiences also occur relatively often, especially when high doses are consumed. The perception of time changes greatly during intoxication. A few minutes can be perceived as very long and intense. In addition, different feelings such as fear, euphoria, etc. can be experienced within a short period of time. Consumers report immersion in very \"bizarre\" worlds in which connections between being, environment and matter arise. With DMT, this phenomenon is also visually pronounced, i.e., images are linked with oneself, matter and being in one's own society. Physical perception can also be influenced, in that one feels weightless or thinks one is falling.\nWhen swallowed, DMT is only effective in combination with MAO inhibitors. MAO inhibitors (e.g. harmine) are substances and drugs that prevent the enzyme MAO from breaking down the body's own messenger substances such as adrenaline, dopamine, serotonin etc. as well as foreign alkaloids such as caffeine, cocaine, morphine. The psychoactive potion ayahuasca and changa are such a combination. After the consumption of MAO inhibitors, the consumption of certain everyday foods such as cheese is life-threatening.",
+      "dosageRemark": "Ayahuasca is a shamanic herbal potion made from DMT-containing chacruna leaves (Psychotria viridis) and the harmaline-containing ayahuasca liana Banisteriopsis caapi. Harmaline is an MAO inhibitor. MAO inhibitors are substances and drugs that prevent the enzyme MAO from breaking down the body's own messenger substances such as adrenalin, dopamine, serotonin, etc. as well as foreign alkaloids such as caffeine, cocaine, etc.. MAO normally also degrades the active substance DMT even before it can enter the central nervous system via the blood-brain barrier.\nChanga is a mixture for smoking of DMT-containing plants (but usually mostly crystalline DMT) and herbs that act as MAO inhibitors.",
+      "generalRisks": "The risk associated with the use of DMT is mainly psychological and depends on the personality structure of the user. The perceptual changes during a trip can be so intense that especially inexperienced users feel overwhelmed by the flood of impressions. The perception of sudden emotional outbursts can also be perceived as rather disturbing and overwhelming. At high doses, such psychological side effects can be felt for days to weeks. If the rules of the set and setting are not followed, there can be false reactions, loss of orientation, panic, paranoia and horror trips. Physical side effects include nausea, vomiting, increase in heart rate, slightly accelerated breathing, increased blood pressure, pupil dilation, increased salivation, tremors, restlessness, headaches and movement disorders.",
+      "longtermRisks": "Permanent disturbances in self- and reality recognition are possible. The view of the world can be permanently called into question, which can make it difficult to cope with everyday life. Latent (hidden) psychoses can be triggered.",
+      "saferUse": [
+        "Only consume when you feel good. If you are afraid of the strong effects, do not use. Do not use if you are afraid of the substance.",
+        "Do not use DMT alone! Take it in a safe atmosphere and together with experienced people you trust.",
+        "Take DMT while sitting or lying down, as physical perception and ability to move are impaired during intoxication.",
+        "Dose carefully at first. If there is no effect, increase the dose the next time. Do not add more on the same day.",
+        "The consumption of MAO-inhibiting foods such as matured cheese, smoked fish or meat, sauerkraut, tofu, chocolate etc. should be avoided before and after consumption.",
+        "People with high blood pressure should not consume DMT.",
+        "A trip with DMT should remain an exceptional experience. Make sure you take long breaks from using DMT and talk to others about your experience so that it can be processed."
+      ],
+      "interactions": {
+        "dangerous": [
+          "Lithium"
+        ],
+        "unsafe": [
+          "Tramadol"
+        ],
+        "uncertain": [
+          "Cannabis",
+          "Stimulants"
+        ]
+      },
       "roas": [
         {
-          "name": "insufflated",
+          "name": "intravenous",
           "dose": {
             "units": "mg",
-            "lightMin": 5,
+            "lightMin": 4,
+            "commonMin": 10,
+            "strongMin": 15,
+            "heavyMin": 20
+          },
+          "duration": {
+            "onset": {
+              "min": 2,
+              "max": 10,
+              "units": "seconds"
+            },
+            "comeup": {
+              "min": 70,
+              "max": 100,
+              "units": "seconds"
+            },
+            "peak": {
+              "min": 2,
+              "max": 5,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 10,
+              "max": 20,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            }
+          }
+        },
+        {
+          "name": "smoked",
+          "dose": {
+            "units": "mg",
+            "lightMin": 2,
             "commonMin": 20,
-            "strongMin": 35,
+            "strongMin": 40,
             "heavyMin": 60
           },
           "duration": {
             "onset": {
-              "min": 5,
-              "max": 15,
-              "units": "minutes"
+              "min": 20,
+              "max": 40,
+              "units": "seconds"
             },
             "comeup": {
-              "min": 30,
-              "max": 90,
+              "min": 1,
+              "max": 3,
               "units": "minutes"
             },
             "peak": {
-              "min": 1,
-              "max": 3,
-              "units": "hours"
+              "min": 2,
+              "max": 8,
+              "units": "minutes"
             },
             "offset": {
               "min": 1,
-              "max": 2,
-              "units": "hours"
+              "max": 6,
+              "units": "minutes"
             },
             "total": {
-              "min": 2,
-              "max": 6,
-              "units": "hours"
+              "min": 5,
+              "max": 20,
+              "units": "minutes"
+            },
+            "afterglow": {
+              "min": 10,
+              "max": 60,
+              "units": "minutes"
             }
           }
         }
@@ -14612,69 +14694,6 @@
               "max": 4,
               "units": "hours"
             }
-          }
-        }
-      ]
-    },
-    {
-      "name": "Glaucine",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Glaucine",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "psychedelic",
-        "depressant",
-        "opioid",
-        "habit-forming",
-        "tentative"
-      ],
-      "summary": "An alkaloid that is found in several different scpecies in the Papaveraceae family. It has antiinflammatory and antitussive effects. Can also be referred to as Yellow Horned Poppy.",
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg",
-            "lightMin": 20,
-            "commonMin": 75,
-            "strongMin": 150,
-            "heavyMin": 180
-          },
-          "duration": {
-            "onset": {
-              "min": 20,
-              "max": 45,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": 30,
-              "max": 60,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": 1,
-              "max": 3,
-              "units": "hours"
-            },
-            "offset": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
-            },
-            "total": {
-              "min": 3,
-              "max": 6,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": 3,
-              "max": 8,
-              "units": "hours"
-            }
-          },
-          "bioavailability": {
-            "min": 17
           }
         }
       ]
@@ -20673,16 +20692,6 @@
       "roas": []
     },
     {
-      "name": "Orphenadrine",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Orphenadrine",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Oxazepam",
       "commonNames": [
         "Oxazepam",
@@ -24108,49 +24117,6 @@
       ]
     },
     {
-      "name": "TMA",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/TMA",
-      "isApproved": false,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "3 days",
-        "zero": "7 days",
-        "halfToleranceInHours": 72,
-        "zeroToleranceInHours": 168
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
-      "categories": [
-        "psychedelic",
-        "stimulant"
-      ],
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "70",
-            "lightMin": 40,
-            "commonMin": 140,
-            "strongMin": 170,
-            "heavyMin": 200
-          },
-          "duration": {
-            "total": {
-              "min": 6,
-              "max": 12,
-              "units": "hours"
-            }
-          }
-        }
-      ]
-    },
-    {
       "name": "TMA-2",
       "commonNames": [
         "TMA-2"
@@ -24916,6 +24882,30 @@
           }
         }
       ]
+    },
+    {
+      "name": "ΒOH-2C-B",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/%CE%92OH-2C-B",
+      "isApproved": false,
+      "tolerance": {
+        "full": "almost immediately after ingestion",
+        "half": "3 days",
+        "zero": "7 days",
+        "halfToleranceInHours": 72,
+        "zeroToleranceInHours": 168
+      },
+      "crossTolerances": [
+        "psychedelic"
+      ],
+      "addictionPotential": "not habit-forming",
+      "toxicities": [
+        "toxic dose is unknown"
+      ],
+      "categories": [
+        "psychedelic"
+      ],
+      "roas": []
     }
   ]
 }
