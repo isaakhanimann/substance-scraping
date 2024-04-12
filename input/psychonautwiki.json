@@ -1490,6 +1490,122 @@
         ]
       },
       {
+        "name": "2-Methyl-AP-237",
+        "commonNames": [
+          "2-Methyl-AP-237",
+          "Apex",
+          "2-MAP"
+        ],
+        "url": "https://psychonautwiki.org/wiki/2-Methyl-AP-237",
+        "class": null,
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 10,
+              "light": {
+                "min": 10,
+                "max": 15
+              },
+              "common": {
+                "min": 15,
+                "max": 20
+              },
+              "strong": {
+                "min": 20,
+                "max": 25
+              },
+              "heavy": 25
+            },
+            "duration": {
+              "onset": {
+                "min": 5,
+                "max": 15,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 10,
+                "max": 40,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 15,
+                "max": 20,
+                "units": "minutes"
+              },
+              "offset": {
+                "min": 5,
+                "max": 60,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": [
+          {
+            "name": "Substituted amphetamines"
+          },
+          {
+            "name": "MAOI"
+          },
+          {
+            "name": "Nitrous"
+          },
+          {
+            "name": "PCP"
+          }
+        ],
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "Alcohol"
+          },
+          {
+            "name": "Benzodiazepines"
+          },
+          {
+            "name": "Cocaine"
+          },
+          {
+            "name": "Dextromethorphan"
+          },
+          {
+            "name": "GHB"
+          },
+          {
+            "name": "GBL"
+          },
+          {
+            "name": "Ketamine"
+          },
+          {
+            "name": "Methoxetamine"
+          },
+          {
+            "name": "Tramadol"
+          },
+          {
+            "name": "Grapefruit"
+          }
+        ]
+      },
+      {
         "name": "2,5-DMA",
         "commonNames": [
           "2,5-DMA",
@@ -5298,7 +5414,7 @@
         "url": "https://psychonautwiki.org/wiki/3-MMC",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Entactogen",
@@ -9437,9 +9553,9 @@
         "url": "https://psychonautwiki.org/wiki/A-PHP",
         "class": {
           "chemical": [
+            "Cathinone",
             "Substituted cathinones",
-            "Substituted pyrrolidines",
-            "Khat#1#"
+            "Substituted pyrrolidines"
           ],
           "psychoactive": [
             "Stimulants"
@@ -9671,9 +9787,9 @@
         "url": "https://psychonautwiki.org/wiki/A-PVP",
         "class": {
           "chemical": [
+            "Cathinone",
             "Substituted cathinones",
-            "Substituted pyrrolidines",
-            "Khat#1#"
+            "Substituted pyrrolidines"
           ],
           "psychoactive": [
             "Stimulants"
@@ -10482,7 +10598,10 @@
             "name": "PCP"
           },
           {
-            "name": "Antibiotics"
+            "name": "ALDH2 inhibitors"
+          },
+          {
+            "name": "Hepatotoxic drugs"
           }
         ],
         "dangerousInteractions": [
@@ -10785,6 +10904,55 @@
         },
         "roas": [
           {
+            "name": "inhaled",
+            "dose": {
+              "units": "mg",
+              "threshold": 0.05,
+              "light": {
+                "min": 0.05,
+                "max": 0.25
+              },
+              "common": {
+                "min": 0.25,
+                "max": 0.5
+              },
+              "strong": {
+                "min": 0.5,
+                "max": 1
+              },
+              "heavy": 1
+            },
+            "duration": {
+              "onset": {
+                "min": 5,
+                "max": 10,
+                "units": "seconds"
+              },
+              "comeup": {
+                "min": 5,
+                "max": 10,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 2,
+                "max": 3,
+                "units": "hours"
+              },
+              "total": {
+                "min": 4,
+                "max": 5,
+                "units": "hours"
+              },
+              "afterglow": null
+            },
+            "bioavailability": null
+          },
+          {
             "name": "oral",
             "dose": {
               "units": "mg",
@@ -10805,11 +10973,15 @@
             },
             "duration": {
               "onset": {
-                "min": 20,
-                "max": 40,
+                "min": 15,
+                "max": 30,
                 "units": "minutes"
               },
-              "comeup": null,
+              "comeup": {
+                "min": 50,
+                "max": 90,
+                "units": "minutes"
+              },
               "peak": {
                 "min": 1,
                 "max": 2,
@@ -10817,11 +10989,11 @@
               },
               "offset": {
                 "min": 2,
-                "max": 6,
+                "max": 4,
                 "units": "hours"
               },
               "total": {
-                "min": 5,
+                "min": 6,
                 "max": 8,
                 "units": "hours"
               },
@@ -11595,7 +11767,8 @@
         "url": "https://psychonautwiki.org/wiki/Baclofen",
         "class": {
           "chemical": [
-            "Butyric acid"
+            "Butyric acid",
+            "Gabapentinoids"
           ],
           "psychoactive": [
             "Depressant"
@@ -11988,9 +12161,7 @@
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/Bromazolam",
         "class": {
-          "chemical": [
-            "Benzodiazepines"
-          ],
+          "chemical": null,
           "psychoactive": [
             "Depressant"
           ]
@@ -12377,115 +12548,6 @@
         ]
       },
       {
-        "name": "Bupropion",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Bupropion",
-        "class": null,
-        "tolerance": null,
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": 75,
-              "light": {
-                "min": 75,
-                "max": 125
-              },
-              "common": {
-                "min": 125,
-                "max": 225
-              },
-              "strong": {
-                "min": 225,
-                "max": 325
-              },
-              "heavy": 325
-            },
-            "duration": {
-              "onset": {
-                "min": 40,
-                "max": 60,
-                "units": "minutes"
-              },
-              "comeup": null,
-              "peak": null,
-              "offset": null,
-              "total": {
-                "min": 8,
-                "max": 12,
-                "units": "hours"
-              },
-              "afterglow": null
-            },
-            "bioavailability": null
-          }
-        ],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": [
-          {
-            "name": "Caffeine"
-          },
-          {
-            "name": "Ketamine"
-          },
-          {
-            "name": "Methoxetamine"
-          },
-          {
-            "name": "Psychedelic"
-          }
-        ],
-        "unsafeInteractions": [
-          {
-            "name": "Stimulants"
-          },
-          {
-            "name": "Cannabis"
-          },
-          {
-            "name": "PCP"
-          },
-          {
-            "name": "25x-NBOMe"
-          },
-          {
-            "name": "2C-T-x"
-          },
-          {
-            "name": "5-MeO-xxT"
-          },
-          {
-            "name": "DOx"
-          }
-        ],
-        "dangerousInteractions": [
-          {
-            "name": "Tramadol"
-          },
-          {
-            "name": "Tapentadol"
-          },
-          {
-            "name": "Dextropropoxyphene"
-          },
-          {
-            "name": "lithium"
-          },
-          {
-            "name": "Dextromethorphan"
-          },
-          {
-            "name": "ΑMT"
-          },
-          {
-            "name": "MAOI"
-          }
-        ]
-      },
-      {
         "name": "Buspirone",
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/Buspirone",
@@ -12606,8 +12668,8 @@
         "class": {
           "chemical": [
             "MDxx",
-            "Substituted cathinones",
-            "Khat#1#"
+            "Cathinone",
+            "Substituted cathinones"
           ],
           "psychoactive": [
             "Entactogen",
@@ -12924,6 +12986,20 @@
             "bioavailability": null
           }
         ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "CanKet",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/CanKet",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
         "addictionPotential": null,
         "toxicity": null,
         "crossTolerances": null,
@@ -17235,7 +17311,7 @@
         "url": "https://psychonautwiki.org/wiki/Ephylone",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Entactogen",
@@ -17592,7 +17668,7 @@
         "url": "https://psychonautwiki.org/wiki/ETH-CAT",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Stimulants"
@@ -18318,12 +18394,219 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Etomidate",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Etomidate",
+        "class": {
+          "chemical": [
+            "Cathinone"
+          ],
+          "psychoactive": [
+            "Depressant"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "insufflated",
+            "dose": {
+              "units": "mg",
+              "threshold": 5,
+              "light": {
+                "min": 5,
+                "max": 15
+              },
+              "common": {
+                "min": 15,
+                "max": 40
+              },
+              "strong": {
+                "min": 40,
+                "max": 80
+              },
+              "heavy": 80
+            },
+            "duration": {
+              "onset": {
+                "min": 10,
+                "max": 15,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": {
+                "min": 1,
+                "max": 1.5,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "total": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 1.5,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 20,
+              "light": {
+                "min": 20,
+                "max": 50
+              },
+              "common": {
+                "min": 50,
+                "max": 100
+              },
+              "strong": {
+                "min": 100,
+                "max": 135
+              },
+              "heavy": 135
+            },
+            "duration": {
+              "onset": {
+                "min": 20,
+                "max": 30,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 1.5,
+                "units": "hours"
+              },
+              "total": {
+                "min": 3,
+                "max": 5,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Eugeroics",
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/Eugeroics",
         "class": null,
         "tolerance": null,
         "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Experience:\"DPH (700mg, Oral) - Arachnophobia Awakened",
+        "commonNames": [
+          "DPH",
+          "Benadryl",
+          "Nytol",
+          "Sominex",
+          "Unisom SleepMelts",
+          "ZzzQuil"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Experience:%22DPH_(700mg,_Oral)_-_Arachnophobia_Awakened",
+        "class": {
+          "chemical": [
+            "Ethanolamine#1#"
+          ],
+          "psychoactive": [
+            "Deliriant",
+            "Depressant"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 25,
+              "light": {
+                "min": 100,
+                "max": 200
+              },
+              "common": {
+                "min": 200,
+                "max": 400
+              },
+              "strong": {
+                "min": 400,
+                "max": 700
+              },
+              "heavy": 700
+            },
+            "duration": {
+              "onset": {
+                "min": 30,
+                "max": 90,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 45,
+                "max": 90,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 4,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 2,
+                "max": 6,
+                "units": "hours"
+              },
+              "total": {
+                "min": 3,
+                "max": 10,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": 24,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
         "addictionPotential": null,
         "toxicity": null,
         "crossTolerances": null,
@@ -19835,7 +20118,7 @@
         "url": "https://psychonautwiki.org/wiki/Hexedrone",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Stimulants"
@@ -23072,8 +23355,8 @@
         "url": "https://psychonautwiki.org/wiki/Mephedrone",
         "class": {
           "chemical": [
-            "Substituted cathinones",
-            "Khat#1#"
+            "Cathinone",
+            "Substituted cathinones"
           ],
           "psychoactive": [
             "Entactogen",
@@ -24854,7 +25137,7 @@
         "url": "https://psychonautwiki.org/wiki/Methylone",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Entactogen",
@@ -25229,7 +25512,7 @@
         "url": "https://psychonautwiki.org/wiki/Mexedrone",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Stimulants"
@@ -26228,7 +26511,7 @@
         "url": "https://psychonautwiki.org/wiki/N-Ethylhexedrone",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Stimulants"
@@ -26615,7 +26898,7 @@
         "url": "https://psychonautwiki.org/wiki/NEP",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Stimulants"
@@ -26987,6 +27270,20 @@
         "crossTolerances": [
           "benzodiazepines"
         ],
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Nitazene",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Nitazene",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
@@ -28799,7 +29096,7 @@
         "url": "https://psychonautwiki.org/wiki/Pentedrone",
         "class": {
           "chemical": [
-            "Khat#1#"
+            "Cathinone"
           ],
           "psychoactive": [
             "Stimulants"
@@ -29406,14 +29703,26 @@
                 "max": 60,
                 "units": "minutes"
               },
-              "comeup": null,
+              "comeup": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
               "peak": {
                 "min": 4,
                 "max": 6,
                 "units": "hours"
               },
-              "offset": null,
-              "total": null,
+              "offset": {
+                "min": 12,
+                "max": 24,
+                "units": "hours"
+              },
+              "total": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
               "afterglow": {
                 "min": 1,
                 "max": 48,
@@ -32740,7 +33049,7 @@
         "class": {
           "chemical": [
             "Dibenzothiazepine",
-            "Tricyclic antidepressant"
+            "Antidepressants"
           ],
           "psychoactive": [
             "Nootropic",

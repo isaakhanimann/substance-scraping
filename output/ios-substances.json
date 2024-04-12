@@ -1217,6 +1217,84 @@
       ]
     },
     {
+      "name": "2-Methyl-AP-237",
+      "commonNames": [
+        "2-Methyl-AP-237",
+        "Apex",
+        "2-MAP"
+      ],
+      "url": "https://psychonautwiki.org/wiki/2-Methyl-AP-237",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [],
+      "interactions": {
+        "dangerous": [
+          "Alcohol",
+          "Benzodiazepines",
+          "Cocaine",
+          "Dextromethorphan",
+          "GHB",
+          "GBL",
+          "Ketamine",
+          "Methoxetamine",
+          "Tramadol",
+          "Grapefruit"
+        ],
+        "unsafe": [],
+        "uncertain": [
+          "Substituted amphetamines",
+          "MAOI",
+          "Nitrous",
+          "PCP"
+        ]
+      },
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 10,
+            "commonMin": 15,
+            "strongMin": 20,
+            "heavyMin": 25
+          },
+          "duration": {
+            "onset": {
+              "min": 5,
+              "max": 15,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 10,
+              "max": 40,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 15,
+              "max": 20,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 5,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 4,
+              "max": 6,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 4,
+              "max": 6,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
       "name": "2,5-DMA",
       "commonNames": [
         "2,5-DMA",
@@ -7877,7 +7955,8 @@
           "Cocaine",
           "MAOI",
           "PCP",
-          "Antibiotics"
+          "ALDH2 inhibitors",
+          "Hepatotoxic drugs"
         ],
         "uncertain": [
           "Stimulants",
@@ -8174,6 +8253,43 @@
       },
       "roas": [
         {
+          "name": "inhaled",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.05,
+            "commonMin": 0.25,
+            "strongMin": 0.5,
+            "heavyMin": 1
+          },
+          "duration": {
+            "onset": {
+              "min": 5,
+              "max": 10,
+              "units": "seconds"
+            },
+            "comeup": {
+              "min": 5,
+              "max": 10,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 2,
+              "max": 3,
+              "units": "hours"
+            },
+            "total": {
+              "min": 4,
+              "max": 5,
+              "units": "hours"
+            }
+          }
+        },
+        {
           "name": "oral",
           "dose": {
             "units": "mg",
@@ -8184,8 +8300,13 @@
           },
           "duration": {
             "onset": {
-              "min": 20,
-              "max": 40,
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 50,
+              "max": 90,
               "units": "minutes"
             },
             "peak": {
@@ -8195,11 +8316,11 @@
             },
             "offset": {
               "min": 2,
-              "max": 6,
+              "max": 4,
               "units": "hours"
             },
             "total": {
-              "min": 5,
+              "min": 6,
               "max": 8,
               "units": "hours"
             },
@@ -9324,69 +9445,6 @@
       ]
     },
     {
-      "name": "Bupropion",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Bupropion",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "stimulant",
-        "habit-forming"
-      ],
-      "summary": "A frequently prescribed atypical antidepressant. Occasionally prescribed as an aid to smoking cessation. May lower seizure threshold in predisposed individuals. Poorly understood mechanism of action, probably an NDRI. Avoid combination with other drugs.",
-      "interactions": {
-        "dangerous": [
-          "Tramadol",
-          "Tapentadol",
-          "Dextropropoxyphene",
-          "lithium",
-          "Dextromethorphan",
-          "ΑMT",
-          "MAOI"
-        ],
-        "unsafe": [
-          "Stimulants",
-          "Cannabis",
-          "PCP",
-          "25x-NBOMe",
-          "2C-T-x",
-          "5-MeO-xxT",
-          "DOx"
-        ],
-        "uncertain": [
-          "Caffeine",
-          "Ketamine",
-          "Methoxetamine",
-          "Psychedelics"
-        ]
-      },
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg",
-            "lightMin": 75,
-            "commonMin": 125,
-            "strongMin": 225,
-            "heavyMin": 325
-          },
-          "duration": {
-            "onset": {
-              "min": 40,
-              "max": 60,
-              "units": "minutes"
-            },
-            "total": {
-              "min": 8,
-              "max": 12,
-              "units": "hours"
-            }
-          }
-        }
-      ]
-    },
-    {
       "name": "Buspirone",
       "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Buspirone",
@@ -9637,6 +9695,16 @@
           }
         }
       ]
+    },
+    {
+      "name": "CanKet",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/CanKet",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [],
+      "roas": []
     },
     {
       "name": "Cannabidiol",
@@ -13661,6 +13729,98 @@
             "afterglow": {
               "min": 6,
               "max": 24,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Etomidate",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Etomidate",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "depressant"
+      ],
+      "roas": [
+        {
+          "name": "insufflated",
+          "dose": {
+            "units": "mg",
+            "lightMin": 5,
+            "commonMin": 15,
+            "strongMin": 40,
+            "heavyMin": 80
+          },
+          "duration": {
+            "onset": {
+              "min": 10,
+              "max": 15,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 1.5,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "total": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 1.5,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 20,
+            "commonMin": 50,
+            "strongMin": 100,
+            "heavyMin": 135
+          },
+          "duration": {
+            "onset": {
+              "min": 20,
+              "max": 30,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1,
+              "max": 1.5,
+              "units": "hours"
+            },
+            "total": {
+              "min": 3,
+              "max": 5,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 2,
+              "max": 4,
               "units": "hours"
             }
           }
@@ -20055,6 +20215,16 @@
       ]
     },
     {
+      "name": "Nitazene",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Nitazene",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [],
+      "roas": []
+    },
+    {
       "name": "Nitromethaqualone",
       "commonNames": [],
       "url": "https://psychonautwiki.org/wiki/Nitromethaqualone",
@@ -21728,7 +21898,22 @@
               "max": 60,
               "units": "minutes"
             },
+            "comeup": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
             "peak": {
+              "min": 4,
+              "max": 6,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 12,
+              "max": 24,
+              "units": "hours"
+            },
+            "total": {
               "min": 4,
               "max": 6,
               "units": "hours"
