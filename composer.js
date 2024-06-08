@@ -212,7 +212,7 @@ function cleanupDurationRange(range) {
         range.units = "hours"
         return range
     }
-    if (range?.units === "min") {
+    if (range?.units === "Minutes#" || range?.units === "min") {
         range.units = "minutes"
         return range
     }
