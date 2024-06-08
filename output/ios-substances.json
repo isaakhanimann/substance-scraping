@@ -4034,6 +4034,90 @@
           }
         },
         {
+          "name": "intravenous",
+          "dose": {
+            "units": "mg",
+            "lightMin": 10,
+            "commonMin": 25,
+            "strongMin": 50,
+            "heavyMin": 100
+          },
+          "duration": {
+            "onset": {
+              "min": 15,
+              "max": 30,
+              "units": "seconds"
+            },
+            "comeup": {
+              "min": 1,
+              "max": 2,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 1.5,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "total": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "intravenous",
+          "dose": {
+            "units": "mg",
+            "lightMin": 10,
+            "commonMin": 25,
+            "strongMin": 50,
+            "heavyMin": 100
+          },
+          "duration": {
+            "onset": {
+              "min": 15,
+              "max": 30,
+              "units": "seconds"
+            },
+            "comeup": {
+              "min": 1,
+              "max": 2,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 1.5,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "total": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            }
+          }
+        },
+        {
           "name": "oral",
           "dose": {
             "units": "mg",
@@ -5911,7 +5995,7 @@
       "name": "4F-EPH",
       "commonNames": [
         "4F-EPH",
-        "4FEPH"
+        "4-FEPH"
       ],
       "url": "https://psychonautwiki.org/wiki/4F-EPH",
       "isApproved": true,
@@ -5982,7 +6066,8 @@
     {
       "name": "4F-MPH",
       "commonNames": [
-        "4F-MPH"
+        "4F-MPH",
+        "4-FMPH"
       ],
       "url": "https://psychonautwiki.org/wiki/4F-MPH",
       "isApproved": true,
@@ -6385,9 +6470,29 @@
             "heavyMin": 35
           },
           "duration": {
+            "onset": {
+              "min": 10,
+              "max": 15,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 15,
+              "max": 20,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 60,
+              "max": 90,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
             "total": {
-              "min": 3,
-              "max": 6,
+              "min": 2,
+              "max": 4,
               "units": "hours"
             }
           }
@@ -6403,7 +6508,12 @@
           "duration": {
             "onset": {
               "min": 15,
-              "max": 60,
+              "max": 30,
+              "units": "seconds"
+            },
+            "comeup": {
+              "min": 15,
+              "max": 30,
               "units": "seconds"
             },
             "peak": {
@@ -6877,7 +6987,9 @@
       ],
       "summary": "A synthetic cannabanoid that is a Indazole. Produces subjective effects somehwat similar to that of Cannabis, yet with a very short duration. Analogue of STS-135, in which the core indole structure is subbed with an indazole base.",
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
@@ -6961,7 +7073,9 @@
       ],
       "summary": "Synthetic cannabinoid, agonist of the cannabinoid receptors which has a strong sedating aspect. Being a synthetic cannabinoid it has a very fast onset.",
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
@@ -7571,7 +7685,9 @@
       ],
       "summary": "Arguably the most common synthetic cannabinoid, AB-FUBINACA was originally developed by Pfizer as an analgesic, but has since abandoned for medical use. It has since found a following in the RC community, however it's extremely high potency and inclusion in synthetic blends makes it dangerous, and it has killed in overdose. Exercise caution.",
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
@@ -7753,8 +7869,9 @@
       "addictionPotential": "not addictive with a low potential for abuse",
       "toxicities": [],
       "categories": [
-        "nootropic",
         "stimulant",
+        "nootropic",
+        "eugeroic",
         "research-chemical",
         "habit-forming"
       ],
@@ -8497,6 +8614,11 @@
               "min": 3,
               "max": 6,
               "units": "hours"
+            },
+            "afterglow": {
+              "min": 1.5,
+              "max": 4,
+              "units": "hours"
             }
           }
         },
@@ -8709,8 +8831,8 @@
         "The median lethal dose at which 50% of participants die (LD50) from either armodafinil or modafinil for human beings has never been reached"
       ],
       "categories": [
-        "eugeroic",
         "stimulant",
+        "eugeroic",
         "nootropic",
         "habit-forming"
       ],
@@ -8952,11 +9074,11 @@
         {
           "name": "oral",
           "dose": {
-            "units": "g",
-            "lightMin": 0.25,
-            "commonMin": 1,
-            "strongMin": 1.5,
-            "heavyMin": 2
+            "units": "mg",
+            "lightMin": 150,
+            "commonMin": 500,
+            "strongMin": 1000,
+            "heavyMin": 2000
           },
           "duration": {
             "onset": {
@@ -8977,6 +9099,11 @@
             "total": {
               "min": 5,
               "max": 8,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 24,
+              "max": 72,
               "units": "hours"
             }
           }
@@ -9283,7 +9410,12 @@
           "duration": {
             "onset": {
               "min": 15,
-              "max": 60,
+              "max": 30,
+              "units": "seconds"
+            },
+            "comeup": {
+              "min": 15,
+              "max": 30,
               "units": "seconds"
             },
             "peak": {
@@ -9669,27 +9801,27 @@
             },
             "comeup": {
               "min": 10,
-              "max": 60,
+              "max": 30,
               "units": "minutes"
             },
             "peak": {
+              "min": 45,
+              "max": 90,
+              "units": "minutes"
+            },
+            "offset": {
               "min": 1,
               "max": 2,
               "units": "hours"
             },
-            "offset": {
-              "min": 6,
-              "max": 10,
-              "units": "hours"
-            },
             "total": {
               "min": 2,
-              "max": 5,
+              "max": 4.5,
               "units": "hours"
             },
             "afterglow": {
-              "min": 2,
-              "max": 4,
+              "min": 4,
+              "max": 12,
               "units": "hours"
             }
           }
@@ -9765,7 +9897,8 @@
         "Herb",
         "Green",
         "Bud",
-        "Tree"
+        "Tree",
+        "THC"
       ],
       "url": "https://psychonautwiki.org/wiki/Cannabis",
       "isApproved": true,
@@ -9803,7 +9936,9 @@
         "Cannabis use should be avoided in cases of lung disease and existing heart conditions or heart disease."
       ],
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
@@ -9894,7 +10029,7 @@
               "units": "hours"
             },
             "total": {
-              "min": 2.3,
+              "min": 2.5,
               "max": 5,
               "units": "hours"
             },
@@ -10347,7 +10482,9 @@
       "name": "Clonazolam",
       "commonNames": [
         "Clonazolam",
-        "Clonitrazolam"
+        "Clonitrazolam",
+        "Clam",
+        "C-lam"
       ],
       "url": "https://psychonautwiki.org/wiki/Clonazolam",
       "isApproved": true,
@@ -10390,7 +10527,7 @@
             "lightMin": 50,
             "commonMin": 200,
             "strongMin": 400,
-            "heavyMin": 1
+            "heavyMin": 999
           },
           "duration": {
             "onset": {
@@ -10911,7 +11048,7 @@
             "lightMin": 5,
             "commonMin": 15,
             "strongMin": 25,
-            "heavyMin": 40
+            "heavyMin": 60
           },
           "duration": {
             "onset": {
@@ -11013,18 +11150,23 @@
           },
           "duration": {
             "onset": {
-              "min": 1,
-              "max": 5,
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 30,
+              "max": 60,
               "units": "minutes"
             },
             "peak": {
-              "min": 1,
-              "max": 2,
+              "min": 3,
+              "max": 4,
               "units": "hours"
             },
             "offset": {
-              "min": 2,
-              "max": 3,
+              "min": 3,
+              "max": 4,
               "units": "hours"
             },
             "total": {
@@ -11394,6 +11536,136 @@
       ]
     },
     {
+      "name": "Dextroamphetamine",
+      "commonNames": [
+        "Dextroamphetamine",
+        "Dexamphetamine",
+        "D-amphetamine",
+        "Dexedrine",
+        "Dex"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Dextroamphetamine",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "stimulant"
+      ],
+      "interactions": {
+        "dangerous": [
+          "Tramadol",
+          "ΑMT",
+          "MAOI"
+        ],
+        "unsafe": [
+          "Dextromethorphan",
+          "PCP",
+          "25x-NBOMe",
+          "2C-T-x",
+          "5-MeO-xxT",
+          "DOx"
+        ],
+        "uncertain": [
+          "Alcohol",
+          "GHB",
+          "GBL",
+          "Opioids",
+          "Cocaine",
+          "Cannabis",
+          "Caffeine",
+          "Ketamine",
+          "Methoxetamine",
+          "Psychedelics"
+        ]
+      },
+      "roas": [
+        {
+          "name": "insufflated",
+          "dose": {
+            "units": "mg",
+            "lightMin": 3,
+            "commonMin": 7.5,
+            "strongMin": 12,
+            "heavyMin": 21.5
+          },
+          "duration": {
+            "onset": {
+              "min": 1,
+              "max": 5,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 5,
+              "max": 15,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1.5,
+              "max": 3,
+              "units": "hours"
+            },
+            "total": {
+              "min": 3,
+              "max": 6,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 3.75,
+            "commonMin": 10,
+            "strongMin": 16,
+            "heavyMin": 30
+          },
+          "duration": {
+            "onset": {
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 30,
+              "max": 60,
+              "units": "minuted"
+            },
+            "peak": {
+              "min": 2.5,
+              "max": 4,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 2,
+              "max": 3,
+              "units": "hours"
+            },
+            "total": {
+              "min": 6,
+              "max": 8,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 3,
+              "max": 6,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
       "name": "Dextromethorphan",
       "commonNames": [
         "DXM",
@@ -11448,7 +11720,8 @@
           "2C-T-x",
           "5-MeO-xxT",
           "Substituted amphetamines",
-          "Cocaine"
+          "Cocaine",
+          "Talk:Bupropion"
         ],
         "uncertain": [
           "Benzodiazepines",
@@ -11923,8 +12196,7 @@
         "fatal at amounts close to or exceeding 2 grams"
       ],
       "categories": [
-        "deliriant",
-        "depressant"
+        "deliriant"
       ],
       "roas": [
         {
@@ -12813,6 +13085,62 @@
       ]
     },
     {
+      "name": "Efavirenz",
+      "commonNames": [
+        "Efavirenz",
+        "Sustiva"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Efavirenz",
+      "isApproved": true,
+      "crossTolerances": [],
+      "addictionPotential": "not known to be habit-forming",
+      "toxicities": [
+        "low toxicity",
+        "may cause liver toxicity at high doses or after chronic use"
+      ],
+      "categories": [
+        "psychedelic"
+      ],
+      "interactions": {
+        "dangerous": [
+          "SNRIs",
+          "MAOI",
+          "Serotonin releasers",
+          "SSRIs",
+          "5-Hydroxytryptophan"
+        ],
+        "unsafe": [],
+        "uncertain": []
+      },
+      "roas": [
+        {
+          "name": "smoked",
+          "dose": {
+            "units": "mg",
+            "commonMin": 600,
+            "strongMin": 1800
+          },
+          "duration": {
+            "onset": {
+              "min": 1,
+              "max": 5,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 6,
+              "max": 12,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
       "name": "Ephedrine",
       "commonNames": [
         "Ephedrine",
@@ -13655,7 +13983,8 @@
       "commonNames": [
         "Etizolam",
         "Etilaam",
-        "Etizest"
+        "Etizest",
+        "Depas"
       ],
       "url": "https://psychonautwiki.org/wiki/Etizolam",
       "isApproved": true,
@@ -15162,7 +15491,8 @@
       "name": "Hydrocodone",
       "commonNames": [
         "Vicodin (with paracetamol)",
-        "Zohydro ER (extended-release)"
+        "Zohydro ER (extended-release)",
+        "Norco"
       ],
       "url": "https://psychonautwiki.org/wiki/Hydrocodone",
       "isApproved": true,
@@ -15275,6 +15605,43 @@
       },
       "roas": [
         {
+          "name": "insufflated",
+          "dose": {
+            "units": "mg",
+            "lightMin": 1,
+            "commonMin": 2,
+            "strongMin": 4,
+            "heavyMin": 8
+          },
+          "duration": {
+            "onset": {
+              "min": 1,
+              "max": 5,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 5,
+              "max": 10,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 4,
+              "max": 6,
+              "units": "hours"
+            }
+          }
+        },
+        {
           "name": "intravenous",
           "dose": {
             "units": "mg",
@@ -15307,13 +15674,33 @@
           },
           "duration": {
             "onset": {
-              "min": 20,
-              "max": 45,
+              "min": 5,
+              "max": 15,
               "units": "minutes"
             },
+            "comeup": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
             "peak": {
-              "min": 3,
-              "max": 4,
+              "min": 15,
+              "max": 20,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 4,
+              "max": 6,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
               "units": "hours"
             }
           }
@@ -15516,7 +15903,9 @@
         "cannabinoid"
       ],
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
@@ -15597,7 +15986,9 @@
         "cannabinoid"
       ],
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
@@ -15758,13 +16149,13 @@
           },
           "duration": {
             "onset": {
-              "min": 5,
-              "max": 10,
+              "min": 1,
+              "max": 3,
               "units": "minutes"
             },
             "comeup": {
-              "min": 10,
-              "max": 20,
+              "min": 5,
+              "max": 15,
               "units": "minutes"
             },
             "peak": {
@@ -17038,75 +17429,26 @@
       ]
     },
     {
-      "name": "Mebroqualone",
+      "name": "Meclofenoxate",
       "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Mebroqualone",
+      "url": "https://psychonautwiki.org/wiki/Meclofenoxate",
       "isApproved": false,
-      "tolerance": {
-        "full": "within a couple of days of repeated administration",
-        "half": "3 - 7 days",
-        "zero": "1 - 2 weeks",
-        "halfToleranceInHours": 120,
-        "zeroToleranceInHours": 252
-      },
-      "crossTolerances": [
-        "GABA|gabaergic",
-        "depressants"
-      ],
-      "addictionPotential": "extremely addictive",
+      "crossTolerances": [],
       "toxicities": [
-        "safe at appropriate dosages"
+        "extremely low toxicity"
       ],
       "categories": [
-        "depressant",
-        "research-chemical",
-        "habit-forming",
-        "tentative"
+        "nootropic"
       ],
-      "summary": "A short acting analogue of Methaqualone, that is much more potent.",
-      "interactions": {
-        "dangerous": [
-          "Depressant",
-          "Dissociatives"
-        ],
-        "unsafe": [],
-        "uncertain": [
-          "Stimulants"
-        ]
-      },
       "roas": [
         {
           "name": "oral",
           "dose": {
             "units": "mg",
-            "lightMin": 3,
-            "commonMin": 5,
-            "strongMin": 10,
-            "heavyMin": 15
-          },
-          "duration": {
-            "total": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
-            }
-          }
-        },
-        {
-          "name": "smoked",
-          "dose": {
-            "units": "mg",
-            "lightMin": 2,
-            "commonMin": 4,
-            "strongMin": 8,
-            "heavyMin": 12
-          },
-          "duration": {
-            "total": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
-            }
+            "lightMin": 50,
+            "commonMin": 400,
+            "strongMin": 800,
+            "heavyMin": 600
           }
         }
       ]
@@ -17211,9 +17553,9 @@
           },
           "duration": {
             "onset": {
-              "min": 2,
-              "max": 3,
-              "units": "hours"
+              "min": 30,
+              "max": 180,
+              "units": "minutes"
             },
             "comeup": {
               "min": 2,
@@ -18818,28 +19160,28 @@
           },
           "duration": {
             "onset": {
-              "min": 20,
+              "min": 30,
               "max": 60,
               "units": "minutes"
             },
             "comeup": {
               "min": 20,
-              "max": 60,
+              "max": 45,
               "units": "minutes"
             },
             "peak": {
-              "min": 1.5,
-              "max": 2.5,
-              "units": "hours"
+              "min": 60,
+              "max": 90,
+              "units": "minutes"
             },
             "offset": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
+              "min": 45,
+              "max": 60,
+              "units": "minutes"
             },
             "total": {
-              "min": 4,
-              "max": 6,
+              "min": 2.5,
+              "max": 4,
               "units": "hours"
             },
             "afterglow": {
@@ -19232,8 +19574,8 @@
         "The median lethal dose at which 50% of participants die (LD50) from modafinil for human beings has never been reached"
       ],
       "categories": [
-        "eugeroic",
         "stimulant",
+        "eugeroic",
         "habit-forming",
         "nootropic",
         "common"
@@ -19386,6 +19728,36 @@
         ]
       },
       "roas": [
+        {
+          "name": "intravenous",
+          "duration": {
+            "onset": {
+              "min": 0,
+              "max": 30,
+              "units": "seconds"
+            },
+            "comeup": {
+              "min": 2,
+              "max": 5,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 2,
+              "max": 3,
+              "units": "hours"
+            }
+          }
+        },
         {
           "name": "oral",
           "dose": {
@@ -19812,7 +20184,9 @@
         "exact toxic dosage is unknown"
       ],
       "categories": [
-        "nootropic"
+        "stimulant",
+        "nootropic",
+        "eugeroic"
       ],
       "interactions": {
         "dangerous": [
@@ -19925,6 +20299,48 @@
               "min": 30,
               "max": 60,
               "units": "minutes"
+            }
+          }
+        },
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 4,
+            "commonMin": 8,
+            "strongMin": 16,
+            "heavyMin": 28
+          },
+          "duration": {
+            "onset": {
+              "min": 5,
+              "max": 15,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 20,
+              "max": 40,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
+              "units": "hours"
             }
           }
         }
@@ -20053,6 +20469,7 @@
         "estimated oral LD50 of 6.5 - 13 mg/kg in humans"
       ],
       "categories": [
+        "depressant",
         "stimulant",
         "habit-forming",
         "nootropic",
@@ -20113,6 +20530,48 @@
             "afterglow": {
               "min": 2,
               "max": 6,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.2,
+            "commonMin": 1,
+            "strongMin": 2,
+            "heavyMin": 4
+          },
+          "duration": {
+            "onset": {
+              "min": 20,
+              "max": 40,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 60,
+              "max": 90,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 60,
+              "max": 90,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 2.5,
+              "max": 3.5,
+              "units": "hours"
+            },
+            "total": {
+              "min": 5,
+              "max": 7,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 2,
+              "max": 4,
               "units": "hours"
             }
           }
@@ -20210,41 +20669,6 @@
               "max": 75,
               "units": "hours"
             }
-          }
-        }
-      ]
-    },
-    {
-      "name": "Nitazene",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Nitazene",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
-      "name": "Nitromethaqualone",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Nitromethaqualone",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "psychedelic"
-      ],
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg"
-          }
-        },
-        {
-          "name": "sublingual",
-          "dose": {
-            "units": "mg"
           }
         }
       ]
@@ -20471,6 +20895,40 @@
       },
       "roas": [
         {
+          "name": "intravenous",
+          "dose": {
+            "units": "mg",
+            "lightMin": 5,
+            "commonMin": 12.5,
+            "strongMin": 25,
+            "heavyMin": 50
+          },
+          "duration": {
+            "onset": {
+              "min": 10,
+              "max": 15,
+              "units": "seconds"
+            },
+            "peak": {
+              "min": 2,
+              "max": 5
+            },
+            "offset": {
+              "min": 2,
+              "max": 4
+            },
+            "total": {
+              "min": 5,
+              "max": 8,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 3
+            }
+          }
+        },
+        {
           "name": "oral",
           "dose": {
             "units": "mg",
@@ -20482,7 +20940,12 @@
           "duration": {
             "onset": {
               "min": 20,
-              "max": 60,
+              "max": 40,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 30,
+              "max": 40,
               "units": "minutes"
             },
             "peak": {
@@ -20719,16 +21182,6 @@
       ]
     },
     {
-      "name": "Oroxylin A",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Oroxylin_A",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Oxazepam",
       "commonNames": [
         "Oxazepam",
@@ -20867,7 +21320,9 @@
         "Codilek",
         "Oxydor",
         "Redocam",
-        "Oxygesic"
+        "Oxygesic",
+        "Percodan",
+        "Percocet"
       ],
       "url": "https://psychonautwiki.org/wiki/Oxycodone",
       "isApproved": true,
@@ -22606,9 +23061,9 @@
           "dose": {
             "units": "mg",
             "lightMin": 10,
-            "commonMin": 62.5,
-            "strongMin": 125,
-            "heavyMin": 187.5
+            "commonMin": 60,
+            "strongMin": 120,
+            "heavyMin": 180
           },
           "duration": {
             "onset": {
@@ -22914,9 +23369,9 @@
           "dose": {
             "units": "mg",
             "lightMin": 0.5,
-            "commonMin": 2,
-            "strongMin": 3,
-            "heavyMin": 4
+            "commonMin": 0.75,
+            "strongMin": 1.5,
+            "heavyMin": 3
           },
           "duration": {
             "onset": {
@@ -22993,8 +23448,8 @@
               "units": "hours"
             },
             "total": {
-              "min": 4,
-              "max": 8,
+              "min": 8,
+              "max": 24,
               "units": "hours"
             },
             "afterglow": {
@@ -23440,7 +23895,9 @@
         "cannabinoid"
       ],
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
@@ -23642,18 +24099,21 @@
           "duration": {
             "onset": {
               "min": 15,
-              "max": 45,
+              "max": 30,
               "units": "minutes"
             },
+            "comeup": {
+              "min": 30,
+              "max": 45
+            },
             "peak": {
-              "min": 4,
-              "max": 6,
+              "min": 1,
+              "max": 2,
               "units": "hours"
             },
-            "afterglow": {
-              "min": 1,
-              "max": 6,
-              "units": "hours"
+            "offset": {
+              "min": 2,
+              "max": 3
             }
           }
         }
@@ -23699,13 +24159,13 @@
           },
           "duration": {
             "onset": {
-              "min": 15,
+              "min": 30,
               "max": 60,
               "units": "minutes"
             },
             "total": {
-              "min": 0.5,
-              "max": 3,
+              "min": 7,
+              "max": 8,
               "units": "hours"
             },
             "afterglow": {
@@ -23876,7 +24336,9 @@
         "cannabinoid"
       ],
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
@@ -23958,7 +24420,9 @@
         "cannabinoid"
       ],
       "interactions": {
-        "dangerous": [],
+        "dangerous": [
+          "Lithium"
+        ],
         "unsafe": [],
         "uncertain": [
           "2C-T-x",
