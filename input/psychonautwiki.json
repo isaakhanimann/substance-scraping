@@ -32958,7 +32958,7 @@
               "comeup": {
                 "min": 30,
                 "max": 45,
-                "units": null
+                "units": "minutes"
               },
               "peak": {
                 "min": 1,
@@ -32968,9 +32968,13 @@
               "offset": {
                 "min": 2,
                 "max": 3,
-                "units": null
+                "units": "hours"
               },
-              "total": null,
+              "total": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
               "afterglow": null
             },
             "bioavailability": null

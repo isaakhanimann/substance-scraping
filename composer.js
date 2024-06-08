@@ -15,7 +15,7 @@ const assert = require("assert");
     let categoriesContent = await fsPromises.readFile('./input/categories.json', 'utf-8');
     let categories = JSON.parse(categoriesContent);
     let inferredCategoryNames = getAllCategoriesOfSubstances(finalSubstances);
-    let indexToPrint = 242
+    let indexToPrint = 284
     console.log(`Substance at index: ${indexToPrint} is: ${finalSubstances[indexToPrint].name}`);
     let explicitCategoryNames = categories.map(i => i.name);
     let diff1 = inferredCategoryNames.filter(i => !explicitCategoryNames.includes(i));

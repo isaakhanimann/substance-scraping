@@ -24107,7 +24107,8 @@
             },
             "comeup": {
               "min": 30,
-              "max": 45
+              "max": 45,
+              "units": "minutes"
             },
             "peak": {
               "min": 1,
@@ -24116,7 +24117,13 @@
             },
             "offset": {
               "min": 2,
-              "max": 3
+              "max": 3,
+              "units": "hours"
+            },
+            "total": {
+              "min": 4,
+              "max": 6,
+              "units": "hours"
             }
           }
         }
