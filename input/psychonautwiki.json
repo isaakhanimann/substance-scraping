@@ -5354,6 +5354,59 @@
             "bioavailability": null
           },
           {
+            "name": "intravenous",
+            "dose": {
+              "units": "mg",
+              "threshold": 10,
+              "light": {
+                "min": 10,
+                "max": 25
+              },
+              "common": {
+                "min": 25,
+                "max": 50
+              },
+              "strong": {
+                "min": 50,
+                "max": 100
+              },
+              "heavy": 100
+            },
+            "duration": {
+              "onset": {
+                "min": 15,
+                "max": 30,
+                "units": "seconds"
+              },
+              "comeup": {
+                "min": 1,
+                "max": 2,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 1.5,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "total": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
             "name": "oral",
             "dose": {
               "units": "mg",
@@ -9208,7 +9261,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "5F-PB-22",
@@ -9330,7 +9387,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "6-APB",
@@ -10196,7 +10257,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "Acetylfentanyl",
@@ -13392,7 +13457,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "Carisoprodol",
@@ -16300,7 +16369,7 @@
         "url": "https://psychonautwiki.org/wiki/Diphenhydramine",
         "class": {
           "chemical": [
-            "Ethanolamine#1#"
+            "Ethanolamine"
           ],
           "psychoactive": [
             "Deliriant"
@@ -17421,6 +17490,85 @@
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
+      },
+      {
+        "name": "Efavirenz",
+        "commonNames": [
+          "Efavirenz",
+          "Sustiva"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Efavirenz",
+        "class": {
+          "chemical": [
+            "Benzoxazine"
+          ],
+          "psychoactive": [
+            "Psychedelic"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "smoked",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": {
+                "min": 600,
+                "max": 1800
+              },
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": 1,
+                "max": 5,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "offset": null,
+              "total": null,
+              "afterglow": {
+                "min": 6,
+                "max": 12,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": "not known to be habit-forming",
+        "toxicity": [
+          "low toxicity",
+          "may cause liver toxicity at high doses or after chronic use"
+        ],
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "SNRIs"
+          },
+          {
+            "name": "MAOI"
+          },
+          {
+            "name": "Serotonin"
+          },
+          {
+            "name": "Selective serotonin reuptake inhibitor"
+          },
+          {
+            "name": "5-Hydroxytryptophan"
+          }
+        ]
       },
       {
         "name": "Entactogen",
@@ -18838,7 +18986,7 @@
         "url": "https://psychonautwiki.org/wiki/Experience:%22DPH_(700mg,_Oral)_-_Arachnophobia_Awakened",
         "class": {
           "chemical": [
-            "Ethanolamine#1#"
+            "Ethanolamine"
           ],
           "psychoactive": [
             "Deliriant"
@@ -21380,7 +21528,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "JWH-073",
@@ -21497,7 +21649,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "Kava",
@@ -27714,130 +27870,6 @@
         "dangerousInteractions": null
       },
       {
-        "name": "Nitazene",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Nitazene",
-        "class": null,
-        "tolerance": null,
-        "roas": [],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
-      },
-      {
-        "name": "Nitromethaqualone",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Nitromethaqualone",
-        "class": {
-          "chemical": [
-            "Substituted tryptamines"
-          ],
-          "psychoactive": [
-            "Psychedelic"
-          ]
-        },
-        "tolerance": null,
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": null,
-              "light": null,
-              "common": null,
-              "strong": null,
-              "heavy": null
-            },
-            "duration": {
-              "onset": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "comeup": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "offset": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "total": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          },
-          {
-            "name": "sublingual",
-            "dose": {
-              "units": "mg",
-              "threshold": null,
-              "light": null,
-              "common": null,
-              "strong": null,
-              "heavy": null
-            },
-            "duration": {
-              "onset": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "comeup": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "offset": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "total": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          }
-        ],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
-      },
-      {
         "name": "Nitrous",
         "commonNames": [
           "Nitrous Oxide",
@@ -32578,7 +32610,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "Substituted aminorexes",
@@ -32850,7 +32886,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "Tabernanthe iboga (botany)",
@@ -33050,7 +33090,7 @@
             },
             "duration": {
               "onset": {
-                "min": 15,
+                "min": 30,
                 "max": 60,
                 "units": "minutes"
               },
@@ -33058,8 +33098,8 @@
               "peak": null,
               "offset": null,
               "total": {
-                "min": 0.5,
-                "max": 3,
+                "min": 7,
+                "max": 8,
                 "units": "hours"
               },
               "afterglow": {
@@ -33398,7 +33438,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "THJ-2201",
@@ -33516,7 +33560,11 @@
           }
         ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
+          }
+        ]
       },
       {
         "name": "Tianeptine",
