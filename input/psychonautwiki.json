@@ -1559,9 +1559,6 @@
         "crossTolerances": null,
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -1569,6 +1566,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -1578,9 +1578,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -5301,112 +5298,6 @@
             "bioavailability": null
           },
           {
-            "name": "intravenous",
-            "dose": {
-              "units": "mg",
-              "threshold": 10,
-              "light": {
-                "min": 10,
-                "max": 25
-              },
-              "common": {
-                "min": 25,
-                "max": 50
-              },
-              "strong": {
-                "min": 50,
-                "max": 100
-              },
-              "heavy": 100
-            },
-            "duration": {
-              "onset": {
-                "min": 15,
-                "max": 30,
-                "units": "seconds"
-              },
-              "comeup": {
-                "min": 1,
-                "max": 2,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": 1,
-                "max": 1.5,
-                "units": "hours"
-              },
-              "offset": {
-                "min": 1,
-                "max": 2,
-                "units": "hours"
-              },
-              "total": {
-                "min": 2,
-                "max": 4,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": 1,
-                "max": 2,
-                "units": "Hours#"
-              }
-            },
-            "bioavailability": null
-          },
-          {
-            "name": "intravenous",
-            "dose": {
-              "units": "mg",
-              "threshold": 10,
-              "light": {
-                "min": 10,
-                "max": 25
-              },
-              "common": {
-                "min": 25,
-                "max": 50
-              },
-              "strong": {
-                "min": 50,
-                "max": 100
-              },
-              "heavy": 100
-            },
-            "duration": {
-              "onset": {
-                "min": 15,
-                "max": 30,
-                "units": "seconds"
-              },
-              "comeup": {
-                "min": 1,
-                "max": 2,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": 1,
-                "max": 1.5,
-                "units": "hours"
-              },
-              "offset": {
-                "min": 1,
-                "max": 2,
-                "units": "hours"
-              },
-              "total": {
-                "min": 2,
-                "max": 4,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": 1,
-                "max": 2,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          },
-          {
             "name": "oral",
             "dose": {
               "units": "mg",
@@ -5582,6 +5473,59 @@
                 "min": 1,
                 "max": 1.5,
                 "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "intravenous",
+            "dose": {
+              "units": "mg",
+              "threshold": 10,
+              "light": {
+                "min": 10,
+                "max": 25
+              },
+              "common": {
+                "min": 25,
+                "max": 50
+              },
+              "strong": {
+                "min": 50,
+                "max": 100
+              },
+              "heavy": 100
+            },
+            "duration": {
+              "onset": {
+                "min": 15,
+                "max": 30,
+                "units": "seconds"
+              },
+              "comeup": {
+                "min": 1,
+                "max": 2,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 1.5,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "total": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 2,
+                "units": "Hours#"
               }
             },
             "bioavailability": null
@@ -10369,9 +10313,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -10379,6 +10320,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -10391,9 +10335,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -11675,6 +11616,298 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Apomorphine",
+        "commonNames": [
+          "Apomorphine",
+          "Blue Lotus",
+          "Dacepton",
+          "APO-go"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Apomorphine",
+        "class": {
+          "chemical": [
+            "Morphine derivative"
+          ],
+          "psychoactive": [
+            "Stimulants"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "insufflated",
+            "dose": {
+              "units": "mg",
+              "threshold": 0.5,
+              "light": {
+                "min": 0.5,
+                "max": 1
+              },
+              "common": {
+                "min": 1,
+                "max": 2
+              },
+              "strong": {
+                "min": 2,
+                "max": 4
+              },
+              "heavy": 4
+            },
+            "duration": {
+              "onset": {
+                "min": 5,
+                "max": 15,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 20,
+                "max": 40,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 3,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "intravenous",
+            "dose": {
+              "units": "mg",
+              "threshold": 1,
+              "light": {
+                "min": 1,
+                "max": 2
+              },
+              "common": {
+                "min": 2,
+                "max": 4
+              },
+              "strong": {
+                "min": 4,
+                "max": 8
+              },
+              "heavy": 8
+            },
+            "duration": {
+              "onset": {
+                "min": 1,
+                "max": 5,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 5,
+                "max": 15,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 15,
+                "max": 30,
+                "units": "minutes"
+              },
+              "offset": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "Hours#"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 2,
+              "light": {
+                "min": 2,
+                "max": 5
+              },
+              "common": {
+                "min": 5,
+                "max": 10
+              },
+              "strong": {
+                "min": 10,
+                "max": 15
+              },
+              "heavy": 15
+            },
+            "duration": {
+              "onset": {
+                "min": 15,
+                "max": 30,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 20,
+                "max": 40,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "smoked",
+            "dose": {
+              "units": "mg",
+              "threshold": 0.5,
+              "light": {
+                "min": 0.5,
+                "max": 1
+              },
+              "common": {
+                "min": 1,
+                "max": 2
+              },
+              "strong": {
+                "min": 2,
+                "max": 4
+              },
+              "heavy": 4
+            },
+            "duration": {
+              "onset": {
+                "min": 1,
+                "max": 5,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 5,
+                "max": 15,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 15,
+                "max": 30,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "subcutaneous",
+            "dose": {
+              "units": "Mg#",
+              "threshold": null,
+              "light": {
+                "min": null,
+                "max": null
+              },
+              "common": {
+                "min": null,
+                "max": null
+              },
+              "strong": {
+                "min": null,
+                "max": null
+              },
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "Minutes#"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "Hours#"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "Hours#"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "Minutes#"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "Hours#"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "Hours#"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Armodafinil",
         "commonNames": [
           "Armodafinil",
@@ -12656,9 +12889,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -12666,6 +12896,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -12675,9 +12908,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -13044,27 +13274,27 @@
               },
               "comeup": {
                 "min": 10,
-                "max": 30,
+                "max": 60,
                 "units": "minutes"
               },
               "peak": {
-                "min": 45,
-                "max": 90,
-                "units": "minutes"
-              },
-              "offset": {
                 "min": 1,
                 "max": 2,
                 "units": "hours"
               },
+              "offset": {
+                "min": 6,
+                "max": 10,
+                "units": "hours"
+              },
               "total": {
                 "min": 2,
-                "max": 4.5,
+                "max": 5,
                 "units": "hours"
               },
               "afterglow": {
-                "min": 4,
-                "max": 12,
+                "min": 2,
+                "max": 4,
                 "units": "hours"
               }
             },
@@ -14471,9 +14701,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -14481,6 +14708,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -14490,9 +14720,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -15459,7 +15686,8 @@
           "Dexamphetamine",
           "D-amphetamine",
           "Dexedrine",
-          "Dex"
+          "Dex",
+          "Attentin"
         ],
         "url": "https://psychonautwiki.org/wiki/Dextroamphetamine",
         "class": {
@@ -15876,9 +16104,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -15886,6 +16111,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -15898,9 +16126,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -16310,9 +16535,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -16320,6 +16542,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -16329,9 +16554,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -18431,9 +18653,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -18441,6 +18660,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -18450,9 +18672,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -19295,9 +19514,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -19305,6 +19521,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -19317,9 +19536,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -20505,9 +20721,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -20515,6 +20728,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -20524,9 +20740,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -20881,9 +21094,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -20891,6 +21101,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -20900,9 +21113,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -21092,9 +21302,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -21102,6 +21309,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -21111,9 +21321,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -21953,9 +22160,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -21963,6 +22167,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -21972,9 +22179,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -24354,9 +24558,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -24364,6 +24565,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -24376,9 +24580,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -25807,28 +26008,28 @@
             },
             "duration": {
               "onset": {
-                "min": 30,
+                "min": 20,
                 "max": 60,
                 "units": "minutes"
               },
               "comeup": {
                 "min": 20,
-                "max": 45,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": 60,
-                "max": 90,
-                "units": "minutes"
-              },
-              "offset": {
-                "min": 45,
                 "max": 60,
                 "units": "minutes"
               },
+              "peak": {
+                "min": 1.5,
+                "max": 2.5,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
               "total": {
-                "min": 2.5,
-                "max": 4,
+                "min": 4,
+                "max": 6,
                 "units": "hours"
               },
               "afterglow": {
@@ -26590,9 +26791,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -26600,6 +26798,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -26609,9 +26810,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -27784,7 +27982,7 @@
               "afterglow": {
                 "min": 1,
                 "max": 3,
-                "units": "hours"
+                "units": "Hours#"
               }
             },
             "bioavailability": null
@@ -28271,9 +28469,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -28281,6 +28476,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -28293,9 +28491,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -28580,9 +28775,6 @@
         "crossTolerances": null,
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -28590,6 +28782,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -28599,9 +28794,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -28892,9 +29084,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -28902,6 +29091,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -28911,9 +29103,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -28999,9 +29188,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -29009,6 +29195,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -29018,9 +29207,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -29918,9 +30104,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -29928,6 +30111,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -29940,9 +30126,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -30941,6 +31124,102 @@
               "total": {
                 "min": 4,
                 "max": 8,
+                "units": "hours"
+              },
+              "afterglow": null
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Progesterone",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Progesterone",
+        "class": {
+          "chemical": [
+            "Steroid"
+          ],
+          "psychoactive": [
+            "Depressant"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": {
+                "min": 100,
+                "max": 200
+              },
+              "common": {
+                "min": 200,
+                "max": 400
+              },
+              "strong": {
+                "min": 400,
+                "max": 600
+              },
+              "heavy": 600
+            },
+            "duration": {
+              "onset": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": null,
+              "offset": null,
+              "total": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "rectal",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": {
+                "min": 100,
+                "max": 200
+              },
+              "common": {
+                "min": 200,
+                "max": 400
+              },
+              "strong": {
+                "min": 400,
+                "max": 600
+              },
+              "heavy": 600
+            },
+            "duration": {
+              "onset": null,
+              "comeup": null,
+              "peak": null,
+              "offset": null,
+              "total": {
+                "min": 8,
+                "max": 12,
                 "units": "hours"
               },
               "afterglow": null
@@ -32776,9 +33055,6 @@
         "crossTolerances": null,
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -32786,6 +33062,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -32798,9 +33077,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -32990,9 +33266,6 @@
         ],
         "uncertainInteractions": [
           {
-            "name": "Substituted amphetamines"
-          },
-          {
             "name": "MAOI"
           },
           {
@@ -33000,6 +33273,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -33012,9 +33288,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -33740,6 +34013,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -33749,9 +34025,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
@@ -34136,6 +34409,9 @@
           },
           {
             "name": "Nitrous"
+          },
+          {
+            "name": "Substituted amphetamines"
           }
         ],
         "unsafeInteractions": [
@@ -34144,9 +34420,6 @@
           }
         ],
         "dangerousInteractions": [
-          {
-            "name": "Substituted amphetamines"
-          },
           {
             "name": "Cocaine"
           },
@@ -34459,9 +34732,6 @@
           "opioids"
         ],
         "uncertainInteractions": [
-          {
-            "name": "Substituted amphetamines"
-          },
           {
             "name": "MAOI"
           },

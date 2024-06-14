@@ -1209,7 +1209,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -1220,10 +1219,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -3955,90 +3954,6 @@
           }
         },
         {
-          "name": "intravenous",
-          "dose": {
-            "units": "mg",
-            "lightMin": 10,
-            "commonMin": 25,
-            "strongMin": 50,
-            "heavyMin": 100
-          },
-          "duration": {
-            "onset": {
-              "min": 15,
-              "max": 30,
-              "units": "seconds"
-            },
-            "comeup": {
-              "min": 1,
-              "max": 2,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": 1,
-              "max": 1.5,
-              "units": "hours"
-            },
-            "offset": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
-            },
-            "total": {
-              "min": 2,
-              "max": 4,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
-            }
-          }
-        },
-        {
-          "name": "intravenous",
-          "dose": {
-            "units": "mg",
-            "lightMin": 10,
-            "commonMin": 25,
-            "strongMin": 50,
-            "heavyMin": 100
-          },
-          "duration": {
-            "onset": {
-              "min": 15,
-              "max": 30,
-              "units": "seconds"
-            },
-            "comeup": {
-              "min": 1,
-              "max": 2,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": 1,
-              "max": 1.5,
-              "units": "hours"
-            },
-            "offset": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
-            },
-            "total": {
-              "min": 2,
-              "max": 4,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
-            }
-          }
-        },
-        {
           "name": "oral",
           "dose": {
             "units": "mg",
@@ -4185,6 +4100,48 @@
             "afterglow": {
               "min": 1,
               "max": 1.5,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "intravenous",
+          "dose": {
+            "units": "mg",
+            "lightMin": 10,
+            "commonMin": 25,
+            "strongMin": 50,
+            "heavyMin": 100
+          },
+          "duration": {
+            "onset": {
+              "min": 15,
+              "max": 30,
+              "units": "seconds"
+            },
+            "comeup": {
+              "min": 1,
+              "max": 2,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 1.5,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "total": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 2,
               "units": "hours"
             }
           }
@@ -7633,7 +7590,6 @@
           "SNRIs",
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -7648,10 +7604,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -8639,6 +8595,198 @@
       ]
     },
     {
+      "name": "Apomorphine",
+      "commonNames": [
+        "Apomorphine",
+        "Blue Lotus",
+        "Dacepton",
+        "APO-go"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Apomorphine",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "stimulant"
+      ],
+      "roas": [
+        {
+          "name": "insufflated",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.5,
+            "commonMin": 1,
+            "strongMin": 2,
+            "heavyMin": 4
+          },
+          "duration": {
+            "onset": {
+              "min": 5,
+              "max": 15,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 20,
+              "max": 40,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 3,
+              "max": 6,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "intravenous",
+          "dose": {
+            "units": "mg",
+            "lightMin": 1,
+            "commonMin": 2,
+            "strongMin": 4,
+            "heavyMin": 8
+          },
+          "duration": {
+            "onset": {
+              "min": 1,
+              "max": 5,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 5,
+              "max": 15,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 2,
+            "commonMin": 5,
+            "strongMin": 10,
+            "heavyMin": 15
+          },
+          "duration": {
+            "onset": {
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 20,
+              "max": 40,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "smoked",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.5,
+            "commonMin": 1,
+            "strongMin": 2,
+            "heavyMin": 4
+          },
+          "duration": {
+            "onset": {
+              "min": 1,
+              "max": 5,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 5,
+              "max": 15,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 15,
+              "max": 30,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "subcutaneous",
+          "dose": {
+            "units": "Mg#"
+          }
+        }
+      ]
+    },
+    {
       "name": "Armodafinil",
       "commonNames": [
         "Armodafinil",
@@ -9318,7 +9466,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -9329,10 +9476,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -9623,27 +9770,27 @@
             },
             "comeup": {
               "min": 10,
-              "max": 30,
+              "max": 60,
               "units": "minutes"
             },
             "peak": {
-              "min": 45,
-              "max": 90,
-              "units": "minutes"
-            },
-            "offset": {
               "min": 1,
               "max": 2,
               "units": "hours"
             },
+            "offset": {
+              "min": 6,
+              "max": 10,
+              "units": "hours"
+            },
             "total": {
               "min": 2,
-              "max": 4.5,
+              "max": 5,
               "units": "hours"
             },
             "afterglow": {
-              "min": 4,
-              "max": 12,
+              "min": 2,
+              "max": 4,
               "units": "hours"
             }
           }
@@ -10629,7 +10776,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -10640,10 +10786,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -11340,7 +11486,8 @@
         "Dexamphetamine",
         "D-amphetamine",
         "Dexedrine",
-        "Dex"
+        "Dex",
+        "Attentin"
       ],
       "url": "https://psychonautwiki.org/wiki/Dextroamphetamine",
       "isApproved": false,
@@ -11603,7 +11750,6 @@
           "SNRIs",
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -11618,10 +11764,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -11922,7 +12068,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -11933,10 +12078,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -13514,7 +13659,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -13525,10 +13669,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -14032,7 +14176,6 @@
           "SNRIs",
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -14047,10 +14190,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -14884,7 +15027,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -14895,10 +15037,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -15260,7 +15402,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -15271,10 +15412,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -15325,7 +15466,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -15336,10 +15476,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -15998,7 +16138,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -16009,10 +16148,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -17735,7 +17874,6 @@
           "SNRIs",
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -17750,10 +17888,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -18852,28 +18990,28 @@
           },
           "duration": {
             "onset": {
-              "min": 30,
+              "min": 20,
               "max": 60,
               "units": "minutes"
             },
             "comeup": {
               "min": 20,
-              "max": 45,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": 60,
-              "max": 90,
-              "units": "minutes"
-            },
-            "offset": {
-              "min": 45,
               "max": 60,
               "units": "minutes"
             },
+            "peak": {
+              "min": 1.5,
+              "max": 2.5,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
             "total": {
-              "min": 2.5,
-              "max": 4,
+              "min": 4,
+              "max": 6,
               "units": "hours"
             },
             "afterglow": {
@@ -19390,7 +19528,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -19401,10 +19538,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -20533,7 +20670,6 @@
           "SNRIs",
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -20548,10 +20684,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -21021,7 +21157,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -21032,10 +21167,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -21106,7 +21241,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -21117,10 +21251,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -21772,7 +21906,6 @@
           "SNRIs",
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -21787,10 +21920,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -22501,6 +22634,58 @@
             "total": {
               "min": 4,
               "max": 8,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Progesterone",
+      "commonNames": [],
+      "url": "https://psychonautwiki.org/wiki/Progesterone",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "depressant"
+      ],
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 100,
+            "commonMin": 200,
+            "strongMin": 400,
+            "heavyMin": 600
+          },
+          "duration": {
+            "onset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "rectal",
+          "dose": {
+            "units": "mg",
+            "lightMin": 100,
+            "commonMin": 200,
+            "strongMin": 400,
+            "heavyMin": 600
+          },
+          "duration": {
+            "total": {
+              "min": 8,
+              "max": 12,
               "units": "hours"
             }
           }
@@ -23603,7 +23788,6 @@
           "SNRIs",
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -23618,10 +23802,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -23684,7 +23868,6 @@
           "SNRIs",
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -23699,10 +23882,10 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -24185,7 +24368,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -24199,7 +24381,8 @@
           "Substituted amphetamines",
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
@@ -24447,7 +24630,6 @@
       ],
       "interactions": {
         "dangerous": [
-          "Substituted amphetamines",
           "Cocaine",
           "Dextromethorphan",
           "GHB",
@@ -24464,7 +24646,8 @@
           "Benzodiazepines",
           "Methoxetamine",
           "Alcohol",
-          "Nitrous"
+          "Nitrous",
+          "Substituted amphetamines"
         ]
       },
       "roas": [
@@ -24693,7 +24876,6 @@
         ],
         "unsafe": [],
         "uncertain": [
-          "Substituted amphetamines",
           "MAOI",
           "Nitrous",
           "PCP"
