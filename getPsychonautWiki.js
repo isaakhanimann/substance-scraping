@@ -97,9 +97,22 @@ Promise.all([
 
   const mergedSubstances = [...allSubstancesResponse.data.data.substances];
 
+  const errors = allSubstancesResponse.data.errors;
+  for (var error of errors) {
+    let substanceIndex = error.path[1];
+    let substance = allSubstancesResponse.data.data.substances[substanceIndex];
+    let roaIndex = error.path[3];
+    let durationOrDose = error.path[4];
+    let durationOrDoseType = error.path[5];
+    let minOrMax = error.path[6];
+    let roa = substance.roas[roaIndex]
+
+    console.log(`Error ${substance.name} ${roa.name}: ${durationOrDose} ${durationOrDoseType} ${minOrMax}`);
+  }
+
   mergedSubstances.sort((a, b) => a.name.localeCompare(b.name));
 
-  const mergedData = {data: {substances: mergedSubstances}};
+  const mergedData = { data: { substances: mergedSubstances } };
 
   fs.writeFile('input/psychonautwiki.json', JSON.stringify(mergedData, null, 2), (err) => {
     if (err) throw err;
