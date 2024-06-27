@@ -2069,6 +2069,38 @@
           }
         },
         {
+          "name": "intravenous",
+          "dose": {
+            "units": "mg",
+            "lightMin": 1,
+            "commonMin": 2.5,
+            "strongMin": 5,
+            "heavyMin": 10
+          },
+          "duration": {
+            "onset": {
+              "min": 5,
+              "max": 15,
+              "units": "seconds"
+            },
+            "peak": {
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 1.5,
+              "max": 2,
+              "units": "hours"
+            },
+            "total": {
+              "min": 2,
+              "max": 3,
+              "units": "hours"
+            }
+          }
+        },
+        {
           "name": "oral",
           "dose": {
             "units": "mg",
@@ -10427,6 +10459,16 @@
               "max": 60,
               "units": "minutes"
             },
+            "peak": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 3,
+              "max": 6,
+              "units": "hours"
+            },
             "total": {
               "min": 8,
               "max": 12,
@@ -14118,6 +14160,71 @@
       ]
     },
     {
+      "name": "Fenethylline",
+      "commonNames": [
+        "Fenethylline",
+        "Captagon"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Fenethylline",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "stimulant"
+      ],
+      "interactions": {
+        "dangerous": [
+          "Tramadol",
+          "ΑMT",
+          "MAOI"
+        ],
+        "unsafe": [
+          "Dextromethorphan",
+          "PCP",
+          "25x-NBOMe",
+          "2C-T-x",
+          "5-MeO-xxT",
+          "DOx"
+        ],
+        "uncertain": [
+          "Alcohol",
+          "GHB",
+          "GBL",
+          "Opioids",
+          "Cocaine",
+          "Cannabis",
+          "Caffeine",
+          "Ketamine",
+          "Methoxetamine",
+          "Psychedelics"
+        ]
+      },
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 10,
+            "commonMin": 40,
+            "strongMin": 100,
+            "heavyMin": 200
+          },
+          "duration": {
+            "onset": {
+              "min": 90,
+              "max": 120,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 3,
+              "max": 4,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
       "name": "Fentanyl",
       "commonNames": [
         "Fentanyl",
@@ -15517,6 +15624,11 @@
               "min": 4,
               "max": 6,
               "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
+              "units": "hours"
             }
           }
         },
@@ -15524,18 +15636,38 @@
           "name": "intravenous",
           "dose": {
             "units": "mg",
-            "lightMin": 0.5,
+            "lightMin": 1,
             "commonMin": 2,
             "strongMin": 4,
             "heavyMin": 6
           },
           "duration": {
             "onset": {
+              "min": 4,
+              "max": 5,
+              "units": "minutes"
+            },
+            "comeup": {
               "min": 10,
-              "max": 90,
-              "units": "seconds"
+              "max": 20,
+              "units": "minutes"
             },
             "peak": {
+              "min": 30,
+              "max": 90,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "total": {
+              "min": 3,
+              "max": 4,
+              "units": "hours"
+            },
+            "afterglow": {
               "min": 1,
               "max": 2,
               "units": "hours"
@@ -17910,9 +18042,23 @@
               "max": 90,
               "units": "minutes"
             },
+            "comeup": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            },
             "peak": {
-              "min": 6,
-              "max": 8,
+              "min": 4,
+              "max": 6,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 4,
+              "max": 6
+            },
+            "total": {
+              "min": 10,
+              "max": 19,
               "units": "hours"
             },
             "afterglow": {
@@ -20344,9 +20490,9 @@
           "dose": {
             "units": "mg",
             "lightMin": 0.2,
-            "commonMin": 1,
-            "strongMin": 2,
-            "heavyMin": 4
+            "commonMin": 3,
+            "strongMin": 5,
+            "heavyMin": 7
           },
           "duration": {
             "onset": {
@@ -22670,6 +22816,11 @@
               "min": 2,
               "max": 4,
               "units": "hours"
+            },
+            "afterglow": {
+              "min": 4,
+              "max": 6,
+              "units": "hours"
             }
           }
         },
@@ -22685,6 +22836,11 @@
           "duration": {
             "total": {
               "min": 8,
+              "max": 12,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 6,
               "max": 12,
               "units": "hours"
             }
@@ -24865,7 +25021,6 @@
         "dangerous": [
           "Alcohol",
           "Benzodiazepines",
-          "Cocaine",
           "Dextromethorphan",
           "GHB",
           "GBL",
@@ -24878,7 +25033,8 @@
         "uncertain": [
           "MAOI",
           "Nitrous",
-          "PCP"
+          "PCP",
+          "Stimulants"
         ]
       },
       "roas": [
