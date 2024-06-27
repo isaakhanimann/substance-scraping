@@ -2790,6 +2790,51 @@
             "bioavailability": null
           },
           {
+            "name": "intravenous",
+            "dose": {
+              "units": "mg",
+              "threshold": 1,
+              "light": {
+                "min": 1,
+                "max": 2.5
+              },
+              "common": {
+                "min": 2.5,
+                "max": 5
+              },
+              "strong": {
+                "min": 5,
+                "max": 10
+              },
+              "heavy": 10
+            },
+            "duration": {
+              "onset": {
+                "min": 5,
+                "max": 15,
+                "units": "seconds"
+              },
+              "comeup": null,
+              "peak": {
+                "min": 15,
+                "max": 30,
+                "units": "minutes"
+              },
+              "offset": {
+                "min": 1.5,
+                "max": 2,
+                "units": "hours"
+              },
+              "total": {
+                "min": 2,
+                "max": 3,
+                "units": "hours"
+              },
+              "afterglow": null
+            },
+            "bioavailability": null
+          },
+          {
             "name": "oral",
             "dose": {
               "units": "mg",
@@ -14199,8 +14244,16 @@
                 "units": "minutes"
               },
               "comeup": null,
-              "peak": null,
-              "offset": null,
+              "peak": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 3,
+                "max": 6,
+                "units": "hours"
+              },
               "total": {
                 "min": 8,
                 "max": 12,
@@ -19359,6 +19412,130 @@
         ]
       },
       {
+        "name": "Fenethylline",
+        "commonNames": [
+          "Fenethylline",
+          "Captagon"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Fenethylline",
+        "class": {
+          "chemical": [
+            "Amphetamine",
+            "Substituted amphetamines",
+            "Xanthines"
+          ],
+          "psychoactive": [
+            "Stimulants"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 10,
+              "light": {
+                "min": 20,
+                "max": 40
+              },
+              "common": {
+                "min": 40,
+                "max": 100
+              },
+              "strong": {
+                "min": 100,
+                "max": 200
+              },
+              "heavy": 200
+            },
+            "duration": {
+              "onset": {
+                "min": 90,
+                "max": 120,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": null,
+              "offset": null,
+              "total": {
+                "min": 3,
+                "max": 4,
+                "units": "hours"
+              },
+              "afterglow": null
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": [
+          {
+            "name": "Alcohol"
+          },
+          {
+            "name": "GHB"
+          },
+          {
+            "name": "GBL"
+          },
+          {
+            "name": "Opioids"
+          },
+          {
+            "name": "Cocaine"
+          },
+          {
+            "name": "Cannabis"
+          },
+          {
+            "name": "Caffeine"
+          },
+          {
+            "name": "Ketamine"
+          },
+          {
+            "name": "Methoxetamine"
+          },
+          {
+            "name": "Psychedelic"
+          }
+        ],
+        "unsafeInteractions": [
+          {
+            "name": "Dextromethorphan"
+          },
+          {
+            "name": "PCP"
+          },
+          {
+            "name": "25x-NBOMe"
+          },
+          {
+            "name": "2C-T-x"
+          },
+          {
+            "name": "5-MeO-xxT"
+          },
+          {
+            "name": "DOx"
+          }
+        ],
+        "dangerousInteractions": [
+          {
+            "name": "Tramadol"
+          },
+          {
+            "name": "ΑMT"
+          },
+          {
+            "name": "MAOI"
+          }
+        ]
+      },
+      {
         "name": "Fentanyl",
         "commonNames": [
           "Fentanyl",
@@ -21200,7 +21377,11 @@
                 "max": 6,
                 "units": "hours"
               },
-              "afterglow": null
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "hours"
+              }
             },
             "bioavailability": null
           },
@@ -21208,7 +21389,7 @@
             "name": "intravenous",
             "dose": {
               "units": "mg",
-              "threshold": 0.5,
+              "threshold": 1,
               "light": {
                 "min": 1,
                 "max": 2
@@ -21225,19 +21406,35 @@
             },
             "duration": {
               "onset": {
-                "min": 10,
-                "max": 90,
-                "units": "seconds"
+                "min": 4,
+                "max": 5,
+                "units": "minutes"
               },
-              "comeup": null,
+              "comeup": {
+                "min": 10,
+                "max": 20,
+                "units": "minutes"
+              },
               "peak": {
+                "min": 30,
+                "max": 90,
+                "units": "minutes"
+              },
+              "offset": {
                 "min": 1,
                 "max": 2,
                 "units": "hours"
               },
-              "offset": null,
-              "total": null,
-              "afterglow": null
+              "total": {
+                "min": 3,
+                "max": 4,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 2,
+                "units": "Hours#"
+              }
             },
             "bioavailability": null
           },
@@ -24531,14 +24728,26 @@
                 "max": 90,
                 "units": "minutes"
               },
-              "comeup": null,
-              "peak": {
-                "min": 6,
-                "max": 8,
+              "comeup": {
+                "min": 2,
+                "max": 4,
                 "units": "hours"
               },
-              "offset": null,
-              "total": null,
+              "peak": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 4,
+                "max": 6,
+                "units": null
+              },
+              "total": {
+                "min": 10,
+                "max": 19,
+                "units": "hours"
+              },
               "afterglow": {
                 "min": 1,
                 "max": 24,
@@ -27887,18 +28096,18 @@
               "units": "mg",
               "threshold": 0.2,
               "light": {
-                "min": 0.5,
-                "max": 1
+                "min": 1,
+                "max": 3
               },
               "common": {
-                "min": 1,
-                "max": 2
+                "min": 3,
+                "max": 5
               },
               "strong": {
-                "min": 2,
-                "max": 4
+                "min": 5,
+                "max": 7
               },
-              "heavy": 4
+              "heavy": 7
             },
             "duration": {
               "onset": {
@@ -27982,7 +28191,7 @@
               "afterglow": {
                 "min": 1,
                 "max": 3,
-                "units": "Hours#"
+                "units": "hours"
               }
             },
             "bioavailability": null
@@ -31186,8 +31395,8 @@
                 "units": "hours"
               },
               "afterglow": {
-                "min": null,
-                "max": null,
+                "min": 4,
+                "max": 6,
                 "units": "hours"
               }
             },
@@ -31222,7 +31431,11 @@
                 "max": 12,
                 "units": "hours"
               },
-              "afterglow": null
+              "afterglow": {
+                "min": 6,
+                "max": 12,
+                "units": "hours"
+              }
             },
             "bioavailability": null
           }
@@ -34740,6 +34953,9 @@
           },
           {
             "name": "PCP"
+          },
+          {
+            "name": "Stimulants"
           }
         ],
         "unsafeInteractions": null,
@@ -34749,9 +34965,6 @@
           },
           {
             "name": "Benzodiazepines"
-          },
-          {
-            "name": "Cocaine"
           },
           {
             "name": "Dextromethorphan"
