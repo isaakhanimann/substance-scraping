@@ -18054,7 +18054,8 @@
             },
             "offset": {
               "min": 4,
-              "max": 6
+              "max": 6,
+              "units": "hours"
             },
             "total": {
               "min": 10,

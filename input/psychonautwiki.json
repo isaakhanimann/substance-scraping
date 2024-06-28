@@ -24741,7 +24741,7 @@
               "offset": {
                 "min": 4,
                 "max": 6,
-                "units": null
+                "units": "hours"
               },
               "total": {
                 "min": 10,
