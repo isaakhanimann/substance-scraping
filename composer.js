@@ -1,4 +1,4 @@
-const {promises: fsPromises} = require('fs');
+const { promises: fsPromises } = require('fs');
 const fs = require("fs");
 const assert = require("assert");
 
@@ -23,10 +23,10 @@ const assert = require("assert");
     assert(diff1.length === 0, `${diff1} were inferred but not inside explicit categories`)
     assert(diff2.length === 0, `${diff1} were provided explicitly but not inferred`)
     let fileOutput = {
-            categories: categories,
-            substances: finalSubstances
-        }
-    ;
+        categories: categories,
+        substances: finalSubstances
+    }
+        ;
     saveInFile(fileOutput);
 })();
 
@@ -101,6 +101,7 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         "Peganum harmala",
         "Tizanidine",
         "Entactogen",
+        "Psilocybe cubensis",
         "N-(2C)-fentanyl"
     ].map(name => name.toLowerCase()));
 
@@ -224,47 +225,47 @@ function getFinalSubstances(psychonautWikiSubstances, saferpartySubstances, trip
     let unusedTripsitNames = new Set(tripsitSubstances.map(sub => sub.name));
     let psychonautWikiSubstancesWithoutMatch = new Set();
     let finalSubstances = psychonautWikiSubstances.map(onePsychonautWikiSubstance => {
-            let name = onePsychonautWikiSubstance.name;
-            let saferpartyOptional = saferpartySubstances.find(safer => safer.name === name);
-            let tripsitOptional = tripsitSubstances.find(tripsit => tripsit.name === name);
-            let approvedOptional = approvedSubstances.find(approved => approved.name === name);
-            if (saferpartyOptional !== undefined) {
-                unusedSaferpartyNames.delete(name);
-            }
-            if (tripsitOptional !== undefined) {
-                unusedTripsitNames.delete(name);
-            } else {
-                psychonautWikiSubstancesWithoutMatch.add(name);
-            }
-            let dangerousNames = onePsychonautWikiSubstance?.dangerousInteractions?.map(interaction => interaction.name) ?? [];
-            let unsafeNames = onePsychonautWikiSubstance?.unsafeInteractions?.map(interaction => interaction.name) ?? [];
-            let uncertainNames = onePsychonautWikiSubstance?.uncertainInteractions?.map(interaction => interaction.name) ?? [];
-            let interactions = (dangerousNames.length + unsafeNames.length + uncertainNames.length > 0) ? {
-                dangerous: dangerousNames,
-                unsafe: unsafeNames,
-                uncertain: uncertainNames
-            } : null;
-            checkMissingDurations(onePsychonautWikiSubstance);
-            return {
-                name: name,
-                commonNames: onePsychonautWikiSubstance.commonNames,
-                url: onePsychonautWikiSubstance.url,
-                isApproved: approvedOptional?.isApproved ?? false,
-                tolerance: onePsychonautWikiSubstance.tolerance,
-                crossTolerances: onePsychonautWikiSubstance.crossTolerances,
-                addictionPotential: onePsychonautWikiSubstance.addictionPotential,
-                toxicities: onePsychonautWikiSubstance.toxicities,
-                categories: getCategoriesOfSubstance(name, onePsychonautWikiSubstance.class?.psychoactive ?? [], tripsitOptional?.categories ?? []),
-                summary: tripsitOptional?.summary,
-                effectsSummary: saferpartyOptional?.effects,
-                dosageRemark: saferpartyOptional?.dosageRemark,
-                generalRisks: saferpartyOptional?.generalRisks,
-                longtermRisks: saferpartyOptional?.longtermRisks,
-                saferUse: saferpartyOptional?.saferUse,
-                interactions: interactions,
-                roas: onePsychonautWikiSubstance.roas
-            };
+        let name = onePsychonautWikiSubstance.name;
+        let saferpartyOptional = saferpartySubstances.find(safer => safer.name === name);
+        let tripsitOptional = tripsitSubstances.find(tripsit => tripsit.name === name);
+        let approvedOptional = approvedSubstances.find(approved => approved.name === name);
+        if (saferpartyOptional !== undefined) {
+            unusedSaferpartyNames.delete(name);
         }
+        if (tripsitOptional !== undefined) {
+            unusedTripsitNames.delete(name);
+        } else {
+            psychonautWikiSubstancesWithoutMatch.add(name);
+        }
+        let dangerousNames = onePsychonautWikiSubstance?.dangerousInteractions?.map(interaction => interaction.name) ?? [];
+        let unsafeNames = onePsychonautWikiSubstance?.unsafeInteractions?.map(interaction => interaction.name) ?? [];
+        let uncertainNames = onePsychonautWikiSubstance?.uncertainInteractions?.map(interaction => interaction.name) ?? [];
+        let interactions = (dangerousNames.length + unsafeNames.length + uncertainNames.length > 0) ? {
+            dangerous: dangerousNames,
+            unsafe: unsafeNames,
+            uncertain: uncertainNames
+        } : null;
+        checkMissingDurations(onePsychonautWikiSubstance);
+        return {
+            name: name,
+            commonNames: onePsychonautWikiSubstance.commonNames,
+            url: onePsychonautWikiSubstance.url,
+            isApproved: approvedOptional?.isApproved ?? false,
+            tolerance: onePsychonautWikiSubstance.tolerance,
+            crossTolerances: onePsychonautWikiSubstance.crossTolerances,
+            addictionPotential: onePsychonautWikiSubstance.addictionPotential,
+            toxicities: onePsychonautWikiSubstance.toxicities,
+            categories: getCategoriesOfSubstance(name, onePsychonautWikiSubstance.class?.psychoactive ?? [], tripsitOptional?.categories ?? []),
+            summary: tripsitOptional?.summary,
+            effectsSummary: saferpartyOptional?.effects,
+            dosageRemark: saferpartyOptional?.dosageRemark,
+            generalRisks: saferpartyOptional?.generalRisks,
+            longtermRisks: saferpartyOptional?.longtermRisks,
+            saferUse: saferpartyOptional?.saferUse,
+            interactions: interactions,
+            roas: onePsychonautWikiSubstance.roas
+        };
+    }
     )
     console.log(`Unused tripsit substances: ${JSON.stringify(Array.from(unusedTripsitNames), null, 2)}`);
     console.log(`PsychonautWiki substances without a tripsit match: ${JSON.stringify(Array.from(psychonautWikiSubstancesWithoutMatch), null, 2)}`);
