@@ -152,7 +152,7 @@
         "depressant",
         "habit-forming"
       ],
-      "summary": "1,4-BD is a clear liquid with intoxicating effects. It is a pro-drug for GHB, and has similar though reportedly inferior effects. It also carries the potential for more health risks than GHB, such as liver damage and neurotoxicity.",
+      "summary": "1,4-BD is a clear liquid with intoxicating effects. It is a pro-drug for GHB, and has similar though reportedly inferior effects. It also carries the potential for more health risks than GHB, such as liver toxicity.",
       "interactions": {
         "dangerous": [
           "Depressant",
@@ -11784,8 +11784,11 @@
         "exact toxic dosage is unknown"
       ],
       "categories": [
-        "dissociative"
+        "dissociative",
+        "habit-forming",
+        "common"
       ],
+      "summary": "Commonly found in certain over the counter cough medicines. Has dissociative effects similar to ketamine or MXE, though also shares properties with opioids and alcohol. Make sure DXM is the only active ingredient in the preparation.",
       "effectsSummary": "In high doses (120 mg or more) it has a hallucinogenic and euphoric effect. Perceptual disturbances up to confusion as well as states of agitation with epileptic episodes may occur. Side effects are reddening of the skin and severe itching. With regular use there is great potential for dependence with psychological and physical symptoms!",
       "dosageRemark": "DXM in freebase form (as found in Robocough RoboTablets) is around 27-37% more potent than its hydrobromide form due to a higher concentration of DXM by weight. One should take this into account when calculating their dose to avoid a potential overdose.",
       "generalRisks": "Caution: The simultaneous intake of MAO inhibitors delays the degradation of DXM and can lead to severe respiratory and circulatory disorders!",
@@ -12275,8 +12278,11 @@
         "fatal at amounts close to or exceeding 2 grams"
       ],
       "categories": [
-        "deliriant"
+        "deliriant",
+        "depressant",
+        "common"
       ],
+      "summary": "An antihistamine which, when taken in smaller doses relieves allergies and insomnia. In larger doses works as a deliriant and can actually keep the user awake. Generally the 'high' of this drug is reported as dysphoric, potentially causing hallucinations indistinguishable from reality.",
       "roas": [
         {
           "name": "oral",
@@ -13961,7 +13967,7 @@
         "habit-forming",
         "common"
       ],
-      "summary": "Potent psychostimulant, similar to Methylphenidate. \u0002Note: Ethylphenidate should \u0016NOT\u0016 be insufflated as it is known to be highly caustic and will cause serious harm to your nasal septum, even with light usage.",
+      "summary": "Potent psychostimulant, similar to Methylphenidate. Note: Ethylphenidate should NOT be insufflated as it is known to be highly caustic and will cause serious harm to your nasal septum, even with light usage.",
       "interactions": {
         "dangerous": [
           "25x-NBOMe",
@@ -15673,7 +15679,7 @@
         "habit-forming",
         "depressant"
       ],
-      "summary": "An opioid that is roughly 5x the potency of IV Morphine. Only comes in IR tablets in the US, and is given mostly as XR in other countries. It is frequently used in hospitals for short, but immediate pain relief during procedures requiring the patient to be awake. Also frequently used as a recreational opiate.",
+      "summary": "An opioid that is roughly 5x the potency of IV Morphine. Only comes in IR tablets in the US, and is given mostly as XR in other countries. It is frequently used in hospitals for short immediate pain relief during procedures, requiring the patient to be awake. Also frequently used as a recreational opiate.",
       "interactions": {
         "dangerous": [
           "Alcohol",
