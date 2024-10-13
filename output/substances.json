@@ -126,25 +126,6 @@
   ],
   "substances": [
     {
-      "name": "1,3-dimethylbutylamine",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/1,3-dimethylbutylamine",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "stimulant"
-      ],
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg"
-          }
-        }
-      ]
-    },
-    {
       "name": "1,4-Butanediol",
       "commonNames": [
         "1,4-Butanediol",
@@ -216,6 +197,88 @@
             "afterglow": {
               "min": 2,
               "max": 4,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "1B-LSD",
+      "commonNames": [
+        "1B-LSD"
+      ],
+      "url": "https://psychonautwiki.org/wiki/1B-LSD",
+      "isApproved": true,
+      "tolerance": {
+        "full": "almost immediately after ingestion",
+        "half": "5-7 days",
+        "zero": "14 days"
+      },
+      "crossTolerances": [
+        "psychedelic"
+      ],
+      "addictionPotential": "non-addictive with a low abuse potential",
+      "toxicities": [
+        "extremely low toxicity relative to dose"
+      ],
+      "categories": [
+        "psychedelic",
+        "tentative",
+        "research-chemical"
+      ],
+      "summary": "1B-LSD (1-butanoyl-lysergic acid diethylamide) is an LSD analogue which appears to be about as potent as 1P-LSD (slightly more potent than LSD) and has a slightly shorter duration than that of LSD, again thought to be about the same as 1P-LSD. Released in late 2018, and marketed agressively as a replacement for 1P-LSD. 1B-LSD does not yet have a clearly established safety profile,",
+      "interactions": {
+        "dangerous": [
+          "Lithium"
+        ],
+        "unsafe": [
+          "Tramadol"
+        ],
+        "uncertain": [
+          "Cannabis",
+          "Stimulants"
+        ]
+      },
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "µg",
+            "lightMin": 15,
+            "commonMin": 75,
+            "strongMin": 150,
+            "heavyMin": 300
+          },
+          "duration": {
+            "onset": {
+              "min": 20,
+              "max": 60,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 45,
+              "max": 120,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 3,
+              "max": 5,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 3,
+              "max": 5,
+              "units": "hours"
+            },
+            "total": {
+              "min": 8,
+              "max": 12,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 6,
+              "max": 24,
               "units": "hours"
             }
           }
@@ -950,10 +1013,9 @@
     {
       "name": "2-Fluorodeschloroketamine",
       "commonNames": [
-        "2-Fluoroketamine",
         "Fluoroketamine",
-        "2-FK",
-        "2-FDCK"
+        "2-FDCK",
+        "2-Fluorodeschloroketamine"
       ],
       "url": "https://psychonautwiki.org/wiki/2-Fluorodeschloroketamine",
       "isApproved": true,
@@ -3139,7 +3201,9 @@
     },
     {
       "name": "3-Cl-PCP",
-      "commonNames": [],
+      "commonNames": [
+        "3-Cl-PCP"
+      ],
       "url": "https://psychonautwiki.org/wiki/3-Cl-PCP",
       "isApproved": true,
       "tolerance": {
@@ -9583,7 +9647,11 @@
     },
     {
       "name": "Buspirone",
-      "commonNames": [],
+      "commonNames": [
+        "DMT",
+        "Dimethyltryptamine",
+        "Dmitri"
+      ],
       "url": "https://psychonautwiki.org/wiki/Buspirone",
       "isApproved": false,
       "crossTolerances": [],
@@ -9711,7 +9779,7 @@
         "zero": "1 - 2 weeks"
       },
       "crossTolerances": [],
-      "addictionPotential": "produces dependence with chronic use and has a low abuse potential",
+      "addictionPotential": "develop with regular consumption, leading to cravings and withdrawal effects upon sudden cessation, but has low abuse potential",
       "toxicities": [
         "The LD50 of caffeine in humans is dependent on individual sensitivity, but is estimated to be about 150 to 200 milligrams per kilogram of body mass or roughly 80 to 100 cups of coffee for an average adult"
       ],
@@ -9819,6 +9887,43 @@
               "min": 2,
               "max": 5,
               "units": "hours"
+            },
+            "afterglow": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "smoked",
+          "dose": {
+            "units": "mg",
+            "lightMin": 25,
+            "commonMin": 75,
+            "strongMin": 125,
+            "heavyMin": 175
+          },
+          "duration": {
+            "onset": {
+              "min": 2,
+              "max": 5,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 10,
+              "max": 20,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 30,
+              "max": 45,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 45,
+              "max": 70,
+              "units": "minutes"
             },
             "afterglow": {
               "min": 2,

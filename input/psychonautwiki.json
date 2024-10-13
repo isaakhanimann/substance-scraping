@@ -2,72 +2,6 @@
   "data": {
     "substances": [
       {
-        "name": "1,3-dimethylbutylamine",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/1,3-dimethylbutylamine",
-        "class": {
-          "chemical": [
-            "Amine"
-          ],
-          "psychoactive": [
-            "Stimulants"
-          ]
-        },
-        "tolerance": null,
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": null,
-              "light": null,
-              "common": null,
-              "strong": null,
-              "heavy": null
-            },
-            "duration": {
-              "onset": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "comeup": {
-                "min": null,
-                "max": null,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "offset": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "total": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": null,
-                "max": null,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          }
-        ],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
-      },
-      {
         "name": "1,4-Butanediol",
         "commonNames": [
           "1,4-Butanediol",
@@ -162,6 +96,106 @@
           },
           {
             "name": "Dissociatives"
+          }
+        ]
+      },
+      {
+        "name": "1B-LSD",
+        "commonNames": [
+          "1B-LSD"
+        ],
+        "url": "https://psychonautwiki.org/wiki/1B-LSD",
+        "class": {
+          "chemical": [
+            "Lysergamides"
+          ],
+          "psychoactive": [
+            "Psychedelic"
+          ]
+        },
+        "tolerance": {
+          "full": "almost immediately after ingestion",
+          "half": "5-7 days",
+          "zero": "14 days"
+        },
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "µg",
+              "threshold": 15,
+              "light": {
+                "min": 25,
+                "max": 75
+              },
+              "common": {
+                "min": 75,
+                "max": 150
+              },
+              "strong": {
+                "min": 150,
+                "max": 300
+              },
+              "heavy": 300
+            },
+            "duration": {
+              "onset": {
+                "min": 20,
+                "max": 60,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 45,
+                "max": 120,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 3,
+                "max": 5,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 3,
+                "max": 5,
+                "units": "hours"
+              },
+              "total": {
+                "min": 8,
+                "max": 12,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 6,
+                "max": 24,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": "non-addictive with a low abuse potential",
+        "toxicity": [
+          "extremely low toxicity relative to dose"
+        ],
+        "crossTolerances": [
+          "psychedelic"
+        ],
+        "uncertainInteractions": [
+          {
+            "name": "Cannabis"
+          },
+          {
+            "name": "Stimulants"
+          }
+        ],
+        "unsafeInteractions": [
+          {
+            "name": "Tramadol"
+          }
+        ],
+        "dangerousInteractions": [
+          {
+            "name": "Lithium"
           }
         ]
       },
@@ -1144,10 +1178,9 @@
       {
         "name": "2-Fluorodeschloroketamine",
         "commonNames": [
-          "2-Fluoroketamine",
           "Fluoroketamine",
-          "2-FK",
-          "2-FDCK"
+          "2-FDCK",
+          "2-Fluorodeschloroketamine"
         ],
         "url": "https://psychonautwiki.org/wiki/2-Fluorodeschloroketamine",
         "class": {
@@ -4211,7 +4244,9 @@
       },
       {
         "name": "3-Cl-PCP",
-        "commonNames": null,
+        "commonNames": [
+          "3-Cl-PCP"
+        ],
         "url": "https://psychonautwiki.org/wiki/3-Cl-PCP",
         "class": {
           "chemical": [
@@ -12590,7 +12625,9 @@
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/Bromazolam",
         "class": {
-          "chemical": null,
+          "chemical": [
+            "Benzodiazepines"
+          ],
           "psychoactive": [
             "Depressant"
           ]
@@ -12979,7 +13016,11 @@
       },
       {
         "name": "Buspirone",
-        "commonNames": null,
+        "commonNames": [
+          "DMT",
+          "Dimethyltryptamine",
+          "Dmitri"
+        ],
         "url": "https://psychonautwiki.org/wiki/Buspirone",
         "class": {
           "chemical": [
@@ -13344,9 +13385,58 @@
               }
             },
             "bioavailability": null
+          },
+          {
+            "name": "smoked",
+            "dose": {
+              "units": "mg",
+              "threshold": 25,
+              "light": {
+                "min": 25,
+                "max": 75
+              },
+              "common": {
+                "min": 75,
+                "max": 125
+              },
+              "strong": {
+                "min": 125,
+                "max": 175
+              },
+              "heavy": 175
+            },
+            "duration": {
+              "onset": {
+                "min": 2,
+                "max": 5,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": {
+                "min": 10,
+                "max": 20,
+                "units": "minutes"
+              },
+              "offset": {
+                "min": 30,
+                "max": 45,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 45,
+                "max": 70,
+                "units": "minutes"
+              },
+              "afterglow": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
           }
         ],
-        "addictionPotential": "produces dependence with chronic use and has a low abuse potential",
+        "addictionPotential": "develop with regular consumption, leading to cravings and withdrawal effects upon sudden cessation, but has low abuse potential",
         "toxicity": [
           "The LD50 of caffeine in humans is dependent on individual sensitivity, but is estimated to be about 150 to 200 milligrams per kilogram of body mass or roughly 80 to 100 cups of coffee for an average adult"
         ],
@@ -22473,6 +22563,7 @@
         "url": "https://psychonautwiki.org/wiki/Lisdexamfetamine",
         "class": {
           "chemical": [
+            "Amphetamine",
             "Substituted amphetamines"
           ],
           "psychoactive": [
@@ -22601,20 +22692,6 @@
             "name": "MAOI"
           }
         ]
-      },
-      {
-        "name": "List of prodrugs",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/List_of_prodrugs",
-        "class": null,
-        "tolerance": null,
-        "roas": [],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
       },
       {
         "name": "Lorazepam",
