@@ -1333,83 +1333,6 @@
       ]
     },
     {
-      "name": "2,5-DMA",
-      "commonNames": [
-        "2,5-DMA",
-        "DOH"
-      ],
-      "url": "https://psychonautwiki.org/wiki/2,5-DMA",
-      "isApproved": true,
-      "tolerance": {
-        "full": "after ingestion over the couse of multiple days",
-        "half": "3-5 days",
-        "zero": "7-10 days"
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
-      "categories": [
-        "psychedelic",
-        "stimulant"
-      ],
-      "interactions": {
-        "dangerous": [
-          "Lithium"
-        ],
-        "unsafe": [
-          "Tramadol"
-        ],
-        "uncertain": [
-          "Cannabis",
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
-      "name": "25B-NBOH",
-      "commonNames": [
-        "25B-NBOH"
-      ],
-      "url": "https://psychonautwiki.org/wiki/25B-NBOH",
-      "isApproved": true,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "1 week",
-        "zero": "2 weeks"
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
-      "categories": [
-        "psychedelic",
-        "research-chemical",
-        "tentative"
-      ],
-      "summary": "A phenethylamine psychedelic  and stimulant derivative of 2C-B, this compound is related to and has similar effects to 25b-NBOMe. It is significantly more potent than 2C-B  but less potent than 25B-NBOMe. Overdoses of NBOH compounds may cause  dangerous vasoconstriction. May induce uncomfortable body load.",
-      "interactions": {
-        "dangerous": [
-          "Lithium"
-        ],
-        "unsafe": [
-          "Tramadol"
-        ],
-        "uncertain": [
-          "Cannabis",
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "25B-NBOMe",
       "commonNames": [
         "25B-NBOMe"
@@ -1744,18 +1667,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "25E-NBOH",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/25E-NBOH",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "psychedelic"
-      ],
-      "roas": []
     },
     {
       "name": "25I-NBOH",
@@ -2577,44 +2488,6 @@
       ]
     },
     {
-      "name": "2C-H",
-      "commonNames": [
-        "2C-H",
-        "DMPEA"
-      ],
-      "url": "https://psychonautwiki.org/wiki/2C-H",
-      "isApproved": true,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "3-5 days",
-        "zero": "7-10 days"
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
-      "categories": [
-        "psychedelic",
-        "stimulant"
-      ],
-      "interactions": {
-        "dangerous": [
-          "Lithium"
-        ],
-        "unsafe": [
-          "Tramadol"
-        ],
-        "uncertain": [
-          "Cannabis",
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "2C-I",
       "commonNames": [
         "2C-I"
@@ -3198,38 +3071,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "3-Cl-PCP",
-      "commonNames": [
-        "3-Cl-PCP"
-      ],
-      "url": "https://psychonautwiki.org/wiki/3-Cl-PCP",
-      "isApproved": true,
-      "tolerance": {
-        "full": "with prolonged and repeated use",
-        "half": "4 - 7 days",
-        "zero": "1 - 2 weeks"
-      },
-      "crossTolerances": [
-        "dissociative"
-      ],
-      "addictionPotential": "moderately addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
-      "categories": [
-        "dissociative"
-      ],
-      "interactions": {
-        "dangerous": [
-          "Stimulants",
-          "Depressant"
-        ],
-        "unsafe": [],
-        "uncertain": []
-      },
-      "roas": []
     },
     {
       "name": "3-FA",
@@ -7228,18 +7069,6 @@
       ]
     },
     {
-      "name": "8-Chlorotheophylline",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/8-Chlorotheophylline",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "stimulant"
-      ],
-      "roas": []
-    },
-    {
       "name": "A-PHP",
       "commonNames": [
         "α-PHP",
@@ -8344,19 +8173,6 @@
       ]
     },
     {
-      "name": "Amanita muscaria",
-      "commonNames": [
-        "Fly agaric",
-        "Fly amanita"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Amanita_muscaria",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Amphetamine",
       "commonNames": [
         "Amphetamine",
@@ -8556,20 +8372,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Anadenanthera peregrina",
-      "commonNames": [
-        "Yopo",
-        "Jopo",
-        "Cohoba"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Anadenanthera_peregrina",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Aniracetam",
@@ -8979,21 +8781,6 @@
       ]
     },
     {
-      "name": "Atropa belladonna",
-      "commonNames": [
-        "Belladonna",
-        "Deadly nightshade"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Atropa_belladonna",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "deliriant"
-      ],
-      "roas": []
-    },
-    {
       "name": "Ayahuasca",
       "commonNames": [
         "Ayahuasca",
@@ -9187,16 +8974,6 @@
       ]
     },
     {
-      "name": "Beta-Carboline",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Beta-Carboline",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Bromantane",
       "commonNames": [
         "Bromantane",
@@ -9332,23 +9109,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Bromazolam",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Bromazolam",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "depressant",
-        "benzodiazepine",
-        "research-chemical",
-        "tentative",
-        "habit-forming"
-      ],
-      "summary": "A rather novel Benzodiazepine that is structurally quite close to Alprazolam.",
-      "roas": []
     },
     {
       "name": "Bromo-DragonFLY",
@@ -9935,16 +9695,6 @@
       ]
     },
     {
-      "name": "CanKet",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/CanKet",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Cannabidiol",
       "commonNames": [
         "Cannabidiol",
@@ -10234,32 +9984,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Changa",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Changa",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "psychedelic",
-        "tentative"
-      ],
-      "summary": "Changa is the name given to a smoking blend of caapi or other MAOI containing plants with an infusion of extracted DMT. Changa often contains other milder psychoactive herbs as well. The maoi action results in a longer and more intense trip (see Ayahuasca) NOTE: There is no standardized recipe or concentration of infused DMT, therefor dosage and potency will vary per batch.",
-      "interactions": {
-        "dangerous": [
-          "SNRIs",
-          "Stimulants",
-          "MAOI",
-          "Serotonin releasers",
-          "SSRIs",
-          "5-Hydroxytryptophan"
-        ],
-        "unsafe": [],
-        "uncertain": []
-      },
-      "roas": []
     },
     {
       "name": "Chlordiazepoxide",
@@ -10867,16 +10591,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Cocoa",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Cocoa",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Codeine",
@@ -16162,30 +15876,6 @@
       ]
     },
     {
-      "name": "Kava",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Kava",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "depressant",
-        "habit-forming"
-      ],
-      "summary": "Tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to alcohol. It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'",
-      "interactions": {
-        "dangerous": [
-          "Depressant",
-          "Dissociatives"
-        ],
-        "unsafe": [],
-        "uncertain": [
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "Ketamine",
       "commonNames": [
         "Ketamine",
@@ -16925,18 +16615,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Mandragora",
-      "commonNames": [
-        "Mandrake"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Mandragora",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "MCPP",
@@ -19412,33 +19090,6 @@
       ]
     },
     {
-      "name": "Midazolam",
-      "commonNames": [
-        "Midazolam",
-        "Versed"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Midazolam",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "depressant",
-        "benzodiazepine",
-        "habit-forming"
-      ],
-      "summary": "A common hypnotic, sedative and anxiolytic benzodiazepine. High doses may cause amnesia and loss of inhibitions. Unusually, it is water soluble, and commonly used as a premedication for sedation as the solubility makes it better for IV use than other benzodiazepines.",
-      "effectsSummary": "Midazolam has a calming, relaxing, antispasmodic, anti-anxiety and sleep-inducing effect.\nTaking benzodiazepines increases the effectiveness of the neurotransmitter gamma-aminobutyric acid (GABA) at the GABA-A receptor. This triggers sedative (calming), hypnotic, anxiolytic (anxiety-relieving), anticonvulsant (anticonvulsant) and muscle-relaxing effects in the body. Benzodiazepines have a depressant effect on the central nervous system. The flow of information in the brain between the brain cells (neurons) is thereby reduced / disturbed and feelings and perceptions are dampened.\nThe breakdown of the individual active ingredients of benzodiazepines in the body is age-dependent and therefore varies from person to person.",
-      "generalRisks": "There is little information available on risks, toxicity, side effects and long-term consequences. Therefore, the general information on benzodiazepines applies:\nWhen mixing with other downers (alcohol, GHB/GBL, heroin) there is a risk of respiratory paralysis!\nTaking benzodiazepines can cause numerous undesirable side effects. In addition, regular and long-term use carries a very high risk of physical and psychological dependence. Benzodiazepines should only be taken as prescribed by a doctor and only for a short period of time (max. 4-6 weeks). Longer-term use should be discussed with the treating specialist. The dosages and duration of action of the individual benzodiazepines differ considerably.\nSide effects of benzodiazepines may be as follows: Prolonged fatigue, gastrointestinal problems, impaired reactions, hypersensitivity reactions, headaches, dizziness, motor difficulties, visual disturbances, slowed breathing, muscle weakness, confusion, sexual dysfunction, aggression, outbursts of anger, restlessness, random movements, allergies, skin problems/rashes and speech and movement disorders. Some benzodiazepines can cause seizures in epileptics.",
-      "longtermRisks": "Regular and long-term use can lead to psychological and physical dependence (very high dependence potential). Immediate discontinuation of the drug after prolonged use can lead to negative withdrawal symptoms (including dizziness, physical weakness, inner restlessness, tremors, sleep disturbances, headaches, sweating, nausea, hallucinations and depression).\nIn addition, seizures and memory disorders/loss and listlessness (hangover effects) can occur. In case of possible dependence, withdrawal should be discussed with a doctor beforehand and the withdrawal should be medically accompanied. It is extremely important that the dose is reduced gradually.",
-      "saferUse": [
-        "If medicines are obtained on the black market or on the internet and not from a pharmacy/medical facility, the contents are unclear. Have the medicine tested for the exact ingredients in a drug check!",
-        "Do not rely on dosage information from colleagues who regularly use benzodiazepines. Due to habituation or dependence, their doses can be much higher and fatal for new users.",
-        "Blisters of counterfeits may look identical to the original packaging.",
-        "The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
-      ],
-      "roas": []
-    },
-    {
       "name": "MiPLA",
       "commonNames": [
         "MiPLA",
@@ -19734,16 +19385,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Morning glory",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Morning_glory",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Morphine",
@@ -22603,29 +22244,6 @@
       ]
     },
     {
-      "name": "Poppers",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Poppers",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "effectsSummary": "Muscle relaxation, drop in blood pressure, increase in heart rate, feeling of warmth or heat, short-term insensitivity to pain, euphoria and intensification of orgasm.",
-      "generalRisks": "Headache, dizziness, palpitations, loss of consciousness, fainting and circulatory collapse due to severe drop in blood pressure.",
-      "longtermRisks": "With regular use, permanent impairment of attention and memory as well as reduction of reaction time, cardiac arrhythmia as well as liver and kidney dysfunction, nerve and brain damage.",
-      "saferUse": [
-        "Do not consume poppers alone.",
-        "Do not add more right away (danger of circulatory collapse!).",
-        "Refrain from mixed consumption of any kind, especially with alcohol.",
-        "Follow the safer sex rules. Do not combine poppers with Viagra (risk of heart failure. Danger to life!).",
-        "People with respiratory and cardiovascular diseases, epileptics and pregnant women should not consume poppers.",
-        "Do not swallow! Drinking poppers can lead to a severe overdose, which can result in a fatal oxygen deficiency (methaemoglobinaemia) - contact poison control!",
-        "Poppers are irritating on contact with eyes and mucous membranes. Rinse immediately with plenty of water and seek medical attention!",
-        "Caution: Eye damage! Avoid poppers with the active ingredient (iso)propyl nitrite, it is suspected of causing partly irreversible visual disturbances. The active ingredient amyl nitrite does not seem to cause such damage. Some online shops now list the composition."
-      ],
-      "roas": []
-    },
-    {
       "name": "Pramiracetam",
       "commonNames": [
         "Pramiracetam"
@@ -23829,18 +23447,6 @@
       ]
     },
     {
-      "name": "Salvinorin B methoxymethyl ether",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Salvinorin_B_methoxymethyl_ether",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "hallucinogen"
-      ],
-      "roas": []
-    },
-    {
       "name": "SAM-e",
       "commonNames": [
         "S-Adenosyl Methionine",
@@ -24361,16 +23967,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Thebaine",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Thebaine",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "THJ-018",
@@ -25436,28 +25032,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "ΒOH-2C-B",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/%CE%92OH-2C-B",
-      "isApproved": false,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "3 days",
-        "zero": "7 days"
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
-      "categories": [
-        "psychedelic"
-      ],
-      "roas": []
     }
   ]
 }
