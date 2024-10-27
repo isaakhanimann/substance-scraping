@@ -1281,83 +1281,6 @@
       ]
     },
     {
-      "name": "2-Methyl-AP-237",
-      "commonNames": [
-        "2-Methyl-AP-237",
-        "Apex",
-        "2-MAP"
-      ],
-      "url": "https://psychonautwiki.org/wiki/2-Methyl-AP-237",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "interactions": {
-        "dangerous": [
-          "Alcohol",
-          "Benzodiazepines",
-          "Dextromethorphan",
-          "GHB",
-          "GBL",
-          "Ketamine",
-          "Methoxetamine",
-          "Tramadol",
-          "Grapefruit"
-        ],
-        "unsafe": [],
-        "uncertain": [
-          "MAOI",
-          "Nitrous",
-          "PCP",
-          "Stimulants"
-        ]
-      },
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg",
-            "lightMin": 10,
-            "commonMin": 15,
-            "strongMin": 20,
-            "heavyMin": 25
-          },
-          "duration": {
-            "onset": {
-              "min": 5,
-              "max": 15,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": 10,
-              "max": 40,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": 15,
-              "max": 20,
-              "units": "minutes"
-            },
-            "offset": {
-              "min": 5,
-              "max": 60,
-              "units": "minutes"
-            },
-            "total": {
-              "min": 4,
-              "max": 6,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": 4,
-              "max": 6,
-              "units": "hours"
-            }
-          }
-        }
-      ]
-    },
-    {
       "name": "2,5-DMA",
       "commonNames": [
         "2,5-DMA",
@@ -1395,7 +1318,25 @@
           "Stimulants"
         ]
       },
-      "roas": []
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 10,
+            "commonMin": 40,
+            "strongMin": 80,
+            "heavyMin": 200
+          },
+          "duration": {
+            "total": {
+              "min": 6,
+              "max": 8,
+              "units": "hours"
+            }
+          }
+        }
+      ]
     },
     {
       "name": "25B-NBOH",
@@ -18124,6 +18065,70 @@
       ]
     },
     {
+      "name": "Mephenaqualone",
+      "commonNames": [
+        "Mephenaqualone"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Mephenaqualone",
+      "isApproved": false,
+      "tolerance": {
+        "full": "within a few days of repeated administration"
+      },
+      "crossTolerances": [
+        "GABA|gabaergic",
+        "depressants"
+      ],
+      "addictionPotential": "highly addictive",
+      "toxicities": [],
+      "categories": [
+        "depressant"
+      ],
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.5,
+            "commonMin": 1.5,
+            "strongMin": 2.5,
+            "heavyMin": 4
+          },
+          "duration": {
+            "onset": {
+              "min": 30,
+              "max": 40,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 5,
+              "max": 10,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 10,
+              "max": 15,
+              "units": "hours"
+            },
+            "total": {
+              "min": 15,
+              "max": 20,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 6,
+              "max": 12,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
       "name": "Mescaline",
       "commonNames": [
         "Mescaline",
@@ -19750,7 +19755,77 @@
         "Blisters of counterfeits may look identical to the original packaging.",
         "The simultaneous consumption of depressant substances such as alcohol, ketamine, GHB/GBL, nitrous oxide, opioids and/or other benzodiazepines is dangerous as there is an increased risk of vomiting and unconsciousness. The risk of suffocation is high!"
       ],
-      "roas": []
+      "roas": [
+        {
+          "name": "intravenous",
+          "dose": {
+            "units": "mg",
+            "lightMin": 1,
+            "commonMin": 2,
+            "strongMin": 4,
+            "heavyMin": 5
+          },
+          "duration": {
+            "onset": {
+              "min": 4,
+              "max": 6,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 4,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 0.5,
+              "max": 1.5,
+              "units": "hours"
+            },
+            "total": {
+              "min": 2,
+              "max": 6,
+              "units": "hours"
+            }
+          }
+        },
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 1,
+            "commonMin": 5,
+            "strongMin": 15,
+            "heavyMin": 30
+          },
+          "duration": {
+            "onset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "total": {
+              "min": 2,
+              "max": 4,
+              "units": "hours"
+            }
+          }
+        }
+      ]
     },
     {
       "name": "MiPLA",
