@@ -10004,7 +10004,7 @@
         {
           "name": "oral",
           "dose": {
-            "units": "mg",
+            "units": "mg THC",
             "lightMin": 1,
             "commonMin": 5,
             "strongMin": 10,
@@ -10046,7 +10046,7 @@
         {
           "name": "smoked",
           "dose": {
-            "units": "mg",
+            "units": "mg THC",
             "lightMin": 0.4,
             "commonMin": 2,
             "strongMin": 4,
@@ -23439,7 +23439,7 @@
         {
           "name": "oral",
           "dose": {
-            "units": "mg",
+            "units": "mg Psilocybin",
             "lightMin": 2.5,
             "commonMin": 10,
             "strongMin": 25,

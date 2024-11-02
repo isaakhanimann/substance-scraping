@@ -126,9 +126,6 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         if (substance.commonNames == null) {
             substance.commonNames = []
         }
-        // if (substance.name == "1B-LSD") {
-        //     let a = 2;
-        // }
         if (substance.crossTolerances == null) {
             substance.crossTolerances = []
         }
@@ -140,6 +137,16 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
         replaceInteractions(substance?.dangerousInteractions ?? []);
         replaceInteractions(substance?.unsafeInteractions ?? []);
         replaceInteractions(substance?.uncertainInteractions ?? []);
+        if (substance.name == "Psilocybin mushrooms") {
+            substance.roas[0].dose.units = "mg Psilocybin"
+        }
+        if (substance.name == "Cannabis") {
+            substance.roas.forEach(roa => {
+                if (roa.dose?.units == "mg") {
+                    roa.dose.units = "mg THC"
+                }
+            })
+        }
     })
     return substances
 }
