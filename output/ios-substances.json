@@ -1339,47 +1339,6 @@
       ]
     },
     {
-      "name": "25B-NBOH",
-      "commonNames": [
-        "25B-NBOH"
-      ],
-      "url": "https://psychonautwiki.org/wiki/25B-NBOH",
-      "isApproved": true,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "1 week",
-        "zero": "2 weeks",
-        "halfToleranceInHours": 168,
-        "zeroToleranceInHours": 336
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
-      "categories": [
-        "psychedelic",
-        "research-chemical",
-        "tentative"
-      ],
-      "summary": "A phenethylamine psychedelic  and stimulant derivative of 2C-B, this compound is related to and has similar effects to 25b-NBOMe. It is significantly more potent than 2C-B  but less potent than 25B-NBOMe. Overdoses of NBOH compounds may cause  dangerous vasoconstriction. May induce uncomfortable body load.",
-      "interactions": {
-        "dangerous": [
-          "Lithium"
-        ],
-        "unsafe": [
-          "Tramadol"
-        ],
-        "uncertain": [
-          "Cannabis",
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "25B-NBOMe",
       "commonNames": [
         "25B-NBOMe"
@@ -1720,18 +1679,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "25E-NBOH",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/25E-NBOH",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "psychedelic"
-      ],
-      "roas": []
     },
     {
       "name": "25I-NBOH",
@@ -2563,46 +2510,6 @@
       ]
     },
     {
-      "name": "2C-H",
-      "commonNames": [
-        "2C-H",
-        "DMPEA"
-      ],
-      "url": "https://psychonautwiki.org/wiki/2C-H",
-      "isApproved": true,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "3-5 days",
-        "zero": "7-10 days",
-        "halfToleranceInHours": 96,
-        "zeroToleranceInHours": 204
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
-      "categories": [
-        "psychedelic",
-        "stimulant"
-      ],
-      "interactions": {
-        "dangerous": [
-          "Lithium"
-        ],
-        "unsafe": [
-          "Tramadol"
-        ],
-        "uncertain": [
-          "Cannabis",
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "2C-I",
       "commonNames": [
         "2C-I"
@@ -3200,40 +3107,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "3-Cl-PCP",
-      "commonNames": [
-        "3-Cl-PCP"
-      ],
-      "url": "https://psychonautwiki.org/wiki/3-Cl-PCP",
-      "isApproved": true,
-      "tolerance": {
-        "full": "with prolonged and repeated use",
-        "half": "4 - 7 days",
-        "zero": "1 - 2 weeks",
-        "halfToleranceInHours": 132,
-        "zeroToleranceInHours": 252
-      },
-      "crossTolerances": [
-        "dissociative"
-      ],
-      "addictionPotential": "moderately addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
-      "categories": [
-        "dissociative"
-      ],
-      "interactions": {
-        "dangerous": [
-          "Stimulants",
-          "Depressant"
-        ],
-        "unsafe": [],
-        "uncertain": []
-      },
-      "roas": []
     },
     {
       "name": "3-FA",
@@ -7309,18 +7182,6 @@
       ]
     },
     {
-      "name": "8-Chlorotheophylline",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/8-Chlorotheophylline",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "stimulant"
-      ],
-      "roas": []
-    },
-    {
       "name": "A-PHP",
       "commonNames": [
         "α-PHP",
@@ -8335,7 +8196,7 @@
       "addictionPotential": "extremely physically and psychologically addictive",
       "toxicities": [
         "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
+        "potentially lethal when mixed with depressants like alcohol, opioids, or barbiturates"
       ],
       "categories": [
         "depressant",
@@ -8444,19 +8305,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Amanita muscaria",
-      "commonNames": [
-        "Fly agaric",
-        "Fly amanita"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Amanita_muscaria",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Amphetamine",
@@ -8660,20 +8508,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Anadenanthera peregrina",
-      "commonNames": [
-        "Yopo",
-        "Jopo",
-        "Cohoba"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Anadenanthera_peregrina",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Aniracetam",
@@ -9089,21 +8923,6 @@
       ]
     },
     {
-      "name": "Atropa belladonna",
-      "commonNames": [
-        "Belladonna",
-        "Deadly nightshade"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Atropa_belladonna",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "deliriant"
-      ],
-      "roas": []
-    },
-    {
       "name": "Ayahuasca",
       "commonNames": [
         "Ayahuasca",
@@ -9298,16 +9117,6 @@
       ]
     },
     {
-      "name": "Beta-Carboline",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Beta-Carboline",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Bromantane",
       "commonNames": [
         "Bromantane",
@@ -9357,109 +9166,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Bromazepam",
-      "commonNames": [
-        "Bromazepam",
-        "Brozam",
-        "Lectopam",
-        "Lexomil",
-        "Lexotan",
-        "Lexilium",
-        "Lexaurin",
-        "Brazepam",
-        "Rekotnil",
-        "Bromaze",
-        "Somalium",
-        "Lexatin",
-        "Calmepam",
-        "Zepam",
-        "Lexotanil"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Bromazepam",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
-      "categories": [
-        "benzodiazepine",
-        "habit-forming",
-        "depressant"
-      ],
-      "summary": "A benzodiazepine drug with a medium-long duration, developed by Roche in the 1960s. Has primarily anxiolytic properties. May cause lowered inhibitions and amnesia in high doses.",
-      "interactions": {
-        "dangerous": [
-          "Depressant",
-          "Dissociatives",
-          "Stimulants"
-        ],
-        "unsafe": [],
-        "uncertain": []
-      },
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg",
-            "lightMin": 3,
-            "commonMin": 6,
-            "strongMin": 9,
-            "heavyMin": 12
-          },
-          "duration": {
-            "onset": {
-              "min": 14,
-              "max": 15,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": 15,
-              "max": 120,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": 2,
-              "max": 12,
-              "units": "hours"
-            },
-            "offset": {
-              "min": 30,
-              "max": 60,
-              "units": "minutes"
-            },
-            "total": {
-              "min": 6,
-              "max": 15,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": 12,
-              "max": 22,
-              "units": "hours"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "name": "Bromazolam",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Bromazolam",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "depressant",
-        "benzodiazepine",
-        "research-chemical",
-        "tentative",
-        "habit-forming"
-      ],
-      "summary": "A rather novel Benzodiazepine that is structurally quite close to Alprazolam.",
-      "roas": []
     },
     {
       "name": "Bromo-DragonFLY",
@@ -10056,16 +9762,6 @@
       ]
     },
     {
-      "name": "CanKet",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/CanKet",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Cannabidiol",
       "commonNames": [
         "Cannabidiol",
@@ -10357,32 +10053,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Changa",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Changa",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "psychedelic",
-        "tentative"
-      ],
-      "summary": "Changa is the name given to a smoking blend of caapi or other MAOI containing plants with an infusion of extracted DMT. Changa often contains other milder psychoactive herbs as well. The maoi action results in a longer and more intense trip (see Ayahuasca) NOTE: There is no standardized recipe or concentration of infused DMT, therefor dosage and potency will vary per batch.",
-      "interactions": {
-        "dangerous": [
-          "SNRIs",
-          "Stimulants",
-          "MAOI",
-          "Serotonin releasers",
-          "SSRIs",
-          "5-Hydroxytryptophan"
-        ],
-        "unsafe": [],
-        "uncertain": []
-      },
-      "roas": []
     },
     {
       "name": "Chlordiazepoxide",
@@ -10997,16 +10667,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Cocoa",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Cocoa",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Codeine",
@@ -16372,30 +16032,6 @@
       ]
     },
     {
-      "name": "Kava",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Kava",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "depressant",
-        "habit-forming"
-      ],
-      "summary": "Tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to alcohol. It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'",
-      "interactions": {
-        "dangerous": [
-          "Depressant",
-          "Dissociatives"
-        ],
-        "unsafe": [],
-        "uncertain": [
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "Ketamine",
       "commonNames": [
         "Ketamine",
@@ -17146,18 +16782,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Mandragora",
-      "commonNames": [
-        "Mandrake"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Mandragora",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "MCPP",
@@ -18947,6 +18571,50 @@
       ]
     },
     {
+      "name": "Methcathinone",
+      "commonNames": [
+        "Methcathinone",
+        "Ephedrone",
+        "Methcat",
+        "Cat",
+        "Jeff",
+        "MC"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Methcathinone",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "entactogen",
+        "stimulant"
+      ],
+      "effectsSummary": "The effect of methcathinone is in no way directly comparable to that of the khat plant, which is traditionally consumed in Yemen, Ethiopia and Kenya. It is much more similar to the effect of other uppers such as speed. Methcathinone suppresses fatigue and hunger. It causes an increase in drive and performance, euphoria, an increased urge to talk, disinhibition, extroversion, inner restlessness and hyperactivity.",
+      "dosageRemark": "Snorted: 50 - 70 mg (never more than 300 mg per night!)",
+      "generalRisks": "Methcathinone puts considerable strain on the heart and circulation. Since the effect of methcathinone seems rather subtle at first, there is a risk of overdose by refilling. Overdoses can cause fluttering of the heart, stomach problems, restlessness and sleep disturbances. According to reports from users, there is an increased urge to urinate, but urination can be difficult.\nSome users report depressive states when coming down.\nMethcathinone, like speed, can have increased impurities and high levels of extenders as it is often produced in illegal home labs.",
+      "longtermRisks": "There is a risk of dependence with psychological symptoms. In the case of long-term, high-dose consumption, the psychological and physical risks are similar to those of speed, cocaine or methamphetamine. In the laboratory, a so-called \"craving\" (urge to consume even more) could also be observed in experimental animals.",
+      "saferUse": [
+        "Dose methcathinone carefully and do not add more right away.",
+        "Refrain from mixed use whenever possible. Above all, do not mix methcathinone with other drugs such as speed or cocaine.",
+        "Do not mix methcathinone with alcohol, this only increases the side effects.",
+        "Methcathinone has a very draining effect - so take breaks from using it and give yourself enough rest.",
+        "Drink water or fruit juices regularly, but not too much, as urination on methcathinone can be tedious.",
+        "Make sure you eat a balanced, healthy diet with enough vitamins and minerals.",
+        "Follow the safer sniffing rules!"
+      ],
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 25,
+            "commonMin": 100,
+            "strongMin": 200,
+            "heavyMin": 300
+          }
+        }
+      ]
+    },
+    {
       "name": "Methiopropamine",
       "commonNames": [
         "MPA"
@@ -20131,16 +19799,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Morning glory",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Morning_glory",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Morphine",
@@ -21810,7 +21468,7 @@
       "crossTolerances": [
         "opioids"
       ],
-      "addictionPotential": "moderately addictive with a high potential for abuse",
+      "addictionPotential": "extremely addictive with a high potential for abuse",
       "toxicities": [
         "low toxicity",
         "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
@@ -24286,18 +23944,6 @@
       ]
     },
     {
-      "name": "Salvinorin B methoxymethyl ether",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Salvinorin_B_methoxymethyl_ether",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "hallucinogen"
-      ],
-      "roas": []
-    },
-    {
       "name": "SAM-e",
       "commonNames": [
         "S-Adenosyl Methionine",
@@ -24827,16 +24473,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Thebaine",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Thebaine",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "THJ-018",
@@ -25924,30 +25560,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "ΒOH-2C-B",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/%CE%92OH-2C-B",
-      "isApproved": false,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "3 days",
-        "zero": "7 days",
-        "halfToleranceInHours": 72,
-        "zeroToleranceInHours": 168
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
-      "categories": [
-        "psychedelic"
-      ],
-      "roas": []
     }
   ]
 }
