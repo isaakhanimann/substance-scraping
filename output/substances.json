@@ -8174,7 +8174,7 @@
       "addictionPotential": "extremely physically and psychologically addictive",
       "toxicities": [
         "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
+        "potentially lethal when mixed with depressants like alcohol, opioids, or barbiturates"
       ],
       "categories": [
         "depressant",
@@ -9187,109 +9187,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Bromazepam",
-      "commonNames": [
-        "Bromazepam",
-        "Brozam",
-        "Lectopam",
-        "Lexomil",
-        "Lexotan",
-        "Lexilium",
-        "Lexaurin",
-        "Brazepam",
-        "Rekotnil",
-        "Bromaze",
-        "Somalium",
-        "Lexatin",
-        "Calmepam",
-        "Zepam",
-        "Lexotanil"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Bromazepam",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [
-        "low toxicity",
-        "potentially lethal when mixed with depressants like alcohol or opioids"
-      ],
-      "categories": [
-        "benzodiazepine",
-        "habit-forming",
-        "depressant"
-      ],
-      "summary": "A benzodiazepine drug with a medium-long duration, developed by Roche in the 1960s. Has primarily anxiolytic properties. May cause lowered inhibitions and amnesia in high doses.",
-      "interactions": {
-        "dangerous": [
-          "Depressant",
-          "Dissociatives",
-          "Stimulants"
-        ],
-        "unsafe": [],
-        "uncertain": []
-      },
-      "roas": [
-        {
-          "name": "oral",
-          "dose": {
-            "units": "mg",
-            "lightMin": 3,
-            "commonMin": 6,
-            "strongMin": 9,
-            "heavyMin": 12
-          },
-          "duration": {
-            "onset": {
-              "min": 14,
-              "max": 15,
-              "units": "minutes"
-            },
-            "comeup": {
-              "min": 15,
-              "max": 120,
-              "units": "minutes"
-            },
-            "peak": {
-              "min": 2,
-              "max": 12,
-              "units": "hours"
-            },
-            "offset": {
-              "min": 30,
-              "max": 60,
-              "units": "minutes"
-            },
-            "total": {
-              "min": 6,
-              "max": 15,
-              "units": "hours"
-            },
-            "afterglow": {
-              "min": 12,
-              "max": 22,
-              "units": "hours"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "name": "Bromazolam",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Bromazolam",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "depressant",
-        "benzodiazepine",
-        "research-chemical",
-        "tentative",
-        "habit-forming"
-      ],
-      "summary": "A rather novel Benzodiazepine that is structurally quite close to Alprazolam.",
-      "roas": []
     },
     {
       "name": "Bromo-DragonFLY",
@@ -18645,6 +18542,50 @@
       ]
     },
     {
+      "name": "Methcathinone",
+      "commonNames": [
+        "Methcathinone",
+        "Ephedrone",
+        "Methcat",
+        "Cat",
+        "Jeff",
+        "MC"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Methcathinone",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "entactogen",
+        "stimulant"
+      ],
+      "effectsSummary": "The effect of methcathinone is in no way directly comparable to that of the khat plant, which is traditionally consumed in Yemen, Ethiopia and Kenya. It is much more similar to the effect of other uppers such as speed. Methcathinone suppresses fatigue and hunger. It causes an increase in drive and performance, euphoria, an increased urge to talk, disinhibition, extroversion, inner restlessness and hyperactivity.",
+      "dosageRemark": "Snorted: 50 - 70 mg (never more than 300 mg per night!)",
+      "generalRisks": "Methcathinone puts considerable strain on the heart and circulation. Since the effect of methcathinone seems rather subtle at first, there is a risk of overdose by refilling. Overdoses can cause fluttering of the heart, stomach problems, restlessness and sleep disturbances. According to reports from users, there is an increased urge to urinate, but urination can be difficult.\nSome users report depressive states when coming down.\nMethcathinone, like speed, can have increased impurities and high levels of extenders as it is often produced in illegal home labs.",
+      "longtermRisks": "There is a risk of dependence with psychological symptoms. In the case of long-term, high-dose consumption, the psychological and physical risks are similar to those of speed, cocaine or methamphetamine. In the laboratory, a so-called \"craving\" (urge to consume even more) could also be observed in experimental animals.",
+      "saferUse": [
+        "Dose methcathinone carefully and do not add more right away.",
+        "Refrain from mixed use whenever possible. Above all, do not mix methcathinone with other drugs such as speed or cocaine.",
+        "Do not mix methcathinone with alcohol, this only increases the side effects.",
+        "Methcathinone has a very draining effect - so take breaks from using it and give yourself enough rest.",
+        "Drink water or fruit juices regularly, but not too much, as urination on methcathinone can be tedious.",
+        "Make sure you eat a balanced, healthy diet with enough vitamins and minerals.",
+        "Follow the safer sniffing rules!"
+      ],
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 25,
+            "commonMin": 100,
+            "strongMin": 200,
+            "heavyMin": 300
+          }
+        }
+      ]
+    },
+    {
       "name": "Methiopropamine",
       "commonNames": [
         "MPA"
@@ -21461,7 +21402,7 @@
       "crossTolerances": [
         "opioids"
       ],
-      "addictionPotential": "moderately addictive with a high potential for abuse",
+      "addictionPotential": "extremely addictive with a high potential for abuse",
       "toxicities": [
         "low toxicity",
         "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
