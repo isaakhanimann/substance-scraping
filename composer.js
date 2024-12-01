@@ -148,7 +148,7 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
             })
         }
         return substance
-    }).filter(substance => substance?.roas != undefined && substance.roas.length > 0)
+    }).filter(substance => substance.name == "Poppers" || (substance?.roas != undefined && substance.roas.length > 0))
     return finalSubstances
 }
 
