@@ -1312,45 +1312,6 @@
       ]
     },
     {
-      "name": "25B-NBOH",
-      "commonNames": [
-        "25B-NBOH"
-      ],
-      "url": "https://psychonautwiki.org/wiki/25B-NBOH",
-      "isApproved": true,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "1 week",
-        "zero": "2 weeks"
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "potentially fatal at heavy dosages"
-      ],
-      "categories": [
-        "psychedelic",
-        "research-chemical",
-        "tentative"
-      ],
-      "summary": "A phenethylamine psychedelic  and stimulant derivative of 2C-B, this compound is related to and has similar effects to 25b-NBOMe. It is significantly more potent than 2C-B  but less potent than 25B-NBOMe. Overdoses of NBOH compounds may cause  dangerous vasoconstriction. May induce uncomfortable body load.",
-      "interactions": {
-        "dangerous": [
-          "Lithium"
-        ],
-        "unsafe": [
-          "Tramadol"
-        ],
-        "uncertain": [
-          "Cannabis",
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "25B-NBOMe",
       "commonNames": [
         "25B-NBOMe"
@@ -1685,18 +1646,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "25E-NBOH",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/25E-NBOH",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "psychedelic"
-      ],
-      "roas": []
     },
     {
       "name": "25I-NBOH",
@@ -2518,44 +2467,6 @@
       ]
     },
     {
-      "name": "2C-H",
-      "commonNames": [
-        "2C-H",
-        "DMPEA"
-      ],
-      "url": "https://psychonautwiki.org/wiki/2C-H",
-      "isApproved": true,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "3-5 days",
-        "zero": "7-10 days"
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
-      "categories": [
-        "psychedelic",
-        "stimulant"
-      ],
-      "interactions": {
-        "dangerous": [
-          "Lithium"
-        ],
-        "unsafe": [
-          "Tramadol"
-        ],
-        "uncertain": [
-          "Cannabis",
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "2C-I",
       "commonNames": [
         "2C-I"
@@ -3139,38 +3050,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "3-Cl-PCP",
-      "commonNames": [
-        "3-Cl-PCP"
-      ],
-      "url": "https://psychonautwiki.org/wiki/3-Cl-PCP",
-      "isApproved": true,
-      "tolerance": {
-        "full": "with prolonged and repeated use",
-        "half": "4 - 7 days",
-        "zero": "1 - 2 weeks"
-      },
-      "crossTolerances": [
-        "dissociative"
-      ],
-      "addictionPotential": "moderately addictive with a high potential for adverse side effects such as psychosis",
-      "toxicities": [
-        "toxic dosage is unknown"
-      ],
-      "categories": [
-        "dissociative"
-      ],
-      "interactions": {
-        "dangerous": [
-          "Stimulants",
-          "Depressant"
-        ],
-        "unsafe": [],
-        "uncertain": []
-      },
-      "roas": []
     },
     {
       "name": "3-FA",
@@ -7169,18 +7048,6 @@
       ]
     },
     {
-      "name": "8-Chlorotheophylline",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/8-Chlorotheophylline",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "stimulant"
-      ],
-      "roas": []
-    },
-    {
       "name": "A-PHP",
       "commonNames": [
         "α-PHP",
@@ -8285,19 +8152,6 @@
       ]
     },
     {
-      "name": "Amanita muscaria",
-      "commonNames": [
-        "Fly agaric",
-        "Fly amanita"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Amanita_muscaria",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Amphetamine",
       "commonNames": [
         "Amphetamine",
@@ -8497,20 +8351,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Anadenanthera peregrina",
-      "commonNames": [
-        "Yopo",
-        "Jopo",
-        "Cohoba"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Anadenanthera_peregrina",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Aniracetam",
@@ -8920,21 +8760,6 @@
       ]
     },
     {
-      "name": "Atropa belladonna",
-      "commonNames": [
-        "Belladonna",
-        "Deadly nightshade"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Atropa_belladonna",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "deliriant"
-      ],
-      "roas": []
-    },
-    {
       "name": "Ayahuasca",
       "commonNames": [
         "Ayahuasca",
@@ -9126,16 +8951,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Beta-Carboline",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Beta-Carboline",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Bromantane",
@@ -9773,16 +9588,6 @@
       ]
     },
     {
-      "name": "CanKet",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/CanKet",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
-    },
-    {
       "name": "Cannabidiol",
       "commonNames": [
         "Cannabidiol",
@@ -10072,32 +9877,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Changa",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Changa",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "psychedelic",
-        "tentative"
-      ],
-      "summary": "Changa is the name given to a smoking blend of caapi or other MAOI containing plants with an infusion of extracted DMT. Changa often contains other milder psychoactive herbs as well. The maoi action results in a longer and more intense trip (see Ayahuasca) NOTE: There is no standardized recipe or concentration of infused DMT, therefor dosage and potency will vary per batch.",
-      "interactions": {
-        "dangerous": [
-          "SNRIs",
-          "Stimulants",
-          "MAOI",
-          "Serotonin releasers",
-          "SSRIs",
-          "5-Hydroxytryptophan"
-        ],
-        "unsafe": [],
-        "uncertain": []
-      },
-      "roas": []
     },
     {
       "name": "Chlordiazepoxide",
@@ -16000,30 +15779,6 @@
       ]
     },
     {
-      "name": "Kava",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Kava",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "depressant",
-        "habit-forming"
-      ],
-      "summary": "Tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to alcohol. It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'",
-      "interactions": {
-        "dangerous": [
-          "Depressant",
-          "Dissociatives"
-        ],
-        "unsafe": [],
-        "uncertain": [
-          "Stimulants"
-        ]
-      },
-      "roas": []
-    },
-    {
       "name": "Ketamine",
       "commonNames": [
         "Ketamine",
@@ -16763,18 +16518,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Mandragora",
-      "commonNames": [
-        "Mandrake"
-      ],
-      "url": "https://psychonautwiki.org/wiki/Mandragora",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "MCPP",
@@ -19750,16 +19493,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Morning glory",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Morning_glory",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "Morphine",
@@ -23845,18 +23578,6 @@
       ]
     },
     {
-      "name": "Salvinorin B methoxymethyl ether",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Salvinorin_B_methoxymethyl_ether",
-      "isApproved": true,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [
-        "hallucinogen"
-      ],
-      "roas": []
-    },
-    {
       "name": "SAM-e",
       "commonNames": [
         "S-Adenosyl Methionine",
@@ -24377,16 +24098,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Thebaine",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/Thebaine",
-      "isApproved": false,
-      "crossTolerances": [],
-      "toxicities": [],
-      "categories": [],
-      "roas": []
     },
     {
       "name": "THJ-018",
@@ -25452,28 +25163,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "ΒOH-2C-B",
-      "commonNames": [],
-      "url": "https://psychonautwiki.org/wiki/%CE%92OH-2C-B",
-      "isApproved": false,
-      "tolerance": {
-        "full": "almost immediately after ingestion",
-        "half": "3 days",
-        "zero": "7 days"
-      },
-      "crossTolerances": [
-        "psychedelic"
-      ],
-      "addictionPotential": "not habit-forming",
-      "toxicities": [
-        "toxic dose is unknown"
-      ],
-      "categories": [
-        "psychedelic"
-      ],
-      "roas": []
     }
   ]
 }

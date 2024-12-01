@@ -15,7 +15,7 @@ const assert = require("assert");
     let categoriesContent = await fsPromises.readFile('./input/categories.json', 'utf-8');
     let categories = JSON.parse(categoriesContent);
     let inferredCategoryNames = getAllCategoriesOfSubstances(finalSubstances);
-    let indexToPrint = 284
+    let indexToPrint = 5
     console.log(`Substance at index: ${indexToPrint} is: ${finalSubstances[indexToPrint].name}`);
     let explicitCategoryNames = categories.map(i => i.name);
     let diff1 = inferredCategoryNames.filter(i => !explicitCategoryNames.includes(i));
@@ -110,7 +110,7 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
     }
 
     let substances = psychonautWikiSubstances.filter(isNameOk)
-    substances.forEach(substance => {
+    let finalSubstances = substances.map(substance => {
         if (substance.class != undefined) {
             substance.class.psychoactive = (substance?.class?.psychoactive ?? []).flatMap(element => {
                 if (element === "Selective serotonin reuptake inhibitor") {
@@ -147,8 +147,9 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
                 }
             })
         }
-    })
-    return substances
+        return substance
+    }).filter(substance => substance?.roas != undefined && substance.roas.length > 0)
+    return finalSubstances
 }
 
 function replaceInteractions(array) {
