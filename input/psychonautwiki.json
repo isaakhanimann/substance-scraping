@@ -11094,7 +11094,7 @@
         "addictionPotential": "extremely physically and psychologically addictive",
         "toxicity": [
           "low toxicity",
-          "potentially lethal when mixed with depressants like alcohol or opioids"
+          "potentially lethal when mixed with depressants like alcohol, opioids, or barbiturates"
         ],
         "crossTolerances": [
           "benzodiazepines"
@@ -12445,105 +12445,11 @@
         "dangerousInteractions": null
       },
       {
-        "name": "Bromazepam",
-        "commonNames": [
-          "Bromazepam",
-          "Brozam",
-          "Lectopam",
-          "Lexomil",
-          "Lexotan",
-          "Lexilium",
-          "Lexaurin",
-          "Brazepam",
-          "Rekotnil",
-          "Bromaze",
-          "Somalium",
-          "Lexatin",
-          "Calmepam",
-          "Zepam",
-          "Lexotanil"
-        ],
-        "url": "https://psychonautwiki.org/wiki/Bromazepam",
-        "class": null,
-        "tolerance": null,
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": 3,
-              "light": {
-                "min": 3,
-                "max": 6
-              },
-              "common": {
-                "min": 6,
-                "max": 9
-              },
-              "strong": {
-                "min": 9,
-                "max": 12
-              },
-              "heavy": 12
-            },
-            "duration": {
-              "onset": {
-                "min": 14,
-                "max": 15,
-                "units": "minutes"
-              },
-              "comeup": {
-                "min": 15,
-                "max": 120,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": 2,
-                "max": 12,
-                "units": "hours"
-              },
-              "offset": {
-                "min": 30,
-                "max": 60,
-                "units": "minutes"
-              },
-              "total": {
-                "min": 6,
-                "max": 15,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": 12,
-                "max": 22,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          }
-        ],
-        "addictionPotential": null,
-        "toxicity": [
-          "low toxicity",
-          "potentially lethal when mixed with depressants like alcohol or opioids"
-        ],
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": [
-          {
-            "name": "Depressant"
-          },
-          {
-            "name": "Dissociatives"
-          },
-          {
-            "name": "Stimulants"
-          }
-        ]
-      },
-      {
         "name": "Bromazolam",
-        "commonNames": null,
+        "commonNames": [
+          "Bromazolam",
+          "XLI-268"
+        ],
         "url": "https://psychonautwiki.org/wiki/Bromazolam",
         "class": {
           "chemical": [
@@ -12554,13 +12460,70 @@
           ]
         },
         "tolerance": null,
-        "roas": [],
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 0.5,
+              "light": {
+                "min": 0.5,
+                "max": 1
+              },
+              "common": {
+                "min": 1,
+                "max": 2
+              },
+              "strong": {
+                "min": 2,
+                "max": 4
+              },
+              "heavy": 4
+            },
+            "duration": {
+              "onset": {
+                "min": 15,
+                "max": 45,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": {
+                "min": 5,
+                "max": 8,
+                "units": "hours"
+              },
+              "offset": null,
+              "total": {
+                "min": 6,
+                "max": 20,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
         "addictionPotential": null,
         "toxicity": null,
         "crossTolerances": null,
-        "uncertainInteractions": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
         "unsafeInteractions": null,
-        "dangerousInteractions": null
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Bromo-DragonFLY",
@@ -25495,6 +25458,59 @@
         ]
       },
       {
+        "name": "Methcathinone",
+        "commonNames": [
+          "Methcathinone",
+          "Ephedrone",
+          "Methcat",
+          "Cat",
+          "Jeff",
+          "MC"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Methcathinone",
+        "class": {
+          "chemical": [
+            "Cathinone",
+            "Substituted cathinones"
+          ],
+          "psychoactive": [
+            "Entactogen",
+            "Stimulants"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 25,
+              "light": {
+                "min": 50,
+                "max": 100
+              },
+              "common": {
+                "min": 100,
+                "max": 200
+              },
+              "strong": {
+                "min": 200,
+                "max": 300
+              },
+              "heavy": 300
+            },
+            "duration": null,
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Methiopropamine",
         "commonNames": [
           "MPA"
@@ -29460,7 +29476,7 @@
             "bioavailability": null
           }
         ],
-        "addictionPotential": "moderately addictive with a high potential for abuse",
+        "addictionPotential": "extremely addictive with a high potential for abuse",
         "toxicity": [
           "low toxicity",
           "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
