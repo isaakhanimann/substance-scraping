@@ -163,6 +163,10 @@ function replaceInteractions(array) {
         if (element.name === "Psychedelic") {
             element.name = "Psychedelics"
         }
+        const prefix = "Talk:";
+        if (element.name.startsWith(prefix)) {
+            element.name = element.name.slice(prefix.length);
+        }
         return element
     });
 }
