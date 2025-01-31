@@ -2727,19 +2727,35 @@
             },
             "duration": {
               "onset": {
-                "min": 0,
-                "max": 20,
+                "min": 1,
+                "max": 5,
                 "units": "minutes"
               },
-              "comeup": null,
-              "peak": null,
-              "offset": null,
-              "total": {
-                "min": 4,
-                "max": 7,
+              "comeup": {
+                "min": 15,
+                "max": 30,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 60,
+                "max": 90,
+                "units": "minutes"
+              },
+              "offset": {
+                "min": 2,
+                "max": 3,
                 "units": "hours"
               },
-              "afterglow": null
+              "total": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 2,
+                "max": 4,
+                "units": "hours"
+              }
             },
             "bioavailability": null
           },
@@ -6535,6 +6551,20 @@
             "name": "Lithium"
           }
         ]
+      },
+      {
+        "name": "4-BMC",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/4-BMC",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
       },
       {
         "name": "4-FA",
@@ -10356,7 +10386,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MAOI"
@@ -11252,11 +11282,7 @@
                 "max": 6,
                 "units": "hours"
               },
-              "afterglow": {
-                "min": 1.5,
-                "max": 4,
-                "units": "Hours#"
-              }
+              "afterglow": null
             },
             "bioavailability": null
           },
@@ -12186,13 +12212,21 @@
                 "max": 75,
                 "units": "minutes"
               },
-              "comeup": null,
-              "peak": {
-                "min": 60,
-                "max": 90,
-                "units": "minutes"
+              "comeup": {
+                "min": 1,
+                "max": 1.5,
+                "units": "hours"
               },
-              "offset": null,
+              "peak": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 1.5,
+                "max": 2.5,
+                "units": "hours"
+              },
               "total": {
                 "min": 8,
                 "max": 14,
@@ -12281,6 +12315,38 @@
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
+      },
+      {
+        "name": "Benzodiazepines",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Benzodiazepines",
+        "class": null,
+        "tolerance": {
+          "full": "within a couple of days of continuous use",
+          "half": null,
+          "zero": "7-14 days"
+        },
+        "roas": [],
+        "addictionPotential": "extremely physically and psychologically addictive",
+        "toxicity": [
+          "low toxicity",
+          "potentially lethality increases significantly when mixed with depressants like alcohol or opioids"
+        ],
+        "crossTolerances": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Benzydamine",
@@ -12443,6 +12509,184 @@
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
+      },
+      {
+        "name": "Bromazepam",
+        "commonNames": [
+          "Bromazepam",
+          "Brozam",
+          "Lectopam",
+          "Lexomil",
+          "Lexotan",
+          "Lexilium",
+          "Lexaurin",
+          "Brazepam",
+          "Rekotnil",
+          "Bromaze",
+          "Somalium",
+          "Lexatin",
+          "Calmepam",
+          "Zepam",
+          "Lexotanil"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Bromazepam",
+        "class": null,
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 1.5,
+              "light": {
+                "min": 1.5,
+                "max": 3
+              },
+              "common": {
+                "min": 3,
+                "max": 6
+              },
+              "strong": {
+                "min": 6,
+                "max": 12
+              },
+              "heavy": 12
+            },
+            "duration": {
+              "onset": {
+                "min": 14,
+                "max": 15,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": 15,
+                "max": 120,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 2,
+                "max": 12,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 30,
+                "max": 60,
+                "units": "minutes"
+              },
+              "total": {
+                "min": 6,
+                "max": 15,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 12,
+                "max": 22,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": [
+          "low toxicity",
+          "potentially lethal when mixed with depressants like alcohol or opioids"
+        ],
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Dissociatives"
+          },
+          {
+            "name": "Stimulants"
+          }
+        ]
+      },
+      {
+        "name": "Bromazolam",
+        "commonNames": [
+          "Bromazolam",
+          "XLI-268"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Bromazolam",
+        "class": {
+          "chemical": [
+            "Benzodiazepines"
+          ],
+          "psychoactive": [
+            "Depressant"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": 0.5,
+              "light": {
+                "min": 0.5,
+                "max": 1
+              },
+              "common": {
+                "min": 1,
+                "max": 2
+              },
+              "strong": {
+                "min": 2,
+                "max": 4
+              },
+              "heavy": 4
+            },
+            "duration": {
+              "onset": {
+                "min": 15,
+                "max": 45,
+                "units": "minutes"
+              },
+              "comeup": null,
+              "peak": {
+                "min": 5,
+                "max": 8,
+                "units": "hours"
+              },
+              "offset": null,
+              "total": {
+                "min": 6,
+                "max": 20,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": 1,
+                "max": 12,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": [
+          {
+            "name": "Stimulants"
+          }
+        ],
+        "unsafeInteractions": null,
+        "dangerousInteractions": [
+          {
+            "name": "Depressant"
+          },
+          {
+            "name": "Dissociatives"
+          }
+        ]
       },
       {
         "name": "Bromo-DragonFLY",
@@ -12813,7 +13057,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -13710,6 +13954,20 @@
             "name": "Dissociatives"
           }
         ]
+      },
+      {
+        "name": "Cathinone",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Cathinone",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
       },
       {
         "name": "Changa",
@@ -14686,7 +14944,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -16092,7 +16350,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MAOI"
@@ -16418,6 +16676,27 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Dihexa",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Dihexa",
+        "class": {
+          "chemical": [
+            "Peptides"
+          ],
+          "psychoactive": [
+            "Nootropic"
+          ]
+        },
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": "addictive",
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Dihydrocodeine",
         "commonNames": [
           "Dihydrocodeine"
@@ -16520,7 +16799,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -18638,7 +18917,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -19125,6 +19404,27 @@
         "dangerousInteractions": null
       },
       {
+        "name": "Etorphine",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Etorphine",
+        "class": {
+          "chemical": [
+            "Alcohol and a morphinane alkaloid"
+          ],
+          "psychoactive": [
+            "Opioids"
+          ]
+        },
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
         "name": "Eugeroics",
         "commonNames": null,
         "url": "https://psychonautwiki.org/wiki/Eugeroics",
@@ -19139,80 +19439,26 @@
         "dangerousInteractions": null
       },
       {
-        "name": "Experience:\"DPH (700mg, Oral) - Arachnophobia Awakened",
-        "commonNames": [
-          "DPH",
-          "Benadryl",
-          "Nytol",
-          "Sominex",
-          "Unisom SleepMelts",
-          "ZzzQuil"
-        ],
-        "url": "https://psychonautwiki.org/wiki/Experience:%22DPH_(700mg,_Oral)_-_Arachnophobia_Awakened",
-        "class": {
-          "chemical": [
-            "Ethanolamine"
-          ],
-          "psychoactive": [
-            "Deliriant"
-          ]
-        },
+        "name": "Experience:15mg Amphetamine (Oral) - Fairly Pleasant and Productive",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Experience:15mg_Amphetamine_(Oral)_-_Fairly_Pleasant_and_Productive",
+        "class": null,
         "tolerance": null,
-        "roas": [
-          {
-            "name": "oral",
-            "dose": {
-              "units": "mg",
-              "threshold": 25,
-              "light": {
-                "min": 100,
-                "max": 200
-              },
-              "common": {
-                "min": 200,
-                "max": 400
-              },
-              "strong": {
-                "min": 400,
-                "max": 700
-              },
-              "heavy": 700
-            },
-            "duration": {
-              "onset": {
-                "min": 30,
-                "max": 90,
-                "units": "minutes"
-              },
-              "comeup": {
-                "min": 45,
-                "max": 90,
-                "units": "minutes"
-              },
-              "peak": {
-                "min": 1,
-                "max": 4,
-                "units": "hours"
-              },
-              "offset": {
-                "min": 2,
-                "max": 6,
-                "units": "hours"
-              },
-              "total": {
-                "min": 3,
-                "max": 10,
-                "units": "hours"
-              },
-              "afterglow": {
-                "min": null,
-                "max": 24,
-                "units": "hours"
-              }
-            },
-            "bioavailability": null
-          }
-        ],
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Experience:3-MeO-PCP, LSD, Clonazolam, and Amphetamine - Excessive Amounts and Excessive Confusion",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Experience:3-MeO-PCP,_LSD,_Clonazolam,_and_Amphetamine_-_Excessive_Amounts_and_Excessive_Confusion",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
         "addictionPotential": null,
         "toxicity": null,
         "crossTolerances": null,
@@ -19626,7 +19872,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MAOI"
@@ -20114,20 +20360,6 @@
             "name": "Depressant"
           }
         ]
-      },
-      {
-        "name": "Gabapentinoids",
-        "commonNames": null,
-        "url": "https://psychonautwiki.org/wiki/Gabapentinoids",
-        "class": null,
-        "tolerance": null,
-        "roas": [],
-        "addictionPotential": null,
-        "toxicity": null,
-        "crossTolerances": null,
-        "uncertainInteractions": null,
-        "unsafeInteractions": null,
-        "dangerousInteractions": null
       },
       {
         "name": "Gaboxadol",
@@ -20784,7 +21016,7 @@
             "bioavailability": null
           }
         ],
-        "addictionPotential": "extremely addictive with a high potential for abuse",
+        "addictionPotential": null,
         "toxicity": null,
         "crossTolerances": [
           "opioids"
@@ -20830,7 +21062,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -21203,7 +21435,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -21431,7 +21663,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -22004,8 +22236,8 @@
         },
         "tolerance": {
           "full": "develops with prolonged and repeated use",
-          "half": "3 - 7 days",
-          "zero": "1 - 2 weeks"
+          "half": null,
+          "zero": null
         },
         "roas": [
           {
@@ -22148,7 +22380,7 @@
             "name": "Trazodone"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ],
         "unsafeInteractions": null,
@@ -22289,7 +22521,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -23956,19 +24188,31 @@
                 "max": 20,
                 "units": "minutes"
               },
-              "comeup": null,
-              "peak": null,
-              "offset": null,
+              "comeup": {
+                "min": 20,
+                "max": 70,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": 1,
+                "max": 2,
+                "units": "hours"
+              },
+              "offset": {
+                "min": 2,
+                "max": 3,
+                "units": "hours"
+              },
               "total": {
-                "min": 6,
-                "max": 10,
+                "min": 3,
+                "max": 6,
                 "units": "hours"
               },
               "afterglow": null
             },
             "bioavailability": {
               "min": 15,
-              "max": 15
+              "max": null
             }
           }
         ],
@@ -24123,8 +24367,8 @@
             },
             "duration": {
               "onset": {
-                "min": 15,
-                "max": 45,
+                "min": 5,
+                "max": 8,
                 "units": "minutes"
               },
               "comeup": {
@@ -24133,7 +24377,7 @@
                 "units": "minutes"
               },
               "peak": {
-                "min": 30,
+                "min": 45,
                 "max": 60,
                 "units": "minutes"
               },
@@ -24143,8 +24387,8 @@
                 "units": "minutes"
               },
               "total": {
-                "min": 3,
-                "max": 6,
+                "min": 1.5,
+                "max": 3,
                 "units": "hours"
               },
               "afterglow": {
@@ -24191,13 +24435,13 @@
                 "units": "hours"
               },
               "offset": {
-                "min": 30,
+                "min": 45,
                 "max": 90,
                 "units": "minutes"
               },
               "total": {
-                "min": 4,
-                "max": 8,
+                "min": 3,
+                "max": 6,
                 "units": "hours"
               },
               "afterglow": {
@@ -24773,7 +25017,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MAOI"
@@ -25418,7 +25662,18 @@
               },
               "heavy": 300
             },
-            "duration": null,
+            "duration": {
+              "onset": null,
+              "comeup": null,
+              "peak": null,
+              "offset": null,
+              "total": {
+                "min": 4,
+                "max": 6,
+                "units": "hours"
+              },
+              "afterglow": null
+            },
             "bioavailability": null
           }
         ],
@@ -26164,13 +26419,13 @@
             "name": "insufflated",
             "dose": {
               "units": "mg",
-              "threshold": 5,
+              "threshold": 1,
               "light": {
-                "min": 10,
-                "max": 15
+                "min": 2,
+                "max": 10
               },
               "common": {
-                "min": 15,
+                "min": 10,
                 "max": 30
               },
               "strong": {
@@ -26234,28 +26489,28 @@
             },
             "duration": {
               "onset": {
-                "min": 20,
+                "min": 30,
                 "max": 60,
                 "units": "minutes"
               },
               "comeup": {
                 "min": 20,
-                "max": 60,
+                "max": 45,
                 "units": "minutes"
               },
               "peak": {
-                "min": 1.5,
-                "max": 2.5,
-                "units": "hours"
+                "min": 60,
+                "max": 90,
+                "units": "minutes"
               },
               "offset": {
-                "min": 1,
-                "max": 2,
-                "units": "hours"
+                "min": 45,
+                "max": 60,
+                "units": "minutes"
               },
               "total": {
-                "min": 4,
-                "max": 6,
+                "min": 2.5,
+                "max": 4,
                 "units": "hours"
               },
               "afterglow": {
@@ -27024,7 +27279,23 @@
         "roas": [
           {
             "name": "intravenous",
-            "dose": null,
+            "dose": {
+              "units": "mg",
+              "threshold": 3.33,
+              "light": {
+                "min": 3.33,
+                "max": 5
+              },
+              "common": {
+                "min": 5,
+                "max": 7.5
+              },
+              "strong": {
+                "min": 7.5,
+                "max": 10
+              },
+              "heavy": 10
+            },
             "duration": {
               "onset": {
                 "min": 0,
@@ -27037,18 +27308,18 @@
                 "units": "minutes"
               },
               "peak": {
-                "min": 1,
-                "max": 2,
+                "min": 1.5,
+                "max": 2.5,
                 "units": "hours"
               },
               "offset": {
-                "min": 30,
-                "max": 60,
+                "min": 60,
+                "max": 90,
                 "units": "minutes"
               },
               "total": {
-                "min": 2,
-                "max": 3,
+                "min": 4,
+                "max": 5,
                 "units": "hours"
               },
               "afterglow": null
@@ -27102,14 +27373,15 @@
               },
               "afterglow": null
             },
-            "bioavailability": null
+            "bioavailability": {
+              "min": 35,
+              "max": 40
+            }
           }
         ],
         "addictionPotential": null,
         "toxicity": null,
-        "crossTolerances": [
-          "opioids"
-        ],
+        "crossTolerances": null,
         "uncertainInteractions": [
           {
             "name": "MAOI"
@@ -27151,7 +27423,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -28672,7 +28944,7 @@
               "afterglow": {
                 "min": 1,
                 "max": 3,
-                "units": "hours"
+                "units": "Hours#"
               }
             },
             "bioavailability": null
@@ -28832,7 +29104,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MAOI"
@@ -29135,7 +29407,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -29395,7 +29667,7 @@
             "bioavailability": null
           }
         ],
-        "addictionPotential": "extremely addictive with a high potential for abuse",
+        "addictionPotential": null,
         "toxicity": [
           "low toxicity",
           "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
@@ -29444,7 +29716,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -29548,7 +29820,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
@@ -30467,7 +30739,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MAOI"
@@ -30482,6 +30754,120 @@
             "name": "5-Hydroxytryptophan"
           }
         ]
+      },
+      {
+        "name": "Pfpp",
+        "commonNames": [
+          "DMT",
+          "Dimethyltryptamine",
+          "Dmitri"
+        ],
+        "url": "https://psychonautwiki.org/wiki/Pfpp",
+        "class": {
+          "chemical": [
+            "Substituted tryptamines"
+          ],
+          "psychoactive": [
+            "Psychedelic"
+          ]
+        },
+        "tolerance": null,
+        "roas": [
+          {
+            "name": "oral",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          },
+          {
+            "name": "sublingual",
+            "dose": {
+              "units": "mg",
+              "threshold": null,
+              "light": null,
+              "common": null,
+              "strong": null,
+              "heavy": null
+            },
+            "duration": {
+              "onset": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "comeup": {
+                "min": null,
+                "max": null,
+                "units": "minutes"
+              },
+              "peak": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "offset": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "total": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              },
+              "afterglow": {
+                "min": null,
+                "max": null,
+                "units": "hours"
+              }
+            },
+            "bioavailability": null
+          }
+        ],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
       },
       {
         "name": "Phenazepam",
@@ -33422,7 +33808,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MAOI"
@@ -33633,7 +34019,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MAOI"
@@ -33721,6 +34107,48 @@
         "crossTolerances": [
           "benzodiazepines"
         ],
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Tetrahydrocannabihexol",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Tetrahydrocannabihexol",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Tetrahydrocannabinolic acid",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Tetrahydrocannabinolic_acid",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
+        "uncertainInteractions": null,
+        "unsafeInteractions": null,
+        "dangerousInteractions": null
+      },
+      {
+        "name": "Tetrahydrocannabiphorol",
+        "commonNames": null,
+        "url": "https://psychonautwiki.org/wiki/Tetrahydrocannabiphorol",
+        "class": null,
+        "tolerance": null,
+        "roas": [],
+        "addictionPotential": null,
+        "toxicity": null,
+        "crossTolerances": null,
         "uncertainInteractions": null,
         "unsafeInteractions": null,
         "dangerousInteractions": null
@@ -34761,7 +35189,7 @@
             "name": "MAOI"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           },
           {
             "name": "MDMA"
@@ -35097,7 +35525,7 @@
             "name": "Tramadol"
           },
           {
-            "name": "Grapefruit"
+            "name": "Talk:Grapefruit"
           }
         ]
       },
