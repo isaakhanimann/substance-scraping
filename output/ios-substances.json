@@ -2048,13 +2048,33 @@
           },
           "duration": {
             "onset": {
-              "min": 0,
-              "max": 20,
+              "min": 1,
+              "max": 5,
               "units": "minutes"
+            },
+            "comeup": {
+              "min": 15,
+              "max": 30,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 60,
+              "max": 90,
+              "units": "minutes"
+            },
+            "offset": {
+              "min": 2,
+              "max": 3,
+              "units": "hours"
             },
             "total": {
               "min": 4,
-              "max": 7,
+              "max": 6,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 2,
+              "max": 4,
               "units": "hours"
             }
           }
@@ -8457,11 +8477,6 @@
               "min": 3,
               "max": 6,
               "units": "hours"
-            },
-            "afterglow": {
-              "min": 1.5,
-              "max": 4,
-              "units": "hours"
             }
           }
         },
@@ -9039,10 +9054,20 @@
               "max": 75,
               "units": "minutes"
             },
+            "comeup": {
+              "min": 1,
+              "max": 1.5,
+              "units": "hours"
+            },
             "peak": {
-              "min": 60,
-              "max": 90,
-              "units": "minutes"
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 1.5,
+              "max": 2.5,
+              "units": "hours"
             },
             "total": {
               "min": 8,
@@ -9163,6 +9188,155 @@
           },
           "bioavailability": {
             "max": 42
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bromazepam",
+      "commonNames": [
+        "Bromazepam",
+        "Brozam",
+        "Lectopam",
+        "Lexomil",
+        "Lexotan",
+        "Lexilium",
+        "Lexaurin",
+        "Brazepam",
+        "Rekotnil",
+        "Bromaze",
+        "Somalium",
+        "Lexatin",
+        "Calmepam",
+        "Zepam",
+        "Lexotanil"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Bromazepam",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [
+        "low toxicity",
+        "potentially lethal when mixed with depressants like alcohol or opioids"
+      ],
+      "categories": [
+        "benzodiazepine",
+        "habit-forming",
+        "depressant"
+      ],
+      "summary": "A benzodiazepine drug with a medium-long duration, developed by Roche in the 1960s. Has primarily anxiolytic properties. May cause lowered inhibitions and amnesia in high doses.",
+      "interactions": {
+        "dangerous": [
+          "Depressant",
+          "Dissociatives",
+          "Stimulants"
+        ],
+        "unsafe": [],
+        "uncertain": []
+      },
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 1.5,
+            "commonMin": 3,
+            "strongMin": 6,
+            "heavyMin": 12
+          },
+          "duration": {
+            "onset": {
+              "min": 14,
+              "max": 15,
+              "units": "minutes"
+            },
+            "comeup": {
+              "min": 15,
+              "max": 120,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 2,
+              "max": 12,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 30,
+              "max": 60,
+              "units": "minutes"
+            },
+            "total": {
+              "min": 6,
+              "max": 15,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 12,
+              "max": 22,
+              "units": "hours"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bromazolam",
+      "commonNames": [
+        "Bromazolam",
+        "XLI-268"
+      ],
+      "url": "https://psychonautwiki.org/wiki/Bromazolam",
+      "isApproved": false,
+      "crossTolerances": [],
+      "toxicities": [],
+      "categories": [
+        "depressant",
+        "benzodiazepine",
+        "research-chemical",
+        "tentative",
+        "habit-forming"
+      ],
+      "summary": "A rather novel Benzodiazepine that is structurally quite close to Alprazolam.",
+      "interactions": {
+        "dangerous": [
+          "Depressant",
+          "Dissociatives"
+        ],
+        "unsafe": [],
+        "uncertain": [
+          "Stimulants"
+        ]
+      },
+      "roas": [
+        {
+          "name": "oral",
+          "dose": {
+            "units": "mg",
+            "lightMin": 0.5,
+            "commonMin": 1,
+            "strongMin": 2,
+            "heavyMin": 4
+          },
+          "duration": {
+            "onset": {
+              "min": 15,
+              "max": 45,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 5,
+              "max": 8,
+              "units": "hours"
+            },
+            "total": {
+              "min": 6,
+              "max": 20,
+              "units": "hours"
+            },
+            "afterglow": {
+              "min": 1,
+              "max": 12,
+              "units": "hours"
+            }
           }
         }
       ]
@@ -11621,7 +11795,7 @@
           "5-MeO-xxT",
           "Substituted amphetamines",
           "Cocaine",
-          "Talk:Bupropion"
+          "Bupropion"
         ],
         "uncertain": [
           "Benzodiazepines",
@@ -15079,7 +15253,6 @@
       "crossTolerances": [
         "opioids"
       ],
-      "addictionPotential": "extremely addictive with a high potential for abuse",
       "toxicities": [],
       "categories": [
         "opioid",
@@ -16050,11 +16223,7 @@
       "url": "https://psychonautwiki.org/wiki/Ketamine",
       "isApproved": true,
       "tolerance": {
-        "full": "develops with prolonged and repeated use",
-        "half": "3 - 7 days",
-        "zero": "1 - 2 weeks",
-        "halfToleranceInHours": 120,
-        "zeroToleranceInHours": 252
+        "full": "develops with prolonged and repeated use"
       },
       "crossTolerances": [
         "dissociative"
@@ -17443,15 +17612,29 @@
               "max": 20,
               "units": "minutes"
             },
+            "comeup": {
+              "min": 20,
+              "max": 70,
+              "units": "minutes"
+            },
+            "peak": {
+              "min": 1,
+              "max": 2,
+              "units": "hours"
+            },
+            "offset": {
+              "min": 2,
+              "max": 3,
+              "units": "hours"
+            },
             "total": {
-              "min": 6,
-              "max": 10,
+              "min": 3,
+              "max": 6,
               "units": "hours"
             }
           },
           "bioavailability": {
-            "min": 15,
-            "max": 15
+            "min": 15
           }
         }
       ]
@@ -17613,8 +17796,8 @@
           },
           "duration": {
             "onset": {
-              "min": 15,
-              "max": 45,
+              "min": 5,
+              "max": 8,
               "units": "minutes"
             },
             "comeup": {
@@ -17623,7 +17806,7 @@
               "units": "minutes"
             },
             "peak": {
-              "min": 30,
+              "min": 45,
               "max": 60,
               "units": "minutes"
             },
@@ -17633,8 +17816,8 @@
               "units": "minutes"
             },
             "total": {
-              "min": 3,
-              "max": 6,
+              "min": 1.5,
+              "max": 3,
               "units": "hours"
             },
             "afterglow": {
@@ -17670,13 +17853,13 @@
               "units": "hours"
             },
             "offset": {
-              "min": 30,
+              "min": 45,
               "max": 90,
               "units": "minutes"
             },
             "total": {
-              "min": 4,
-              "max": 8,
+              "min": 3,
+              "max": 6,
               "units": "hours"
             },
             "afterglow": {
@@ -18610,6 +18793,13 @@
             "commonMin": 100,
             "strongMin": 200,
             "heavyMin": 300
+          },
+          "duration": {
+            "total": {
+              "min": 4,
+              "max": 6,
+              "units": "hours"
+            }
           }
         }
       ]
@@ -19182,8 +19372,8 @@
           "name": "insufflated",
           "dose": {
             "units": "mg",
-            "lightMin": 5,
-            "commonMin": 15,
+            "lightMin": 1,
+            "commonMin": 10,
             "strongMin": 30,
             "heavyMin": 60
           },
@@ -19231,28 +19421,28 @@
           },
           "duration": {
             "onset": {
-              "min": 20,
+              "min": 30,
               "max": 60,
               "units": "minutes"
             },
             "comeup": {
               "min": 20,
-              "max": 60,
+              "max": 45,
               "units": "minutes"
             },
             "peak": {
-              "min": 1.5,
-              "max": 2.5,
-              "units": "hours"
+              "min": 60,
+              "max": 90,
+              "units": "minutes"
             },
             "offset": {
-              "min": 1,
-              "max": 2,
-              "units": "hours"
+              "min": 45,
+              "max": 60,
+              "units": "minutes"
             },
             "total": {
-              "min": 4,
-              "max": 6,
+              "min": 2.5,
+              "max": 4,
               "units": "hours"
             },
             "afterglow": {
@@ -19812,9 +20002,7 @@
       ],
       "url": "https://psychonautwiki.org/wiki/Morphine",
       "isApproved": true,
-      "crossTolerances": [
-        "opioids"
-      ],
+      "crossTolerances": [],
       "toxicities": [],
       "categories": [
         "opioid",
@@ -19860,6 +20048,13 @@
       "roas": [
         {
           "name": "intravenous",
+          "dose": {
+            "units": "mg",
+            "lightMin": 3.33,
+            "commonMin": 5,
+            "strongMin": 7.5,
+            "heavyMin": 10
+          },
           "duration": {
             "onset": {
               "min": 0,
@@ -19872,18 +20067,18 @@
               "units": "minutes"
             },
             "peak": {
-              "min": 1,
-              "max": 2,
+              "min": 1.5,
+              "max": 2.5,
               "units": "hours"
             },
             "offset": {
-              "min": 30,
-              "max": 60,
+              "min": 60,
+              "max": 90,
               "units": "minutes"
             },
             "total": {
-              "min": 2,
-              "max": 3,
+              "min": 4,
+              "max": 5,
               "units": "hours"
             }
           }
@@ -19923,6 +20118,10 @@
               "max": 6,
               "units": "hours"
             }
+          },
+          "bioavailability": {
+            "min": 35,
+            "max": 40
           }
         }
       ]
@@ -21468,7 +21667,6 @@
       "crossTolerances": [
         "opioids"
       ],
-      "addictionPotential": "extremely addictive with a high potential for abuse",
       "toxicities": [
         "low toxicity",
         "potentially lethal when mixed with depressants like alcohol or benzodiazepines"
