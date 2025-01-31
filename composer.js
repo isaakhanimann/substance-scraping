@@ -122,7 +122,7 @@ function cleanupPsychonautWikiSubstances(psychonautWikiSubstances) {
                 }
             });
         }
-        substance.roas = substance.roas?.map(roa => cleanedUpRoa(roa)).filter(roa => roa != null) ?? []
+        substance.roas = substance.roas?.map(roa => cleanedUpRoa(roa)) ?? []
         if (substance.commonNames == null) {
             substance.commonNames = []
         }
@@ -172,13 +172,8 @@ function replaceInteractions(array) {
 }
 
 function cleanedUpRoa(roa) {
-    let duration = cleanupDuration(roa.duration)
-    roa.duration = duration
-    let dose = cleanupDose(roa.dose)
-    roa.dose = dose
-    if (duration == null && dose == null) {
-        return null
-    }
+    roa.duration = cleanupDuration(roa.duration)
+    roa.dose = cleanupDose(roa.dose)
     return roa
 }
 
@@ -208,7 +203,7 @@ function cleanupDose(dose) {
     let commonMin = dose?.common?.min ?? dose?.light?.max
     let strongMin = dose?.strong?.min ?? dose?.common?.max
     let heavyMin = dose?.heavy ?? dose?.strong?.max
-    if (dose?.units == null || dose?.units?.length === 0 || (lightMin == null && commonMin == null && strongMin == null && heavyMin == null)) {
+    if (dose?.units == null || dose?.units?.length === 0) {
         return null
     } else {
         let units = dose.units == "μg" ? "µg" : dose.units
